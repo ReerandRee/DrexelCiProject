@@ -11,7 +11,7 @@ export default async function handler(req, res) {
     orderBy: {
       population: 'desc',
     },
-    take: 25
+    // take: 25
   });
 
 
@@ -19,10 +19,10 @@ export default async function handler(req, res) {
   const citiesList = cities.map((city) => {
     return {
       value: city.city,
-      // label: city.city,
+      label: city.city
     }
   });
 
-  res.status(200).json(citiesList || []);
+  res.status(200).json(citiesList);
 
 }
