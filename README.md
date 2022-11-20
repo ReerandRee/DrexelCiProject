@@ -1,2 +1,0 @@
-# DrexelCiProject
-IndeedAPI Web Scraper
