@@ -5,7 +5,7 @@ from datetime import datetime
 # Initialize the ApifyClient with your API token
 client = ApifyClient("apify_api_R6A0sqF7uqr01hfDbAtwsMZaZou4D13Y3HbR")
 jobArray = ["Software Engineer","Computer Science", "Data Science"]
-cityArray = ["Philadelphia"]
+cityArray = ["Philadelphia", "New York City", ]
 # Prepare the actor input
 for job in jobArray:
         for city in cityArray:
