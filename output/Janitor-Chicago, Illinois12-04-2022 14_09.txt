@@ -1,0 +1,895 @@
+[{
+  "positionName": "Housekeeping Aide",
+  "salary": "$14 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Wheaton Village Nursing and Rehabilitation Center",
+  "location": "Wheaton, IL 60187",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=c13c83f386252cc4&fccid=15dd47dd418c817a&vjs=3",
+  "id": "c13c83f386252cc4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:33.766Z",
+  "description": "\n Wheaton Village Nursing & Rehabilitation Center provides a comprehensive spectrum of rehabilitative care, clinical and psychiatric services.\n  \n  \n  Housekeeping Aide position summary: ($14.00/hr with possible $15.00/hr with perfect attandance bonus) \n  The Housekeeping Aide insures that the center is maintained in a clean and sanitary condition at all times to provide for care and welfare of the customers in a healthful environment. In addition, he/she insures that good housekeeping services are performed in every department of the center and are planned in cooperation with the department head.\n  \n  \n  Responsibilities/Accountabilities: \n  \n  Follows specific cleaning and service instructions as outlined by the director of environmental services; \n  Follows cleaning procedures in a safe manner; \n  Gives an assigned unit the attention needed to provide a sanitary, odor free, orderly environment for all concerns; \n  Assists with room changes, as needed; \n  Puts Customer Service First: Ensures that customers and families receive the highest quality of service in a caring and compassionate atmosphere which recognizes the individuals’ needs and rights; \n  Performs other duties as requested.\n \n  \n  \n  Job Type: \n Full-time & Part- time\n  \n  \n  Specific Educational/Vocational Requirements: \n  \n  High school degree or equivalent is preferred. \n  Must be able to read, write and understand the English language.\n \n  \n  \n  Schedule: \n  \n  Day & Evening \n  Holidays \n  Weekend availability\n \n\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Now Hiring!!! PT Floor Technicians Needed!!!",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Illinois EVS",
+  "location": "Chicago, IL 60626",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=68756709f48cdbc3&fccid=11988f6f2dbe81bb&vjs=3",
+  "id": "68756709f48cdbc3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:34.065Z",
+  "description": "\n Next Level Hospitality Services takes the quality and service of Dietary & Housekeeping Departments in health care facilities to the next level. Here is a chance to advance your career with a cutting-edge company and industry leader. If you are looking for an exciting and challenging career opportunity in hospitality services for the healthcare industry, then Next Level Hospitality Services could be for you.\n  \n  \n FLOOR TECHNICIAN \n  Seeking a professional Floor Technician to attend to our facilities with integrity and attention to detail. \n  \n  Perform a variety of cleaning activities such as mopping, taking out trash, floor care and occasional housekeeping duties \n  Ability to work with little supervision and maintain a high level of performance \n  Ability to handle heavy machinery \n  Available to work every other weekend\n \n  \n  \n  Next Level Hospitality Services is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Night Custodian",
+  "salary": "$18.62 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Leyden School District 212",
+  "location": "Franklin Park, IL 60131",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Leyden-School-District-212/jobs/Night-Custodian-d8a2fbd96d95003b?fccid=141fa6157393df6b&vjs=3",
+  "id": "d8a2fbd96d95003b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:35.153Z",
+  "description": "Night Custodian\nApply Here: https://www.leyden212.org/domain/23?category=Maintenance%2FCustodial\nLOCATION OF JOB: East or West Leyden High Schools\nHOURS3:30 p.m. to 12:00 a.m.7:00 a.m. to 3:30 p.m. during spring, summer, and winter breaks.\nREPORTS TO: Foremen and Supervisor of Build ings and Grounds\nGENERAL FUNCTION: To provide students with a safe, attractive, comfortable, clean, and efficient place in which to learn, play, and develop.\nESSENTIAL FUNCTIONS: 1. Ability to speak in a clear and understandable manner and write legibly.2. Ability to lift in excess of 100 pounds.3. Ability to stand or walk for the entire workday.4. Ability to work at various heights.5. Ability to work in confined areas.6. Ability to be available for emergency situations.7. Ability to be aware of the security of the students, staff, and school property.8. Ability to meet daily attendance requirements.9. Ability to be available for overtime assignments.10. Must have a valid driver’s license.\nTASKS PERFORMED AND RESPONSIBILITIES ASSUMED: \n1. Assist maintenance as directed.2. Assist in snow removal.3. Participate in the general cleaning and maintenance of the school build ing as per custodian work schedule.4. Requisition and receive supplies and equipment from foremen and maintain necessary inventories.5. Assume responsibility for the general fire safety of the build ing.6. Perform emergency repair or cleaning services as necessary.7. Make such minor build ing repairs as one is capable.8. Report major repairs needed promptly to a foreman.9. Report immediately to a foreman any damage to school property.10. Remain on the school premises during school hours, and during non -school hours when the use of the build ing has been authorized and attendance is required by the foreman.11. Assume responsibility for the opening and closing of the build ing and for determining, before leaving, that all doors and windows are secured and lights, except those left on for safety reasons, are turned off.12. Comply with safety laws and procedu res for the storage and d isposal of refuse.13. Maintain all cleaning equipment which you are responsible for using.14. Perform duties as assigned by the foremen and/ or Supervisor of Build ings and Grounds.15. Hours are subject to change to meet the needs of the District.\nTERMS OF EMPLOYMENT: Twelve-month year. Salary and work year to be established by the Board of Education.\nJob Type: Full-time\nPay: $18.62 per hour\nBenefits:\n\n Flexible spending account\n Health insurance\n Paid time off\n Retirement plan\n\nSchedule:\n\n Monday to Friday\n\nAbility to commute/relocate:\n\n Franklin Park, IL 60131: Reliably commute or planning to relocate before starting work (Preferred)\n\nShift availability:\n\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeping",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Parkshore Estates Nursing & Rehabilitation Center",
+  "location": "Chicago, IL 60637",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=48ccffe5aaf31ed3&fccid=9e245a2deb4b9c11&vjs=3",
+  "id": "48ccffe5aaf31ed3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:36.060Z",
+  "description": "\n\n Under the direction of the Director of Housekeeping, this position is delegated the following essential functions: \n  \n  Cleaning resident rooms and other interior and exterior facility areas and assisting in maintaining a clean and attractive environment for the residents \n  Carrying out the assigned duties and responsibilities in accordance with current existing federal and state regulations and established company policies and procedures \n  \n Job Requirements \n  \n  Possess a high school diploma or sufficient knowledge and education to perform job functions \n  Understand and carry out oral and written directions \n  Is capable of setting work priorities and working independently in the absence of supervision \n  Must meet health assessment requirements, including two-stage Mantoux skin test \n  Must be able to communicate in English, both verbally and in writing, and possess sufficient communication skills to perform the tasks required \n  Must be capable of performing the essential functions of the job, with or without reasonable accommodations \n  \n Job Type: Full Time \n  Job Location: \n  \n  Springfield, TN \n  \n Required education: \n  \n  High school or equivalent \n  \n Required experience: \n  \n  Housekeeping: 1 year \n  \n Our company provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, our company complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "JANITOR (FULL-TIME)",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Eurest",
+  "location": "Chicago, IL 60666",
+  "rating": 3.6,
+  "reviewsCount": 2158,
+  "url": "https://www.indeed.com/rc/clk?jk=5e7b719b37a32b5f&fccid=faa81ef5b09b5471&vjs=3",
+  "id": "5e7b719b37a32b5f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:36.465Z",
+  "description": "\n \n  Eurest \n  \n  \n   We are hiring immediately for a JANITOR position.\n    Location: Delta Sky Club - 10000 Bessie Coleman Dr,, Chicago, IL 60666. Note: online applications accepted only.\n    Schedule: Full-Time; Open availability preferred.\n    Requirement: Previous experience a plus. \n    \n     Internal Employee Referral Bonus Available\n    \n    Starting Pay: $16.00 per hour\n  \n   \n  We Make Applying Easy! Want to apply to this job via text messaging? Text JOB to 75000 and search requisition ID number 1134007.\n   The advertised program is an AI recruiting assistant that helps you apply to jobs with Compass Group. Message frequency varies. Message and data rates may apply. Text STOP to opt out or HELP for help. Terms and conditions: http://olivia.paradox.ai/moSkg\n   \n  Diversity of thought and inclusion for all is what drives our success - we invite you to start your journey with us today!\n   \n  Eurest is recognized worldwide for standards of service and excellence within the foodservice industry. Embracing an ownership mindset, Eurest leverages global resources, promotes a local presence and enriches the communities we serve. The Eurest Promise, “connect with people, inspire through food, create solutions, and live our promise,” is exemplified throughout our organization. Eurest is proud to serve the world’s most respected successful corporations, including many of the Fortune 500.\n  \n   \n    \n      Job Summary\n    \n    \n       Summary: Keeps buildings clean and orderly. Performs heavy cleaning duties, including cleaning floors, shampooing rugs, washing walls and glass, and removing rubbish.   Essential Duties and Responsibilities: \n     \n      Collects and disposes of trash following approved procedures and infection control plans. \n      Dusts and damp mops floors following approved procedures. \n      Moves equipment and furniture for proper cleaning and place furniture back in correct placement. \n      Cleans assigned areas with the use of assigned materials and equipment. Sanitize all surfaces. Follows the eight-step cleaning procedure. \n      Washes walls, windows, furniture, baseboards and other items to maintain a clean, safe environment for patients, visitors and staff. \n      Seeks out areas requiring cleaning; takes initiative to complete the task. \n      Completes all tasks assigned by supervisor. \n      Performs tasks in accordance with all federal, state and county guidelines. \n      Strips, scrubs, buffs and refinishes floors; shampoos carpet. \n      Contributes to the team; exhibits professionalism with customers, fellow employees and others. \n      Performs other duties as assigned. \n     \n    \n   \n  \n  Associates at Eurest are offered many fantastic benefits.\n   Both full-time and part-time positions offer the following benefits to associates:\n  \n    Retirement Plan\n    Associate Shopping Program\n    Health and Wellness Programs\n    Discount Marketplace\n    Identity Theft Protection\n    Pet Insurance\n    Voluntary Benefits, including Critical Illness Insurance, Accident Insurance, Hospital Indemnity Insurance, Legal Services, and Choice Auto and Home Program\n  \n   In addition, full-time positions also offer the following benefits to associates:\n  \n    Medical\n    Dental\n    Vision\n    Life Insurance/AD\n    Disability Insurance\n    Commuter Benefits\n    Employee Assistance Program\n    Flexible Spending Accounts (FSAs)\n  \n  \n   About Compass Group: Achieving leadership in the foodservice industry\n   Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.\n   Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. *Los Angeles applicants: Compass Group will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box ordinance).\n   Req ID: 1134007\n   [[req_classification]]\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=5e7b719b37a32b5f&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiKueUT1UGEXb-AIaOh8bZaVAq81dAHm7GpE1MqdfeWCQ&vjfrom=serp&astse=e3971e627aa4db2d&assa=5929",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeping Assistant II",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Northwestern Medicine",
+  "location": "Palos Heights, IL 60463",
+  "rating": 3.9,
+  "reviewsCount": 1534,
+  "url": "https://www.indeed.com/rc/clk?jk=32d486b71e00e0fb&fccid=388ffa8e9601f976&vjs=3",
+  "id": "32d486b71e00e0fb",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:36.841Z",
+  "description": "\n\n The Housekeeping Assistant II - PH Housekeeping reflects the mission, vision, and values of NM, adheres to the organization's Code of Ethics and Corporate Compliance Program, and complies with all relevant policies, procedures, guidelines, and all other regulatory and accreditation standards.\n  Working under general supervision of an Environmental Services supervisor, the Housekeeping Assistant II performs a variety of cleaning and associated functions inside the hospital and performs related duties as assigned.\n  Responsibilities:\n \n   Vacuums carpeted surfaces and damp mops hard surface floors.\n   Cleans window sills, empties ash trays and waste baskets.\n   Arranges furniture in patient's rooms, baths, offices, waiting and other public areas as assigned.\n   Cleans bath tubs, sinks, mirrors, toilets and replaces supplies as required.\n   Strips unit upon discharge.\n   Terminally clean patient room and prepares room for admission. This includes the use of a Tent card and toilet seat strip.\n   Cleans blood and body fluids.\n   While generally assigned to a specific area, may be dispatched to other areas as needed.\n   Performs related duties as assigned.\n   Refinish floors, applying appropriate surface coatings.\n   Operates electrical and battery operated machines for scrubbing, shampooing and burnishing.\n   Moves furniture as directed and assists in freight moving.\n   Washes walls, blinds, lights and similar surface areas and hang cubicles and drapes.\n   Maintains and cleans equipment.\n   Upon completion, return equipment to assigned location (i.e. equipment storeroom or janitor's closets).\n   Keeps janitor's closet and storage area neat and orderly.\n   Performs all heavy duty mopping and cleaning.\n   Performs general and heavy cleaning duties in offices, patient rooms, clean and soiled utility rooms, laboratories, public areas and stairways, elevators such as washing floors, walls, furniture, beds, etc., with the appropriate hospital approved chemicals.\n   Uses ladders and scaffolds as necessary.\n   Cleans, washes, polishes and scrubs floors using electric scrubbing machine, wet vacuums and/or buffer.\n   Applies floor finish as directed.\n   Empties trash chutes and cleans waste containers.\n   Advises supervisor of unsanitary, unsafe or otherwise unsatisfactory conditions, and defective or damaged fixtures, furniture or equipment.\n   Collects trash and debris in rooms, halls and stairways.\n   Removes and compacts general waste and recycling materials. Upon completion of compacting, returns the blade to an in position\n   Properly disposes of Bio-Hazard waste.\n   Moves all heavy furniture and equipment.\n   Cleans rolling stock, furniture, hospital equipment and related items.\n   Strips, refinishes, and/or shampoos all types of floor surfaces and coverings.\n   Transports hospital property from area to area or building to building.\n   Properly utilize the Bed Tracking Program.\n   \n     Log into the computer at the start of the shift.\n     Upon commencement of the cleaning process, move the \"dirty bed\", \"clean next\", or a \"stat bed\" and move it to the \"In Progress\" category.\n     Once completed, move the bed into the \"Bed Ready\" category.\n     Log out at the end of the shift.\n   \n   Return all keys and pagers.\n   Overall knowledge of equipment and cleaning solutions is necessary as well as rigid adherence to established housekeeping standards, requires neatness of dress and grooming plus friendly, cooperative attitude toward others.\n \n  AA/EOE.\n  This position is full-time, 80 hours per pay period, evening shift, 3:00 p.m. to 11:30 p.m., with alternating weekends and holidays.\n  Qualifications\n  Required:\n \n   Sufficient to understand oral instructions.\n   Sufficient knowledge to gain overall knowledge of cleaning equipment, methods, and solutions.\n \n  Preferred: \n \n  High School diploma or GED equivalent.\n \n  Equal Opportunity\n  Northwestern Medicine is an affirmative action/equal opportunity employer and does not discriminate in hiring or employment on the basis of age, sex, race, color, religion, national origin, gender identity, veteran status, disability, sexual orientation or any other protected status.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=32d486b71e00e0fb&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjgzmgSb93Bblr5NwCNNaRLXAwdulcUk0atwlDdDDqlBQ&vjfrom=serp&astse=df5f934dc2e5a6cb&assa=6365",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Warehouse Cleaner",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "ABM Industries",
+  "location": "Lisle, IL 60532",
+  "rating": 3.2,
+  "reviewsCount": 10288,
+  "url": "https://www.indeed.com/rc/clk?jk=8ff8c8ef77c57da7&fccid=dcf22ae3c1cdd701&vjs=3",
+  "id": "8ff8c8ef77c57da7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:36.970Z",
+  "description": "\n\n The Cleaner position provides the cleaning and upkeep of an assigned area. \n \n \n  \n   \n    \n     s \n    \n   \n    \n  \n \n \n Schedule: 5:00 Pm to 3:30 am Wednesday - Saturday or Sunday - Wednesday or 11:00 pm - 7:30 am or Wednesday - Saturday 11:00P- 7:30A \n \n Warehouse Janitorial Cleaner \n HIRING IMMEDIATELY for full-time Warehouse Janitorial Cleaner, Janitor, Custodian at 15.25- 16.75 per hour. Interview today and offers on the spot! \n Benefits: \n \n  Competitive Pay \n  \n   Paid Time Off \n  \n  On-the-Job Training \n  Flexible Schedules \n  Team Building \n  Career Growth Opportunities \n \n \n  For Qualifying Team Members \n \n Why work for us? \n ABM is a leading provider of integrated facility solutions for some of the largest companies in the world. We have been in business for over 112 years, have over 100,000 employees and are constantly growing! Many ABM operations leaders and executives started their careers in these roles, as we take pride in promoting within and want to see you grow in your position! Your health, wellness, and job satisfaction are vital to the continued success of our clients. That’s why ABM delivers some of the best benefits in the industry including. \n Job Summary: \n ABM is looking for a Warehouse Janitorial Cleaner, Janitor, Custodian for a large distribution center in <City, State> for our globally recognized retail partner. Our distribution centers can be over 1 million square feet, so if you like to be constantly on the move, this role is perfect for you! The Warehouse Janitorial Cleaner provides the cleaning and upkeep of an assigned area and is crucial to the success of the entire operation. \n Job Responsibilities: \n \n  Clean assigned areas in a distribution or fulfillment center. \n  Cleaner must be flexible and willing to complete all assigned tasks. \n  Duties include cleaning and maintaining restrooms, breakrooms, carpets, and vacuuming, sweeping, and mopping floors hard surface floors. \n  Other normal cleaning and maintenance duties include, dusting furniture, pictures, ventilation, lights, and/or blinds, as well as emptying wastebaskets, cleaning windows and restrooms. \n  This role will require you to be constantly on the move for an 8–10-hour shift. \n  Bending required in cleaning high and low spaces in a distribution center or warehouse environment. \n  Must be flexible with other duties as assigned by supervisor. \n \n How We Protect Our Team Members \n The Company reviews CDC guidelines and complies with Federal, State, and local rules to keep our ABM Team Members safe. \n Apply Now \n \n  Search for jobs by title, skill, keyword, and location. \n  Gather your work history. \n  Click “Apply Now” to submit your application. \n  If you meet the qualifications of the job, someone from ABM will contact you. \n \n Interested in learning more about the position, but not ready to apply? \n \n \n  Record your email address, select your preferred job category and location, and record your first name, last name, email and/or telephone number. \n  Someone from ABM will contact you to discuss opportunities. \n \n All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. \n Same Posting Description for Internal and External Candidates\n\n \n\n\n ABM (NYSE: ABM) is a leading provider of facility solutions with revenues of approximately $6.4 billion and over 130,000 employees in 300+ offices deployed throughout the United States and various international locations. ABM’s comprehensive capabilities include electrical & lighting, energy solutions, facilities engineering, HVAC & mechanical, janitorial, landscape & turf, mission critical solutions and parking, provided through stand-alone or integrated solutions. Founded in 1909, ABM provides custom facility solutions in urban, suburban and rural areas to properties of all sizes — from schools and commercial buildings to hospitals, data centers, manufacturing plants and airports.\n  \n \n  \n \n  The Company may require that the successful candidate hired for this position be fully-vaccinated for COVID-19, if and to the extent permitted by applicable law. The Company will make exceptions for medical, sincerely held religious belief, or other legally required exceptions.\n   \n   \n  \n   \n  \n   ABM is an EOE/AA (M/F/Vet/Disability/Gender Identity/Sexual Orientation)\n  \n \n\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=8ff8c8ef77c57da7&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjojV_JtIsPhSYt1fnukThTXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=ca7d99e547418d7f&assa=5790",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Services Aide- Full Time Days",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Kindred Healthcare",
+  "location": "Chicago, IL 60618",
+  "rating": 3.3,
+  "reviewsCount": 5002,
+  "url": "https://www.indeed.com/rc/clk?jk=ee52910fc034cc0b&fccid=e83618db4f163bfd&vjs=3",
+  "id": "ee52910fc034cc0b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:48.353Z",
+  "description": "\n Description\n \n   What makes \n  Kindred Healthcare a great place to work? Our people, of course! Our \n  employees answer this special calling because they have a fundamental, internal drive to directly help people. In return, we serve, develop and respect our employees in environments created to optimize their \n  job effectiveness, experience, and satisfaction. \n  This is who we are.\n \n  \n  \n \n  Who are you? Our vision is to be the premier \n  healthcare company in the world, which we will achieve through trusted, innovative, and compassionate partnerships. We have \n  jobs available for approximately \n  38,000 employees in 45 states.\n \n  \n \n \n  At \n  Kindred Healthcare we provide care and support in the most appropriate \n  care setting for those recovering from illness or injury. Whether a patient receives care in our \n  hospitals or in one of our \n  rehabilitation facilities, our purpose is to ensure they recover to the fullest extent possible.\n \n  \n \n \n  As an \n  Environmental Services Aide you will:\n  \n \n  \n   \n    Select cleaning materials, load service caret and clean assigned areas.\n   \n  \n   \n     Clean equipment and notify manager of any necessary repairs.\n   \n  \n   \n     May collect hazardous waste and transport it in special closed container for sterilization.\n   \n  \n   \n     Collect or distribute linen, clean and soiled.\n   \n \n  \n  \n  \n Qualifications\n  \n  \n \n   As an \n  Environmental Services Aide you will have:\n \n \n  \n   \n     High School graduate .\n   \n  \n   \n     Two (2) years of hospital experience preferred.\n   \n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=ee52910fc034cc0b&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXi9chzL772Grn6Opu4nAflvXAwdulcUk0atwlDdDDqlBQ&vjfrom=serp&astse=faaa2f33040c4026&assa=8114",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Svc Attnd",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Sodexo",
+  "location": "Chicago, IL 60608",
+  "rating": 3.7,
+  "reviewsCount": 18440,
+  "url": "https://www.indeed.com/rc/clk?jk=51635c7de7933467&fccid=272c1d1b584def7a&vjs=3",
+  "id": "51635c7de7933467",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:49.069Z",
+  "description": "\n UNIT DESCRIPTION: \n \n   Covid-19 Vaccine Required\n \n \n   Hiring Now!\n \n \n   Sodexo @ Mt. Sinai Hospital\n \n \n   Full Time Environmental Service AttendantS\n \n \n   Day shift including rotating weekends and holiday\n \n \n   Benefits Offered Include:\n \n \n   Health, Dental, and Vision Insurance\n \n \n   Vacation and Sick Time\n \n \n   401K\n \n \n   Great Working Environment\n \n \n   Paid Training\n  Position Summary: \n \n   The Environmental Service Attendant may work in any location on client premises. This individual cleans and keeps in an orderly condition facilities or locations in the areas of commercial, health care, schools, universities, or other establishments. The general responsibilities of the position include those listed below, but Sodexo may identify other responsibilities of the position. These responsibilities may differ among accounts, depending on business necessities, client requirements and applicable industry standards.\n \n \n \n   General Responsibilities:\n \n \n   Cleans offices, patients’/residents’ rooms, dorms, classrooms, schools, common areas, lavatories, halls, food service areas and any other areas that may require attention.\n   Sweeps, mops, scrubs, polishes floors and vacuums hallways, stairs and office space.\n   May perform hard-surface floor scrubbing, stripping, and refinishing, as well as carpet spotting and extraction, which require the use of mechanical equipment.\n   May participate in the maintenance of wood floors, such as in gymnasiums or dance studios, to include cleaning, screening, stripping, sanding, and refinishing.\n   Cleans light fixtures, ceilings and vents, walls, mattresses, furniture, windows, and window coverings.\n   Will be required to use cleaning chemicals properly and safely per manufacturer and Sodexo standards.\n   Empties trash and garbage containers.\n   Replenishes supplies and materials.\n   May change sheets and replenish linens.\n   May perform routine equipment maintenance and make minor repairs.\n   May drive a golf cart or other vehicles.\n   Moves furniture and sets-up tables and chairs.\n   Notifies supervisor concerning any need for any maintenance repairs or additions observed.\n   Complies with all company safety and risk management policies and procedures.\n   Reports all accidents and injuries in a timely manner.\n   Participates in regular safety meetings, safety training and hazard assessments.\n   Applies all applicable OSHA and related local safety requirements to all assigned work.\n   Performs all work in accordance with established safety procedures.\n   Attends training programs (classroom and virtual) as designated.\n   May participate in snow and ice management duties, including the operation of snow removal equipment\n   May perform other duties and responsibilities as assigned.\n  Qualifications & Requirements: \n \n  Knowledge of proper and safe use of applicable custodial equipment.\n   Willingness to be open to learning and growing.\n   Appropriate maturity of judgment and behavior.\n   Maintains high standards for work areas and appearance.\n   Attends work and shows up for scheduled shift on time with satisfactory regularity in light of Sodexo time and attendance policy and/or client operating hours.\n   Ability to work a flexible schedule.\n   Must comply with any dress code requirements.\n \n \n   Experience/Knowledge:\n \n \n   High School diploma, GED or equivalent experience.\n   No previous experience required.\n \n \n   Skills/Aptitude:\n \n \n   Ability to learn and use established techniques for the efficient and compliant completion of duties.\n   Ability to present self in a highly professional manner to others and understands that honesty and ethics are essential.\n   Ability to maintain a positive attitude.\n   Ability to communicate with co-workers and other departments with professionalism and respect.\n   Ability to maintain a professional relationship with all coworkers, vendor representatives, supervisors, managers, customers, and client representatives.\n   Ability to provide clear directions and respond accordingly to employees.\n   Must have basic phone and computer skills (email, texting, etc.).\n   Good attention to detail.\n   Ability to work well under pressure.\n   Adequate/reasonable oral and written communication skills.\n   Ability to work well alone and in a team.\n   Ability to use all relevant electronic and communication devices.\n   Knowledge of and proficiency in all OSHA and local requirements related to all assigned work.\n   License/Qualifications:\n   Possess a valid driver’s license if required to drive a vehicle\n   Blood Borne Pathogen Training.\n \n \n   Physical Requirements:\n \n \n   Close vision, distance vision, peripheral vision, depth perception and the ability to adjust focus, with or without corrective lenses.\n   Significant walking or other means of mobility.\n   Ability to work in a standing position for long periods of time (up to 8 hours).\n   Ability to reach, bend, stoop, push and/or pull, and frequently lift up to 35 pounds and occasionally lift/move 40 pounds.\n \n \n   Working Conditions (may add additional conditions specific to defined work location):\n \n \n   Generally in an indoor setting; however, may participate in outside activities and events.\n   Varying schedule to include evenings, holidays, weekends and extended hours as business dictates.\n   The noise level in the work environment is usually moderate to loud.\n   Wears protective clothing and/or Personal Protective Equipment required by the work environment or governmental regulations.\n   Will be exposed to various cleaning chemicals.\n \n \n   Sodexo is an EEO/AA/Minority/Female/Disability/Veteran employer.\n \n  \n  Benefits Eligibility: Full Time Benefits: At Sodexo, we believe every employee should have the resources to be their best. As part of our overall rewards, we offer benefits programs designed to help you maintain a healthy lifestyle including health, dental and vision insurance. Eligible employees can enroll in their benefits, which will be effective beginning on their first day with Sodexo. We also offer other benefits like paid time off, financial and savings programs and access to our employee assistance program and other discounts (eligibility varies by unit and may not be available to all employees).\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=51635c7de7933467&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXitYy-I4XshXIJe-4OU40utXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=2fe9a96b34cf9f84&assa=8347",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Custodian",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "The Moody Bible Institute of Chicago",
+  "location": "Chicago, IL 60610",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=72e3b4178b3b267b&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "72e3b4178b3b267b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:49.251Z",
+  "description": "\n\n The custodian position is responsible for the cleaning of assigned areas \n  Essential Functions \n  Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the position. \n  \n  Cleans bathrooms. \n  Vacuums and cleans spots of carpets. \n  Sweeps and mops floors. \n  Disposes of trash. \n  Cleans walls, windows, and surfaces. \n  Maintains stock in assigned areas \n  Changes light bulbs. \n  Conforms to all safety rules and uses all appropriate safety equipment. \n  Performs other duties as assigned. \n  \n Minimum Requirements \n  \n  High School Diploma \n  Some Cleaning experience \n  Authorized to work in the US Legally without Sponsorship \n  \n Preferred Requirements \n  \n  Experience with custodial equipment preferred. \n  \n Work Environment/Conditions \n  Moody Bible Institute is a Christian-based Higher Education and Media Ministry. We exist to equip people with the Truth of God’s Word. If you are mission-minded, and have a servant’s heart, join us as we look to further impact the Kingdom of God. \n  This job operates throughout all areas of the campus. The employee cleans in bathrooms, offices, classrooms, hallways, stairwells, and other spaces. The specific areas of work are assigned by the custodial supervisor. \n  While performing the duties of this job, the employee uses basic custodial equipment, such as mops, buckets, spray bottles, paper wipers, sponges, and toilet bowl brushes. This role also operates machines, such as carpet extractors, floor machines, wet vacs, and other specialized cleaning equipment. \n  The employee is required to walk the majority of the workday, including stairs. Tasks also necessitate bending, twisting, stooping, crouching, kneeling, reaching, and climbing (i.e. ladders). The employee must be able to lift up to 25 pounds, and push or pull gondolas, carts, and equipment ranging from light to heavy weight. \n  The employee is always reachable while working, either by use of a radio, cell phone, or other device. \n  This is a full time position: Monday-Friday 7am-3:30pm. \n  The employee is expected to be available to work overtime for some yearly events. \n  Very minimal local travel is expected for this position. \n  Additional Information \n  Moody Bible Institute is a Christ-centered, multicultural community that values and seeks faculty and staff who are committed to diversity, work effectively with diverse populations, and engage others in ways that honor our rich cultural mosaic and biblical foundation. Candidates must align with MBI’s Christian identity. Employees are expected to sign a Statement of Faith and adhere to the Community Standards. \n  We comply with all applicable laws pertaining to nondiscrimination on the basis of race, color, national origin, sex, age, disability, and any other applicable legally protected category. As a religious institution, we have the right to, and do, require that employees hold beliefs consistent with our Doctrinal Statement and conduct themselves in a manner consistent with our religious beliefs, as explained in our Community Standards. \n  To review you fairly, please remove birthdates and graduation dates from your resume.\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=72e3b4178b3b267b&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXggNv9YG4BZSOOjWWDro5U0XAwdulcUk0atwlDdDDqlBQ&vjfrom=serp&astse=8ae34079af3d67d4&assa=8920",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor - Health Care 3rd Shift",
+  "salary": "$19.30 an hour",
+  "jobType": null,
+  "company": "Alliance Property Management Group Inc",
+  "location": "Chicago, IL 60612",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=e2bf8cc48962c285&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "e2bf8cc48962c285",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:49.575Z",
+  "description": "\n About Us:\n  EBM Inc, Alliance Maintenance Services, and EBM Management Consulting is a family of companies that believes in bringing family values to work. Not only are our companies family-owned, but we are also women owned and operated since day one. We bring a special touch to all of our clients in the managed services, Staffing, and Direct Hire markets. We believe that our greatest asset has been and will continue to be our employees and the candidates we help find their next great role. We have been in business for over 50 years and look forward to helping those in our communities to find their careers with us.\n  POSITION DETAILS:\n  Schedule: Monday - Friday with Rotating Weekends\n  Hours: 11PM-7AM\n  Hourly Rate: $19.30\n  POSITION SUMMARY: \n Under direct supervision, performs routine cleaning and maintenance duties in an assigned area within the hospital or health care setting to ensure the health, safety, and environmental standard for everyone within the facility. This position will regularly engage in cleaning and disinfecting as assigned by the client which will include but not be limited to mopping, sweeping, dusting, laundry, and other cleaning related duties in both patient occupied and unoccupied areas.\n \n  DUTIES & FUNCTIONS:\n  The following reflects managements definition of essential functions for this job but does not restrict the tasks that may be assigned. Management may assign or reassign duties and responsibilities to this job at any time.\n \n   Sweeps, vacuums, mops or scrubs, and polishes floors\n   Dusts equipment, furniture, and/or fixtures, etc.\n   Spot washes walls, beds, cabinets, and windowsills\n   Room changeovers from on patient to another.\n   Disinfection of rooms both private and public.\n   Properly maintains housekeeping carts and automatic equipment\n   Keeps areas stocked with adequate amounts of supplies such as soap, toilet paper, paper towels, etc.\n   May be required to strip beds of linen and remake bed to established standards\n   May be required to remove trash, clean waste receptacles, compactors and patient discharge units, spot washes walls horizontal and vertical services\n   Clean glass in doors and glass partitions; cleans and polishes stainless steel cabinets, kick plates and doorknobs, clean and sanitize elevators\n   Performs other duties as assigned by manager\n \n  QUALIFICATIONS & EDUCATION:\n \n   Any combination of education, training, or experience that provides the required knowledge, skills, and abilities to perform the essential functions\n   High School diploma or equivalent required\n   Complete CCHHS drug and medical testing required by Cook County\n   COVID -19 vaccination record card with booster\n   At least 1 year of previous janitorial experience preferred\n   Willing to undergo a background check\n   Commitment to excellence and high standards\n   Ability to manage priorities and workflow\n   Versatility, flexibility, and a willingness to work within constantly changing priorities with enthusiasm\n   Proven ability to handle multiple projects and meet deadlines\n   Ability to deal effectively with a diversity of individuals at all organizational levels\n   Ability to understand and follow written and verbal instructions.\n   Ability to understand all safety requirements and cautions\n   Ability to perform the physical labor necessary\n \n  To be qualified for employment in this facility, candidates and employees must comply with the vaccination requirement or receive an approved exemption.\n \n  EOE STATEMENT:\n  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Commercial Housekeeper, Hinsdale",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "SourceOne Cleaning",
+  "location": "Hinsdale, IL 60521",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Source/jobs/Commercial-Housekeeper-7fa310c396272615?fccid=313ce62e7f03c5b5&vjs=3",
+  "id": "7fa310c396272615",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:51.547Z",
+  "description": "Looking for qualified applicants for evening office cleaning in Hinsdale. Shifts are 5 days per week after 6pm, Mon-Fri evenings. Approx 3 hrs/night.\nPay is $15/hour.\nResponsibilities include sweeping, mopping, dusting, cleaning bathrooms, trash removal, etc.\nPlease respond with locations your interested in and town you live in.\nJob Type: Part-time\nPay: $15.00 per hour\nSchedule:\n\n Night shift\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Custodial Experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Svcs Tech I",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Advocate Aurora Health",
+  "location": "Oak Lawn, IL 60453",
+  "rating": 3.6,
+  "reviewsCount": 2020,
+  "url": "https://www.indeed.com/rc/clk?jk=48aec33a2d8f4522&fccid=e676e89a7895f46c&vjs=3",
+  "id": "48aec33a2d8f4522",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:53.859Z",
+  "description": "Major Responsibilities:\n Clean/disinfects assigned area(s) by washing walls, doors, door frames, ceilings, patient televisions, windows, furniture, tile, fixtures, appliances, floors, and equipment with appropriate cleaning solutions using procedures and following schedules specific to each item. Assigned area(s) may include, but are not limited to, patient rooms, offices, meeting rooms, rest rooms, elevators stairwells and other areas of the hospital and/or off-site facilities. \n1)Operates various equipment following department procedures. \n2)Use chemicals and solution following department policy. \n3)Keeps work areas in orderly, clean and safe condition. \nCustomer Satisfaction-Demonstrates a commitment to satisfying customer needs and exceeding customer expectations. \n1)Utilized AIDET with both Internal Customer and External Customers, meeting system goal. \n2)Demonstrates ability to identify and resolve interpersonal conflicts constructively when dealing with fellow associates. \n3)Demonstrates a positive, supportive attitude to patient families and other personnel in emergency and non-emergency situation. \n4)Displays patient and tact when dealing with other hospital personnel. \n5)Presents department in a positive manner to all contacts. \n6)Maintains courteous and pleasant attitude to patients, families and other contacts. \n7)Maintains confidential patient and departmental information. \n8)Utilizes appropriate chain of command in resolving complaints, grievances or problems. \nUse appropriate procedures following patient discharges. \n1)Thoroughly washes and sanitizes beds when patients are discharged; makes beds with clean linen in accordance with department procedures. \n2)Thoroughly cleans and sanitizes entire room and washroom when patients are discharged, utilizing established department procedures. \n3)Use appropriate germicide in disinfecting rooms. \nSelect cleaning materials and supplies appropriate to the job and transports them to work area. \n1)Clean all assigned areas utilizing the established department procedures. \n2)Clean all assigned areas utilizing the established department procedures. \n3)Replenishes supplies such as paper towels, toilet tissues, soap, etc.; pick up additional supplies from the environmental services storeroom when needed. \n4)Routinely collects waste;sanitizes all garbage cans. \n5)Observes and follows Standard (Universal)Precautions, Infection Control Policies, and departmental policies and procedures. \n6)Clean or sanitize after emergency spills as requested. \n7)Place full, tied bags of soiled linen in linen chutes. \n8)Ensures a safe clean attractive environment for patient, visitors and associates at all times. \n9)Washes hand thoroughly throughout the day; follows and adheres to Hospital handwash policy. \nPrepares detergents, germicidal solutions and other cleaning/disinfecting solutions according to established formulas. Sweeps, dust mops, and wet mop floor areas and spot cleans carpets using appropriate solutions. Shampoos furniture, carpets and rugs using appropriate equipment and supplies and adhering to applicable schedules. \n1)Identifies types of soiled and/or spotting and utilizes proper solutions as outlined in departmental policies and procedures. \n2)Handles chemicals and solutions following departmental policies. \n3)Ensures that all chemicals and solutions are in properly labeled containers. \n4)Adheres to safety regulations as outlined in departmental policy and procedure. \nMove equipment and furniture for cleaning, rearrangement and/or relocation. Arrange furniture and equipment in an orderly fashion, and in accordance with applicable floor plans, after cleaning assigned area(s). \n1)Arrange furniture for meetings, workshops and community affairs according to specifications of responsible department/individual as required. \n2)Cleans equipment and notifies supervisor of equipment needing repair. \n3)Appropriately reports safety hazards. \n4)Returns unused supplies to closet where obtained, cleans carts and equipment and ensures all items are replaced in an orderly manner. \nCollects and/or distributes soiled and/or clean linens, as required. Collects trash and/or waste from all areas of the hospital, as required. \n1)Collects hazardous and medical waste according to procedures establish by the Infection Control Committee. Sanitizes all garbage/waste disposal containers. \n2)Separates regular and recycle trash according to procedure. \n\nDemonstrates commitment to professional growth and competence: \n1)Attends all mandatory departmental and hospital meetings and inservices. \n2)Completes annual CBT's required. \n3)Follows written department goals and objectives, and review annually with managers. \n4)Seeks education and learning experiences in areas of identified growth needs and review progress during annual evaluation. \nMaintains responsibility for attendance and punctuality Maintain proper attendance requirement outlined in the Hospital Policy and Procedure Manual. \n1)Maintains proper attendance requirement outlined in the Hospital Policy and Procedure Manual. \n2)Plans for special days off in advance and submits written requests for time off to department management for approval per departmental guidelines. \n3)Requests PTO time in accordance with departmental policy. \n4)Provide adequate notice to department management absence, and in accordance to departmental policy calls two hour before the beginning of shift. \n\n \nEducation/Experience Required:\n High School Diploma/GED or equivalent work experience Basic computer skills preferred \n\n \nKnowledge, Skills & Abilities Required:\n Able to operate small electrical equipment e.g., vacuum cleaners Excellent customer service skills Ability to communicate effectively in English as related to the performance of the essential job activities outlined (including reading and comprehending chemical labels and other safety materials) \nN/A \n\n \nPhysicial Requirements and Working Conditions:\n Job responsibilities involve walking, standing, bending, climbing and lifting throughout the work day. \nAbility to lift up to 35 pounds without assistance. For lifts over 35 pounds, lifting equipment is expected to be used or lift with at least one other associate when available. Unique lifting/movement situations will be assessed on a case by case basis. \n\n This job description indicates the general nature and level of work expected of the incumbent. It is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the incumbent. Incumbent may be required to perform other related duties.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=48aec33a2d8f4522&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiHGsIkdwg3PLdr-3_xhtx4MIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=b1277b5996c3d946&assa=806",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Afternoon to Evening Custodian",
+  "salary": "From $17 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Park Ridge Presbyterian Church",
+  "location": "Park Ridge, IL 60068",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Park-Ridge-Presbyterian-Church/jobs/Afternoon-Evening-Custodian-994bdf88e58e36d7?fccid=4cf77b2997f55c1a&vjs=3",
+  "id": "994bdf88e58e36d7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:55.372Z",
+  "description": "Afternoon to Evening Custodian\nPark Ridge Presbyterian Church (PRPC) located in Park Ridge, Illinois is looking to add a custodian to our staff who will start in the early afternoon and work for 8 hours in a full time position. As part of the custodian’s responsibilities, this person supports a preschool that is active within the church building.\nJob Summary:\nThe Evening Custodian works typically from 1:00pm to 9:00pm Monday through Friday. The work includes cleaning, housekeeping, and grounds-keeping of the church facilities and grounds. Hours can be flexible, as well as days of the week worked. There may be occasional overtime.\nEssential Functions:\n\n Housekeeping duties\n Monitor and support room set-up and breakdown\n Maintain organization of storage areas\n Check security of building daily\n Wash windows, as needed\n Operate various equipment: snow-removal, vacuum cleaner, and carpet cleaner, etc.\n Assist with outside landscaping work\n Perform other job-related duties as assigned\n\nCore Skills and Qualifications: \n\n Knowledge and skill in safe use of cleaning equipment\n Experience in housekeeping duties\n Strong work ethic\n Ability to work in a team-oriented environment\n Ability to lift up to 40 lbs\n\nTerms of Employment: \n\n Position hours are normally Monday-Friday, approximately 1:00 pm to 9:00 pm (up to 40 hours a week)\n Compensation is commensurate with experience\n This is an hourly position\n Overtime pay is available\n The afternoon to evening custodian is accountable directly to the lead custodian.\n\nJob Type: Full-time\nPay: From $17.00 per hour\nPhysical setting:\n\n Office\n Private school\n Religious school\n School\n\nSchedule:\n\n Monday to Friday\n\nAbility to commute/relocate:\n\n Park Ridge, IL 60068: Reliably commute or planning to relocate before starting work (Required)\n\nShift availability:\n\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Svc Asst II",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "St. Catherine Hospital",
+  "location": "East Chicago, IN 46312",
+  "rating": 4.1,
+  "reviewsCount": 120,
+  "url": "https://www.indeed.com/rc/clk?jk=af3e82ebeb3b7107&fccid=6f3de4da05be0b6f&vjs=3",
+  "id": "af3e82ebeb3b7107",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:56.534Z",
+  "description": "Under the direction of the Environmental Services Director, the environmental services aide services the facility to assist in providing a clean, attractive, safe environment for patients, visitors and hospital staff. Experience/Education: High School Diploma or equivalent preferred. No experience required, able to read written instructions and comprehend verbal instructions given in English.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=af3e82ebeb3b7107&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhf9Rnyxsx2eQoQRHMevLCiXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=ecff15adfe3cad99&assa=5150",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "On-Site Janitorial",
+  "salary": "$16 - $18 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Outer Banks Capital, Inc.",
+  "location": "Chicago, IL 60616",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=892cd3e724d9de41&fccid=db95bf260096c591&vjs=3",
+  "id": "892cd3e724d9de41",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:57.443Z",
+  "description": "\n Westward360 is seeking a full-time Janitor to handle cleaning and minor repairs of a condominium building. The Janitor will be responsible for maintaining the overall cleanliness of the community, performing light maintenance duties and promoting resident satisfaction. The Janitor must work closely and in coordination with Westward360 staff to ensure the properties are in excellent condition.  As a Janitor you will …\n \n   Maintain the front lobby including:\n \n \n   Pick up trash/junk mail/rubber bands in foyer/mail room\n   Wipe down mailboxes and intercom system.\n   Clean foyer glass, inside and out.\n   Sweep and mop tile floor\n   Vacuum mats and carpet\n   Clean doors and door frames\n \n \n   Maintain Elevator including:\n \n \n   Polish elevator doors\n   Clean out elevator threshold\n   Polish elevator interior\n   Check and replace (if needed) elevator lights.\n \n \n   Walk perimeter of building and pick up trash on ground and in planters.\n   Patrol garage and pick up debris.\n   Replace can trash liners as needed\n   Patrol interior and exterior common areas for burned out lights and replace as needed.\n   Check trash chute and make sure it is free and clear of blockage.\n   Rotate dumpsters as needed.\n   Pick-up, sweep and organize dumpster area.\n   Dumpster area: report bulk items to property manager.\n   Report observed issues to property manager.\n   Weekly cleaning of the following:\n \n \n   Vacuum common area carpets and mats\n   Dust interior and exterior light fixtures\n   Remove cobwebs from corners and ceiling\n   Check all entry/exit doors for secure operation.\n \n \n   Monthly cleaning: of Stairwells, baseboards, extinguishers.\n   Spot cleaning walls\n   Electrical room cleaning\n   Cleaning of common doors and door frames\n   Sweep/mop storage room floor\n   Inspect drains around property, roof clear of debris, report any issues to management.\n   Adjust thermostats at request of board/management\n   Adjust common area light timers\n   Check emergency lights/exit signs/smoke detectors\n \n  Qualifications:\n \n   3+ years of cleaning experience\n   Excellent communication skills and a general aptitude for property management.\n \n  Compensation and Benefits:\n \n   Salary Range: $16-$18 per hour depending on experience\n   Health, dental, and vision benefits goes live the first of the month after 30 days of employment.\n   401(k) with up to 4% match after 60 days of employment.\n   Short-term and long-term disability at no cost to the employee.\n \n  Hours:\n \n   40-hour work week\n \n \n  EOE STATEMENT:\n  We are an Equal Employment Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, protected veteran status, or any other characteristic protected by law. We celebrate and support diversity. Thank you for your interest in joining our Team. We are looking forward to receiving your resume.\n  *Disability Notice: Disclosure is divulging or giving out personal information about a disability. It is important for the employee to provide information about the nature of the disability, the limitations involved, and how the disability affects the ability to learn and /or perform the job effectively. The employer has a right to know if a disability is involved when an employee asks for accommodations. Deciding if, when, and how to share disability-related information with a prospective or current employer can be overwhelming but we ask to please request a required accommodation prior to your first date of work. *Please note, a doctor's note may be requested by Human Resources, depending on the accommodation being requested, on a case-by-case basis.\n  \n XfMhmLJkXT\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeping Associate - (2:00 PM - 10:30 PM)",
+  "salary": null,
+  "jobType": null,
+  "company": "Midtown Athletic Club",
+  "location": "Chicago, IL 60647",
+  "rating": 3.8,
+  "reviewsCount": 102,
+  "url": "https://www.indeed.com/rc/clk?jk=34f0743901f33b75&fccid=977f56cf9fca9781&vjs=3",
+  "id": "34f0743901f33b75",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:58.268Z",
+  "description": "\n \n  Midtown is looking for a Housekeeping Associate to join our world-class team.\n \n \n   The Position\n   As an integral part of the facilities team, our Housekeeping Associates provide a safe, clean and functional environment for members and guests by:\n \n \n   Being constantly aware of club environment and ensuring it is exceptionally clean, organized and comfortable\n   Delighting our members by being approachable, friendly and attentive\n \n \n   Our Housekeeping Associates:\n \n \n   Have a positive can-do attitude\n   Are reliable and show up to work on time\n   Pay attention to details\n   Take pride in themselves and their work\n   Enjoy making others feel comfortable by their surroundings\n \n \n \n   This job description is intended to describe the general requirements for the position. It is not a complete statement of duties, responsibilities or requirements. Other duties not listed here may be assigned as necessary to ensure the proper operations of the department.\n \n \n \n   MIDTOWN is an Equal Opportunity Employer.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=34f0743901f33b75&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiPmZuSYZK4fSJ4Orxn_TvPpsjbKTpre7P5gvPU7rdPPQ&vjfrom=serp&astse=fa5505471356b9a9&assa=8101",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Custodian / Janitor - Sports Facility (Weekdays)",
+  "salary": "$1,300 a month",
+  "jobType": [
+    "Part-time",
+    "Contract"
+  ],
+  "company": "Superior Cleaning Industries LLC",
+  "location": "Chicago, IL 60608",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Superior-Cleaning-Industries-LLC/jobs/Custodian-ade6b3882c590805?fccid=774153b6f4db9a43&vjs=3",
+  "id": "ade6b3882c590805",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:59.205Z",
+  "description": "Superior Cleaning Industries LLC is looking for a PART-TIME Custodian / Janitor to service an Soccer Facility/Warehouse type of environment in the Chicago, IL 60608 area.\n\n Duties include:  - Sweeping of common areas - Garbage disposal - Cleaning of Bathroom & surfacess - Vacuuming common areas - Mopping\n\nSchedule:  Monday thru Thursday\nTime window: 9am to 2pm (20 hours per week)\nPay: $1300/month ($650 paid Bi-weekly)\nKeywords: Part-time, Morning shift, Chicago, IL, 60608, Pilsen, Southside\nJob Types: Part-time, Contract\nPay: $1,300.00 per month\nPhysical setting:\n\n Warehouse\n\nSchedule:\n\n Day shift\n Morning shift\n No nights\n No weekends\n\nApplication Question(s):\n\n *REQUIRED: Do you have your own vehicle?\n\nLicense/Certification:\n\n Driver's License (Required)\n\nShift availability:\n\n Day Shift (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Parker Cromwell & Associates",
+  "location": "Broadview, IL 60155",
+  "rating": 3.3,
+  "reviewsCount": 7,
+  "url": "https://www.indeed.com/company/Parker-Cromwell-&-Associates/jobs/Janitor-143dba4dc12bcb9b?fccid=5ffa0903ec158a43&vjs=3",
+  "id": "143dba4dc12bcb9b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:10:59.441Z",
+  "description": "Serious Inquiries Only!!\nLooking for people who are able to start immediately!\nJob description\nThe janitor performs functions directed towards successfully and efficiently meeting quality goals for customer orders by maintaining a clean facility within office areas, common rest areas, warehouse, outside grounds, and by performing other duties as assigned.\nSchedule: Monday - Thursday 6 a.m. - 4 p.m. and Friday 6:30 a.m. - 10:30 a.m.\nPay Rate: $16/hr.\nTemp to Hire!!\nDuties & Responsibilities\n\n Must understand and follow instructions on warning labels on products, and/or their MSDS sheets.\n Must follow instructions on proper procedure and amounts for diluting of chemicals used.\n All offices – Vacuum daily, dust office desks routinely, and empty trash daily\n Plant Manager’s Office – All of the above including the following: dust desks and windows daily.\n Lab & R&D – Empty trash cans and mop daily.\n Warehouse – Floor – swept and mopped using floor scrubber daily and under pallets to be swept daily.\n Racks – wiped down with wet rag, mild soap, and hot water continually Cobwebs – should be removed using a dust mop continually.\n Lunchroom – clean refrigerator weekly, clean tables daily, mop floor daily, wipe down vending machine with non-abrasive sponge and mild soap daily, mop floor daily, wipe down vending machines with non-abrasive sponge and mild soap daily and empty trash cans daily or as needed. Wipe out microwaves. Clean doors and windows.\n Restrooms – Floor swept and mopped daily, trash dumped daily or as needed, mirrors cleaned, bowls need to be washed with a brush and cleaner daily.\n Locker Room – Floor swept and mopped daily, shoes, hangers, hairnets and trash need to be picked off floor daily, dust top of lockers weekly and scrub shower routinely.\n Trash – trash cans should be dumped when full and trash should never be left inside the building overnight.\n\nSAFETY & GMP OBJECTIVES\n\n Maintain a safe and clean work environment by educating and directing personnel on the use of all equipment and resources; maintaining compliance with established policies and procedures.\n Comply with all company safety policies and procedures as well as complying with all OSHA rules and regulations (THINK “SAFETY FIRST”).\n Ability to recognize unsafe acts and conditions in the facility and implement appropriate corrective actions.\n Ability to fully complete appropriate paperwork related to specific job functions in addition to quality and safety/training.\n Complete all annual trainings.\n Ability to recognize and report all incidents; even those that do not warrant treatment.\n Review and execute our Food Safety Plan and MFP Mission Statement in order to provide value to each of our customers with safe, relevant, tasty food products; while never compromising quality.\n Adhere to good manufacturing practices (GMP’s) including proper waste disposal, attire, grooming and hygiene, etc.\n Wear proper protective gear at all time.\n\nSkills and Specifications\n\n Ability to interact effectively with various levels of professionals in the organization.\n Excellent verbal, interpersonal and written communication skills.\n Ability to guide, teach and communicate with others.\n Good mechanical skills.\n\nAlso..\nMust be able to attend work as scheduled\nMust be able to read and write in English\nMust be able to perform basic math problems\nMust be able to perform the jobs of his team members\nMust be able to lift up to 55 lbs.\nMust be able to follow verbal and written instructions\nMust be able to interact with others in a professional manner\nMust be able to enter and exit confined spaces as needed\nNewly Weds Foods is an Equal Opportunity Employer Minorities/Veterans/Females/Disabled Newly Weds Foods will only employ those who are legally authorized to work in the United States without assistance or support from Newly Weds Foods. Any offer of employment is conditional upon the successful completion of a background investigation and drug screen\nJob Type: Full-time\nPay: $16.00 per hour\nPhysical setting:\n\n Warehouse\n\nSchedule:\n\n 10 hour shift\n Day shift\n\nAbility to commute/relocate:\n\n Broadview, IL: Reliably commute or planning to relocate before starting work (Preferred)\n\nShift availability:\n\n Day Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Porter / Janitorial",
+  "salary": "$13 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Crunch (Harman) - Inc.",
+  "location": "Mount Prospect, IL 60056",
+  "rating": 3.2,
+  "reviewsCount": 1078,
+  "url": "https://www.indeed.com/rc/clk?jk=f85b13b64645705f&fccid=002848d563102cd5&vjs=3",
+  "id": "f85b13b64645705f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:01.160Z",
+  "description": "\n Are you looking to combine work, fitness and fun?\n Are you looking for an opportunity to lead and inspire people?\n Are you energetic, and enthusiastic?\n Are you looking for growth opportunities and advancement?\n  \n  \n Then you should come join our team!\n  \n  Reports to:\n \n   Assistant General Manager\n \n  Requirements:\n  \n  Fluent in English \n  Proficient reading and writing skills \n \n Responsibilities:\n  \n  Maintain cleanliness and organization on the interior of the club \n  Maintain cleanliness on the immediate exterior of the club \n  Assist with service to the members and guests, when required \n  Daily completion of any itemized checklist of cleaning responsibilities as set forth by the general manager \n  Maintain friendly and helpful attitude to all club staff, members and guests\n \n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Volunteers Of America Of Illinois",
+  "location": "Chicago, IL 60621",
+  "rating": 3.4,
+  "reviewsCount": 2743,
+  "url": "https://www.indeed.com/rc/clk?jk=cded31cad987e5ec&fccid=67cca9174f7f99ec&vjs=3",
+  "id": "cded31cad987e5ec",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:01.367Z",
+  "description": "Summary of Position: Under the immediate supervision of the Property Manager, the Janitor is responsible for performing cleaning services such as dusting, sweeping, using appropriate equipment and chemicals.Position Type:  This position is nonexempt and reports to the Property Manager.Essential Functions: To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The functions listed below are representative of the knowledge, skills and/or ability required for the position. Reasonable accommodations may be made to individuals with disabilities to perform the essential functions of this position.\n\n Keeping the premises/property clean and in order; employing reasonable diligence in the removal of snow to afford ready access into and past the buildings and offices belonging to the premises.\n Works with maintenance to keep storage areas in a neat, well-stocked, clean, organized manner.\n Putting all refuse into to the proper receptacles provided by the premises for waste removal.\n Sweeping and dusting vacant apartments or flats, common areas (including community rooms, etc).\n Keeping the plumbing fixtures clean and washing windows as necessary.\n Upholds the mission and values of VOA of IL at all times.\n\nOther Duties: As assigned by the Property Manager.Work Environment: Generally, this position operates in a housing property. Though the hours are typically 9:00 AM to 5:00 PM Monday through Friday. Hours might change depending on needs.Physical Demands: Reasonable accommodations for the physical demands of the essential functions of the position can be considered and made when possible in response to a specific request.Qualifications: Ability to successfully handle multiple priorities and prioritize a work schedule. Must be able to effectively communicate with a variety of personnel.Education and Experience: High School Diploma (or equivalent) is required. Qualified individuals must have at least two years’ janitorial experience.Volunteers of America of Illinois provides equal employment opportunity to all individuals regardless of their race, color, creed, religion, gender, age, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by state, federal, or local law.\nJob Type: Part-time",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Commercial Cleaner- $15- HIGHLAND PARK, IL!",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Harvard Maintenance, Inc.",
+  "location": "Highland Park, IL 60035",
+  "rating": 3.2,
+  "reviewsCount": 151,
+  "url": "https://www.indeed.com/company/Harvard-Maintenance,-Inc./jobs/Commercial-Cleaner-23f150367081c91e?fccid=7ff5ca5e7f440a56&vjs=3",
+  "id": "23f150367081c91e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:02.683Z",
+  "description": "GREAT REFERRAL PROGRAM!!\nM-F 3 hours daily, after 7pm\n$15.00 / Hour\nMust pass background check and drug test..\nJob Summary: \nBasic cleaning, including cleaning of all common areas, restrooms, entrances, elevators, walkways, windows, furniture, fixtures, stairs, chairs, tables, telephones, drinking fountains, trashing, dusting polishing and other assigned items/areas. We have multiple shifts available as well as both full time, part time and seasonal opportunities.\nLimpieza básica, incluida la limpieza de todas las áreas comunes, baños, entradas, ascensores, pasillos, ventanas, muebles, accesorios, escaleras, sillas, mesas, teléfonos, fuentes de agua potable, limpieza de la basura, limpieza del polvo y otros elementos/áreas asignados. Tenemos varios turnos disponibles, así como oportunidades de tiempo completo, de tiempo parcial y por temporada.\nEssential Duties and Responsibilities / Tareas y responsabilidades esenciales: \n\n Responsible for all basic cleaning\n Cleaning of restrooms includes restocking toilet tissue and other dispensers, emptying trash, clean and sanitize fixtures, clean mirrors, spot clean partition doors and walls, sweep and mop tile floors, and clean toilets and urinals\n Move furniture, vacuum, reposition furniture, empty trash and replace liners\n Check all trash containers prior to moving it\n Cleaning includes dust mopping, damp mopping, sweeping, vacuuming, gum removal, dusting, picking up larger objects off the floor and spot cleaning glass\n Performs additional duties as required, including attending to flooded areas, incidental spills, and related clean-up work for trash and restroom concerns\n Restock carts and closets at the end of each shift\n\n\n Responsable de todo el servicio de limpieza básico\n\nLa limpieza de los baños incluye reponer el papel higiénico y otros dispensadores, vaciar la basura, limpiar y desinfectar los accesorios, limpiar los\n· An Equal Opportunity Employer --- M/F/D/V · Empleador que ofrece igualdad de oportunidades--- M/F/D/V\nJob Type: Part-time\nPay: $15.00 per hour\nSchedule:\n\n Evening shift\n Monday to Friday\n\nApplication Question(s):\n\n  * Are you comfortable taking a drug test?\n\nExperience:\n\n Custodial: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitorial Maintenance",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Le Meridien Chicago - Oakbrook Center",
+  "location": "Oak Brook, IL",
+  "rating": 4.1,
+  "reviewsCount": 22920,
+  "url": "https://www.indeed.com/rc/clk?jk=407c31f8a3e3fd03&fccid=0b6c496064ecd79a&vjs=3",
+  "id": "407c31f8a3e3fd03",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:03.081Z",
+  "description": "\n Full Time PM Position 3pm-11:30pm\n  We're looking for a courteous, detail-oriented maintenance engineer to provide our guests with a five-star experience. In this role, you repair and maintain the hotel’s physical assets and contribute to satisfaction of our guests. Most of all, we are in the hospitality business and this position is an ambassador of goodwill to our guests as you go about your daily duties. \n Responsibilities include performing basic maintenance upkeep throughout the property for all rooms and common areas.\n  \n   Respond and attend to guest repair requests. \n  Communicate with guests to resolve maintenance issues. \n  Perform preventive maintenance in guest rooms, in the kitchen, HVAC and mechanical equipment, including cleaning and lubrication. \n  Visually inspect tools, equipment, or machines. Carry equipment (e.g., tools, radio). Identify, locate, and operate all shut-off valves for equipment and all utility shut-offs for building. \n  Maintain maintenance inventory and requisition parts and supplies as needed. \n  Communicate each day's activities and problems that occur to the other shifts using approved communication programs and standards. \n  Display basic knowledge or ability to acquire knowledge in the following categories: air conditioning and refrigeration, electrical, mechanical, plumbing, pneumatic/electronic systems and controls, carpentry and finish skills, kitchen equipment, vehicles, energy conservation, and/or general building. \n  Perform painting, minor drywall and wood trim repair, light bulb and A/C filter replacement. Test, troubleshoot and perform basic repair on all types of equipment, plumbing (e.g., plunge toilets and unclog drains), electrical components including lamps, extension cords, vacuum cleaners, internet devices, replace electrical switches and outlets, and other guest-room items. \n  Program TV's and perform general housekeeping and engineering-related inventory duties. \n  Use the Lockout/Tag-out system before performing any maintenance work. \n  Perform repairs on interior and exterior landscaping as well as external landscaping sprinklers, \n  Display basic computer skills including inputting air handler schedules and making temperature changes. \n  Has general knowledge of procedures for repairing and/or replacing all types of plumbing equipment. \n  Handle minor in-house repairs such as removing and replacing bathroom tile, repairing wallboard, painting, wall vinyl, carpentry, carpet cleaning, etc. \n  Drive a 12-passenger van for guests within a 5-mile radius of hotel. \n  Maintain a high standard of personal appearance and a proper uniform. \n  Greet guests, visitors and staff in a courteous and friendly manner. \n  Smile, acknowledge and greet guests in rooms and or in passing. \n \n  Perform other duties as assigned, requested or deemed necessary by GM and Operations Manager.\n  Requirements:\n  \n   Previous hotel experience preferred \n  Basic plumbing and electrical experience \n  Must be able to lift up to 50 pounds \n  Must be able to stand on your feet for extended periods of time \n  The ability to work a varied and flexible schedule including nights, holidays and weekends \n  The ability to work independently \n  Have the Heart of Hospitality when assisting our Guests to ensure Extraordinary Service \n  Reports to the Chief Engineer \n \n  We are an equal opportunity employer and value diversity. All employment is decided on the basis of qualifications, merit, and business need.\n\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Overnight Custodian",
+  "salary": "$16.50 an hour",
+  "jobType": null,
+  "company": "Planet Fitness Deerfield",
+  "location": "Wheeling, IL",
+  "rating": 3.4,
+  "reviewsCount": 6031,
+  "url": "https://www.indeed.com/rc/clk?jk=f23ea801f9d4a2f6&fccid=c03f7548b7ebe34d&vjs=3",
+  "id": "f23ea801f9d4a2f6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:03.755Z",
+  "description": "\n\n At Planet Fitness, we pride ourselves in creating a culture that empowers people to live a healthy lifestyle. Our goal is to assist our members and our employees to reach their full potential. We are currently looking for a high energy individual with a passion for helping others and a drive to succeed to join our team! \n The Overnight Closer (Customer Service Representative) will be responsible for creating a positive member experience by providing a superior level of customer service to Planet Fitness members, prospective members and guests. The Overnight Closer will be responsible for creating a positive member experience by providing a superior level of customer service to Planet Fitness members, prospective members and guests. You will also be responsible for closing that day’s shift for that business day as well as creating an accurate bank deposit. \n Why Planet Fitness? \n Each of our employees receive: \n \n  Complimentary Back Card Membership \n  Company Facilitated Training \n  Advancement Opportunities \n  Rewards and Recognition Programs \n \n Essential Duties and Responsibilities \n \n  Greet members, prospective members and guests, providing exceptional customer service. \n  Handle all front desk related activities including: \n  Answer phones in a friendly manner and assist callers with a variety of questions. \n  Check members into the system. \n  New member sign-up. \n  Take prospective members on tours. \n \n \n  Facilitate needed updates to member’s accounts. \n  Respond to member questions and concerns in a timely and professional manner and elevate to Assistant Manager or Manager as needed. \n  Assist in maintaining the neatness and cleanliness of the club. \n  Close shift for that business day. \n  Create a bank deposit for next day. \n \n Qualifications/Requirements \n \n  Customer service background preferred. \n  Basic computer proficiency. \n  A passion for fitness and health. \n  Upbeat and positive attitude! \n  Punctuality and reliability is a must. \n  Exceptional customer service skills; able to interact in a positive and professional way with members and co-workers, exceeding the member’s expectations. \n  Strong listener with the ability to empathize and problem solve. \n  Demonstrate diplomacy in all interactions while using appropriate behavior and language. \n  High School diploma/GED equivalent required. \n  Must be 18 years of age or older. \n \n Physical Demands \n \n  Continual standing and walking during shift. \n  Continual talking in person or on the phone during shift. \n  Ability to work 3rd shift (overnights). \n  Must be able to occasionally lift up to 50 lbs. \n  Will occasionally encounter toxic chemicals during shift. \n \n Pay & Benefits \n  \n  Potential of up to three raises per year \n  Great career advancement opportunities \n  Insurance benefits for full time staff \n  401k benefits based upon eligibility\n \n\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Area Manager (Janitorial/Retail)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Encompass Onsite LLC",
+  "location": "Bolingbrook, IL 60440",
+  "rating": 3.1,
+  "reviewsCount": 20,
+  "url": "https://www.indeed.com/rc/clk?jk=6d77afed8c1dffd1&fccid=92e6ab1b1703e5be&vjs=3",
+  "id": "6d77afed8c1dffd1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:03.867Z",
+  "description": "JANITORIAL AREA MANAGERNATURE OF WORKThe Janitorial Area Manager serves as the primary business contact for the client and is responsible for client satisfaction. This position is also responsible for directly and indirectly overseeing efficacy of field operations of assigned territories of Encompass Onsite. The Janitorial Area Manager is expected to consistently provide excellent customer service to accounts, as well as represent client needs and goals within the organization to ensure quality. In addition, this series is responsible for providing industry specific knowledge and information to the public and other individuals with business with Encompass Onsite consistent with policies on confidentiality.EXAMPLES OF ESSENTIAL DUTIES\n\n Responsible for all client communications, conflict resolution, and compliance on client deliverables and revenue.\n Oversees the activities performed in all work units within assigned territory, including the implementation of procedures, case management and processing, records management, collection and reporting of statistics, and minor inventory related accounting functions\n Oversees and coordinates the work of subordinate supervisors, including reviewing work and production performance, motivating subordinates to work more effectively, identifying problems with performance and developing solutions to those problems, determining training needs to improve performance, initiating informal measures to correct misconduct or making recommendations\n An EVS Area Manager for Encompass Onsite assists the Director of Operations in the development and implementation of policies within the field. Develops operating procedures, forms and systems. Plans, develops and facilitates changes in procedures, forms and practices, work flows, personnel assignments, and equipment\n Advises supervisors and customers when unusual work situations arise or when new procedures are instituted\n Ensures that all processes and procedures are completed, quality standards are met, and that projects are profitable\n Aware and in pursuit of opportunities for account growth and new business, involving the Director of Operations\n Performs personnel administrative tasks, including coordinating and participating in the hiring and promotion process, oversees the training of new employees and the ongoing training of other employees, resolving unusual employee problems, and overseeing employee time and attendance records within an assigned territory\n Regularly meets with supervisors and other staff to exchange information and to discuss issues affecting the success of field operations. Calls and conducts formal staff meetings in order to exchange information and to discuss ways to make each clean team function more efficiently. Prepares written agendas, causes minutes to be recorded, prepares written summaries of issues and action plans for review by the Director of Operations\n Prepares manuals and other materials describing procedures and standards. Prepares reports as required by the Director of Operations, Vice President of Operations, or President of Encompass Onsite\n Serves as a point of contact for information concerning the activities of field operations for both clients and superior management personnel. Additionally, an Account Manager is capable of responding to all inquiries within established guidelines and must be capable of using specialized communication skills in performing these duties\n A Encompass Onsite Account Manager trains staff in the use of automated systems, introduces new versions or functions, trouble shoots problems, and attends meetings\n Furthermore, this position requires one to assist in budget preparation and maintenance of each service area within the assigned territory or portfolio, ensure the satisfactory completion of special projects as required, and understand fully the duties of a lower level series as required\n\nKNOWLEDGE, SKILLS AND ABILITIES\n\n Extremely detail oriented\n Motivated, goal oriented, persistent and a skilled negotiator\n High level of initiative and work well in a team environment\n Excellent verbal and written communication skills.\n Handles stressful situations and deadline pressures well\n Ability to develop office and field procedures\n Plans and carries out responsibilities with minimal direction\n Demonstrated ability to organize, direct, and perform high level supervisory duties in a manner conducive to full performance and high morale\n\nMINIMUM REQUIREMENTS\n\n High School Diploma or GED required; Bachelor's Degree preferred. Must have a minimum of six years of experience in the facilities and building maintenance industry, including supervisory experience, or an equivalent combination of education and experience\n Considerable knowledge of effective supervisory and management techniques\n Valid Florida Driver’s license\n\nSUPERVISION RECEIVEDGeneral supervision is received from the Director of Operations who confers on difficult problems and reviews completed work for quality of professional results. Tasks are usually performed under little direct supervision allowing use of independent judgmentSUPERVISION EXERCISEDSupervises all team members working in his account.Encompass is an Equal Opportunity Employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state, or local laws.FLSA Status: ExemptEEO Class Code: Professional\nWne6U5D25l\nJob Type: Full-time",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeper",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Elevate Care Country Club Hills",
+  "location": "Country Club Hills, IL 60478",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=dfad360bef709efa&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "dfad360bef709efa",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:04.754Z",
+  "description": "\n Must have proof of Covid-19 vaccination \n  Religious and/or Health Exemptions May be Available for Qualifying Employees\n  \n  \n  Elevate Care Country Club Hills is hiring the BEST and BRIGHTEST Housekeepers to join our team of compassionate caregivers!\n  \n  \n  We are a premier skilled nursing and rehabilitation facility where we combine compassion, amenities, and the highest quality care to provide a superior patient experience.\n  \n  \n  If you are dedicated, compassionate, dependable and energetic – WE WANT YOU! ELEVATE WITH US!\n  \n  \n  ELEVATE TEAM MEMBERS CAN EXPECT \n  COMPETITIVE WAGES | GENEROUS BENEFITS INCLUDING HEALTH, DENTAL VISION | 401(k) WITH MATCH \n  A CULTURE FOCUSED ON RECOGNITION AND APPRECIATION | HOSPITALITY AND CUSTOMER SERVICE FOCUSED TEAMS | HIGH-PERFORMANCE UNIFORMS\n  \n  \n  Elevate Care is an equal opportunity employer.\n\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Highland Park- Janitorial Services",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Harvard Services Group, Inc",
+  "location": "Elk Grove Village, IL 60007",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=a046588fa536e91c&fccid=39a80c0a133c0319&vjs=3",
+  "id": "a046588fa536e91c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:05.853Z",
+  "description": "\n Position Objective: \n  Company Overview:\n \n  The Harvard Companies provide important building services to thousands of clients across the business community. Harvard Maintenance and Harvard Protection Services are two of the largest and fastest growing, privately owned providers of high quality janitorial and security services in the United States. We are an industry leader and are well known for our innovative thinking and entrepreneurial spirit. Our success over the last fifty years stems from Harvard's Inverted Pyramid®, which recognizes that our front-line employees are the most important people in our organization. The Inverted Pyramid® ensures that our employees feel valued, are given the tools to be successful, and are empowered to execute in their roles. People are also at the center of our Core Values. Our People First core value clearly states that “we are a family organization that promotes respect and embraces diversity”.\n \n  Job Summary:\n \n \n   Basic cleaning, including cleaning of all common areas, restrooms, entrances, elevators, walkways, windows, furniture, fixtures, stairs, chairs, tables, telephones, drinking fountains, trashing, dusting polishing and other assigned items/areas. We have multiple shifts available as well as both full time, part time and seasonal opportunities.\n  Essential Duties and Responsibilities: \n \n  Responsible for all basic cleaning\n   Cleaning of restrooms includes restocking toilet tissue and other dispensers, emptying trash, clean and sanitize fixtures, clean mirrors, spot clean partition doors and walls, sweep and mop tile floors, and clean toilets and urinals\n   Move furniture, vacuum, reposition furniture, empty trash and replace liners\n   Check all trash containers prior to moving it\n   Cleaning includes dust mopping, damp mopping, sweeping, vacuuming, gum removal, dusting, picking up larger objects off the floor and spot cleaning glass\n   Performs additional duties as required, including attending to flooded areas, incidental spills, and related clean-up work for trash and restroom concerns\n   Restock carts and closets at the end of each shift\n  Knowledge and Skill Requirements: \n \n  High School Diploma\n   Minimum of 1 year experience\n   Strong communication skills\n   Must be willing to work assigned hours\n  Compensation: \n \n   Harvard is offering a competitive salary structure including benefit package with medical, dental, life, and long-term disability (LTD) insurance along with 401K Savings Plan.\n \n \n \n   An Equal Opportunity Employer - M/F/D/V\n \n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeper/EVS Tech",
+  "salary": "$18.00 - $22.50 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "The Moorings Of Arlington Heights",
+  "location": "811 East Central Road, Arlington Heights, IL 60005",
+  "rating": 3.6,
+  "reviewsCount": 49,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DKn0R3S4axjgr9Hcgr1gAhslsGKzXbTgTl7KS5U1C4RUaA9gEcQbEz2MpcoDrxHHui5zi3tyfNUAGUfwHRrceqUH58sgLcFMgzLFAvvn89QcC4CTGZLo71VlsVkEb6C10t7wtm-hqJfA010RKGy_Te_i-5mj2E5BFURs_Ev_CmWB7Ibc_kLMzsPZtrGZk1bbkym3rnxBqAlkFAIHBOM2FWqNxbT6tqQXWow-bKPvPS-1XmoxoDGOyuo4vXo71_2uiFtQunGmA5cRlPFTDfYzkz2uqm8sQlfh-r2eFWTzqrWKqlakjyJlWK2L5bl2w1oDvMkbpaL4DqasG0fWFD2E_2GCqmOZMC-R0HQw9knxYIWdExCUQVCty92RYOP5e4QRYcJ3odIMA-b5-84EHOMCJpNKlc_6uV591DgC022KHbaodHBROFyAeTQjqbjXx4DmZt4TOror7zxsbsz3NE-ryBJ0WPSx6iZyJw9K-0a2b6_OXToZgoPg1eEK5iS9nKGWp1pkOn95dVKXePb5rfbQf9PQvC_8DlengcC_GdoyrYFw==&xkcb=SoDC-_M3WvZv9OWng50PbzkdCdPP&p=4&fvj=0&vjs=3",
+  "id": "ec0b53b07fd69b3e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:07.844Z",
+  "description": "\n \n  \n   \n    \n     $18 to $22.50 per hour based on years of experience \n     $1,000 Sign On Bonus for Full-Time (paid over 3 installments)\n      \n      \n     Full-time positions available! \n     1st shift Available – 7:30 am to 3:30 pm plus rotating weekends \n     Housekeeper/EVS Tech needed! \n     The Moorings of Arlington Heights, a premier senior living community is looking for a responsible, hard-working and caring Housekeeper/EVS Tech to join our team. \n     Position Overview \n     This position provides a clean, safe, attractive environment for residents, visitors, and staff. \n     Essential Functions \n     \n      Perform 10-step general cleaning procedures. \n      Performs routine cleaning duties in assigned areas, using appropriate chemicals and equipment, including patient and exam rooms, discharges, restrooms (including showers), offices, and public areas. \n      Sweeps and wet/dry mops floors, vacuums rugs and carpets, and replaces vacuum cleaner bags as required. Including spot cleaning in corridors. Dusts all horizontal surfaces and furniture. Wipes, and/or dusts window blinds and shades as appropriate. \n      Cleans high-touch surfaces including but not limited to: doorknobs, light switches, electrical outlets, faucets, and sinks. \n      Restocks disposable supplies and soap in restrooms. \n      Cleans inside refrigerators and outside of refrigerators. \n      Gather and disposes of trash, both general and medical, in designated areas as per policies. \n      Performs immediate action steps in case of an emergency per departmental guidelines. \n      Keeps work area in a neat, clean, and orderly condition. \n      Performs other duties assigned. \n      \n     Skills/Qualifications \n     \n      Able to read, write, and understand spoken English thoroughly \n      Ability to work most evenings, weekends, and holidays \n      Total commitment to customer service \n      \n     Full time Benefits: \n     \n      Health Insurance: Medical, Dental Vision \n      Long-term Disability & Extended Illness Bank Program \n      Employee wellness program with medical benefit deduction incentives and cash bonuses! \n      Confidential employee assistance program \n      Generous Paid Time Off/PTO plan. It is a plan that rolls over year to year. \n      Employee lounges and meal discount program. \n      403(b) retirement plan with employer match and baseline \n      Scholarship programs including Tuition reimbursement \n      Citizenship Funding Program \n      On-site Fitness Centers staffed with certified personal trainers \n      \n     All Presbyterian Homes employees are required to be Up-to-Date (as defined by the CDC) with all recommended COVID-19 vaccination doses (including booster dose(s)), when eligible, unless a reasonable accommodation is requested in writing and approved. As a condition of employment, new hires are required prior to the first day of work to provide documented proof to Human Resources of being Up-to-Date or scheduled to be Up-to-Date within 30 days of becoming eligible or submit a completed Request for Accommodation form (for a medical or religious exemption to the COVID-19 vaccination requirement, with supporting documentation, where applicable) to Human Resources for consideration. As needed, Human Resources will engage the candidate in an interactive process to determine what, if any, reasonable accommodations might be available in accordance with applicable laws. \n     IndeedSJ\n    \n     \n     \n    \n  \n \n  Location: Presbyterian Homes · Housekeeping Department\n  Schedule: Full Time, 1st, 730 am to 330 pm rotating weekends\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=ec0b53b07fd69b3e&from=vj&pos=bottom&mvj=0&spon=1&adid=381121489&ad=-6NYlbfkN0DKn0R3S4axjgr9Hcgr1gAhslsGKzXbTgTl7KS5U1C4RUaA9gEcQbEz2MpcoDrxHHui5zi3tyfNUAGUfwHRrceqUH58sgLcFMgzLFAvvn89QahV2bFOzH3wfxJZNAVTeaZ0oDtsGpc_uqf9N3_jcYYaHOG3JUzG8svMLh9uVHP263W40E9WPfX7o8ob1fJ5VBSXMGcJpFz8sna3jycQiN63y7ISMOS8uX77q57jH0a7auok3FXa2zKgVQmi8onqfkTIViu3gcziNAzvpU9jJBPZnEqDCnZgaBZAIlZQytw5QA_4i7TlfXzQF5eiBSCyav4NZHxYxvaKaMwUMRFxBRLxw7kLpOuw0W6LpU7GdZqPxBSxnVhLNEPg&sjdu=5vhSuC59qwGvxgT_R_Hs5vftG3ok2mG24fD06f05m99GOBJ0jR4DkbCqlTy3W9xk_tQLnSEZjDNZq9H05hDKPA5F3ziFszWmUz2Vd5BAmeg&vjfrom=serp&astse=b26b232f09eb38fb&assa=7595",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Custodial Services Workers needed-Highland Park Hosp. starting at $17.25/hr",
+  "salary": "$17.25 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Aramark",
+  "location": "Highland Park, IL 60035",
+  "rating": 3.5,
+  "reviewsCount": 19430,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DNe4Y3PgiXl6W7ELBOgHl1b6VrcyvEcLdn5pTGueuBZoCp2sSXAId1q1HUrZWW6UwQpYJC5VrAxogKF6bw9m2ekJrLxkaCD0dAtkQG_80xP5S6I1zKoBcJkOOxgoFM6ORi3n0DLvFQ-UU07SFZjmQHjLQhNazLYrS0WInL0QcBPoKIPa-92Eb_5nwTDX80eU7wpU4pgL0i5zyd99HsZemur6OHz3nspwdnh5LFhZaH47pW6jiY74werwKOZD_PuB-fyOMuSAwRJa5zYJw0kACvWYexogcfQ-0_67_IREMmC_veX2O0CfkGQuZODOYpFytQTQExTBNm9YIWHzjcxP9vUmsFH8qeCVnbObwyqkio5i8NQ8YROvpdU6UwsBI78MMUMedrFJoIgIzvNUu5ZNXfJZ7GeBNRycDXLIfX78oLj7UcZBBcHYI1ELX2pYI0BS-0WCNf7ArelUkFTgp1mNqjalT4M5ONGeOUKnBMeLe5mW5GQJBB5oOD7bEEON7nQi1-lSpp5fGNwgwGE5diSA8i_6umzg6KFeFD7WaqzttpmdSE-5PIUgVZ&xkcb=SoDL-_M3WvZq3RxRiR0PbzkdCdPP&p=14&fvj=1&vjs=3",
+  "id": "8d04c154755d8d34",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:12.033Z",
+  "description": "IF INTERESTED, PLEASE JOIN US FOR OUR HIRING EVENT( ON 12/12 from 1pm-3pm CST at Lake County Job Center: 1 n Genesee Street, Waukegan IL 60085) or apply!\nMultiple shifts available\n$17.25, plus shift differential\nCompetitive benefits, Employee discount program\nFT and PT opportunities available\nPublic transportation accessible\nJob Description\nThe Custodial Services Worker cleans and maintains assigned area(s) to meet customer and client satisfaction. Essential functions and responsibilities of the position may vary by Aramark location based on client requirements and business needs..\nJob Responsibilities\nAdheres to established procedures to provide a safe working environment including aligning with OSHA, state/local, federal, and Aramark regulations\n\n Maintains a clean and orderly environment to project the safety and health of others\n Accurately maintains and cleans housekeeping equipment\n Cleans assigned areas to Aramark and client standards and requirements\n\nThis job profile does not contain a comprehensive listing of all required activities, duties, or responsibilities. Job duties, responsibilities and activities may change, or new ones may be assigned at any time with or without notice.\nOur Mission\nRooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.\nAt Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law.\nAbout Aramark\nThe people of Aramark proudly serve millions of guests every day through food, facilities, and uniform services in 19 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing - a new challenge, a sense of belonging, or just a great place to work - our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.\nJob Types: Full-time, Part-time\nPay: $17.25 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n\nSchedule:\n\n 8 hour shift\n Day shift\n Monday to Friday\n Night shift\n Weekend availability\n\nAbility to commute/relocate:\n\n Evanston, IL 60201: Reliably commute or planning to relocate before starting work (Required)\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Service Aide Housekeeping",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Bella Terra Schaumburg",
+  "location": "Schaumburg, IL 60193",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=a562463a9c22026f&fccid=b46a115b0898f050&vjs=3",
+  "id": "a562463a9c22026f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:24.443Z",
+  "description": "\n Are you looking for a rewarding career in Skilled Nursing? We are currently searching for Housekeepers to join our friendly, caring and supportive team! \n  Bella Terra Schaumburg is rapidly growing and our team is looking to invest in Housekeepers by providing opportunities to further your career and with the tools and encouragement you need to succeed. We offer great benefits including: \n  \n  Competitive wages. \n  Bonus opportunities. \n  Shift differentials. \n  Tuition reimbursement. \n  Internal growth opportunities. \n  Comprehensive benefits package. \n  401K with employer match. \n  Employee concierge program. \n  And more! \n  \n As a Housekeeper you are instrumental in maintaining the cleanliness and infection control standards of our resident’s environment. Your work will ensure our residents receive the high standard of care they have grown to expect at Bella Terra Schaumburg by cleaning and sanitizing all areas of the facility and operating housekeeping related tools, chemicals and equipment. Our residents will depend on your knowledge, skills, and attention to detail to ensure a clean and safe environment. \n  To be eligible for consideration applicants should have: \n  As a minimum, an eleventh (11th) grade education. Prior Housekeeping experience in a Skilled Nursing Facility setting is preferable but we are willing to invest in the right candidate!\n  \n  \n  Bella Terra Schaumburg is an equal opportunity employer. All qualified applicants will be considered without regard to race, color, religion, sexual orientation, gender, gender identity, expression or orientation, genetic information, national origin, age, disability, or status as a disabled or Vietnam-era veteran. When completing this application, you may exclude information that would disclose or reference this information, or any information relating to any other status protected by federal, state, or local law.\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Services EVS Worker Lead",
+  "salary": null,
+  "jobType": null,
+  "company": "Aramark",
+  "location": "Evanston, IL 60201",
+  "rating": 3.5,
+  "reviewsCount": 19430,
+  "url": "https://www.indeed.com/rc/clk?jk=aef7c9b80109314d&fccid=ef670f88bdb8a879&vjs=3",
+  "id": "aef7c9b80109314d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:25.275Z",
+  "description": "\n \n  \n   Job Description\n  \n  \n    The Environmental Services Worker Lead provides work leadership to hourly employees in completion of their job duties in Aramark Facility Services areas of responsibility during the event and will also perform hands-on work.\n  \n \n \n  \n    Job Responsibilities\n  \n  \n   \n    Assists management and supervisors at beginning and end of shift with sign-in, supplies, equipment sign out and sign in\n    Assist shift operation in the preparation and delivery of supplies necessary to help ensure all employees' needs are met\n    May need to perform overall assessment of public restrooms and on-call rooms\n    Adheres to all departmental sanitation procedures\n    Report all employee issues (safety, injuries, and disciplinary)\n    Supervises all staff assignments to ensure efficient and high-quality cleaning services\n    Responsible for formulating action plans to correct inefficiencies and quality discrepancies\n    Assists in employee training, coaching, and motivation\n    Maintains an accurate record keeping system for quality control systems\n    Adheres to all established systems and training programs to provide a safe working environment\n    Complies with all OSHA regulations and other local, state, and federal government regulations\n    Maintains compliance with Aramark's standards of operation and client contract\n    Maintains all records and reports necessary to comply with Aramark, government, and accrediting agency standards, regulations, and codes\n   \n    At Aramark, developing new skills and doing what it takes to get the job done make a positive impact for our employees and for our customers. In order to meet our commitments, job duties may change or new ones may be assigned without formal notice.\n  \n \n \n  \n    Qualifications\n  \n  \n   \n    Requires 1-2 years of experience in environmental services\n    Ability to communicate (both verbal and written) effectively\n    Ability to apply elementary math functions\n    Ability to work well under time constraints\n    Ability to apply common sense understanding to carry out detailed, but uninvolved written or oral instructions\n    Basic knowledge of infection control procedures and universal precautions and work independently after appropriate training and instruction\n    Maintain a friendly and efficient service attitude towards customers, co-workers, and clients\n   \n  \n \n \n  \n    Education\n  \n \n \n \n  \n    About Aramark\n  \n  \n    Our Mission\n    Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet.\n    At Aramark, we believe that every employee should enjoy equal employment opportunity and be free to participate in all aspects of the company. We do not discriminate on the basis of race, color, religion, national origin, age, sex, gender, pregnancy, disability, sexual orientation, gender identity, genetic information, military status, protected veteran status or other characteristics protected by applicable law. \n   About Aramark\n    The people of Aramark proudly serve millions of guests every day through food, facilities, and uniform services in 19 countries around the world. Rooted in service and united by our purpose, we strive to do great things for each other, our partners, our communities, and our planet. We believe a career should develop your talents, fuel your passions, and empower your professional growth. So, no matter what you're pursuing - a new challenge, a sense of belonging, or just a great place to work - our focus is helping you reach your full potential. Learn more about working here at http://www.aramarkcareers.com or connect with us on Facebook, Instagram and Twitter.\n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=aef7c9b80109314d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXibKMTxLWUDt1ajYZxOaxFlQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=878c1808b0f11131&assa=5115",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "HOUSEKEEPING SVC MANAGER",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "TouchPoint",
+  "location": "Evanston, IL 60202",
+  "rating": 2.8,
+  "reviewsCount": 297,
+  "url": "https://www.indeed.com/rc/clk?jk=2c9284b276e101d2&fccid=ede013c41b83c3d1&vjs=3",
+  "id": "2c9284b276e101d2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:25.445Z",
+  "description": "\n \n  TouchPoint \n  \n  \n   We are hiring immediately for a HOUSEKEEPING SERVICE MANAGER position.\n    Location: St Francis Hospital: 355 Ridge Ave Evanston, IL 60202. Note: online applications accepted only.\n    Schedule: Full-Time; Second Shift. \n   Requirement: Previous housekeeping and management or leadership experience. \n  \n  \n  Positions at this location require proof of COVID-19 vaccination, boosters, and/or regular COVID testing. Where permitted by law, applicants who are offered a position for this location may be asked about their vaccination status, which must meet minimum business requirements. All religious, medical, or other legally recognized exemptions regarding vaccination status will be considered.\n   We Make Applying Easy! Want to apply to this job via text messaging? Text JOB to 75000 and search requisition ID number 1131568.\n   The advertised program is an AI recruiting assistant that helps you apply to jobs with Compass Group. Message frequency varies. Message and data rates may apply. Text STOP to opt out or HELP for help. Terms and conditions: http://olivia.paradox.ai/moSkg\n   \n  Diversity of thought and inclusion for all is what drives our success - we invite you to start your journey with us today!\n   \n  If serving others is in your blood and you thrive on the idea of helping someone heal, TouchPoint is the place for you! We asked some of our associates why they love working for Touchpoint. Click here to see what they said!\n   We’re TouchPoint Support Services and our mission is to serve up hospitality, for patients, their families and visitors at Ascension Health hospitals throughout the U.S. But our work isn’t just about cooking, serving, cleaning and transporting patients. We set the stage for healing with sparkling facilities, great food and service.\n   This is the kind of work that takes a big heart for service and for supporting Ascension’s mission to improve the health of the poor and vulnerable. We’re serious about the role we play in healing – and just as passionate about having fun, supporting each other and serving our communities. \n  Maybe you have a passion for people and an obsession with service. Or maybe you’re looking for a launchpad for a career managing people. Are you generous and hard working? When you spot a need, are you ready to jump?\n  \n   \n    \n      Job Summary \n    \n    \n      Summary: As a Housekeeping Service Manager, you will be responsible for assisting in the successful operation and customer service of the EVS/housekeeping department. \n     \n     Essential Duties and Responsibilities:\n     \n       Maintains a high level of cleanliness in assigned areas.\n       Participates in recruitment and staff selection process.\n       Assists with housekeeper scheduling.\n       Assigns established work areas and or project duties.\n       Plans and coordinates project work.\n       Attends and participates in departmental staff meetings, development and training courses.\n       Provides and monitors individual guidance and motivation to employees.\n       Participates in facility Quality Assurance Program as required.\n       Works with chemicals on a constant basis requiring special clothing or safety equipment.\n       Assigns equipment to staff; monitors daily equipment use, cleaning and maintenance.\n       Ensures that all equipment is clean and professional in appearance at all times.\n       Assists housekeepers on an as needed basis.\n       Performs other duties as assigned.\n     \n      \n     Qualifications: \n     \n      4 years of support services, military, housekeeping, and/or facilities maintenance experience.\n       1 or more years of supervisory/management experience.\n       Strong work ethic, intense drive, and initiative for quality and customer service.\n       Excellent written and oral communication skills.\n       Excellent problem-solving skills both one-on-one and in group situations.\n       Ability to utilize a participative approach to managing staff.\n       Understanding of budgeting processes and awareness of profit and loss concepts.\n       Excellent administrative and organizational skills and an ability to prioritize.\n       Ability to function appropriately under stressful conditions.\n       CRCST or any other applicable sterile processing certification is preferred.\n       Proficient computer skills and knowledge of MS Office products, including Word, Excel, PowerPoint, Outlook, and internet.\n       Associate’s degree is preferred.\n     \n    \n   \n  \n   Associates at Touchpoint are offered many fantastic benefits.\n   Both full-time and part-time positions offer the following benefits to associates:\n  \n    Retirement Plan\n    Associate Shopping Program\n    Health and Wellness Programs\n    Discount Marketplace\n    Identity Theft Protection\n    Pet Insurance\n    Voluntary Benefits, including Critical Illness Insurance, Accident Insurance, Hospital Indemnity Insurance, Legal Services, and Choice Auto and Home Program\n  \n   In addition, full-time positions also offer the following benefits to associates:\n  \n    Medical\n    Dental\n    Vision\n    Life Insurance/AD\n    Disability Insurance\n    Commuter Benefits\n    Employee Assistance Program\n    Flexible Spending Accounts (FSAs)\n  \n  \n   About Compass Group: Achieving leadership in the foodservice industry\n   Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.\n   Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. *Los Angeles applicants: Compass Group will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box ordinance).\n  \n   Req ID: 1131568\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=2c9284b276e101d2&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXg4gqYR7yFL6DrE5Sbq3OnNMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=bd0a88caf8b56264&assa=5242",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitorial / Cleaning Crew / Porter",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Dunkin Donuts",
+  "location": "Glenview, IL 60025",
+  "rating": 3.4,
+  "reviewsCount": 23581,
+  "url": "https://www.indeed.com/rc/clk?jk=0d965199b48eec7b&fccid=0cf8aff64a0a4913&vjs=3",
+  "id": "0d965199b48eec7b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:26.579Z",
+  "description": "Join the Fun Paced world of Dunkin! \nSeeking highly energetic, enthusiastic individuals with great work ethics. \n\n Janitorial / Cleaning Crew / Porter is generally offered as a part time opportunity \n\n Prior experience as janitor, janitorial crew, cleaning crew, crew member, team member, porter, handyman is helpful to the success at this job. \n\n Requirements/Responsibilities \n\n \nJanitorial / Cleaning Crew / Porter Requirements:\n \n \n Desire to work in the Maintenance, Janitorial, and Food Service Area. \n Previous janitorial experience is a plus \n Organized and task oriented \n Be a team player and relate positively to all team members and customers \n Responsible for the cleaning and sanitation of the location \n Follow cleaning procedures and schedule. \n Reports any building damage to the Manager \n Janitorial / Cleaning Crew / Porter is generally offered as a part time opportunity \n\n Prior experience as janitor, janitorial crew, cleaning crew, crew member, team member, porter, handyman is helpful to the success at this job but not necessary \n\n You are applying for work with a franchisee of Dunkin' Donuts/Baskin-Robbins, not Dunkin' Brands, Inc., Dunkin' Donuts/Baskin-Robbins or any of their affiliates. Any information you submit will be provided solely to the franchisee. If hired, the franchisee will be your only employer. Franchisees are independent business owners who are solely responsible for their own employees and set their own wage and benefit programs that can vary among franchisees. \n\n Special Instructions \n\n Please do not send any emails, resumes, or call. \nWe are making it really easy to apply for this position. \n\n Simply submit a ZippyApp application package which may include the Common Employment Application, Resume, and a Cover Letter. In your Cover Letter, please write a short paragraph describing yourself and why you would make a great addition to our team. \n\n ZippyApp is the Common Employment Application for online and mobile that allows you to apply for jobs with one click, and is being accepted at a growing number of businesses each day.",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeper",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Chestnut Square at the Glen",
+  "location": "Glenview, IL 60026",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Bethany-North-Suburban-Group/jobs/Housekeeper-3c5275190ddbdc2f?fccid=958b4ad74626150f&vjs=3",
+  "id": "3c5275190ddbdc2f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:26.792Z",
+  "description": "Named a Top Workplace by the Chicago Tribune. . . Chestnut Square at The Glen located in Glenview, IL is an independent living community for adults 62+ who choose a secure retirement lifestyle that is active, stimulating and fulfilling\nWe are seeking qualified candidates for a full-time Housekeeping position to work Monday-Friday from 8am-4:30pm.\nMain Responsibilities: \n\n Clean all common areas, offices and rooms by sweeping, vacuuming, mopping, scrubbing, and polishing.\n Empty and sanitize trash containers\n Resupply paper dispensers\n Move, rearrange, and dust furniture and fixtures.\n Wipe and polish exterior apartment doors, polish doorknobs and other fixtures.\n Vacuum the dining room and wipe tables and chairs.\n Mix and blend cleaning solutions to proper concentrations for each task.\n Clean and polish all entryway and lobby glass, doors and furniture; vacuum and mop entryway floor as needed; dust drapes and mini-blinds as needed.\n Buff and polish highly visible and heavily used areas needing extra attention as needed.\n Water plants.\n Perform and assist in other assignments as needed and directed by the Maintenance Manager.\n\nRequirements: \n\n Attend and participate in all staff meetings and keep information confidential as appropriate.\n Maintain a team approach toward all staff and be a strong team member as part of the facilities department.\n Develop good working relationship with entire on-site staff.\n Ability to understand and relate well to senior adults.\n Support the Mission of Bethany North by establishing positive relationships with tenants, co-workers, managers and guests.\n\nWorking Conditions\n\n Exposure to chemicals and cleaning solvents.\n Work within multiple work environments and unsanitary conditions.\n Exposure to illnesses and frailties of tenants.\n Subject to frequent interruptions and changes in priorities as urgent needs arise that require immediate attention.\n Works among tenants, family members, visitors, and staff in a variety of situations.\n Required to walk long distances, and stand on feet for extended periods of time;\n Required to bend, stoop, and kneel for extended periods of time;\n Required to push and pull carts, vacuum cleaners, and other equipment and furniture.\n Physical ability to perform manual work.\n Regularly lift 20 lbs and occasionally 40 lbs. Ability to stand for extended periods, walk long distances, bend and reach above shoulder height frequently.\n\nWe believe our team member are our greatest resource and we reward them accordingly. We offer competitive pay and a comprehensive benefits package that includes:\n\n Medical, dental, vision, flexible spending account and life coverage.\n Retirement savings plan with up to 3% employer match.\n A generous Paid Time Off (PTO) policy.\n Tuition reimbursement – $2,000 a year – after six months of employment.\n A great opportunity for you to grow professionally and make a difference in the lives and well-being of seniors in the community.\n\nEmployees at Chestnut Square also enjoy: \n\n Free lunch\n Casual Fridays\n Monthly employee appreciation days\n Employee of the Quarter\n Several holiday events throughout the year\n\nIdeal candidate will preferably have one year previous housekeeping/cleaning or custodial experience. Weekend and Holiday availability required.\nCome and join our team of dedicated professionals! Apply today!\nPlease send resumes to: \nChestnut Square at The Glen\nAttention: Human Resources\n2601 Chestnut Ave\nGlenview, IL 60026\nE-Mail: hr @bethanynorth.org\nwww.chestnutsquare.info\nEOE\nJob Type: Full-time\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee assistance program\n Flexible spending account\n Health insurance\n Life insurance\n Paid time off\n Referral program\n Retirement plan\n Tuition reimbursement\n Vision insurance\n\nSchedule:\n\n 8 hour shift\n Day shift\n Weekend availability\n\nAbility to commute/relocate:\n\n Glenview, IL 60026: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n housekeeping/custodial: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor - Commerical",
+  "salary": "$17.50 an hour",
+  "jobType": null,
+  "company": "E B M Inc",
+  "location": "Arlington Heights, IL",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=7499304165aa39a5&fccid=249560004394ca95&vjs=3",
+  "id": "7499304165aa39a5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:27.852Z",
+  "description": "\n About Us:\n  EBM Inc, Alliance Maintenance Services, and EBM Management Consulting is a family of companies that believes in bringing family values to work. Not only are our companies family-owned, but we are also women owned and operated since day one. We bring a special touch to all of our clients in the managed services, Staffing, and Direct Hire markets. We believe that our greatest asset has been and will continue to be our employees and the candidates we help find their next great role. We have been in business for over 50 years and look forward to helping those in our communities to find their careers with us.\n  Shift: 1st\n  Hours: 6:00am-2:30pm\n  Pay: 17.50\n  POSITION SUMMARY:\n  Under direct supervision, performs routine cleaning and maintenance duties in an assigned area within a commercial building, office, or manufacturing setting to ensure the health, safety, and environmental standard for everyone within the facility. This position will regularly engage in cleaning and disinfecting as assigned by the client which will include but not be limited to mopping, sweeping, dusting, laundry, and other cleaning related duties.\n \n  DUTIES & FUNCTIONS:\n  The following reflects managements definition of essential functions for this job but does not restrict the tasks that may be assigned. Management may assign or reassign duties and responsibilities to this job at any time.\n \n   Responsible for floor care, including vacuuming, mopping, sweeping, and spot-cleaning carpets of all office areas and non-production employee lounge. \n  Dusting and disinfect equipment, furniture, and/or fixtures, etc...\n   Responsible for removing trash in office areas and non-production employee lounge.\n   Clean and sanitize restrooms daily\n   Cleaning of windows in conference rooms and management offices, etc... \n  Stoking of supplies throughout the office. \n  Performs other duties as assigned by manager.\n \n  QUALIFICATIONS & EDUCATION:\n \n   Experience that provides the required knowledge, skills, and abilities to perform the essential functions preferred\n   Basic knowledge of cleaning products, including chemicals, supplies and methods used in office cleaning. \n  At least 1 year of previous janitorial experience preferred\n   Commitment to excellence and high standards\n   Ability to manage priorities and workflow\n \n \n   Versatility, flexibility, and a willingness to work within constantly changing priorities with enthusiasm\n \n \n   Ability to deal effectively with a diversity of individuals at all organizational levels\n   Ability to understand and follow written and verbal instructions.\n \n \n   Ability to understand all safety requirements and cautions\n   Ability to perform the physical labor necessary\n \n  EOE STATEMENT:\n  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Male Housekeeper",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Fitness Formula Clubs (FFC)",
+  "location": "Chicago, IL 60642",
+  "rating": 3.7,
+  "reviewsCount": 84,
+  "url": "https://www.indeed.com/rc/clk?jk=3120f1617b07e9f6&fccid=5c63ac9ab2b47a7d&vjs=3",
+  "id": "3120f1617b07e9f6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:28.068Z",
+  "description": "\n Are you someone who goes above and beyond and enjoys working in a fun customer-facing environment? Want to work for a premier fitness company with a winning work culture and a formula for success that excels? Then, Fitness Formula Clubs (FFC) is the place for you!\n  We are looking to hire part-time a\n  Male Housekeeper who is outgoing, reliable, and coachable. At FFC high-quality customer service is a must! You will provide an inviting, clean, and safe environment for all visitors while staying true to FFC’s core values. You’ll also join a compassionate and diverse team that prides itself on building relationships and creating value by helping others. Experience our unique regional brand, upward mobility, and career opportunities for management and full-time employment.\n  \n Required Shift(s):\n  \n Benefits:\n  \n  Various shift schedules \n  Guaranteed experiential training \n  Discounted continuing education programs:\n   \n     Pilates, Group Fitness, Personal Trainer, etc.\n    \n  Tuition reimbursement (up to $200 per year) \n  Complimentary Club Membership \n  Medical, Dental, Vision, and Voluntary \n  Company-paid Life Insurance \n  401K with company match \n  Discounts on Spa, Retail, and Fitness \n  Unlimited growth potential and career advancement opportunities \n \n Our Purpose:\"To enhance the lives of our members and guests by improving their overall health and well-being.\" Our members, guests, and staff are as diverse as the city we call home. We are \"Chicago from Day One,\" committed to building a respectful and inclusive community.\n  \n  \n \n  Requests can be made for a complete list of job activities, physical demands, and work environment.\n \n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Patient Care Technician - Spinal Cord Innovation Center (21st Floor), Full-Time, Nights",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Shirley Ryan Ability Lab",
+  "location": "Chicago, IL 60611",
+  "rating": 3.4,
+  "reviewsCount": 108,
+  "url": "https://www.indeed.com/rc/clk?jk=c26e9dd282ff1b19&fccid=840d2f2811eb12c4&vjs=3",
+  "id": "c26e9dd282ff1b19",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:28.792Z",
+  "description": "\n\n The Patient Care Technician provides basic daily care to patients and support of significant others. Performs various service duties and routine technical tasks such as assisting patients with basic hygiene and daily living activities. Maintains patient care areas in a clean and orderly condition. Provides nursing care, which is appropriate for the age and development of the patient.\n  \n  \n  The Patient Care Technician consistently demonstrates support of the Shirley Ryan AbilityLab statement of Mission and Philosophy by striving for excellence, contributing to the team efforts and showing respect and compassion for patients and their families, fellow employees, and all others with whom there is contact at or in the interest of the institute.\n  \n  \n  The Patient Care Technician demonstrates Shirley Ryan AbilityLab Core Attributes: Communication, Accountability, Flexibility/Adaptability, Judgment/Problem Solving, Customer Service and Shirley Ryan AbilityLab Values (Hope, Compassion, Discovery, Collaboration, and Commitment to Excellence) while fulfilling job duties.\n   \n Principal Responsibilities\n  \n  \n  The Patient Care Technician:\n  \n  \n  \n  \n   Performs various activities in the treatment and care of patients, including routine hygiene care., ingestion of food and fluids, elimination of body wastes, mobilization, and dressing/undressing.\n   \n  \n   Performs and records routine technical tasks as authorized, such as collecting routine specimens, taking vital signs, collecting and recording intake and output and blood glucose, giving suppositories, performing intermittent catheterization, measuring bladder volume, hanging gastric feedings, and escorting patients.\n   \n  \n   Collects and reports pertinent physiological, psychological, and functional data based on patient plan of care or patient need.\n   \n  \n   Orients the patient and family to the environment, therapeutic activities, and potential safety hazards and prevention strategies as identified by the registered nurse.\n   \n  \n   Incorporates factors related to safety into delivery of patient care as directed by the registered nurse.\n   \n  \n   Implements interventions consistent with the plan of care as directed by a registered nurse.\n   \n  \n   Observes patients and reports reactions or changes in patient condition to registered nurse.\n   \n  \n   Assists in transferring patients and patient care equipment to other specified areas.\n   \n  \n   Documents functional care, procedures, and other quantitative values in nursing database.\n   \n  \n   Assists in monitoring supply needs to ensure adequate inventory at bedside.\n   \n  \n   Performs all other duties that may be assigned in the best interest of Shirley Ryan AbilityLab.\n  \n \n  \n  Required Skills\n  \n  Required Experience\n  \n  \n  \n  \n   High school diploma or equivalent required.\n   \n  \n   CNA Certification or current enrollment in an accredited nursing program required.\n   \n  \n   Work requires successful completion of the Patient Care Technician orientation.\n   \n  \n   Demonstrates competency in applying the principles of the growth and development of infant, child, adolescent, young adult, middle-aged adult and geriatric patients.\n   \n  \n   Communicates effectively using timely verbal, non-verbal and written communication.\n   \n  \n   Proactively takes ownership for serving the customer,\n   \n  \n   team, and organization for achieving goals and for resolving problems.\n   \n  \n   Willingly adapts to changing work demands and work environment.\n   \n  \n   Demonstrates critical thinking skills and makes sound judgments to monitor and respond to patient needs or changes in condition.\n   \n  \n   Anticipates assesses and addresses the needs of patients, internal and external customers to positively influence the patient/customer experience (directly or indirectly).\n   \n  \n   Ability to transfer and position patients, consistent with lifting up to 35 lbs.\n  \n \n  \n  \n  Reporting Relationships\n  \n  \n  \n  \n   Reports directly to the Nurse Manager or designee.\n   \n  \n   Reports indirectly to registered nurse involved with care of patients.\n   \n  \n Working Conditions\n  \n  \n  \n  \n   Normal patient care environment with little or no exposure to dust or extreme temperature.\n   \n  \n   Exposure to moderately adverse working conditions in performing certain patient care activities.\n   \n  \n   Occasional exposure to infectious diseases when working with patients.\n  \n \n  \n  \n  About Shirley Ryan AbilityLab\n  \n  \n  Shirley Ryan AbilityLab is the global leader in physical medicine and rehabilitation for adults and children with the most severe, complex conditions. By joining our team, you will be part of our life-changing Mission and Vision. You’ll work in a truly inclusive environment where diversity and equity are championed through words and actions. You’ll contribute to an innovative culture that is second to none, one that embraces curiosity, discovery and compassion. You’ll play a role in something that’s never been done before as we integrate science and clinical care to help patients achieve better, faster outcomes — as we Advance Human Ability, together.\n  \n  \n  The above statements are intended to describee the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified.\n  \n  \n  Shirley Ryan AbilityLab is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.\n  \n  \n  #LI-RA1\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Night Custodian",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Leyden High School",
+  "location": "Township of Leyden, IL",
+  "rating": 3.4,
+  "reviewsCount": 5,
+  "url": "https://www.indeed.com/rc/clk?jk=86095cf036a441f2&fccid=bf50f2c926b0e4de&vjs=3",
+  "id": "86095cf036a441f2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:29.333Z",
+  "description": "Leyden High Schools District 212 is seeking candidates for the position of Night Custodian. Please see the attached posting and job description for more information about this opportunity. A valid driver's license is required for this position.Attachment(s):\n\n Custodian Night- Revised 9.21.20.pdf\n Night Custodian REPOST 12.01.22.pdf\n\n*0*\nEmail To A FriendPrint Version\nJob Type: Full-time",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=86095cf036a441f2&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj93UqgDMZ44WpkQPZpKt4AMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=9c7f7d5a7ca01f4b&assa=8931",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor A",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "The Habitat Company",
+  "location": "Chicago, IL 60654",
+  "rating": 3.6,
+  "reviewsCount": 87,
+  "url": "https://www.indeed.com/rc/clk?jk=cfc724283d79aa44&fccid=7b248bd5d2e9b401&vjs=3",
+  "id": "cfc724283d79aa44",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:29.559Z",
+  "description": "\n Job Scope: \n The primary responsibilities of the Janitor A involve the upkeep of the property in order to enhance and maintain its curb appeal. The Janitor A will also assist the rest of the staff, as directed, in their efforts to manage the property in an efficient manner. It is the duty of Janitor A to follow all directives given by the Community Manager.\n  \n Duties and Responsibilities: \n \n  Conduct all business in accordance with The Habitat Company’s policies and procedures, state and Federal Laws; e.g. OSHA, ADA, Fair Housing etc. Perform activities to maintain the continuity of essential environmental services in order to guarantee resident comfort and security. \n  Conduct building walk-downs daily and replace all burned out bulbs from hallways and stairwells and batteries in emergency lighting as needed. \n  Safely operate power equipment, as needed. \n  Maintains awareness of proper safety precautions at all times. \n  Maintain curb appeal of the property at all times. \n  Trash-out vacant units. \n  Complete assigned work orders according to company guidelines. \n  Complete final inspection of all units turned over for leasing.\n \n  \n Preventative Maintenance/Safety: \n \n  Follows company guidelines in proper storage of chemicals maintaining Maintenance Data Sheets current and readily accessible. \n  Must be aware of the condition of physical property throughout the property and must immediately correct unsafe conditions; e.g., broken steps, open holes, broken/burned out exterior lights, broken (door locks, inoperable smoke detectors, gas leaks. \n  Maintains accurate records regarding preventive maintenance, service requests (received and completed), apartment make-ready status, work in progress, etc. \n  Schedules and performs minor and routine maintenance on all appropriate equipment on a regular basis. Inspects and maintains all tools in excellent condition. \n  Instills a “safety first” attitude not only with maintenance but also with all residents. \n  Follows company guidelines for wearing safety items. \n  Train Janitor’s helpers. \n  Assist Manager in completion of annual apartment inspections.\n \n  \n Skills and Qualifications: \n \n  Full time janitorial/maintenance experience. \n  Basic electric, plumbing, carpentry and HVAC skills. \n  Maintain open lines of communication with internal and external contacts for continuing operations and resolution of problems. Internal contacts include company personnel on site, corporate office and residents. \n  Ability to assist Community Manager in his/her duties. \n  Ability to participate in a standby emergency schedule for evening, weekend, and holiday coverage. \n  While performing the duties of this job, the team member is frequently exposed to fumes or airborne particles, moving mechanical parts and vibration. The noise level in the work environment and job sites can be loud.\n \n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Environmental Services Manager (Evenings)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Crothall Healthcare",
+  "location": "Chicago, IL 60637",
+  "rating": 3.2,
+  "reviewsCount": 2029,
+  "url": "https://www.indeed.com/rc/clk?jk=1ff8c4a9f9b1152d&fccid=9ac68eefd24f53c5&vjs=3",
+  "id": "1ff8c4a9f9b1152d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:31.765Z",
+  "description": "\n \n  Crothall Healthcare \n  \n  Crothall Healthcare is a Compass One Company that provides specialized, high-quality, innovative, and responsive support services exclusively to the healthcare industry. Crothall serves many of the Top 100 Hospitals throughout its over 1300 healthcare service teams in 46 states. Crothall has been recognized as one of Modern Healthcare’s Best Places to Work and Best Places to Work in Pennsylvania since 2013 and Becker's Top 150 Places to Work since 2016. A division of Compass Group USA, we have more than 26,000 team members. Our core services include: Environmental Services, Patient Transportation, Laundry & Linen, Facilities Management, Healthcare Technology Solutions, and Ambulatory EVS. Learn more at www.Crothall.com.\n   \n  Positions at this location require proof of COVID-19 vaccination, boosters, and/or regular COVID testing. Where permitted by law, applicants who are offered a position for this location may be asked about their vaccination status, which must meet minimum business requirements. All religious, medical, or other legally recognized exemptions regarding vaccination status will be considered.\n   \n  \n  \n   \n    \n     Job Summary \n    \n    \n      \n     Working as an Environmental Services Operations Manager, you are responsible for assisting senior EVS leaders in directing and overseeing the operational needs of the Housekeeping Department. You will coordinate the tasks of the front-line staff. You will serve as a liaison between administration and hospital departments and provide the highest possible level of service. \n     \n     Key Responsibilities:\n     \n       Establishes and annually reviews standards and work procedures for all Housekeeping staff\n       Plans work and staffing schedules and areas of work to ensure adequate services are rendered\n       Assists in the hiring process; interview, hiring and training of new associates\n       Orients, develops, and supervises all supervisory/housekeeping staff\n       Conducts regular inspections and makes recommendations to the facility\n       Monthly reporting of goals, accomplishments, and future plans\n       Staff education and training\n       Communication with staff, administration, and other departments\n       Coordination of outside services (i.e. Pest Control, Window Cleaning, Medical and Solid Waste, Document Destruction, and Recycling program)\n     \n      \n     Preferred Qualifications:\n     \n       Four year college degree, military experience, or equivalent work experience required\n       At least one year of supervisory experience in housekeeping or service-related field with high customer/client contact required\n       Demonstrated progressive growth in the field of health care housekeeping or facility maintenance preferred\n       Ability to communicate effectively in written format and oral presentations\n       Ability to multi-task and establish priorities\n       Ability to maintain organization in a changing and stressful environment\n       Exhibit initiative, responsibility, flexibility, and leadership\n       Possess a thorough knowledge of contract administration and office procedures\n       Ability to work an evening shift Monday-Friday (for ex: 2:00 PM - 12:00 AM) with a weekend and holiday rotation\n       Willingness to work a 10 hour day on a regular basis\n     \n      \n     Military Transferrable Skills: \n     \n      Non Commissioned Officer E4+ with experience in Planning, developing and directing logistics\n       All military branches with experience of supervising a group of soldiers of 15 or more\n       Troubleshoots, isolates and identifies causes of equipment malfunction\n       Teaches technical skills to lower grade soldiers\n       Prepares costs and labor estimates\n     \n    \n   \n  \n   Apply to Crothall today!\n   Crothall is a member of Compass Group USA\n   Click here to Learn More about the Compass Story\n  \n   Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.\n   Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. *Los Angeles applicants: Compass Group will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box ordinance)\n  \n   Associates at Crothall are offered many fantastic benefits.\n  \n    Medical\n    Dental\n    Vision\n    Life Insurance/ AD\n    Disability Insurance\n    Retirement Plan\n    Paid Time Off\n    Holiday Time Off (varies by site/state)\n    Associate Shopping Program\n    Health and Wellness Programs\n    Discount Marketplace\n    Identity Theft Protection\n    Pet Insurance\n    Commuter Benefits\n    Employee Assistance Program\n    Flexible Spending Accounts (FSAs)\n  \n   Req ID: 1132874\n   Crothall Healthcare\n   TANEISHA JANEA HAMILTON\n   [[req_classification]]\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=1ff8c4a9f9b1152d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhfngtMOmQML0cVqHL5ownyQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=86ddc3ee2da849e1&assa=1450",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitorial Attendant @ORD airport Delta Sky Club $16hr, FT, Paid Weekly",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Compass Group USA",
+  "location": "Chicago, IL 60666",
+  "rating": 3.2,
+  "reviewsCount": 8720,
+  "url": "https://www.indeed.com/rc/clk?cmp=Compass-Group&ti=Janitorial+Attendant+%40ord+Airport+Delta+Sky+Club&jk=23d9030fde1edb1d&fccid=c55f4ad42cee2cd3&vjs=3",
+  "id": "23d9030fde1edb1d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:31.947Z",
+  "description": "COMPASS GROUP PERKS-\nAM shift: 5am-130pm\nPM shift: 1-930pm\n\n Paid Weekly\n Paid Parking\n Commuter Benefits: Blue Line\n Free Employee Meals\n Medical· Dental· Vision· Life Insurance/AD· Disability Insurance·\n Retirement Plan\n Associate Shopping Program\n Health and Wellness Programs\n Discount Marketplace\n Identity Theft Protection\n Pet Insurance\n Voluntary Benefits, including Critical Illness Insurance, Accident Insurance, Hospital Indemnity Insurance, Legal Services, and Choice Auto and Home Program\n Employee Assistance Program\n Flexible Spending Accounts (FSAs)\n\nDiversity of thought and inclusion for all is what drives our success - we invite you to start your journey with us today!\nEurest is recognized worldwide for standards of service and excellence within the foodservice industry. Embracing an ownership mindset, Eurest leverages global resources, promotes a local presence and enriches the communities we serve. The Eurest Promise, “connect with people, inspire through food, create solutions, and live our promise,” is exemplified throughout our organization. Eurest is proud to serve the world’s most respected successful corporations, including many of the Fortune 500.\nJob Summary:\nKeeps buildings clean and orderly. Performs cleaning duties, including cleaning floors, shampooing rugs, washing walls and glass, and removing rubbish.\nEssential Duties and Responsibilities:\n· Collects and disposes of trash following approved procedures and infection control plans.\n· Dusts and damp mops floors following approved procedures.\n· Moves equipment and furniture for proper cleaning and place furniture back in correct placement.\n· Cleans assigned areas in the lounge to include restrooms with the use of assigned materials and equipment. Sanitize all surfaces. Follows the eight-step cleaning procedure.\n· Washes walls, windows, furniture, baseboards and other items to maintain a clean, safe environment for patients, visitors and staff.\n· Seeks out areas requiring cleaning; takes initiative to complete the task.\n· Completes all tasks assigned by supervisor.\n· Performs tasks in accordance with all federal, state and county guidelines.\n· Strips, scrubs, buffs and refinishes floors; shampoos carpet.\n· Contributes to the team; exhibits professionalism with customers, fellow employees and others.\n· Performs other duties as assigned.\nApply to Eurest today!\nEurest is a member of Compass Group USA\nCompass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.\nQualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity.\nJob Type: Full-time\nPay: From $16.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nPhysical setting:\n\n Casual dining restaurant\n\nSchedule:\n\n 8 hour shift\n Afternoon shift\n Day shift\n\nExperience:\n\n Custodial: 1 year (Preferred)\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Chili's",
+  "location": "Rosemont, IL 60018",
+  "rating": 3.6,
+  "reviewsCount": 11410,
+  "url": "https://www.indeed.com/rc/clk?jk=978eb8bfb34c3ed2&fccid=69887a18edd6f1e2&vjs=3",
+  "id": "978eb8bfb34c3ed2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:32.966Z",
+  "description": "\n Role Overview\n  \n \n   Our Janitorial Team Members are responsible for setting the pace for a great clean, sanitary shift. They provide dependable, fast service that is absolutely Chili's. If you take pride in great teamwork, then we want to hear from you!\n   \n  \n   Fast hiring process \n   Flexible part-time or full-time schedule \n   Growth opportunities \n   Great team atmosphere and culture \n  \n \n  \n Responsibilities\n  \n \n  \n   Perform daily sanitation and deep cleaning of the restaurant, floors, bathrooms and grounds. \n   Empty and properly dispose of all trash. \n   Work with management team to address maintenance needs inside and outside of the restaurant. \n   Properly handle cleaning chemicals following all safety guidelines and procedures. This includes safe use, storage and disposal of chemicals. Alert management when cleaning supplies need to be reordered. \n   Ensure compliance with all company policies, procedures and laws including health and safety standards. \n   Perform other related duties as assigned by the management team. \n  \n \n  \n About Us\n  \n \n   Chili's was born in Dallas, Texas in 1975. Since then, we've boldly claimed our place in the casual dining industry as the place to go for Big Mouth burgers, house smoked ribs, full on fajitas, and hand shaken margaritas! With a legacy deeply rooted in service, hospitality, and giving back, we are committed to delivering the best experience to every Guest, every day.\n   \n \n  \n About You\n  \n \n  \n   Friendly, warm, and caring demeanor with Team Members \n   Thinks and acts quickly in a fast-paced, high-volume environment \n   Able to use mops, chemicals, and cleaning equipment \n   No experience necessary\n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=978eb8bfb34c3ed2&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXik0EBm2BJ-JJmtArNWabKcMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=2a0b98789df9a83f&assa=2828",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitorial/Utility (AM shift)",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Ted's Montana Grill",
+  "location": "Bolingbrook, IL 60440",
+  "rating": 3.7,
+  "reviewsCount": 340,
+  "url": "https://www.indeed.com/rc/clk?jk=058a515ad7af60f6&fccid=81e45ce6d060c7e2&vjs=3",
+  "id": "058a515ad7af60f6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:33.863Z",
+  "description": "\n \n  Ted's Montana Grill isn't your ordinary restaurant, so we aren't looking for ordinary people. While we’re Premium, Polished and Professional, we’re also Cool (known as 3 PC). We live by “The Big Sky Spirit” which is our moral compass and is evident in everything that we do.\n \n \n   JANITORIAL/UTILITY\n \n \n \n   PASSION BEGINS WITH THE HEART\n \n \n   The little things are the big things in our kitchens. Each of our menu items are made in small batches to ensure the premium freshness of our flavors. Our on-premise butcher shop allows our team to hand carve and grind (daily) to ensure the peak freshness and premium flavor of our beef and bison. Our food doesn’t come in frozen and is never microwaved; we don’t even own one!\n \n \n \n   The Heart of House is a versatile position which not only requires timely and quality preparation of product, but also the responsibility of maintaining a safe and clean atmosphere for our guests to enjoy.\n \n \n \n   CORE RESPONSIBILITIES \n  (But not limited to)\n \n \n   Serves great food with great service and a great attitude.\n   Adjusts to high pressure situations and is open to change.\n   Prepares all food items to order, following standard recipes and procedures within specified time limits.\n   Grills raw and prepped foods to order and to requested temperature.\n   Accepts or rejects ingredients based on quality and quantity.\n   Cuts or portions meat, fish and poultry.\n   Communicates with HOH Team Members, FOH Team Members and Management throughout the shift regarding status of orders and availability of product.\n   Labels all food items for food safety and shelf-life standards.\n   Cleans, organizes, and maintains walk-in refrigerator, reach-in refrigerator, cooler drawers, prep, and dry storage area.\n   Stocks/restocks items on line according to specifications.\n   Understands and complies with food safety and temperature standards.\n \n \n \n   Janitorial Responsibilities\n \n \n   Maintains cleanliness in all areas of the restaurant including outside the building.\n   Sweeps and mops floors following guidelines for each type of flooring.\n   Polishes brass fixtures and dusts all fixtures and furniture.\n   Cleans and sanitizes restrooms.\n   Cleans floor drains, floor mats, ceiling vents, and vacuums the bison head mount.\n   Maintains cleanliness of exterior of the restaurant including the parking lot, and the back dock.\n   Disposes of trash in the dumpster, breaks down boxes, and places recyclables in the appropriate recycling container.\n \n \n   REQUIREMENTS\n \n \n   Full service restaurant kitchen experience is desired.\n \n \n   Strong communication skills.\n   Strong interpersonal skills. Able to communicate with individuals from diverse backgrounds.\n   Organization skill; ability to be organized in a changing environment.\n   Ability to maintain a calm professional demeanor at all times.\n \n \n \n   ESSENTIAL PHYSICAL REQUIREMENTS\n \n \n   Daily physical requirements and/or number of pounds that may need to be lifted on the job.\n \n \n   Stands during entire shift.\n   Frequent bending, stooping, reaching, pushing, and lifting.\n   Lifts and carries tubs, trays, and cases weighing up to 100 lbs. up to 20 times per shift.\n   Frequent exposure to smoke, steam, high temperatures, humidity and extreme cold.\n \n \n \n   To help promote family and quality of life for our teams, Ted's Montana Grill closes our restaurants on July 4th, Thanksgiving, Christmas Eve and Christmas Day.\n \n \n   We invite you to become part of the team by applying today!\n \n \n \n   Ted’s Montana Grill is proud to be an Equal Opportunity and e-Verify employer.\n \n \n   Hospitality\n \n \n \n   We take great pride in ensuring all guests receive a warm and memorable experience leaving them feeling better than when they came in. From a bowl of half sours to our two-dollar bills, we empower each team member to deliver Big Sky Moments in ways that are natural and effortless to Ted’s and our guests.\n \n \n \n   THE EXPERIENCE\n \n \n \n   Our restaurants represent classic saloons of the 19th century where cattlemen and land barons found a little relaxation after a hard day’s work.\n \n \n \n   SUSTAINABILITY\n \n \n \n   We believe in leaving a better world for future generations. You’ll see this in our commitment to local growers, the paper straws, the Boraxo soap in our restrooms and sustainable choices in our kitchen operations.\n \n \n \n   We are steadfast in our commitment to people, product and prosperity. Ted’s Montana Grill develops and encourages people to become leaders and engage the hearts and minds of our teams.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=058a515ad7af60f6&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXi9WQhiygJhaKps0U303E7m-BhdrQogdzP3xc9-PmOQTQ&vjfrom=serp&astse=70d98903e61781cf&assa=3661",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Floor Care Technician",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Yona Solutions",
+  "location": "Palos Heights, IL 60463",
+  "rating": 2.3,
+  "reviewsCount": 13,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BHPBwNNBLqo6YSy8lnIlvANbeajYDBv2Ipczpy1LxJ-E4godZDYnndbaBJribP1q9K1Ou214kqCqBYhvPZP8zOecJ-Zo0KjMqTan0hVmpr-tt4P_sxKdjGjpHN8tg4Ktov2MKB3Kx90PjBxeohl0pCsGm_4jM2ZsfyAX1YC4m0nuudie6fjCdNJkL0aHkPfBD9KJ0tWLVUDpcuau-cPcEnddFWDkouLsHxRm_X_CS_g0Vh-ITsRwSJvxaa1Ldln-87ifkJPPr_I8jTzwjdazlTi2wYXX78tNgqQqV6o-MLuYct79bEd86uuWmcz9TKW-Pkz76IDzYv3Q3EsbeFrJ4efRa1lhkY2aCezMa0VEwrAEssMVWqF_yrBqlTosrbuXDpZWrT6SzdtM2V-ZSZcoZ8_rZ0rb48onh7mUgsXTE8jsbr2tcvMpUAjZOP42HY6KBmt0r5Wg8ojK7BmOIbt68FuGcm7fbftUfxQ6uxuNn64HkoWUHar3FNKfgSDoj_Ba8QoYXLVuVK1g==&xkcb=SoD7-_M3WvZoOtgF9j0IbzkdCdPP&p=14&fvj=1&vjs=3",
+  "id": "d79bb77bbc126469",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:34.666Z",
+  "description": "The Floor Care Technician is responsible for floor maintenance, restoration, and the operation of floor care equipment in assigned location(s). Essential functions and responsibilities of the position may vary by location based on client requirements and business needs.\nEssential Functions:\n\n Maintains knowledge of principles of hard-surface floor maintenance and use proper procedures on hard floor care including stripping, refinishing and burnishing.\n Utilizes equipment for cleaning of large area of floor surface\n Follows proper procedures on carpet including shampooing, extractions, spot cleaning, vacuuming, etc.\n Operates floor care equipment as assigned\n Performs maintenance and restorative processes for all floor surface types\n Disinfects floor care equipment after each use\n Responsible for the safe and proper mixing and use of cleaning solutions and adheres to all safety precautions.\n Other duties and tasks as assigned by the supervisor\n\nQualifications:\n\n Previous experience as a floor care technician or in related role preferred\n Proven knowledge of floor care equipment and techniques required\n Must be able to follow safety procedures and precautions due to physical risks\n Requires frequent lifting, carrying, pushing, pulling of up to 50 lbs.\n Must be able to be at work on time and at varying times of day/night\n Must be able to accomplish all responsibilities without supervision or other employee assistance\n Must provide a criminal background check\n\nJob Types: Full-time, Part-time\nPay: From $15.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Employee assistance program\n Health insurance\n Health savings account\n Life insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n 8 hour shift\n Evening shift\n\nExperience:\n\n Floor care: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Custodial Cleaner",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Happy Hands Cleaning Service",
+  "location": "Northlake, IL 60164",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=d2bf24cbc2d2f5db&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "d2bf24cbc2d2f5db",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:37.678Z",
+  "description": "\n Happy Hands Cleaning Service is looking for a full time cleaner for our client in Northlake Illinois. Must be willing to work mornings 7am-3pm and have reliable transportation.\n \n  Must have reliable transportation and relevant cleaning experience.\n \n  Must have experience with the following: \n  \n  Operating cleaning equipment like floor buffers \n  Safe use of chemicals \n  Sanitation and disinfect \n  Washing, waxing and polishing floors \n  Dusting, sweeping and vacuuming \n  \n Technical skills\n  \n  Problem Solving Skills\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Facility Operations Female Team Member",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Life Time",
+  "location": "Schaumburg, IL 60173",
+  "rating": 3.5,
+  "reviewsCount": 3352,
+  "url": "https://www.indeed.com/rc/clk?jk=585b421d4fa8a49d&fccid=60c22b6df6415cc7&vjs=3",
+  "id": "585b421d4fa8a49d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:39.849Z",
+  "description": "\n .\n  Position Summary\n \n  As a Facility Ops Team Member, you will ensure the cleanliness of the facility while offering great customer service. The club space must be clean, stocked with supplies and meet Life Time's standards of presentation.\n \n  Job Duties and Responsibilities\n \n   Maintains indoor and outdoor club cleanliness and safety by performing daily maintenance tasks\n   Washes, folds, and stocks member towels and ensures the locker rooms are neat, and orderly\n   Ensures the usage of locker room consumables, cleaning products, and chemicals follow the amount prearranged by the department budget\n   Responds to member inquiries regarding Life Time products, services, policies and procedures \n \n \n Position Requirements\n \n   Ability to routinely bend to raise more than 20 lbs.\n   Ability to work in a stationery position and move about the club for prolonged periods of time\n \n \n  Preferred Requirements\n \n   High School Diploma or GED\n \n \n  Life Time is a place for everyone. As an organization, we are committed to an inclusive, diverse and equitable workplace that respects and celebrates the unique contributions of each individual while ensuring we remain an equal opportunity employer that recruits, hires, trains and promotes based on merit and qualifications.\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=585b421d4fa8a49d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhfjdo4uWgYoA3O4TTGWVf1QPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=4b2ea3850db77e38&assa=9100",
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Housekeeping Aide Full-Time",
+  "salary": "$15.50 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Bethesda Rehab and Senior Care",
+  "location": "Chicago, IL 60634",
+  "rating": 2.5,
+  "reviewsCount": 10,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AL2tG8XB5mn7Cks3tJidTKDZiOnne2BuFgEKvRaGtdNwKtiAC0YniSfMVcQcJUuAaPj4NitriY1bV_wrzErx3bprRtg_9h3LoHsCC73vRDCCc1hK4GWoxwFDAloETfSHrDFDyKOD9ggkgMEJGPRPpBn60oeU09iRGObLXRqCMALO8wrhPMyzdgi4kdMUmVpNPwb4szvtUOsIdzf6_MvPBz0pANuqKgi6sIHHr46FgEl_2xSFJZOLZ4Lrgp4-Loe_SB_bb1MZl4Bm3sV2cTTIUMLdt4Fafud3BSq8CyKwGnGGLwqlTf2Xm8m-NV8fv9tmJ1t7fZCZ4cGfl3wInGBm_ntnxY039twucNmqurNQUxbjsU8Yjr5dil8sWLkrSaVXWcLNltk_Mfpq6BXmwFa0X3GTIVT48dHZLNDwR7emm9Ajw71xSxH6J8bXSbRmNST4mx1y2ZmCq8Zie2oFjGbwbSUoMphQlP1Wovr6Vxfe4A0cKCNnx8I0oW75vBzO3Fhnc=&xkcb=SoBt-_M3WvZrGoSQL50IbzkdCdPP&p=11&fvj=1&vjs=3",
+  "id": "1618fa100eba4a1e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:41.060Z",
+  "description": "Job description\nFull Time Housekeeper at Long Term Care Facility\n*9am-5pm shift..must be available to work every other weekend*\nAre you making a difference today at work?\nAre you convinced you have a higher purpose and ability to work in an industry where you are making a difference EVERY DAY?\nCome join us! We will help you be the very best you can be!\nBethesda Rehab and Senior Care is seeking a Housekeeping Associate to join our team.\nWe provide high quality care through individualized service plans; extensive activities programming that promotes socialization, and clean environment for both residents and employees.\nTo accomplish this, each staff member must always deliver the highest level of customer service and team work.\nEvery other weekend required. $15.50 per hour.\nDUTIES:\n\n Know and perform all stages of linen processing (i.e. weighing soiled linen, ability to load and unload machinery, washing and drying procedures, sorting, folding and delivery of clean linen or personal clothing.)\n Report completion of laundry carts (includes pickup and delivery)\n Maintains assigned equipment for cleanliness and have repairs made when needed.\n Observes and report the need to repair equipment, furniture, building and fixtures.\n Observes and practices all safety standards and protocols as set forth by manufacturers, the department(s), Safety committee, and the facility as appropriate.\n Performs any other tasks and responsibilities as assigned.\n Report any mechanical problems to supervisor or manager\n Complete other duties assigned by Manager to include cross training\n Report completion of laundry carts (includes pickup and delivery)\n Label all personal laundry or linen ( when necessary)\n Pick up and deliver personal laundry to appropriate room\n\nQUALIFICATIONS\n\n HS Diploma or equivalent required.\n Ability to read, write, understand and communicate in English.\n Ability to pass the pre-employment drug screen\n Ability (after training period) to demonstrate proper use of chemicals, supplies, and equipment.\n Must be able to push, pull, move, and/or lift a minimum of 25 pounds up to a max of 50 pounds\n Minimum 1 year of janitorial/housekeeping experience preferred\n\nJob Type: Full-time\nPay: $15.50 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n 8 hour shift\n\nAbility to commute/relocate:\n\n Chicago, IL 60634: Reliably commute or planning to relocate before starting work (Required)\n\nApplication Question(s):\n\n Able to provide proof of Covid Vaccination?\n Able to pass pre-employment drug screen and background check?\n\nExperience:\n\n Custodial experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitorial Team Member",
+  "salary": "$13 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Tierra Environmental Services",
+  "location": "East Chicago, IN 46312",
+  "rating": 3.3,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/rc/clk?jk=4b6b6dfe082a6930&fccid=411e095bd13ec041&vjs=3",
+  "id": "4b6b6dfe082a6930",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:41.279Z",
+  "description": "\n \n  Tierra Environmental Services Inc. in East Chicago, Indiana is currently hiring Janitors with flexible availability to clean industrial office sites. \n   \n   \n  Requirements:\n \n \n   Must be at least 18 years old.\n   Have reliable transportation.\n   Be able to pass a drug screening.\n \n \n   \n   Tierra offers the following benefits:\n \n \n   Medical/Vision/Dental/Life Insurance.\n   Paid vacation.\n   Paid Holidays.\n   401K.\n \n \n \n   Job Type: Full-time.\n \n \n   Salary: Starting pay is $13.00 per hour.\n   \n  Work Remotely: No.\n   \n \n \n   Application available Monday-Friday from 7:30am to 4:30pm at 3821 Indianapolis Blvd, East Chicago, IN 46375.\n \n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Janitor / Cleaner",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "CBSG, Inc.",
+  "location": "Mount Prospect, IL 60056",
+  "rating": 2,
+  "reviewsCount": 14,
+  "url": "https://www.indeed.com/rc/clk?jk=6d3917396bc09b45&fccid=153a989ec339660c&vjs=3",
+  "id": "6d3917396bc09b45",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:42.544Z",
+  "description": "\n JANITOR / CLEANER needed for evening cleaning of a location in Mount Prospect IL \n Previous cleaning experience preferred. Eye for detail, including carpet cleaning, vacuuming, floor care, trash removal and restroom cleaning is required. Must be authorized to work in the US and pass a background check. EOE\n  Part Time / 5 Hours per day / Monday to Friday / 5PM to 10PM / $15 per hour\n  Interested applicants apply or call Chris at 847-533-3891\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+},
+{
+  "positionName": "Custodian",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Pete's Fresh Market",
+  "location": "Willowbrook, IL 60527",
+  "rating": 3.3,
+  "reviewsCount": 101,
+  "url": "https://www.indeed.com/rc/clk?jk=bf7ee4e9b493dab2&fccid=8a78b0947c985684&vjs=3",
+  "id": "bf7ee4e9b493dab2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:11:43.041Z",
+  "description": "\n \n  \n   Title\n    Custodian\n  \n  \n    Pay Grade\n    Non-Exempt\n  \n  \n    Major Department\n    Maintenance\n  \n  \n    Minor Department \n   Maintenance\n  \n  \n    Reports to\n    Store Manager/General Manager\n  \n   \n \n  Job Summary: The Custodian is accountable for the store’s overall cleanliness and condition. S/he must maintain and clean the entire store, completing hourly walks and inspections. S/he must have a complete knowledge, proper handling, and storage of all cleaning equipment. Her/his main focus is to ensure all customers shop in a clean and safe environment.\n  Essential Job Responsibilities\n \n   Must possess the knowledge and training of how to effectively use and maintain all cleaning equipment.\n   Effectively complete hourly and daily sweep logs.\n   Ensure a clean, presentable, safe, and hazard free environment for all customers and employees.\n   Must maintain all trash containers, spills, restrooms, and overall sales-floor.\n   Perform all clean-up duties that are required in quickly and efficiently.\n   Assist with actual store operation activities such as stocking shelves, assisting with customers, and cleaning, depending upon business needs.\n   Other duties as assigned.\n \n  Education/Certifications\n \n   High School Diploma or G.E.D. with 0-3 years of experience in grocery store or similar retail environment.\n   Must have a valid and up to date Food Handler’s Certificate.\n   Must have above average cash handling and basic math/calculating skills.\n \n  Other Knowledge, Skills, and Abilities \n \n  Must be capable of providing and modeling exceptional customer service.\n   Must have excellent communication skills in order to communicate effectively with customers, store leadership, and fellow-team members.\n   Must be detail oriented, self-motivated, and able to work independently or in groups.\n \n  Work Environment/ Physical Demands\n \n   Must have the physical ability to stand for extended periods of time, bend, climb, balance, stoop to grasp objects, kneel, crouch, crawl, frequently push/pull up to 100 lbs., frequently lift and/or move loads up to 50 lbs., and occasionally lift 75 lbs.\n   Occasional high stress when dealing with systems/customers/staff.\n   Able to work a flexible schedule with various shifts, including weekends and holidays, as determined by the store/business needs and as required to ensure adequate store staffing.\n   Must have reliable source of transportation.\n \n  The above declarations are not intended to be an all-inclusive list of the duties and responsibilities of the job described, nor are they intended to be such a listing of the skills and abilities required to do the job. Rather, they are intended only to describe the general nature of the job.\n  \n  Brand: Pete's Fresh Market \n  Address: 840 Plainfield Road Willowbrook, IL - 60527 \n  Property Description: Petes Fresh Market #13 \n  Property Number: 13\n",
+  "externalApplyLink": null,
+  "title": "Janitor-Chicago, Illinois12-04-2022 14_09"
+}]
