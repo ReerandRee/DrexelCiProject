@@ -1,0 +1,906 @@
+[{
+  "positionName": "Cashier/Sales Associate",
+  "salary": "$15.00 - $16.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "snipes",
+  "location": "New York, NY 10031",
+  "rating": 3.1,
+  "reviewsCount": 114,
+  "url": "https://www.indeed.com/rc/clk?jk=19815cb69e5d69f1&fccid=a17138c937721ed8&vjs=3",
+  "id": "19815cb69e5d69f1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:41.238Z",
+  "description": "\n\n Cashier/Sales Associate\n  We live sneakers, streetwear, and neighborhood culture! All Day! Every Day!\n  It’s an exciting time to be part of our growing retail company, with US headquarters in Philadelphia, PA. SNIPES is a global sneaker and streetwear retailer with almost 400 doors in Europe and 300 doors in the US. Key brands include Nike, Jordan, Adidas, Timberland and UGGs. Our mission is to move street culture forward through our communities.\n  To achieve this mission, we operate as an “entertainment company with a little bit of retail”. Our customer journey starts in our communities where we support, empower, and celebrate in order to earn the right to do business there. We are deeply engrained in our neighborhoods and work with many local partners to provide experiences and tell our stories – be it at food drives, music festivals, skate tournaments, dance contests, basketball games, or in one of our 700 state-of-the-art doors. To ensure our stories have reach, we also regularly work with global partners such as our Chief Creative Office DJ Khaled, Snoop Dogg, Rick Ross, or brands such as Sony PlayStation and Sprite.\n  We entered the US market in 2019 through two acquisitions and have been extremely well-received by our communities, customers, and brand partners. We completed our third acquisition at the end of 2021, and in March 2022 acquired a fourth company in the US. We are geared up to invest more in our communities, our brand, and points of sale to unlock further growth across the US.\n \n  Overview: Maintain the brand and overall appearance of the store. Responsible for providing excellent customer service including stock and replenishment\n  Responsibilities\n \n   Demonstrate leadership in driving sales and profitability by achieving or exceeding all established store and individual goals\n   Achieve or exceed all established goals. These include: sales, hourly productivity average dollar sale (ADS), units per transaction (UPT) conversion (if applicable), charge accounts and contests, and any other brand specific KPI’s\n   Have a complete working knowledge and use of selling skills and customer service standards as set forth in Company training programs\n   Develop and maintain relationships with customers through a friendly attitude and excellent customer service\n   Actively participate in all contests, promotions, and sales incentive programs. Responsible for contributing to efforts in the stores achievements\n   Meet company standards for appearance, performance, knowledge and personal grooming\n   Maintain an awareness of all sales promotions. Effectively handle multiple customers and projects. Ability to print merchandise tags in a timely manner\n   Understand and communicate customer merchandise needs and communicate with Store Management when the stores merchandise assortment meets, and fails to meet, the needs in your area\n   Ensure consistent control of merchandise and maintain cash wrap daily as directed\n   Demonstrate professionalism when dealing with customers. Answer the telephone in a friendly and professional manner\n \n  Key Partners\n \n   Store Management\n   Human Resources\n   District Manager\n \n  Qualifications\n \n   18 years of age (applicable divisions)\n   Accuracy in all assigned paperwork and/or register functions\n   Reliability in reporting to work regularly and on time\n   Able to work various shifts, hours, days and holidays to meet store staffing needs\n   Must present professional appearance and personal grooming\n \n  Skills\n \n   Great communication skills\n   Goal Oriented\n   Customer service skills\n   Fast learner\n \n \n \n   Note:\n \n \n \n   Job descriptions are used for informational purposes only, are not to be considered all-inclusive of responsibilities within a position and may change periodically with or without notice. In addition, we reserve the right to add, delete, change duties, formally or informally, verbally or in writing, at any time for any position. Job descriptions do not alter the at-will policy of the Company, meaning that the employee or employer can terminate employment at any time, for any reason, with or without cause.\n \n \n \n   Snipes USA and all its subsidiary Companies are equal opportunity employers. We will not discriminate or make hiring decisions based on race, religion, creed, color, national origin, sex, political affiliation, sexual orientation, or any other criteria that would violate any Federal or State laws.\n \n\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier - Urbanspace - Red Hook Lobster Pound",
+  "salary": null,
+  "jobType": null,
+  "company": "Red Hook Lobster Pound",
+  "location": "New York, NY 10169",
+  "rating": 3,
+  "reviewsCount": 8,
+  "url": "https://www.indeed.com/rc/clk?jk=8d5ca63089e73556&fccid=81724b6d2b49b46e&vjs=3",
+  "id": "8d5ca63089e73556",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:41.464Z",
+  "description": "We are looking for a fresh, friendly, energetic person to be part of our team. You must be passionate about food and deliver the best possible customer experience with every single transaction. The ability to multi-task is a must as you will be required to help customers, take phone orders, process online orders and smile. Experience with Square a plus but not required. Duties and responsibilities of the cashier will include greeting customers when entering or leaving our establishment, maintaining a clean and tidy checkout area and keeping reports of cash and credit transactions. \n\n Ability to multi-task , food-handlers certificate recommended but not required.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Retail Associate/ Cashier - Temp",
+  "salary": "$15.00 - $15.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "HomeGoods",
+  "location": "Staten Island, NY 10314",
+  "rating": 3.5,
+  "reviewsCount": 4072,
+  "url": "https://www.indeed.com/rc/clk?jk=6fcaf36e73a2b82e&fccid=8560c2a313694ce7&vjs=3",
+  "id": "6fcaf36e73a2b82e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:41.522Z",
+  "description": "\n\n Style is never in short supply at our more than 500 HomeGoods stores and we are constantly on a mission to provide the little surprises and extra touches that make a house feel like home. Same with working here. Our environment is ever-changing, yet always encouraging. Every shift is a new opportunity to Discover Different.\n  Posting Notes: HomeGoods Store 0521 || 2875 Richmond Avenue || Staten Island || NY || 10314\n  Job Summary: \n Responsible for delivering a highly satisfied customer experience demonstrated by engaging and interacting with all customers, embodying customer experience principals and philosophy, and maintaining a clean and organized store environment. Adheres to all operational, merchandise, and loss prevention standards. May be cross-trained to work in multiple areas of the store in order to support the needs of the business.\n  Responsibilities:\n \n   Role models established customer experience practices with internal and external customers\n   Supports and embodies a positive store culture through honesty, integrity, and respect\n   Accurately rings customer purchases/returns and counts change back to customer according to established operating procedures\n   Promotes credit and loyalty programs during customer interactions\n   Maintains and upholds merchandising philosophy and follows established merchandising procedures and standards\n   Accurately processes and prepares merchandise for the sales floor following company procedures and standards\n   Initiates and participates in store recovery as needed throughout the day\n   Maintains all organizational, cleanliness, and recovery standards for the sales floor and participates in the maintenance/cleanliness of the entire store\n   Provides and accepts ongoing recognition and constructive feedback\n   Adheres to all labor laws, policies, and procedures\n   Supports and participates in store shrink reduction goals and programs\n   Participates in safety awareness and maintenance of a risk-free environment\n   Performs other duties as assigned\n \n  Requirements:\n \n   Possesses excellent customer service skills\n   Able to work a flexible schedule to support business needs\n   Possesses strong organizational skills with attention to detail\n   Capable of handling multiple tasks at one time\n   Able to respond appropriately to changes in direction or unexpected situations\n   Possesses strong communication skills\n   Capable of lifting heavy objects with or without reasonable accommodation\n   Works effectively with peers and supervisors to accomplish tasks\n   Retail customer experience preferred\n \n \n  Pay Range $15.00 - $15.50 Actual starting pay is determined by a number of factors, including relevant skills, qualifications, and experience. Pay rate offered may be higher than posted range, depending on experience.\n  At HomeGoods, we embrace the unknown⁠ - with new products, new challenges and new ways to make a house a home. Our products add little, special touches to customers' lives and our people do the same for each other. Everyone supports each other to Discover Different - here and throughout the entire TJX family, which includes TJ Maxx, Marshalls, Sierra, and Homesense.\n  Discover Different means we embrace each other’s differences and unique perspectives. We consider all applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, gender identity and expression, marital or military status. We also provide reasonable accommodations to qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local law.\n  Posting Notes: HomeGoods Store 0521 || 2875 Richmond Avenue || Staten Island || NY || 10314\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6fcaf36e73a2b82e&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXi-HKw-PdwORaJgmUa5yIy0GQFsFDP3gSdjjHZnj9ZEfg&vjfrom=serp&astse=a79b9c94013a239f&assa=1314",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "WSAAF Express Cashier 0600-1200 Mon-Friday Occ Saturdays $15.00/HR",
+  "salary": "$15 an hour",
+  "jobType": null,
+  "company": "The Exchange",
+  "location": "42 Broadway Ste 2000, New York, NY 10004",
+  "rating": 3.6,
+  "reviewsCount": 164,
+  "url": "https://www.indeed.com/rc/clk?jk=27b694e78ac090fd&fccid=9a62d3a3c050f668&vjs=3",
+  "id": "27b694e78ac090fd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:41.734Z",
+  "description": "\n\n \n  \n   \n    Responsible for driving the customer experience through proactive and customer focused behaviors and actions. Actively evaluates customers' needs by listening, providing solutions, and making recommendations to maximize customer satisfaction and Exchange brand loyalty.\n    \n  \n  \n   Grade \n   \n    1\n    \n  \n  \n   Job Tier \n   \n    0\n    \n  \n  \n   Career Area \n   \n    Retail Operations \n   \n  \n  \n   Supervisor \n   \n    No\n    \n  \n  \n   Job Qualifications \n   \n    Completion of high school or the equivalent. Retail experience, demonstrated willingness, and potential for additional responsibility.\n     \n     If a sufficient number of qualified candidates do not apply, the minimum qualifications may be lowered without reposting.\n    \n  \n  \n   Salary Minimum \n   \n    $15.00\n    \n  \n  \n   Salary Maximum \n   \n    $17.07\n    \n  \n  \n   Facility Name \n   \n    DRUM WSAAF EXPRESS\n    \n  \n  \n   Major Duties \n   \n    Provides high level of customer satisfaction through excellent service. Greets each customer upon contact and/or line of sight, assesses their needs, suggests alternative options, and provides resolution. Keeps their needs foremost and creates a welcoming environment, actively engages, and builds trust relationship with the customer in order to deliver a personalized shopping experience.\n     Provides product knowledge through superior sales skills to serve the customer in one or more sales area, utilizes and adheres to merchandise presentation standards including, but not limited to, arranging space on sales floor, setting up promotional fixtures, displaying promotional merchandise signing, sizing, clearance, and cleanliness of the area assigned.\n     Provides assistance to customers with completing price changes, special orders, online orders, and rain checks. May provide assistance to customers with military uniform dress requirements, insignia, and new items. Will assist with determining minor alterations and submission of certification, as needed.\n     Actively communicates/promotes the benefits of the Military Star credit card, Exchange protection plan, and other corporate programs to customers to drive sales growth and increase customer brand loyalty.\n     Operates a cash register or other sales related equipment to enter new accounts, conduct sales, refunds, or similar transactions. Verifies and accepts multiple tenders for payment and makes change with accuracy and zero variance tolerance.\n     Assures compliance with fire, safety, sanitation, and security regulations, as well as ensuring the security of fixed assets, cash, and inventory. Practices loss prevention procedures and alerts security and management of potential problems that may involve fraud, waste, and abuse.\n     Performs other duties as assigned.\n   \n    \n  \n  \n   Number of Positions Remaining \n   \n    1\n    \n  \n  \n   Job Expires \n   \n    06-Dec-2022\n   \n  \n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=27b694e78ac090fd&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXivhS1hrCza3NMPpz9tPb_UQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=6e4dc54a5bddce42&assa=1560",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$15.38 - $16.91 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "snipes",
+  "location": "New York, NY 10033",
+  "rating": 3.1,
+  "reviewsCount": 114,
+  "url": "https://www.indeed.com/rc/clk?jk=5508a8a6f8782bde&fccid=a17138c937721ed8&vjs=3",
+  "id": "5508a8a6f8782bde",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:42.602Z",
+  "description": "\n\n Cashier\n \n  We live sneakers, streetwear, and neighborhood culture! All Day! Every Day!\n  It’s an exciting time to be part of our growing retail company, with US headquarters in Philadelphia, PA. SNIPES is a global sneaker and streetwear retailer with almost 400 doors in Europe and 300 doors in the US. Key brands include Nike, Jordan, Adidas, Timberland and UGGs. Our mission is to move street culture forward through our communities.\n  To achieve this mission, we operate as an “entertainment company with a little bit of retail”. Our customer journey starts in our communities where we support, empower, and celebrate in order to earn the right to do business there. We are deeply engrained in our neighborhoods and work with many local partners to provide experiences and tell our stories – be it at food drives, music festivals, skate tournaments, dance contests, basketball games, or in one of our 700 state-of-the-art doors. To ensure our stories have reach, we also regularly work with global partners such as our Chief Creative Office DJ Khaled, Snoop Dogg, Rick Ross, or brands such as Sony PlayStation and Sprite.\n  We entered the US market in 2019 through two acquisitions and have been extremely well-received by our communities, customers, and brand partners. We completed our third acquisition at the end of 2021, and in March 2022 acquired a fourth company in the US. We are geared up to invest more in our communities, our brand, and points of sale to unlock further growth across the US.\n \n  Overview:\n  Maintain the brand and overall appearance of the store. Responsible for providing excellent customer service including stock and replenishment\n  Responsibilities\n \n   Demonstrate leadership in driving sales and profitability by achieving or exceeding all established store and individual goals\n   Achieve or exceed all established goals. These include: sales, hourly productivity average dollar sale (ADS), units per transaction (UPT) conversion (if applicable), charge accounts and contests, and any other brand specific KPI’s\n   Have a complete working knowledge and use of selling skills and customer service standards as set forth in Company training programs\n   Develop and maintain relationships with customers through a friendly attitude and excellent customer service\n   Actively participate in all contests, promotions, and sales incentive programs. Responsible for contributing to efforts in the stores achievements\n   Meet company standards for appearance, performance, knowledge and personal grooming\n   Maintain an awareness of all sales promotions. Effectively handle multiple customers and projects. Ability to print merchandise tags in a timely manner\n   Understand and communicate customer merchandise needs and communicate with Store Management when the stores merchandise assortment meets, and fails to meet, the needs in your area\n   Ensure consistent control of merchandise and maintain cash wrap daily as directed\n   Demonstrate professionalism when dealing with customers. Answer the telephone in a friendly and professional manner\n \n  Key Partners\n \n   Store Management\n   Human Resources\n   District Manager\n \n  Qualifications\n \n   18 years of age (applicable divisions)\n   Accuracy in all assigned paperwork and/or register functions\n   Reliability in reporting to work regularly and on time\n   Able to work various shifts, hours, days and holidays to meet store staffing needs\n   Must present professional appearance and personal grooming\n \n  Skills\n \n   Great communication skills\n   Goal Oriented\n   Customer service skills\n   Fast learner\n \n \n \n   Note:\n \n \n \n   Job descriptions are used for informational purposes only, are not to be considered all-inclusive of responsibilities within a position and may change periodically with or without notice. In addition, we reserve the right to add, delete, change duties, formally or informally, verbally or in writing, at any time for any position. Job descriptions do not alter the at-will policy of the Company, meaning that the employee or employer can terminate employment at any time, for any reason, with or without cause.\n \n \n \n   Snipes USA and all its subsidiary Companies are equal opportunity employers. We will not discriminate or make hiring decisions based on race, religion, creed, color, national origin, sex, political affiliation, sexual orientation, or any other criteria that would violate any Federal or State laws.\n \n\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Automotive Service Cashier",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "BRAM",
+  "location": "40-40 Northern Boulevard, Queens, NY 11101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DITPj_WcA5_PRNU-xYw4JZrQdrgZX7wjR3k4NR5cXXgviu_P2CadDwCHdB5KDwoFAPlzm92fFSbzp_f1B7UoGXbUP1RmMDlfjQNMTyD9HqaYZtheaLJ_lphbKIRd42i9XWkMjqrE47dwRKV76iNy74x-s7MB5dgarK8kkXQJXXZfPty5EfTdCqom6rBI8rq2k_5dCSvktH36moTHvmqI41CrUJhAGnmipU5Wxn6haKPw_SU5ziiTCUkp_J_s64FkBkt-cDZpuMQom_LBjCpjfj5cDoxwsS0XippIULGsOJUraFdJ13xqftqJiCOzFiH86muaYNKBR0oLEHpABLx_uRr1kX3zzslNwBL5fcV5SzgYH78UohkgLCekium0axiSXEX_FZ0jwVNIlAXUkMLlSckdUhJqcV5V670DLFWveF7MfZUURsxwhkww-5WOAoQBKgnm2Q_5N20G6idK_EsIMGuwLUhRP6aw2C4epca4tAemTIn0ViNhlKbuOzqcOqic1v-lSP5uvWtDiYyI-vWv4t&xkcb=SoCT-_M3WvNeqS3I650PbzkdCdPP&p=4&fvj=1&vjs=3",
+  "id": "794cca72188cba9f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:43.421Z",
+  "description": "Job description\nBRAM Auto Group is one of the largest family-owned businesses in the Tri-State area serving customers in New York and New Jersey for over 50 years. BRAM is a premier automotive management group- we own and operate 16 innovative Dealership Locations representing Audi, Lexus, Honda, Toyota, Nissan, Jeep, Chrysler, Hyundai, and Chevy Brands.\nBRAM Auto Group has built a strong company reputation as a workplace that values innovation, upholds superior service, and rewards hard work and success. We offer a competitive total compensation package that includes: Medical, Dental, Vision, Life, 401K, Paid Vacation & Holidays, and more!\nAutomotive Service Cashier Responsibilities\nThe Automotive Service Cashier is responsible for processing all transactions accurately and efficiently in accordance with company’s established policies and procedures.\n\n Responsible for welcoming customers with a warm and sincere greeting\n Ensures excellent service standards and maintains high customer satisfaction\n Receives cash, checks, and credit card payments from customers and records the amount received in an accurate manner\n Provides proper change and/or receipts to the customers\n Provides exceptional customer service throughout checkout process\n Records transactions on daily settlement sheets and verifies against cash-on-hand\n Answers and transfers phone calls or take written messages when needed personnel not available\n Responsible for filing, scanning, and/or booking repair orders as needed\n Provides assistance to the accounting office as directed on an individual task basis\n Follows company safety procedures and policies\n\nAutomotive Service Cashier Qualifications\n\n Individuals employed in this position must have knowledge of basic arithmetic and skill in handling and counting cash accurately\n Individuals employed in this position must be able to stand, sit and mobilize through various dealership work areas (sometimes for extended periods)\n Individuals employed in this position must have excellent customer service skills and interpersonal communication skills; cultural sensitivity and demonstrates ability to work with diverse people groups\n Individuals employed in this position must have excellent verbal and written communication skills, including the ability to effectively present information and respond to questions and management\n Individuals employed in this position must demonstrate organizational and time management skills.\n Individuals employed in this position must demonstrate sufficient computer literacy\n Individual employed in this position must possess a positive attitude and commitment to adhere to and administer company policies, procedures and standards\n\nJob Type: Full-time\nPay: From $16.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n Life insurance\n Paid time off\n Referral program\n Vision insurance\n\nSchedule:\n\n 8 hour shift\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "High Skill Cashier",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "RJ Lieb NYC Staffing Inc.",
+  "location": "New York, NY",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=459266219e1a6188&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "459266219e1a6188",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:43.612Z",
+  "description": "\n \n  Prestigious NYC Schools need Cashiers!\n \n \n   Manage transactions with customers using cash registers\n   Scan goods and ensure pricing is accurate\n   Collect payments whether in cash or credit\n   Issue receipts, refunds, change or tickets\n   Redeem stamps and coupons\n   Cross-sell products and introduce new ones\n   Resolve customer complaints, guide them and provide relevant information\n   Greet customers when entering or leaving the store\n   Maintain clean and tidy checkout areas\n   Track transactions on balance sheets and report any discrepancies\n   Bag, box, or gift-wrap packages\n   Handle merchandise returns and exchanges\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Duane Reade Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "WALGREENS",
+  "location": "New York, NY 10023",
+  "rating": 3.5,
+  "reviewsCount": 39747,
+  "url": "https://www.indeed.com/rc/clk?jk=a873af103432c39b&fccid=fefd75f5326e1589&vjs=3",
+  "id": "a873af103432c39b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:44.545Z",
+  "description": "\n Founded in 1960, Duane Reade is the largest drug store chain in the metropolitan New York City area, offering a variety of prescription and over-the-counter drugs, health and beauty care items, cosmetics, greeting cards, photo supplies, and photofinishing.\n  \n  A cashier is the last point of sale so the cashier should be able to leave a lasting impression on the customer to want to come back. A Cashier is responsible for maintaining outstanding customer service as per Company standards, processing sales quickly, accurately and efficiently, cash register operations and safeguarding company assets.\n  \n  Key Responsibilities:\n  \n \n  Greet customers entering Duane Reade location\n  Process all sale transactions by receiving payment by cash, check, credit cards, vouchers, or automatic debits.\n  Process merchandise returns and exchanges.\n  Register customers for the Dollar Reward Savings Club card.\n  Answer customers' questions, and provide information on procedures or policies.\n  Compute and record totals of transactions.\n  Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change.\n  Issue receipts, refunds, credits, or change due to customers.\n  Issue trading stamps, and redeem food stamps and coupons (if applicable).\n  Maintain clean and orderly checkout areas.\n  Monitor checkout stations to ensure that they have adequate cash available and that they are staffed appropriately.\n  Resolve customer complaints.\n  Compile and maintain non-monetary reports and records.\n  Stock shelves, and mark prices on shelves and items.\n  \n  \n Basic Qualifications\n  \n \n  Must be fluent in reading, writing, and speaking English.\n  Requires willingness to work flexible schedule, including evenings and weekend hours.\n \n  Preferred Qualifications\n  \n \n  Prefer six months of experience in a retail environment.\n  Prefer to have prior work experience with Duane Reade.\n \n  An Equal Opportunity Employer, including disability/veterans.\n  \n  To see the salary range for this position please click here: Pay Transparency Duane Reade Cashier . If you are applying on a job board or\n  unable to click on the link, please copy and paste this URL into your browser https://jobs.walgreens.com/en/paydrc\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=a873af103432c39b&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhO4B0CPRmvFtpklYxepc7MXAwdulcUk0atwlDdDDqlBQ&vjfrom=serp&astse=cf7dd5127d728005&assa=4427",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Seasonal Cashier (PT)",
+  "salary": "Up to $20 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Madison Square Garden Entertainment",
+  "location": "New York, NY",
+  "rating": 3.9,
+  "reviewsCount": 577,
+  "url": "https://www.indeed.com/rc/clk?jk=2de2ac62468c12d6&fccid=4d2b33d40412d480&vjs=3",
+  "id": "2de2ac62468c12d6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:45.215Z",
+  "description": "\n \n  Job Details:\n \n \n   Process cash and charge transactions for merchandise and food/beverage selling areas.\n   Walking and selling various food, beverage & merchandise items throughout the theatre and front-of-house.\n   Prepare display merchandise & sell products to patrons in a friendly and courteous manner.\n   Assist merchandise, concession and bar asst. supervisors in the set-up of the assigned selling area.\n   Verify cash bank, complete and sign a cashier’s worksheet in the money room.\n   Notify the Team Leader of product that requires replenishment during an event.\n   Assist patrons in their selection of merchandise by answering any questions they may have.\n   Have a working knowledge of the theatre policies and important locations, i.e. restrooms, telephones, medical, security, etc.\n   Answer and direct patrons in a courteous and professional manner.\n   Assist Team Leader in the closing down of merchandise, concession and bar areas at the conclusion of an event.\n   Verify actual cash total with signature.\n   Participates in special projects and performs other duties as assigned.\n   Maintains Health Dept. standards and executes the procedures in place.\n   Strong communication skills with a focus on customer service.\n   Must be able to handle transactions without a register.\n   Must be comfortable with heights.\n   Must be able to complete daily and nightly inventory.\n   Flexibility in scheduling with the ability to work at least 4 days/nights a week including weekends and holidays.\n   Must have strong communication skills with the ability to multi-task and partner with asst. supervisors to handle customer service issues.\n   Must be flexible to rotate positions within a shift.\n   Must be receptive to working outside in inclement weather and extreme temperatures.\n   Ability to lift up to 25 pounds.\n   Ability to stand and move about the theater throughout the duration of the shift.\n   Ability to work a flexible schedule including nights, have split days off, work weekends and holidays in a 24 X 7 environment.\n \n \n   \n   At MSG, we’re committed to partnering with employees to develop their skills and grow their careers. While this position is seasonal, there is an opportunity to become regular based on performance and need. We pride ourselves on internal mobility and have invested in a robust set of tools and resources to help employees harness their talents to build a career as unique as the unforgettable experiences we provide our guests.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "CASHIER",
+  "salary": null,
+  "jobType": null,
+  "company": "MAZZONE ACE HARDWARE AND PAINT CENTERS",
+  "location": "Brooklyn, NY 11231",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=11e3f3a3871a6627&fccid=ecfe2fbe06036cd5&vjs=3",
+  "id": "11e3f3a3871a6627",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:45.614Z",
+  "description": "General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation of Mazzone Ace Hardware. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Clear customer checkout lines quickly and efficiently. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Continually build product knowledge base and possess the ability to assist customers with store layout and product location. \n Assist in pricing, stocking, marking and bagging of merchandise. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Adhere to any Store Support Center program or promotion that may require implementation at the cash registers. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. \n Assist with keeping impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure forms and supplies are stocked at all times. \n Perform all other duties as assigned. \n Education/Training \n\n High School or GED equivalent. \n\n Experience \n\n Cashier experience preferred. Customer service experience preferred. \n\n Physical Demands \n\n Standing, walking, lifting (up to 25lbs) and climbing.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=11e3f3a3871a6627&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhAqsvalgat_3K8TvXlCbYoXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=3e454109bd6779c6&assa=4033",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Retail Associate / Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Smith & Mills",
+  "location": "New York, NY 10013",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AmHUKKFEYPBJCniSZuF4qKvtPe5mDIb9y4sPTstoTImsW137GhbegPngjclG9LUhyjQ5oECzcbiEuoG3bFS57kiZf4FpVAYUXwzLfJ19EXA-5KCjHp6LU9mft4tUCUBBxxkoViT-trafKPzjCe3fp-NkGIhUP7eTAdAz_FPS29meG6EA82iCmMBFSdsXXf76IHNLMeK21DOvqcLGtWUIEPAb9mZVo5ymV8TGIa4GvdTdc8N1DLgDdILnpY-RZ7cxYvHVBD6gH1obSwkC5XznWfPAcesTv8nTcOzK5jvq1Zg3fPyKM86A7uNdwpyH6q7u2GDdlQsbvlubejbQ0McbjkrPViqZO8RXaKmbxe-FUH0foqIBslV8knK8acUiBiN45lcy-krANO2hWstj8K8nO9hwis9j5OZlJBWh7DWZXEYRCJsRpq-6HqC93rjqraGvlXfWX9meM3e2EbCniBRKfhkh6rPYXHIfa790IJC65TV0C12EveZvBTb83-JDFtdzTpkztALGBVdyEYJi7tyt7dUJySeugL64t35MATEU6bY7ecInfKm4kAguQUlw4xQ3jCUCNhiL8pUN5Ol2i-JhXJ09CBdmQwxCUb6GTG6-i6ZWf1vT7fSzIaQq1ipHcG20cHBvWKQMb93THYKCSLUieDyZJfO5Rtqt1gPpyER22yjk6-VyFd-oFpsNhr2TgUmtRJGPZi1UQnxsv13nwPur2XE--8Tov8cdBM1Ux9LYh-l4KF4T4kk5pfppA_9-bFOonfwUlxx2AU8jEmsFOljRqmPhAqil__bP2nH2-tPsimwLbs8o4ckN24n68KMiCLB503BZOMv2ImBHePWtlrJeMqu5ukDGw5cuqVp7_GOKLYrXTsPDLV5ljlGBvJiA4TWuVgo6S3tjp6jUBG4SEGfT6yiQLXTjEvKAoKKduKn5FQYYAqGFofVRZMWiMhis9snilB550Y41wA6WyURLx2Tv_7fpXeC41i7l95G9lYSw16dBALJvY8shEfZaVFoMQVlEc_16PUx9YYpplNMyoeXESl&xkcb=SoA0-_M3WvNeqS3I650KbzkdCdPP&p=1&fvj=0&vjs=3",
+  "id": "602bb8063401d8db",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:45.511Z",
+  "description": "Great fun job opportunity for the holiday season, we are looking for energetic individuals to work by the iconic Ice ring/ The Christmas tree at Rockefeller Center. \n\n More detail about Smith & Mills, please visit https://culinaryagents.com/entities/3417-smith-mills",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=602bb8063401d8db&from=vj&pos=bottom&mvj=0&spon=1&adid=399152493&ad=-6NYlbfkN0AmHUKKFEYPBJCniSZuF4qKvtPe5mDIb9y4sPTstoTImsW137GhbegPngjclG9LUhyjQ5oECzcbiEuoG3bFS57kiZf4FpVAYUXwzLfJ19EXA8wjDE051bCbqFTDMqaA5-QnDxPjkQ29RikUiQxch64NG7WFTBJshxRRRBHkPQjnFkDsqr-3wTRiMyJ301stT20alHHR0QA5YH-LutP08bAZ86BIFWEh0o_CL4Zu36DmMxtM3SFQPIbzli2Fam7cWeMXWZPUXuQgIkdrX9speD2HFyNo-gN0AX6i8jLjvvUym_aF6rRI-r6oZ_CdJXScgvBXouUocve8ep5UmXGVUAYk7dUEjoFSdBmRCM4IOZwScy7k8KCwewe8&sjdu=wTYGs8Q6eAQblfi0glrWoe2fHSufw0U1pOiGO6MbUtRPv_Hxo1LisvCXUXizrpK0R7t6MyLA8y14ThZckwLoWj0nGOjJoEbSc-P8bQsI9gNAetkXEGoeQQ8BsxuIM1F8r1L_S-9MMX-rakNNFvomWyiVHSiSlBgKcKg6C4OY5M1uMq-nq4LOIxDb41cajc-5fUuk8hecrmF5azhkWtCknKMXo27DMKTsNOI_NE6LI-fio1upZPfhvJh7xULFRWn9TgFln4TNqIOoqmlcbCKnxRn8IX8P0GLfPf3UtN_8Jx3aWUd3HQIhBe7vbVoa1l3h&vjfrom=serp&astse=4504446844eb87ae&assa=5193",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Retail Associate / Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Neighborhood Projects",
+  "location": "New York, NY",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AmHUKKFEYPBJCniSZuF4qKvtPe5mDIb9y4sPTstoTImsW137GhbegPngjclG9LUhyjQ5oECzcbiCX0VGM_-qNWfSWYeeOL2EvD9BeWvfXmCDhGgN-Na91HUvRVrqA7TsrH4DmwHWQ-1YySWfOVof-tqlqDoAINPJ7_Yw6ntg7TkeO18OByqaUr2M2oYaHxvlMlBhhdAYdaIgTqI723E35gCnN844S9u-XS23X14TITWPeUyeqvqIPAvblTJk2PQSlqNZUQweTlbkwLMeDXu2dN8NsLg0byqB_fvBVti3RCG24x99a5Q4I3Tvq-WAlV4pQQ-ENTgrLMLO1GMEiPAZA306PQBYW9nevS41Llx_Q_O4tDMZt3EYY32j-jBp1Qeape18Yb3PlMjt9U0ca_j2cr_gzIBPbhYJce7bdc5DKq0y-D7Ck-c88xxsxlAt9l1-R0CMg-ZdwwUDuCOIsnQVrF53Hk6CxAsud1Evh1vdPNMF-hVxlyBzsb1E0zVmzmGN7V9Xig9PBMl-dL80hxfY9arlhzN8nJCu6U9Beerc2YIRPYfJKfeot0MV7A-3b5VoQhVsFzzoua38j2ymzmo-uFlcVgKlUTeVGMXLhT6F95IWp6fb-tLKwVr1Tl7eHr8wS5SLUimAH9Wf7StaTZN8kazsSIdex37GeiHPajRBNJZ6dDoCJS543PsoTx7tSrRVw0-DS72n9uC805yycGhgP6DYGBZ_DcOViLJa2BlXxW4MhL8sjJkQPVfVtSKadHmNkwcjSzjPwBDb5EPa9ofmibZDpnmGhsLyUQzT-8gieNaHqqP0ZJvEXZ93Rntkf4hvkj-wRnAJ1e21RS3SeMx261xTW1UwD_chvDEy7pO3WjPnL20dzmRZerleWDCxp0w2tVpv25hOTdaHmHGSNoMIQdklgOmRUAI3Waf0wJOBWC7oRA9IgXI0UOjqSkNBacUpi75A8INpdZncSmJutWU-nHt61yxoOLkzvDyvvauF-mTFKzN4f0lz6KyIwaviIQKQ1NZp_oLG70ZesjiFzLyHho&xkcb=SoCA-_M3WvNeqS3I650LbzkdCdPP&p=0&fvj=0&vjs=3",
+  "id": "ba710c15e5da2ced",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:46.909Z",
+  "description": "Rock center ice rink concession is open, we need energetic individulas to work full/part time as cashiers. \nJoin a fun team for this holiday season!!! \nMore detail about Neighborhood Projects part of Neighborhood Projects, please visit https://culinaryagents.com/entities/434795-neighborhood-projects",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=ba710c15e5da2ced&from=vj&pos=bottom&mvj=0&spon=1&adid=399152493&ad=-6NYlbfkN0AmHUKKFEYPBJCniSZuF4qKvtPe5mDIb9y4sPTstoTImsW137GhbegPngjclG9LUhyjQ5oECzcbiCX0VGM_-qNWfSWYeeOL2EvD9BeWvfXmCJcd2UeH8F71T4mNo-w94gPNLzOgnGvCQgMwS9--5BJkOGNjJK-TAJoY5xrpjDYEIe96liej0SORXuGHEzg4oLN6Hz-2chMzF5SitI9IUJ5rDIB-lFcZ1ZNu4dbRdG6egB0HX2rwzyLargxMNUk_5lQJ6xW9wDTQUdyQpw8IapZD73fSCMtLIq0KciF_wwJKoo9yHC5EPGuCJ205rUO-GKRhUPne8rNysPos0tx0gsnJma9C9ACubJBTfg0xmDshk5LmTDmQAQYd&sjdu=wTYGs8Q6eAQblfi0glrWoe2fHSufw0U1pOiGO6MbUtT3602oFgQVhjHpUbYojLfBR7t6MyLA8y14ThZckwLoWj0nGOjJoEbSc-P8bQsI9gNAetkXEGoeQQ8BsxuIM1F8r1L_S-9MMX-rakNNFvomWyiVHSiSlBgKcKg6C4OY5M1uMq-nq4LOIxDb41cajc-5fUuk8hecrmF5azhkWtCknKMXo27DMKTsNOI_NE6LI-fio1upZPfhvJh7xULFRWn9TgFln4TNqIOoqmlcbCKnxRn8IX8P0GLfPf3UtN_8Jx3aWUd3HQIhBe7vbVoa1l3h&vjfrom=serp&astse=66463418a518dfd9&assa=6529",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Floor Associate/Cashier",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "CVS Health",
+  "location": "New York, NY 10010",
+  "rating": 3.3,
+  "reviewsCount": 40799,
+  "url": "https://www.indeed.com/company/CVS-Health/jobs/Floor-Associate-Cashier-77d2508ce9db49c1?fccid=be3b11aa573faee7&vjs=3",
+  "id": "77d2508ce9db49c1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:48.896Z",
+  "description": "Provide great customer service\nMulti-task\nPush company initiatives\nSales floor work\nTruck\nJob Type: Part-time\nPay: From $15.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n Evening shift\n Monday to Friday\n Overnight shift\n Weekend availability\n\nShift:\n\n Morning shift\n Overnight shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10010: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Retail Cashier Associate",
+  "salary": "$15.00 - $15.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "TJ Maxx",
+  "location": "New York, NY 10107",
+  "rating": 3.6,
+  "reviewsCount": 10562,
+  "url": "https://www.indeed.com/rc/clk?jk=112b27816770de1f&fccid=26c4ea497c27a6c6&vjs=3",
+  "id": "112b27816770de1f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:49.226Z",
+  "description": "\n\n Style is never in short supply at our more than 1,000 TJ Maxx stores. They all have different products, but the same commitment to the thrill of the find. From designers straight off the runway to statement jewelry, we offer exciting surprises that make the everyday a little more fun. Same with working here. Our environment is ever-changing, yet always encouraging. Each shift is a new opportunity to Discover Different.\n  Posting Notes: TJ Maxx Store 1163 || 250 West 57th Street || New York || NY || 10107\n  Job Summary: \n Responsible for delivering a highly satisfied customer experience demonstrated by engaging and interacting with all customers, embodying customer experience principals and philosophy, and maintaining a clean and organized store environment. Adheres to all operational, merchandise, and loss prevention standards. May be cross-trained to work in multiple areas of the store in order to support the needs of the business.\n  Responsibilities:\n \n   Role models established customer experience practices with internal and external customers\n   Supports and embodies a positive store culture through honesty, integrity, and respect\n   Accurately rings customer purchases/returns and counts change back to customer according to established operating procedures\n   Promotes credit and loyalty programs during customer interactions\n   Maintains and upholds merchandising philosophy and follows established merchandising procedures and standards\n   Accurately processes and prepares merchandise for the sales floor following company procedures and standards\n   Initiates and participates in store recovery as needed throughout the day\n   Maintains all organizational, cleanliness, and recovery standards for the sales floor and participates in the maintenance/cleanliness of the entire store\n   Provides and accepts ongoing recognition and constructive feedback\n   Adheres to all labor laws, policies, and procedures\n   Supports and participates in store shrink reduction goals and programs\n   Participates in safety awareness and maintenance of a risk-free environment\n   Performs other duties as assigned\n \n  Requirements:\n \n   Possesses excellent customer service skills\n   Able to work a flexible schedule to support business needs\n   Possesses strong organizational skills with attention to detail\n   Capable of handling multiple tasks at one time\n   Able to respond appropriately to changes in direction or unexpected situations\n   Possesses strong communication skills\n   Capable of lifting heavy objects with or without reasonable accommodation\n   Works effectively with peers and supervisors to accomplish tasks\n   Retail customer experience preferred\n \n \n  Pay Range: $15.00 to $15.50 per hour.\n  Actual starting pay is determined by a number of factors, including relevant skills, qualifications, and experience. Pay rate offered may be higher than posted range, depending on experience.\n  At TJ Maxx there’s so much potential to discover something new. A new day means new merchandise, and a fresh chance to reinvent retail. Discover Different means that we want you to bring your whole self and your sense of style to work with you every day - just as Associates do throughout the entire TJX family, which includes Marshalls, HomeGoods, Sierra, and Homesense.\n  Discover Different also means we embrace each other’s differences and unique perspectives. We consider all applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, gender identity and expression, marital or military status. We also provide reasonable accommodations to qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local law.\n  Posting Notes: TJ Maxx Store 1163 || 250 West 57th Street || New York || NY || 10107\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=112b27816770de1f&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhnyjlmFkUa4ZmK3i-1IPtrVAq81dAHm7GpE1MqdfeWCQ&vjfrom=serp&astse=ce0b3d974e8d3ee1&assa=9078",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier and Customer Service",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time",
+    "Temporary",
+    "Contract"
+  ],
+  "company": "Koplin auto body",
+  "location": "Elizabeth, NJ 07201",
+  "rating": 4.5,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/company/KOPLIN-AUTO-BODY/jobs/Cashier-Customer-Service-61fce77d7b0ecad2?fccid=23f5489765849722&vjs=3",
+  "id": "61fce77d7b0ecad2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:50.372Z",
+  "description": "Looking for a candidate to assist answering phones, giving customer updates, and filling. Great customer service. Must know Microsoft Excel and word.\nJob Types: Full-time, Part-time, Temporary, Contract\nPay: From $16.00 per hour\nBenefits:\n\n Health insurance\n\nShift:\n\n 8 hour shift\n\nCOVID-19 considerations:yes we offer masked if needed\nAbility to commute/relocate:\n\n Elizabeth, NJ 07201: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Retail Associates & Cashiers: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Receptionist/Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Metro Honda",
+  "location": "Jersey City, NJ",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DEYXjzImNX0uBX3pfNgAVTpz0ejpII8FnoJhvM_1208ZFTtHopRvhbBsVp60h73ixf4YxVWgVP5TjDqNZkE02Ve_CqhhtXKypELRcNZBmi5S0Y9wn9k5QdfWiXiAB9BJx4T09xtBNuzTbWjPq9rO0RINohFkCl3YMQBs7TtQ8oeUqElduYufYL25NoBv7bmZnnN9lq8v6u3yw4-IMntWUqbhiO4TzCbH3c5fxR_M3ftLiCQ1W18z6l2QOjz3FtAM0EgQAa4kF1ekmt7AmlyTzwoEE514eCAUHCc9HCmjo7yN6_rw4tlcTYrPU-E-lLBkqO6EJSVrwOAkOpvvnVEWB3IRKwiZUr-Ubw5BUBDZ6mgxkcJZJ3Eu6iUo4N3g3wcnHn5tEUgUghPWuFzkSR97X2dsdFhdktEV21z_S0I9SGq70h_thhkCXWgwsSqjR5Hie7eXrA3_7pPSiMIrRnWy0MJSM5ZtV_AWaq4-HikPH11SfT5-sYjcBZNfLT3CbKA70=&xkcb=SoAi-_M3WvNdRBgzkT0IbzkdCdPP&p=4&fvj=1&vjs=3",
+  "id": "3e1165a61cba6151",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:51.309Z",
+  "description": "Metro Honda is looking for full and part time receptionists and cashiers. Great opportunity and opportunity for advancement. Good starting pay rate and benefits for full time. Must be personable and reliable. Send resume.\nJob Type: Full-time\nBenefits:\n\n 401(k)\n 401(k) matching\n Employee discount\n Health insurance\n Paid time off\n\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Harlem Shake",
+  "location": "New York, NY 10027",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=3bccda5450bbaced&fccid=eedbfa817037e137&vjs=3",
+  "id": "3bccda5450bbaced",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:51.557Z",
+  "description": "Are you looking for a place where you can enjoy your work? Harlem Shake's purpose is to create a great environment for people on both sides of the register. We believe if our team members are cared for and happy, they will return the same treatment to the guests and this will be felt both by our guests and by our sales tally. \n\n Why should you apply to this position today? \nWe believe in enriching your personal and job skills, and providing you with a jumping board to professional growth, whether in Harlem Shake or another future career path. And, you will learn some fun Harlem culture along the way! \n\n Harlem Shake believes that we are in the community and for the community, and giving back to the neighborhood we grew up in is one of our big priorities. We partner with local schools, churches, and non-profits to contribute and donate to their causes. Our annual MHS (Miss/Mister Harlem Shake competition) is a great way for us to give back to the community and have so much fun! \n\n Even though we're humble, we are not strangers to our share of fame. In tribute to the New York of old, Harlem Shake features famous guests on our Wall of Fame. From actors, musicians, politicians and athletes, all have some tie to Harlem and each photo is signed personally to Harlem Shake. Wall of Fame includes such greats as Janet Jackson, Bill Clinton, Maya Angelou, George Maysles, Corey Hawkins, Neil-Patrick Harris, P-Diddy, Shaquille O'Neal, Omari Hardwick, Natasha Polanco, among more than 200 others. In addition, Harlem Shake was the location for numerous celebrity photo shoots and video productions, most recently Teen Vogue, Seventeen Magazine, Love and Hip-hop show, Black Ink Crew reality show, The Waitress Musica, Linkedin, Dietland, “She Don’t Like Me” video by Ron Brows and Remy Ma, “Hello Again” movie featuring Rumer Willis. So, you never know when you will spot a star walking by! \nHarlem Shake is an Equal Opportunity Employer. \n\n Requirements/Responsibilities \n\n \nJob Summary:\n Cashiers Operate cash register but do so much more than just that. They are the ambassadors of the restaurant to numerous guests and tourist visitors from around the world. They represent local pride and provide great hospitality. They are knowledgeable about our food, beverages, merchandise, history, and culture. They have a good to the fluent command of English language. They greet and serve guests in a fast, efficient and polite manner. They make sure each and every guest is taken care of and happy when they leave. They are great team members who support their co-workers and supervisors in achieving common goals and genuinely care about the team. \nAll of our employees can come from different backgrounds and walks of life, but what we are looking for is something special, that will allow them to blend in seamlessly with the existing crowd of greatness. \nHere are a few attributes you must be pretty sure you posess if you think a job with us is not going to be just a waste of your, and our time: \n\n 1. You are reliable. You understand delayed MTA schedules and winter blues days, but you always rise against those obstacles and somehow make it where you had committed to arriving, on time, all the time. You know that this will be a nice thing to see in your teammates. You give that respect and you expect it back. \n2. You have integrity. You understand guests and team members depend on your best behavior, and you are excited to deliver it in a disciplined manner for common good. \n3. You are passionate about personal growth. You know you want to learn, grow and prosper and you are ready to make efforts to improve yourself along the way and keep planning and dreaming up ways on how to better yourself. You always strive to accomplish more even when others don' see anything else that needs to be done. \n4. You are humble. If you can't admit weakness, confess mistakes or ask for help from others, this will be a difficult place to work. Everyone makes mistakes, but being able to accept it and let the more experienced team members teach us, will make a big difference in our ability to learn and grow. \n5. You are diplomatic and wise in communication. You often think about and have a good understanding of the impact your words, body language, and attitude have on people. You are naturally aware what and when might be good, or not good, to say. \n\n Please take a minute to think about the above qualities and ask yourself if this kind of workplace that will push you to project them is what you are looking for. We respect that everyone does not have the same preference when it comes to this. We think it is very important to come to work with joy- and we strongly believe that people who would not find themselves at home with the above qualities will not enjoy working here and would not prosper. \n\n Special Instructions \n\n Harlem Shake is an Equal Opportunity Employer. \nPlease do not send any emails, resumes, or call. \nWe are making it really easy to apply for this position. \n\n Simply submit a ZippyApp application package which may include the Common Employment Application, Resume, and a Cover Letter. In your Cover Letter, please write a short paragraph describing yourself and why you would make a great addition to our team. \n\n Thank you for your interest! We look forward o discussing the possibility of you becoming a team member! Press the Apply button to get started now. If you already don't have a Zippy App account, follow the on-screen instructions to create one. \n\n ZippyApp is the Common Employment Application for online and mobile that allows you to apply for jobs with one click, and is being accepted at a growing number of businesses each day.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Seasonal Cashier Associate",
+  "salary": "$15.75 an hour",
+  "jobType": [
+    "Part-time",
+    "Contract"
+  ],
+  "company": "JD Sports Fashion",
+  "location": "New York, NY 10036",
+  "rating": 3,
+  "reviewsCount": 3465,
+  "url": "https://www.indeed.com/company/JD-Sports-Fashion/jobs/Seasonal-Cashier-Associate-2008e7fea8885f28?fccid=771066a9255d9186&vjs=3",
+  "id": "2008e7fea8885f28",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:52.312Z",
+  "description": "\n Please note must be vaccinated and must be 18+ years of age.\n Identify sales and KPI improvement opportunities and communicate suggestions to store management to address them and drive commercial success\n meeting or exceeding customers expectations\n cashier operations and completing sales transactions quickly and accurately while adhering to cash protection procedures\n Be a resource for Retail Professionals in dealing with complex customer service situations\n Be a Brand Ambassador, consistently exhibiting the Brand Attitude and Values\n Use advanced Category expertise to successfully meet the specific needs of even the most demanding customers\n Adhere to all established policies and procedures\n Process merchandise deliveries quickly and effectively, and constantly replenish merchandising fixtures to ensure the store s entire product offer is represented on the sales floor\n Complete cash register transactions quickly and accurately\n Minimize loss in the stockroom, the sales floor and the cash wrap\n Perform all store operations in a safe, effective and efficient manner\n Collaborate productively and respectfully with team members\n Make yourself available to support other team members when needed\n Complete all applicable training programs and effectively apply the learning on the job\n Handle returns, refunds and exchanges and use these as an opportunity to build sales and customer loyalty and to follow retail policies and procedures.\n\nJob Types: Part-time, Contract\nPay: $15.75 per hour\nBenefits:\n\n 401(k)\n Employee discount\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10036: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Mimi Cheng's Dumplings is hiring cashier/team members",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Mimi Cheng's Dumplings",
+  "location": "New York, NY 10023",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Mimi-Cheng's-Dumplings/jobs/Mimi-Cheng-Dumpling-Cashier-Team-Member-c6c4374d119fb3a2?fccid=73ea79e3a5098821&vjs=3",
+  "id": "c6c4374d119fb3a2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:52.477Z",
+  "description": "Mimi Cheng's Dumplings, an expanding and very popular Taiwanese dumpling restaurant using family recipes, is hiring team members, who have great customer service experience!\nIf you're hired, the position entails:\n\n providing delightful customer service\n straight forward prep\n cooking\n cleaning\n\nAs the kind of individual that we’re looking for, you:\n\n are punctual\n have workable knowledge of food preparation methods\n are always looking to learn and improve\n have your food handlers license (or are willing to get it within the first month). We pay for the test once you pass\n have weekday and/or weekend availability\n\nWhat Mimi Cheng’s offers you:\n\n An inspiring and positive work environment in EV, or UWS and a chance to grow with us\n VERY competitive wages ($15 base + tips = hourly rate after tips comes out to $18-20)\n Flexible schedule to maintain a healthy work life balance. Shifts are 11:00a-9p. Half shifts are available too.\n\nJob Type: Part-time\nPay: From $15.00 per hour\nBenefits:\n\n Flexible schedule\n Food provided\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10003: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Customer service: 1 year (Required)\n Cashiering: 1 year (Preferred)\n Food preparation: 1 year (Preferred)\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier, accounts receivable and General office",
+  "salary": "$21 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "M&V Provisions Co.",
+  "location": "Ridgewood, NY 11385",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/M&V-Provisions-Co./jobs/Cashier-0787cf384b22e8f0?fccid=f903b5e38b7d418e&vjs=3",
+  "id": "0787cf384b22e8f0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:52.703Z",
+  "description": "Wholesale Food Distributor in Ridgewood Queens is currently accepting resumes for Cashier/Accounts Receivable/General office Clerk\nHOURS Monday to Friday4:00 AM - 1 PM (Mon-Thursday) and 4:00 AM-12 Noon (on Fridays.)While we know this is a VERY EARLY start time, you are out by 1pm and by 12 Noon on FridaysNO WEEKENDSWe are a VERY safe, well lit, clean facility with friendly employees.We also provide a security team so that all employees and customers are safe at all hours.\nJOB DESCRIPTION\nExperience in cash handling and account receivables is a plus.\nThis position is very similar to a bank teller.Much of this job requires you to collect payments from our customers. This is a high volume, fast paced position and requires someone to be focused and very well organized. Payment typically come in the form of cash, many checks, ACH, and credit card. You will be required to correctly count and post all payments to the correct account as well as process these payments utilizing a cash register. All of your transactions must be accurate as you will be asked to \"prove out\" at the end of each shift in order for you to create your deposit.This position typically gets very busy in the early morning therefore we are looking for someone who will be punctual, mature, focused, detail oriented and organized. After your shift of a few hours, you will also be tasked with general office work such as filing, processing invoices, data entry, scanning checks, posting customer payments answering phones, resolving customer issues and account questions in a professional, friendly and courteous manner.\nPAYStarts at $21.00/hr ($31.50/hr) for overtime hoursAnnual merit raises thereafter.\nBENEFITSMedical (including dental and vision) are excellent (Oxford) and available after 3 months of employmentPaid Vacation 1 week after 1 year. 2 weeks after 2 yearsPaid Holidays (7) although we do ALSO work from 4am to 9am on 4 Holidays (not New Years Day, Christmas Day and Thanksgiving) After 3 months you earn Holidays and are paid 8 hours when you punch in..plus the hours you work that day. Typical Holiday days that we work are MLK Day, Memorial Day, Labor Day, July 4th\nPROFIT SHARINGThere is a profit sharing program for every employee. This is an excellent benefit, your own retirement plan funded 100% by our profit sharing program which is funded annually based on the profits at year end. They are also invested professionally for you and you receive an annual statement\n401KIN ADDITION to a profit sharing program we also have a 401k Program which has a guarantee of 3% of your salary contributed by the Company into your account as well as an option for you to invest your own pre or post tax money. You also choose the investment that best fits your needs.\nOVERTIMEOvertime is paid EVERY DAY after 8 hours.Although position starts at 4am, building opens at 3am, if you wish to start before 4am, that time is also at OT\nSICK DAYS (5) we also PAY YOU for all unused sick days left over at the end of the year.\nPLEASE EMAIL YOUR RESUME (and if you wish, anything else you would like us to know)NO WALK IN's WITHOUT APPOINTMENT\nBackground checks are a MUST and will be run for any candidate offered a position.\nThis is a very steady full time position.WE ARE LOOKING FOR LONG TERM EMPLOYMENT!We have been in business for over 73 years.We are 2 blocks from the Jefferson Ave subway station in Ridgewood QueensWe are only looking for someone who wants a full time job with full benefits. Applicant must be able to work well with others in a small office. Must be Responsible, punctual, reliable and mature.\nJob Type: Full-time\nPay: $21.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n Monday to Friday\n Overtime\n\nEducation:\n\n High school or equivalent (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier (seasonal) - Eataly Downtown",
+  "salary": "$15.25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Eataly North America",
+  "location": "New York, NY 10048",
+  "rating": 3.2,
+  "reviewsCount": 635,
+  "url": "https://www.indeed.com/rc/clk?jk=6815ddf57ba2e735&fccid=15e351ac8b083260&vjs=3",
+  "id": "6815ddf57ba2e735",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:52.601Z",
+  "description": "\n Company Description\n  Eataly is the world’s largest artisanal Italian food and beverage marketplace! Eataly is not a chain; each Eataly is different, with its own character and own theme – but all with the same aim... for our guests to:\n \n   EAT authentic Italian food at our restaurants, cafés and to-go counters\n   SHOP a selection of high-quality Italian, local and homemade products\n   LEARN through our classes and our team’s product knowledge\n \n \n \n\n Job Description\n  A Cashier handles payment and ensures accurate accounting of all transactions, collections and disbursements.\n  Reports to the Market Manager and Assistant Marketing Managers.\n \n   Collects cash, checks or charge payments from guests and provides change and charge vouchers if appropriate\n   Verifies accuracy of cash bank by counting cash, checks and charge payments at end of shift\n   Obtains and reviews information regarding price changes\n   Verifies employee discounts, returns, exchanges and voids with the assistance of the manager or shift lead\n   Returns carts and baskets to their central distribution areas, takes back go-backs/damages, fixes displays, helps restock and supports team members\n   Performs other duties as required or assigned\n \n \n \n\n Qualifications\n  \n \n   Basic math and cash-handling skills\n   Basic knowledge of the functions of cash registers\n   High school graduate or equivalent preferred\n \n  Job Requirements\n \n   Ability to remain stationary for periods of up to 8 hours\n   Ability to bend and stoop on occasion\n   Ability to escort guests to other parts of the facility as circumstances dictate\n \n  Please be prepared to provide proof of fully Covid-19 vaccination upon hire.\n  Additional Information\n  Benefits and Perks\n \n   Medical, Dental, Vision Insurance\n   Paid Time Off\n   Paid Parental Leave\n   401K with match or RRSP\n   Bonus program\n   Free family meal daily\n   Discounts at Eataly\n   Classes on products and Italian cuisine\n   Referral bonus program\n   and more!\n \n  The base pay for this position is $15.25 per hour.\n \n  Eataly is an equal employment opportunity employer. It is the Company’s policy to not unlawfully discriminate against any applicant or employee on the basis of race, color, sex, sexual orientation, religion, national origin, age, disability or any other characteristic made unlawful to consider by applicable federal, state, or local laws. Eataly also prohibits harassment of applicants and employees based on any of these protected categories. It is also Eataly’s policy to comply with all applicable federal, state and local laws regarding consideration of unemployment status, salary history, credit/bankruptcy history and criminal background/conviction history in making hiring decisions. If contacted for an employment opportunity, please advise Human Resources if you require accommodation.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6815ddf57ba2e735&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjMPsvz7Y6gXgsJprbGjdvIpsjbKTpre7P5gvPU7rdPPQ&vjfrom=serp&astse=b262b4b6e5e53c3e&assa=1068",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier, Cash Handler, General office",
+  "salary": "$21 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "M&V Provisions Co.",
+  "location": "M&V Provisions Co. in Ridgewood, NY 11385",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/M&V-Provisions-Co./jobs/Cashier-69436804b9669c73?fccid=f903b5e38b7d418e&vjs=3",
+  "id": "69436804b9669c73",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:53.433Z",
+  "description": "Wholesale Food Distributor in Ridgewood Queens is currently accepting resumes for Cashier/Accounts Receivable/General office Clerk\nHOURS Monday to Friday4:00 AM - 1 PM (Mon-Thursday) and 4:00 AM-12 Noon (on Fridays.)While we know this is a VERY EARLY start time, you are out by 1pm and by 12 Noon on FridaysNO WEEKENDSWe are a VERY safe, well lit, clean facility with friendly employees.We also provide a security team so that all employees and customers are safe at all hours.\nJOB DESCRIPTION\nExperience in cash handling and account receivables is a plus.\nThis position is very similar to a bank teller.Much of this job requires you to collect payments from our customers. This is a high volume, fast paced position and requires someone to be focused and very well organized. Payment typically come in the form of cash, many checks, ACH, and credit card. You will be required to correctly count and post all payments to the correct account as well as process these payments utilizing a cash register. All of your transactions must be accurate as you will be asked to \"prove out\" at the end of each shift in order for you to create your deposit.This position typically gets very busy in the early morning therefore we are looking for someone who will be punctual, mature, focused, detail oriented and organized. After your shift of a few hours, you will also be tasked with general office work such as filing, processing invoices, data entry, scanning checks, posting customer payments answering phones, resolving customer issues and account questions in a professional, friendly and courteous manner.\nPAYStarts at $21.00/hr ($31.50/hr) for overtime hoursAnnual merit raises thereafter.\nBENEFITSMedical (including dental and vision) are excellent (Oxford) and available after 3 months of employmentPaid Vacation 1 week after 1 year. 2 weeks after 2 yearsPaid Holidays (7) although we do ALSO work from 4am to 9am on 4 Holidays (not New Years Day, Christmas Day and Thanksgiving) After 3 months you earn Holidays and are paid 8 hours when you punch in..plus the hours you work that day. Typical Holiday days that we work are MLK Day, Memorial Day, Labor Day, July 4th\nPROFIT SHARINGThere is a profit sharing program for every employee. This is an excellent benefit, your own retirement plan funded 100% by our profit sharing program which is funded annually based on the profits at year end. They are also invested professionally for you and you receive an annual statement\n401KIN ADDITION to a profit sharing program we also have a 401k Program which has a guarantee of 3% of your salary contributed by the Company into your account as well as an option for you to invest your own pre or post tax money. You also choose the investment that best fits your needs.\nOVERTIMEOvertime is paid EVERY DAY after 8 hours.Although position starts at 4am, building opens at 3am, if you wish to start before 4am, that time is also at OT\nSICK DAYS (5) we also PAY YOU for all unused sick days left over at the end of the year.\nPLEASE EMAIL YOUR RESUME (and if you wish, anything else you would like us to know)NO WALK IN's WITHOUT APPOINTMENT\nBackground checks are a MUST and will be run for any candidate offered a position.\nThis is a very steady full time position.WE ARE LOOKING FOR LONG TERM EMPLOYMENT!We have been in business for over 73 years.We are 2 blocks from the Jefferson Ave subway station in Ridgewood QueensWe are only looking for someone who wants a full time job with full benefits. Applicant must be able to work well with others in a small office. Must be Responsible, punctual, reliable and mature.\nJob Type: Full-time\nPay: $21.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n Monday to Friday\n Overtime\n\nEducation:\n\n High school or equivalent (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$20,000 - $28,000 a year",
+  "jobType": null,
+  "company": "TIC New York",
+  "location": "New York, NY 10018",
+  "rating": 3,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/rc/clk?jk=a20495b07c9c9f3b&fccid=7a8e0868f2f793ca&vjs=3",
+  "id": "a20495b07c9c9f3b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:53.649Z",
+  "description": "Our client is looking to hire a Cashier to join their team. The Cashier will be a member of the team that has the opportunity to make the very last positive impression for our customers. This position is in charge for providing efficient and friendly checkout services to our customers. Checkout does not mean just receiving money from customers; involves ensuring the customer is satisfied with shopping. The ideal candidate likes interacting with people, is inquisitive,can work under pressure, and, most importantly, has a positive can-do attitude. \n\n \nSalary range: $20000 - $28000 per year. \n\n Responsibilities \n\n \n Count the money in the drawer at the beginning of every shift and ensuring there is adequate change. \n Greet customers and answering questions. \n Maintain a clean and orderly checkout area. \n Identify the prices of goods and calculating bills. \n Receive payment by credit card, debit card, cash, check, vouchers, or automatic debits. \n Issue change, credit, and refunds. \n Issue receipts and coupons. \n \nQualifications:\n \n \n Must be 18 years of age or older. \n Able to deliver friendly, courteous, prompt customer service. \n Able to write, read, and do simple retail math problems. \n Pass a drug test and background check. \n Able to interpret, understand and follow instructions. \n Must have a flexible schedule. \n Work well with others as a team member. \n Previous experience at Grocery Store or Retail Experience is an asset. \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Sales Associate/Cashier",
+  "salary": "From $13 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Boost Mobile Ecuasur Wireless Inc",
+  "location": "Newark, NJ",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Ecuasurwireless/jobs/Sales-Associate-Cashier-b59c29b791b2ffda?fccid=dfebe4a3e70e6539&vjs=3",
+  "id": "b59c29b791b2ffda",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:55.117Z",
+  "description": "We're searching for enthusiastic and energetic individuals to join our team of Sales Agent. The ideal candidates will be able to master a variety of cash register systems, and also be able to assist in stock rotation and small merchandising tasks. Sales Agents will also be required to communicate with our customers about products and services, as well as suggest items based on their shopping habits to close sales and make Comission.\n\n Bilingual preferred: English and Spanish\n Weekly Paycheck\n Monthly Cash Commissions\n Weekly and Monthly Cash Bonus\n\nApply Now and Join Our Family!\nJob Types: Full-time, Part-time\nPay: From $13.00 per hour\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Rotating weekends\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier Part Time",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "BJ's Wholesale Club, Inc.",
+  "location": "900 Remsen Ave., Brooklyn, NY 11236",
+  "rating": 3.2,
+  "reviewsCount": 4922,
+  "url": "https://www.indeed.com/rc/clk?jk=eae7d5477ca0be00&fccid=d1e06ae7d9c9d329&vjs=3",
+  "id": "eae7d5477ca0be00",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:57.038Z",
+  "description": "\n Join a team of more than 32,000 team members, comprised of our home office and over 229 clubs and 7 distribution centers. We’re committed to delivering value and convenience to our Members, helping them save every day on everything they need for their family and home. BJ’s Wholesale Club offers a collaborative, team-oriented environment where all team members can learn, grow and excel.\n   \n \n Job Summary\n  Pay rate Range 16.00-$17.50\n  Processes Member purchases in a courteous and friendly manner, including verifying, renewing, upgrading and offering several types of membership products, scanning merchandise, and accepting various forms of payments. Provides excellent member service in an efficient and productive manner. Maintains the overall cleanliness of the front-line department.\n \n  Team Members:\n \n   Carry out job functions and responsibilities as assigned. Support the application of club policies, procedures and compliance.\n   We strive for flawless execution and hold ourselves accountable.\n   Acts with honesty and integrity and lead with the member in mind to address all concerns and to escalate any concerns, as appropriate.\n   Ensure a safe and positive environment for our members and each other.\n   Embrace inclusion and diversity, by working together with collaboration and respect. Work as a team to achieve goals.\n   Move with speed and agility in everything we do.\n   Innovate and adapt so we can move as fast as the world around us.\n   Maintain a friendly and positive attitude.\n \n  Members:\n \n   Deliver service excellence through all points of contact.\n   Resolve and deescalate to address every member concern.\n   Ensure a safe and positive environment and experience for the members.\n   Daily commitment to GOLD Member Standards\n   \n     Greet, Anticipate, Appreciate (GAA)\n     Fast, Friendly Full, Fresh, Clean\n   \n \n  Club Standards: Work as a team to deliver GOLD club standards daily.\n \n   Work with commitment and pride to deliver GOLD- Grand opening look daily\n   \n     All items stocked and promotional plans executed\n     Maintain visible accurate signage\n     Clean and organized, inside, and out\n   \n \n  Know your Business:\n \n   Understand how to access and read production and/or financial performance reporting for your department\n   See the connection between consistent execution and the positive impact it can have on the business\n \n \n  Major Tasks, Responsibilities, and Key Accountabilities\n \n   Exhibits clear understanding of all BJ’s Membership options, Including the importance of renewals, upgrading to our BJ’s Perks programs.\n   Offer all appropriate membership products such as membership renewal, EASY renewal option, My BJs Perks programs and awards redemption.\n   Provides a high level of customer service to Members. Checks Members out in a timely and efficient manner.\n   Scans all club merchandise through a point-of-sale system to ensure accurate inventory counts and accurate purchase totals for Members. Fills shopping carts when necessary and assists at self-checkout stations.\n   Collects payments via cash, check, or other charge payments from members.\n   Issues receipts or change due to Members.\n   Stays up to date on all merchandise promotions, advertisements, and product information. Discounts purchases by scanning and redeeming coupons.\n   Maintains the cleanliness of the frontline area. Assists in general club housekeeping when necessary.\n   Returns re-sellable merchandise to the sales floor area.\n   Manages self-checkout and scan and pan lanes. Assists Members with operations and technical difficulties.\n   Required to meet cashier productivity expectations.\n   Maintains all club policies and procedures.\n   Performs other duties as assigned, including working in other departments as needed.\n   Regular, predictable, full attendance is an essential function of this job.\n \n \n  Qualifications\n \n   Basic math skills preferred.\n   Prior cashier or sales experience preferred.\n \n \n  Environmental Job Conditions\n \n   Most of the time is spent moving about frequently on hard surfaces. There may be a need to occasionally position oneself to examine or scan merchandise, including bending, handling, pulling, reaching, and/or stooping.\n   Frequently requires lifting objects up to 30 pounds. May require lifting and moving heavy and/or awkward objects greater than 30 pounds with assistance.\n   Located in a comfortable indoor area with infrequent exposure to temperature extremes and loud noises. There may be occasional exposure to cleaning agents.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=eae7d5477ca0be00&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj3UJ3Z37DmyKodF-5lOJQuwsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=0b91edc5250a7611&assa=5331",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$15.00 - $18.50 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Elle Seller",
+  "location": "New York, NY",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=a632b374149724cd&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "a632b374149724cd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:23:57.098Z",
+  "description": "\n We are looking to hire a Cashier to join their team. The Cashier will be a member of the team that has the opportunity to make the very last positive impression for our customers. This position is in charge for providing efficient and friendly checkout services to our customers. Checkout does not mean just receiving money from customers; involves ensuring the customer is satisfied with shopping. The ideal candidate likes interacting with people, is inquisitive,can work under pressure, and, most importantly, has a positive can-do attitude.\n  Your enthusiasm and positive attitude will help you gain the trust of colleagues and clients parties alike. \n Responsibilities: \n \n  Responding promptly to customer inquiries.\n   Communicating with customers through various channels.\n   Acknowledging and resolving customer complaints.\n   Communicating and coordinating with colleagues as necessary.\n   Managing a team of junior customer service representatives.\n  \n \n Qualifications \n \n  High School Diploma or GED.\n   Interpersonal and customer service skills\n   Analytical and problem-solving skills\n   Multitasking and organizational skills\n  \n \n Job Type: Full-time \n Pay: $15.00 - $18.00 per hour \n Benefits:\n  \n \n  Flexible schedule\n   Flexible spending account\n   Health insurance\n   Paid time off\n   Vision insurance\n \n  \n Schedule: \n \n  8 hour shift\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Temporary"
+  ],
+  "company": "PeopleReady",
+  "location": "Newark, NJ 07102",
+  "rating": 3.6,
+  "reviewsCount": 9299,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B1drg_K7tLxMie0n76weG8EYn1RYFA0dI3OmTgBacXuRnpKPzUfa6C1-YlPlxDxGmcRsFaE2ehQf7EhRuWmE-XKFhD7x-6BhIuEZGHqw-EAAg67TSXkhIhqjq8W3L2diwPQ_UTy19HM9gRE4KlV9GK8e2B2g61P032VmQJYqlH6djXTEn9CzvJeDYyVk6kg2HPGqQAfhL6dyNAWNYcbegeRiWoRi3xIjQZhstyulDkxeguQeOQzxbWPPXyHoR5LU2IQch7oEEeR_2Y1pj-_BqLY9C6sjpvLycBtKIvHJUz6hbT7CQxow7yJV-7sXaeAIszNfR9zcgrpGhZyKdJNvGTVWVshSTwpMny19TS_if__K186oKjWwJ_Tl_aPgrxYit3EviXqV72C84e7xV7HvCC1G1GnSfxnKqNtq43kLqWxvKKlkHrhpMFDn_udVf477xZL1i0YohFTfVp54tKCi_rNeQL_sf_0ZUSa4UoDrZHrLksMIi0NUp1MJSsk5j_trADPgVhqArZVQMS6IA0TSW7DUpevnT2LqPGBOy9NGy7GuQkuc-px8esOieBgM22VyG8kBysUAV-I1ZbE60FGHJJ&xkcb=SoAh-_M3WvNcK-WbDB0PbzkdCdPP&p=5&fvj=0&vjs=3",
+  "id": "c2fafdd990839ad6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:00.315Z",
+  "description": "PeopleReady of Newark, NJ is now hiring Cashiers! \n\n Apply today and you could start as soon as tomorrow. No resume or interview required – yep, you read that right. \n\n \nAs a PeopleReady associate you'll benefit from:\n \n \n The freedom to work where you want, when you want and as often as you want. \n Next-day pay* for many of our open positions. \n The ability to choose long-term positions for steady work or short-term positions if you just want some extra cash. \n The ability to sign up for jobs right from our mobile app, JobStack! \n \nPay Rate:\n The pay rate for this job is $16 / hour \n\n \nWhat you'll be doing as a Cashier:\n \n \n Welcoming customers, answering their questions, helping them locate items, and providing advice or recommendations. \n Operating scanners, scales, cash registers, and other electronics. \n Balancing the cash register and generating reports for credit and debit sales. \n Accepting payments, ensuring all prices and quantities are accurate and proving a receipt to every customer. \n Processing refunds and exchanges, resolving complaints. \n Bagging or wrapping purchases to ensure safe transport. \n Maintaining a clean workspace. \n \nAvailable shifts:\n Shift Timings - 1st Shift (Day), 2nd Shift (Evening) and 3rd Shift (Night) \n\n \nJob requirements:\n \n \n Customer service or Cashier experience. \n Ability to handle transactions accurately and responsibly. \n High level of energy with strong customer service skills. \n Basic math and computer skills. \n Ability to stand, walk, lift heavy items, and work with other team members in a fast-paced environment to provide excellent service. \n Attention to detail. \n Helpful, courteous approach to resolving complaints. \n Must have experience in handling payments . \n Background Check Required \n Ready to take control of the way you work? \n\n Complete our application to join the PeopleReady team today. In case you missed it, no resumes or interviews are required! \n\n #TIER2",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=c2fafdd990839ad6&from=vj&pos=bottom&mvj=0&spon=1&adid=377182454&ad=-6NYlbfkN0B1drg_K7tLxMie0n76weG8EYn1RYFA0dI3OmTgBacXuRnpKPzUfa6C1-YlPlxDxGmcRsFaE2ehQf7EhRuWmE-XKFhD7x-6BhIuEZGHqw-EACU3A3vBNRLCNT2-SnVOAumFYx09dWnxuiXeP9zz-eAgbVioVIp0KeS4Rr34ETOYVkuxyxE_48RFUQY8Vjqi-NfwDMRWxVeWMKujU8-oUu1J5Y9fS77LCOgiA-pSUb5WRqM52BE0iPOwX6RWifBG2ya1THpSmmKf2BRLTVVxIzvlDeT14avJS6ua-6IzyPkv_69tsKDdOcf_kbgLk3JLOcxR_oB1quAwhBCpTyBqbx2lWCcRe9mYwz6LX_CZwsgvvNpQpi2mqHkD&sjdu=n7aD7U3TjOfnr_Jn6S_VWQvnKqGBsEp03f1NyhEZHEHoqalWSVDA8wn_34k-ZRR5vu5iA35O2N508OD_Xh9AaG3o_6hFWuElL5Qj9tfWVOZ_sYamH5MGmj73CDUJkUZsl1RJY-3--ZlehhuMVe96gOdXHXhdEeF2-8ZRjxGRc5I&vjfrom=serp&astse=9d6234d225a45ced&assa=132",
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier DARCARS Lexus Englewood",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "DARCARS Automotive Group",
+  "location": "Englewood, NJ 07631",
+  "rating": 3,
+  "reviewsCount": 317,
+  "url": "https://www.indeed.com/rc/clk?jk=023d9f5887183398&fccid=bd76a576212b703f&vjs=3",
+  "id": "023d9f5887183398",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:00.531Z",
+  "description": "\n The primary purpose of the Cashier is to manage the day-to-day flow of money transactions from customers in the service and parts department. This position requires attention to detail and the ability to use computer and money systems.\n  In this role, you'll:\n \n   Greet customers upon arrival\n   Handle incoming calls and set appointments, as needed.\n   Answer customers’ questions, and provide information on procedures or policies.\n   Compute and record totals of transactions.\n   Count money in cash drawers at the beginning of shifts to ensure that amounts are correct and that there is adequate change.\n   Issue receipts, refunds, credits, or change due to customers.\n   Communicate concerns to ASMs and Service Directors in a clear and effective manner.\n   Receive payments by cash, check, credit cards or automatic debits.\n   Responsible for filing service/customer paperwork and ensuring organization of files.\n \n  For this role, you'll need:\n \n   A positive and friendly personality\n   Flexible schedule\n   Organizational skills\n   Customer service experience\n   Experience handling cash\n \n  \n BoTIC5U8W0\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$14.20 - $14.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Bklyn, NY",
+  "location": "Brooklyn, NY 11221",
+  "rating": 3.5,
+  "reviewsCount": 6,
+  "url": "https://www.indeed.com/company/Bklyn,-NY/jobs/Cashier-c0e072ae1632fe52?fccid=88e12f80a4a97a18&vjs=3",
+  "id": "c0e072ae1632fe52",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:05.210Z",
+  "description": "Cashier needed for busy pizzeria in located in Bedstuy, Brooklyn!\nOur hours are\nSunday-Thursday 11am-10pm\nFriday & Saturday 11am-3am.\nWe need someone who is a quick worker/learner. Must be serious and reliable especially in the upcoming winter months. Must be respectful towards customers and other employees, please no attitudes. Please do not waste our time if you are not serious about having a job. Serious inquiries only!\nPlease call Sal 646-465-0204 for immediate consideration.\nJob Types: Full-time, Part-time\nPay: $14.20 - $14.50 per hour\nShift:\n\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Lead Cashier",
+  "salary": "$17.25 - $20.25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Crossroads Trading Co. Inc.",
+  "location": "New York, NY 10010",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=135baa6d51a13d4d&fccid=612c5d88ebcb8eb7&vjs=3",
+  "id": "135baa6d51a13d4d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:05.946Z",
+  "description": "\n Benefits/Perks\n  \n  Medical, Dental, Vision and 401k Benefits for FT employees \n  Vacation and holiday pay for FT employees \n  Sick pay \n  Competitive wage \n   Flexible work schedule \n  Significant discount on all merchandise, including designer consignment pieces \n  A professionally developed buyer training program \n \n  \n Job SummaryCrossroads Trading, a popular resale shop with stores throughout the country, is looking for full-time and part-time Lead Cashiers. Are you fashion-obsessed, great with customers, and excel at using a Point-of-Sale (POS) system? If you've said “Yes, Yes, Yes”, then we'd love to hear from you! We are looking for someone with operational management skills and the ability to deliver a superior customer experience. \n  \n  \n Responsibilities\n  \n  Working at the Point of Sale (POS) counter and handling all sales-related tasks, including operating POS software, counting cash, making change and providing customers trade cards for the clothing they’ve sold. \n   Assisting customers on the sales floor, in the dressing room, at the register and buy counter. \n   Processing merchandise so it is ready for the sales floor. \n  Helping merchandise the store by creating window and interior displays. \n   Keeping the store clean and presentable. \n  Assisting with store security, which includes checking bags and monitoring the dressing rooms and other parts of the store. \n  Being a role model and leading by example. \n \n  \n Qualifications\n  \n  Minimum 6 months experience in the retail industry \n  Experience using a POS \n  Excellent customer service and communication skills \n  Mastery of sales floor support \n  Ability to multitask and problem-solve \n  Experience with store open/close processes and employee training is a plus but not required. \n \n  \n Company OverviewAt Crossroads, we want you to show up as your authentic self; this means bringing all of the characteristics that make you you. We celebrate and embrace the differences of all of our employees and want you to feel that you belong, starting from day one. This is not a commitment we take lightly and it means we must regularly work and reflect on our company culture, values, and beliefs in order to identify ways to create a diverse, equitable, and inclusive workplace. If you want to help us continue to lead the sustainable, pre-loved fashion industry as we’ve done for 30 years, we would love to hear from you!\n  \n  #circaworks\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "City Acres Market",
+  "location": "New York, NY 10005",
+  "rating": 3,
+  "reviewsCount": 7,
+  "url": "https://www.indeed.com/company/City-Acres-Market/jobs/Cashier-09339a151832d7d5?fccid=673c8ad45fb0d1a0&vjs=3",
+  "id": "09339a151832d7d5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:07.756Z",
+  "description": "\n Must be 18 years old and older.\n Must follow responsibilities given.\n Must Be punctual for your shift. (Morning, Evening, Night) WRITE UPS WILL BE GIVEN.\n Must be respectful to all customers and staff members.\n Maintain a clean work environment.\n Have the ability to take initiative. Solve and Help customers when asked.\n Balance CASH drawer by counting draw beginning and end of WORK shift.\n BASIC MATH SKILLS\n High school diploma or equivalent desired.\n\nSerious Inquiring.\nMandatory Drug Screening / Background Check.\nJob Types: Full-time, Part-time\nPay: From $15.00 per hour\nShift:\n\n Day shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n\nAbility to commute/relocate:\n\n New York, NY 10005: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Wine Shop Cashier (Temporary)",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Part-time",
+    "Temporary"
+  ],
+  "company": "Wine and Liquor Superstore",
+  "location": "Bronx, NY 10465",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Wine-and-Liquor-Superstore/jobs/Wine-Shop-Cashier-61871d4c333f7f6b?fccid=b0ce6a1d6a928d25&vjs=3",
+  "id": "61871d4c333f7f6b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:08.324Z",
+  "description": "Wine and Liquor Superstore is seeking temporary cashiers for immediate hire! Must be able to work Thanksgiving, the day after Thanksgiving, Christmas Eve, Christmas Day, New Eve, and New Year's Day.\n(We welcome those from the hospitality industry to apply)\nWe are looking for a motivated and highly organized professional with retail cashier experience and a knack for customer service and good with numbers.\nResponsibilities and Duties:\n\n Operating the cash register and handling cash/ credit transactions with customers\n Scanning goods and collect payments\n Issuing receipts\n Responsible for accurate cash count at the end of shift\n Provide excellent customer service\n Keep register area neat and clean\n Bag, box or wrap packages\n\nQualifications and Skills\n\n Proven working experience in retail cashier or sales\n Basic PC knowledge and familiarity with electronic equipment (e.g. cash register, scanners, money counters etc)\n Strong communication and time management skills\n Customer satisfaction-oriented\n Attention to detail and mathematical skills\n Sales skills\n\nFull Time. Please send resume. No phone calls please.\nJob Type: Part-time\nJob Types: Part-time, Temporary\nPay: $16.00 per hour\nSchedule:\n\n Day shift\n Holidays\n Monday to Friday\n Weekend availability\n\nShift:\n\n 10 hour shift\n\nPeople with a criminal record are encouraged to apply\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Outdoor Carousel Cashier & Operator",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Bryant Park Corporation/34th Street Partnership Inc.",
+  "location": "New York, NY 10018",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Bryant-Park-Corporation/jobs/Outdoor-Carousel-Cashier-Operator-3e503edb8d4f423c?fccid=fde31a9877d2eff5&vjs=3",
+  "id": "3e503edb8d4f423c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:08.596Z",
+  "description": "The Bryant Park Corporation seeks permanent part-time staff for an Outdoor Carousel: \nOperate a carousel in one of New York’s best parks. This is a great part time employment opportunity for college students who like to work outside and love children. This is a part-time position that is outdoors.\nCarousel operators work 16-30 hours per week.\nQualifications:\n\n Responsible, trustworthy, mature, proactive, and outgoing\n\n\n Adhere to and enforce the safety guidelines of the Carousel\n Experience handling money and producing change\n Possess strong math skills\n Sell tickets/discount cards\n Ability to work independently\n Possess strong communication and observational skills\n\n\n Ability and desire to work outdoors in all weather\n Possess a “no job too small” attitude\n\n\n Ability to take direction, but also adapt to changing situations as needed\n Ability to lift 20 pounds regularly and 50 pounds occasionally, and stay on feet for extended periods of time\n Must be able to work weekends\n\nDuties include:\n\n Interact with visitors of the park politely and patiently\n Prepare daily admin and operation reports\n Help children mount carousel figures\n Buckle up children, adults and enforce safety rules\n\nThe carousel is open all year. Hours are typically 10 am to 6pm or 12pm - 8:30pm with some variations.\nCashier experience is a plus as well as experience working with children. Preference will be given to candidates with more flexibility in their schedules, 2 years of college or currently in college, and a genuine desire to work.\nNo interviews given without a resume.\nJob Type: Part-time\nPay: $16.00 per hour\nSchedule:\n\n 8 hour shift\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10018: Reliably commute or planning to relocate before starting work (Preferred)\n\nEducation:\n\n Associate (Preferred)\n\nExperience:\n\n Cashiering: 2 years (Preferred)\n working with children: 1 year (Preferred)\n using POS systems: 1 year (Preferred)\n\nShift availability:\n\n Day Shift (Required)\n Night Shift (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Seasonal Cashier",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Part-time",
+    "Temporary"
+  ],
+  "company": "Steve Madden",
+  "location": "3 Times Square, New York, NY 10036",
+  "rating": 3.5,
+  "reviewsCount": 691,
+  "url": "https://www.indeed.com/company/Steve-Madden/jobs/Seasonal-Cashier-506b0a21569c5577?fccid=f083c0b4d6c4fa23&vjs=3",
+  "id": "506b0a21569c5577",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:09.362Z",
+  "description": "Overview:This position is responsible for applying register procedures to process customer purchases.\nMajor Qualifications (include but are not limited to):* Ensure that each customer receives outstanding service by providing a customer friendly environment which includes greeting and acknowledging every customer, maintaining outstanding standards, solid product knowledge and all other components of customer service.* Reinforce a rewarding customer experience.* Accurately and efficiently complete all sales transactions and maintain proper cash accountabilities at POS registers.* Assist in floor moves, merchandising, displaying maintenance, cleaning store including bathroom and stockroom, vacuuming and returning product to inventory.* Assist in processing and replenishing merchandise; participate in receiving and monitoring floor stock.\nRequirements:* High school diploma or equivalent.* Ability to read, write, and understand English.* Ability to process information or merchandise through the computer system and POS register system.* Needs to be proficient in using a calculator to calculate percentage discounts.\nThe pay range of this position is $15-$17/hr. Actual rate will be determined based off candidate’s skill sets, years of experience, and other job-related factors. This range does not include benefits such as health insurance, paid time off, and 401K, if applicable.\nJob Types: Temporary, Part-time\nPay: $15.00 - $17.00 per hour\nBenefits:\n\n 401(k)\n Paid time off\n\nExperience level:\n\n 1 year\n\nShift:\n\n Day shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10036: Reliably commute or planning to relocate before starting work (Preferred)\n\nExperience:\n\n Customer service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Wolfnights",
+  "location": "Manhattan, NY",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=923f22c4136cf2a1&fccid=a77a426e567f101c&vjs=3",
+  "id": "923f22c4136cf2a1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:09.738Z",
+  "description": "\n At Wolfnights, we recognize our employees as our most valuable resource. We create the most suitable environment for employees to work and are committed to helping you succeed in whatever position you fit into. Working at Wolfnights is not just about making wraps- we want employees that enjoy what they do and are happy to come into work. We believe in honesty and trust. We work to build trust with each other within the organization. We recognize that honesty and trust form the bond that holds organizations and relationships together. We also provide ongoing training and development of our people. We see it as a worthy investment in the future of the restaurant and as a way of enabling our people to achieve their potential in whatever they do. We believe our continued success depends on teamwork. We know that great achievements are only possible from helping and respecting each other.\n  \n  \n  Qualities of a Good Griller \n  \n  Efficient: A good griller works quickly and efficiently to provide the quantity of products needed to keep up with our volume of business. \n  Organized and Focused: A good griller stays focused on one or two tasks at a time and completes those tasks before moving on to something else. \n  Attention to Cleanliness and Sanitation: Much of a griller’s job is involved with maintaining standards of cleanliness in the kitchen. A good griller must be aware of our cleaning and sanitation standards and must maintain them consistently. \n  Warm and Friendly: A good griller must possess a personality that will make our guests feel at home and confident that they are receiving what they ordered. \n  Team Player: A good griller is always aware of what’s going on in the kitchen and is ready and willing to help others get the job done.\n \n  \n  \n  Cashier Functions and Responsibilities \n  \n  Greeting and serving customers \n  Upselling to customers \n  Ringing guests’ orders into the POS system \n  Properly charging the guest and collecting payment for orders providing each guest with a receipt \n  Processing credit, debit and gift card transactions \n  Answering the phone \n  Interacting with customers in a friendly and efficient manner \n  Maintaining cash drawers counting cash drawer at the beginning and end of shift \n  Stocking counters and holding cabinets \n  Cleaning tables and chairs and collecting trays \n  Maintaining a safe, clean and organized work station \n  Maintaining sanitary standards keeping floor in work area clean and free of debris \n  Being a team player – supporting and assisting your fellow team members whenever possible\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier Associate",
+  "salary": "$17.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Mango",
+  "location": "561 Broadway, New York, NY 10012",
+  "rating": 3.6,
+  "reviewsCount": 1287,
+  "url": "https://www.indeed.com/company/Mango/jobs/Cashier-Associate-9078c1f59c1f5b00?fccid=b15df254ad7a42b6&vjs=3",
+  "id": "9078c1f59c1f5b00",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:10.086Z",
+  "description": "Do you love providing great customer service?\nWe are currently hiring (Part-Time) Cashier Associates to join our MANGO team in SoHo, NY (561 Broadway), This is an incredible opportunity for individuals with a passion for fashion. The ideal candidate for this role is someone who is positive, energetic and enjoys providing excellent customer service while working at the point of sale.\nYour aim will be to promote the brand’s image and to maintain the highest standard of customer service at all times, to sell and gain the loyalty of our customers.\nA day in the life: \n· Welcome, smile and greet customers while recommending products, describing merchandise and finalizing sales.\n· Maintain an optimal store image that is attractive to customers at the point of checkout.\n· Serve multiple customers simultaneously and offer excellent service while processing sales transactions involving cash and credit.\n· Aim to achieve and exceed sale targets, individually and as a team.\n· Prioritize customer service above all other tasks.\nPrevious experience of working in fashion retail is desirable but not required. We are looking for individuals who are vibrant, outgoing and can demonstrate excellent communication skills, teamwork and a proactive attitude with enthusiasm to represent the brand through the delivery of excellent customer service in order to achieve and exceed sales targets.\nCompany details: \nMANGO is a multinational fashion company that designs, manufactures and markets clothing and accessories.\nAt Mango, we inspire and unite through our passion for style and culture. We are in 118 countries and our online presence extends to more than 80 countries. Our team is made up of people of 112 nationalities.\nIn our team, we are proactive and dynamic, with communication skills and we are always open to new challenges. We are a young and multicultural team, we love the good vibes we have and we work together to achieve results. We are informed of trends and current events in the retail world.\nJoin our team!\nJob Type: Part-time\nSalary: $17.50 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Every weekend\n Rotating weekends\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10012: Reliably commute or planning to relocate before starting work (Required)\n\nApplication Question(s):\n\n Why are you interested in working at MANGO?\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Seasonal Sales Associate/Cashier",
+  "salary": "$14 - $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time",
+    "Temporary",
+    "Seasonal"
+  ],
+  "company": "STEPS New York",
+  "location": "Elizabeth, NJ 07201",
+  "rating": 3.1,
+  "reviewsCount": 31,
+  "url": "https://www.indeed.com/company/STEPS-New-York/jobs/Seasonal-Sales-Associate-Cashier-0a490d1b8e97ee2b?fccid=0d436ed597221200&vjs=3",
+  "id": "0a490d1b8e97ee2b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:11.648Z",
+  "description": "Steps New York is seeking seasonal sales associates for our the Mills at Jersey Gardens mall new location . We are looking for outgoing, positive, and organized individuals to assist with store operations.Responsibilities will include, but are not limited to:\n\n Greeting and assisting customers, providing top-notch customer service\n Cashiering, including handling money and counting change\n Monitoring fitting rooms\n Folding and setting clothing on the sales floor\n Unpacking shipments, steaming clothes, and attaching security tags and price/size stickers\n Cleaning and organizing the sales floor and back room/stock room\n\nA positive attitude and great people skills are essential for providing exceptional customer service and working with the rest of our sales team. We are looking for candidates with a strong sense of personal style and a passion for women's fashion. You will also have opportunities to help style customers and put together outfits for mannequins and displays, so creativity and an awareness of current trends is a plus.Previous retail and cashier experience preferred, but a good work ethic and willingness to learn is most important.Applicants should be able to stand and walk for the majority of their shifts, and should be able to lift and move up to 30 lbs. Must be prepared to work retail hours, including weekends and nights on a rotating schedule.\nJob Types: Part-time, Full-time, Seasonal\nPay: $14.00 - $15.00 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Elizabeth, NJ 07201: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier (Seasonal) - Luxury Retail",
+  "salary": "$19 - $21 an hour",
+  "jobType": [
+    "Temporary"
+  ],
+  "company": "RIMOWA",
+  "location": "New York, NY 10022",
+  "rating": 3.3,
+  "reviewsCount": 78,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AHZ3EBsDrkTwgVzAVVy-xSL7KX9pOuXc3p5CbhH1X4WSB6WE9QnL7xV-xP7uL2LDBTDhPvksvEq7NJjVGGW9_NsBTNsrakRHLYhU3ym5cIxMr12p0WDwItzw1sAHv5DUAhEhp6R7zmtbiEM_F66wMyDQznZKXXOZrnuXR7DpPWTQ5FC0WYXzIJxpF2J4Iu5da_2WxVc8PTjsOY-j-ALG-ieVfF86mSFi_Yya4Aun3ufNYryvUo8TOVq_hPOGKRCDNG-HIOI2OPYmTqWJLgxzkJCk2WxlHhX0OqSKnaoQLQhF-rrWgKoA9_KCfxx6dPu3zQf9Tj2rPeN7asLu20ZI4w57amaqP3-uj_IkYOXm8aPahAOchi-6-YNOVk2pFCTG6J7kcNK6dsiOoAycu4Y-G1OTq3nupM-zooHImaF8JIwu0s7bmCP1aFRo89b5mUrh-Erl3MEr9SAJPUDJIY8GXVlWD-xsAGMT7i88IX-xtGKj0qdt4yerXXLQHAQMerqLZKM8VNAxmOMtopqItkYGMR&xkcb=SoDK-_M3WvNbhpWkl50JbzkdCdPP&p=5&fvj=1&vjs=3",
+  "id": "b768aae1b477e28e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:14.583Z",
+  "description": "Who Are We?\nWelcome to RIMOWA, the first German Maison of the LVMH Group. We are a global lifestyle brand with a mission to create the essential tools for a lifetime of travel. For more than 120 years, we’ve dedicated ourselves to develop unique products where function coexists with luxury, heritage with innovation, and craftsmanship with design.\nAt RIMOWA we believe that great ambitions demand resilient companions. It’s why our tools are created with longevity in mind. Because the most meaningful journeys last more than a trip, they last a lifetime.\nPlease join us to discover your own.\nWhat We Have To Offer?\nTo support the selling function and overall client experience of the boutiques by working with Client Advisors, Retail Support Associates, Sale Supervisors, and Retail Management. Cashiers will manage operations regarding invoicing, cash/credit card payments, set up and replenishment of cash desk, and store POS system. Seasonal Cashier will report to the Store Manager.\nYour Responsibilities: \nCustomer Service\n\n Always present yourself in a friendly and professional manner\n Ensure prompt follow up with client purchases, repairs, and inquires\n Provide the best experience for customers by continuously building knowledge of company history, new product and competitors\n\nOperations\n\n Understanding of store POS system\n Opens and closes the register\n Process payment/return of merchandise\n Adhere to company loss prevention policy\n Maintain store readiness and housekeeping duties\n Update CRM database with client information while maintaining confidentiality and professionalism\n\nYour Profile: \n\n High school Diploma or equivalent\n Previous functional luxury and/or retail experience\n Comprehensive understanding of luxury clientele and language\n Professional presentation, excellent communication skills both verbal and written\n Proven ability to work in high-volume settings\n Excellent problem-solving skills, positive attitude, team player\n Ideal candidate has knowledge of fashion, design trends and love of travel\n Ability to work varied hours/days, including nights, weekends and holidays\n Must work all Holidays during blackout period\n Must be able to lift large boxes up to 20lbs repeatedly\n Conversational in either French or Spanish a plus\n\nJob Type: Temporary\nPay: $19.00 - $21.00 per hour\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Weekend availability\n\nAbility to commute/relocate:\n\n New York, NY 10022: Reliably commute or planning to relocate before starting work (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier - Garden State Plaza",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "AKIRA",
+  "location": "Paramus, NJ 07652",
+  "rating": 2.9,
+  "reviewsCount": 148,
+  "url": "https://www.indeed.com/company/AKIRA/jobs/Cashier-04764be47e19d90d?fccid=4910afa984aeb05a&vjs=3",
+  "id": "04764be47e19d90d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:15.054Z",
+  "description": "Cashier\nAt AKIRA our number one focus is putting our customers first! Our Cashiers wear many hats and are a huge support to the day to day operations in our stores. Our Cashiers provide an exceptional experience to our customers by providing support to our sales team on the sales floor by ensuring fitting rooms are clean, processing and putting away the customer’s merchandise back on the floor after a try on session. Our cashiers also provide an excellent experience at the register as they are the last impression that our customers get of our stores as they check out!\nResponsibilities:\nSales Floor / Operations Tasks:\n\n Clean and organize the store on down time\n\n\n Empty out and maintain clean fitting rooms for our customers\n\n\n Process and put away all merchandise from a customer’s try on session\n\n\n Assist in putting out replenishment and new apparel from shipment\n\n\n Provide support to the sales team by pulling merchandise for their customers\n\n\n Provide support to the team by completing any needed operational tasks\n\n\n Complete all go home duties instructed by the Manager before clocking out\n\nCash Registers:\n\n Provide a fast checkout and excellent experience to our customers\n\n\n Collect customer information for AKIRA’s loyalty program; name, phone number, birthday, and date of birth\n\n\n Suggest add ons and merchandise at cash register to ensure maximum sales\n\n\n Operates cash register in accordance with policies and procedures\n\n\n Ensures all company policies are followed with regard to payment options, current prices, adding discounts, and returns\n\n\n Answer any and all of the customer’s questions and concerns\n\n\n Inform customers on upcoming sales and events through Cold Calling\n\n\n Put away all merchandise, clean, and maintain an organized cash register\n\nRequirements:\n\n Excellent cash handling skills\n\n\n Strong customer service skills\n\n\n Honest and reliable\n\n\n Flexible availability\n\n\n Ability to multi-task and has a strong sense of urgency\n\n\n Ability to lift and put away merchandise and shipment\n\nJob Types: Full-time, Part-time\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Columbia, MD 21044: Reliably commute or planning to relocate before starting work (Preferred)\n\nExperience:\n\n Customer service: 1 year (Preferred)\n Cash handling: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Hiring Cashiers!",
+  "salary": "$14.00 - $16.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "M.A.D. Management",
+  "location": "East Rutherford, NJ 07073",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ad36lcD1VOincdRUPoFoiV3tK9k4cwQM1WyNJhEuVGKbR4WKtqN1Vg8TRw1la7z-UUD9wFN52L7c4CinkFRwsVqWezX5k3U6Cv6TudLynobOLnhydLUH8JNeztC5dX1rNv_ksA0rbYEtz5HXylvMgNN3VfREMuW2WXwpEV3S8EhLy2Bixapzf_KNVwhMPvbEcO_Gm9q8A5WeesOtat-CoeDhS9qADgb4CL7QlE6e_Jq6snDehF5kU1UN6L9Jd5OnBYw7M2VxdGp4xlZreHdg02SkL-S6ZGWzG0aDwzgXVp4pkUiAgjfgJXMXd65HUgAYDKfpVwZCsQD-C5S1yxCt0cZuDahudvD_FlIoWyGtx2MHR2sLIyBtnDMWVLhcffXp7zqulCqPKfbGfdaR7oFLAMMzv9uiPVfX7k_lZFbyz5y7zLpNfByMsUxaLKSZ3x-KBW-A7FlEF_QFpSd8GvJH935qtiV5ji1WUwmKLRoQBDlBPNXhFAh58lPwmDl0ZNX8A=&xkcb=SoBI-_M3WvNabS2aL50LbzkdCdPP&p=9&fvj=1&vjs=3",
+  "id": "2785edf6c538bc51",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:15.515Z",
+  "description": "Located at The American Dream Mall, in East Rutherford, New Jersey!\nWork in the fun, fast paced environments of the American Dream Mall theme parks!\nResponsibilities and Requirements\n\n Provides service in kiosks, including line serving and cashiering (operate POS system)\n Take customer orders, maintains fast and accurate service with a positive attitude\n Cashiers according to established procedures, maintaining cash accuracy with receipts, make deposits at end of each shift\n Inventories and maintains supplies and food products in kiosk\n Maintains kiosk with regards to cleanliness, neatness and customer accessibility\n Works as a team member to support other food service employees in their duties\n Assist customers by providing menu information and resolving their complaints or concerns\n\nMore details\n\n No beards or long finger nails allowed.\n For the Interview: Will take up to 10 - 15 minutes, candidates should bring their ID and SS card.\n Resume required.\n\nJob TypeFull & Part Time (more details upon interview)\nHourly$14.00-$16.50 /hr\nPay FrequencyWeekly\nLanguageEnglish (Required)\nJob Types: Full-time, Part-time\nPay: $14.00 - $16.50 per hour\nBenefits:\n\n Flexible schedule\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "[Bayside NY] Cashier & Seafood - Full-time / Part-time",
+  "salary": "$15 - $18 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "H-Mart",
+  "location": "Queens, NY 11358",
+  "rating": 3.2,
+  "reviewsCount": 162,
+  "url": "https://www.indeed.com/rc/clk?jk=4a780fb3182d6534&fccid=94d3886128fd0051&vjs=3",
+  "id": "4a780fb3182d6534",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:17.937Z",
+  "description": "We are H Mart, the largest Asian supermarket chain in America. Starting in 1982 with a single store in Woodside, Queens, H Mart has grown to include more than 71 stores across the United States. H Mart is America’s premier Asian food destination and provides groceries and everyday essential needs as well as upscale products. H Mart offers a full line of Asian foods as well as a broad range of Western groceries to complement its full scale offering to that of a traditional supermarket. H Mart is also known for its innovative new food halls which are an extension of over 37 years of providing eateries in its stores. \n\n [ Bayside NY ] Cashier & Seafood - Full-time / Part-time (뉴욕 베이사이드 – 계산부, 수산부 모집) \n주소: 46-40 Francis Lewis Blvd, Queens, NY 11361 / 전화번호: (718) 229-7400 \n\n \n How to Apply : Apply in person or Call our store / * 관심 있으신 분들은 전화나 매장에 방문하여 주시기 바랍니다. \n Cashier \n\n \n Bag merchandise and collect money. \n Operate cash register to process sales. \n Close and balance cash drawers. \n Assist return/refund customers. \n Handle customer complaint. \n Seafood \n\n \n Weigh meat and label containers with the weight and contents. \n Sort and process by-products into specified sealed containers. \n Clean, carve, and trim carcasses into parts and package accordingly. \n Assist in skin, feather, scales, and bone removal. \n Pay Range \n\n \n $15.00 - $18.00 per hour \n Benefits \n\n \n Health Insurance Coverage \n Dental and Vision Coverage \n PSL / PTO \n Life Insurance and AD&D (Accidental death & Dismemberment) per company policy \n BTA Insurance (Business Travel Accident Coverage) \n Paid Holidays per company policy \n Celebration & Condolence Benefits per company policy \n Eligibility to use Company owned Resort per company policy \n 5% Employee Points program with H Mart Smart Card \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Liquor Store Cashier",
+  "salary": "$13 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Shoppers Vineyard",
+  "location": "Clifton, NJ 07012",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Shoppers-Vineyard/jobs/Liquor-Store-Cashier-aaf4b01d153ccc8a?fccid=4d3561d680227d9f&vjs=3",
+  "id": "aaf4b01d153ccc8a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:22.216Z",
+  "description": "Shoppers Vineyard is a high volume retail Liquor Store.\nLooking for Cashiers to:Ring up customersReplenish inventory.Stock shelves, racks, cases, bins, with merchandise.Clean display cases, shelves, and aisles.Pack customer purchases in bags or boxes\nJob Type: Part-time\nPay: $13.00 per hour\nBenefits:\n\n 401(k)\n Employee discount\n Health insurance\n Paid time off\n\nShift:\n\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:To keep our cashiers healthy we've installed clear plastic barriers, provide masks, gloves and hand sanitizer. We also provide cleaning supplies to keep the work stations clean\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Seasonal Cashier",
+  "salary": "$15.50 an hour",
+  "jobType": [
+    "Part-time",
+    "Temporary",
+    "Seasonal"
+  ],
+  "company": "Coach",
+  "location": "Elizabeth, NJ 07201",
+  "rating": 3.9,
+  "reviewsCount": 1315,
+  "url": "https://www.indeed.com/company/Coach/jobs/Seasonal-Cashier-b68571e86789f852?fccid=5eb09a3f1afcdc31&vjs=3",
+  "id": "b68571e86789f852",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:23.490Z",
+  "description": "Selling and Service · Understands organizational objectives and makes decisions that align with the Company priorities and values · Creates personal sales and clienteling strategies in partnership with the management team · Meets customer needs through solution-oriented and forward thinking · Builds credibility and trust as a personal fashion advisor by communicating fashion awareness and trends in the marketplace · Understands changes in local market with potential impact on business performance and supports the execution of local sales strategies and tactics · Creates positive impressions with customer by bringing best self to work through elevated, sophisticated, appropriate business attire consistent with Coach’s guide to style · Demonstrates Coach’s Selling and Service expectations at all times · Influences customers’ purchase decisions by balancing patience and assertiveness · Takes ownership and commitment for delivering results; actively aware of personal and store metrics and achieves goals · Flexes personal selling techniques to contribute to overall store financial results · Demonstrates persuasive (not aggressive), confident, friendly and genuine service skills and selling behaviors · Discusses product features and builds the sale by suggesting appropriate add on items to fit the customers’ specific needs · Works with multiple customers simultaneously and breaks away as appropriate · Follows up with customers consistently and genuinely to influence/close the sale · Develops product knowledge skills and remains aware of current collections · Demonstrates knowledge of competition and can apply that knowledge to building sales and customer relationships · Drives business through sales strategies, clienteling, sourcing new customers and maintaining on-going productive relationships with customers · Sensitive to customers’ needs and tailors approach by reading cues · Builds lasting and loyal relationships with customers · Ensures all daily tasks are completed without negatively impacting service or Coach standards ·Workplace and Environment · Creates enthusiasm and positivity for a shared vision and mission · Fosters and environment of teamwork, trust and collaboration with peers, customers and supervisors · Demonstrates confidence when working with customers · Takes initiative; has a high-level of ownership and accountability for individual results · Welcomes feedback and adapts behaviors as appropriate · Represents Coach as a brand ambassador at all times · Is adaptable and flexible to change · Maintains a calm and professional demeanor at all times · Creates short and long-term strategies to achieve personal metrics and performance goals · Utilizes Company tools to keep self-informed · Handles and offers solutions to customer issues appropriately and involves a manager when necessary · Promotes and endorses a team selling environment ·Operations · Completes daily operational tasks including maintaining store (sales floor and backroom), cash wrap and visual merchandising to Coach standards consistently and in a timely manner · Adheres to all retail policies and procedures including POS, Operations and Loss Prevention procedures · Leverages Coach’s tools and technology to support relationship building and clienteling efforts; including to drive sales and achieve individual goals · Replenishes inventory on sales floor as needed · Processes shipments as needed Job Types: Part-time, Temporary Weekly day range: * Monday to Friday * Weekend availability Education: * High school or equivalent (Preferred)\nJob Types: Part-time, Seasonal\nPay: $15.50 per hour\nBenefits:\n\n Flexible schedule\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Elizabeth, NJ 07201: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Auto Parts Cashier",
+  "salary": "$16 - $18 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Northside Imports INC",
+  "location": "Woodside, NY 11377",
+  "rating": 3,
+  "reviewsCount": 38,
+  "url": "https://www.indeed.com/company/Northside-Imports-INC/jobs/Auto-Part-Cashier-b00656cf720733ee?fccid=8fcecbb2dbb8a67c&vjs=3",
+  "id": "b00656cf720733ee",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:23.820Z",
+  "description": "RESPONSIBILITIES\n\n Assist customers with order pickups.\n Create customer invoices and process payments.\n Process credit/debit card payments from customers through credit card terminal. Assist in cash/check payments with our Accounting Department\n Build relationships with customers in order to better meet their needs.\n Coordinate with others in the warehouse to troubleshoot issues as necessary.\n Maintaining and organizing accurate files on a daily basis.\n\nJOB SKILLS\n\n Ability to organize, multi-task and prioritize effectively.\n Excellent computer and spreadsheet skills.\n Display a positive and professional attitude with our customers and co-workers.\n\nMonday to Friday 9:30am to 5 pm\nSaturdays 8:30 am to 1:30 pm\nCompany benefits:\n401K, Health insurance, Paid Time Off\nCOMPANY OVERVIEW: \nFounded in 1985, Northside Imports is the leading independent importer and distributor of European auto parts in the country. With genuine, OEM and high-quality aftermarket replacement parts covered from the 1960’s to 2019, we pride ourselves on stocking the right inventory for our customers. Our parts include AUDI BMW  LAND ROVER MERCEDES  MINI PORSCHE  SAAB SPRINTER  VOLVO VOLKSWAGEN. Our knowledgeable sales and purchasing teams will get you the right parts with great customer service. We offer same day delivery and nationwide shipping from each of our 9 locations. As a European Auto Parts Sales Specialist you are responsible for providing superior customer service and assisting the store in achieving expected sales goals through in-store execution of various programs, initiatives and standards. An individual in this position will be expected to perform additional related job responsibilities as needed and assigned. Currently we are seeking a Sales Representative for our Woodside, New York location.\nJob Type: Full-time\nPay: $16.00 - $18.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Health insurance\n Life insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n Day shift\n Monday to Friday\n Weekend availability\n\nSupplemental pay types:\n\n Tips\n\nCOVID-19 considerations:Everyone is required to follow CDC guidelines.\nExperience:\n\n cashier: 2 years (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Rimco Pharmacy",
+  "location": "623 Wilson Ave, Brooklyn, NY 11207",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/HEALTH-POINT-DRUGS-INC,/jobs/Cashier-5f4fe595d397317e?fccid=0187495d41376d49&vjs=3",
+  "id": "5f4fe595d397317e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:24.686Z",
+  "description": "RIMCO PHARMACY is a small business in Brooklyn, NY. We are professional and social. NEW HIRE MUST BE BILINGUAL (SPANISH/ENGLISH)\nOur work environment includes:\n\n Relaxed atmosphere\n Flexible working hours\n\nThe Cashier position is responsible for handling cash, checks and credit card transactions. As a Cashier, you will work closely with other team members to maintain a pleasant shopping experience for our customers. You should have advanced math skills and a high ability to handle repetitive tasks. You are responsible for handling multiple tasks in a fast-paced environment, and you should be able to multitask and prioritize your workload. Ultimately, the primary goal of the Cashier is to maximize sales of products and increase customer satisfaction by providing an exceptional shopping experience.\nJob Type: Full-time\nPay: $15.00 - $17.00 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n 8 hour shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Rotating weekends\n Weekend availability\n\nAbility to commute/relocate:\n\n Brooklyn, NY 11207: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "RETAIL CUSTOMER SERVICE REPRESENTATIVE/CASHIER",
+  "salary": "$15 - $18 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Micro Center",
+  "location": "Flushing, NY 11367",
+  "rating": 3.5,
+  "reviewsCount": 636,
+  "url": "https://www.indeed.com/rc/clk?jk=930cfdb3360f77cd&fccid=67386547ecb39044&vjs=3",
+  "id": "930cfdb3360f77cd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:25.036Z",
+  "description": "\n\n MICRO CENTER is the nation’s leading computer and electronic device big box retailer! Our technology superstore has an industry-leading 40,000+ selection of premier computer products and the most knowledgeable staff in the business. \n  We are currently seeking self-motivated, hard-working, full- and part-time RETAIL CUSTOMER SERVICE REPRESENTATIVES/CASHIERS. If you have a passion for computers & electronics, Micro Center is the place for you! It is Micro Center’s core promise to take care of our associates and customers. \n  SALARY RANGE IS - $15.00 - $18.00 \n  MICRO CENTER OFFERS EXCEPTIONAL BENEFITS: \n  \n  Flexible Schedules & Excellent Pay \n  Employee Discount that includes a Friends & Family Discount Program \n  Tuition Reimbursement & Education Discounts \n  Paid Time Off for Regular Associates \n  Benefit Coverage for Regular Full-Time Associates \n  Esteemed Vendor & Company Job Training \n  Career Advancement Opportunities \n  \n MAJOR RESPONSIBILITIES – RETAIL CUSTOMER SERVICE REPRESENTATIVE/CASHIER: \n  \n  Provide superior service when assisting customers at the point of sale/checkout area; build repeat business through customer satisfaction \n  Maintain the department by ensuring a clean work area, conducting cycle counts, stocking and replenishing product and participating in merchandising activities \n  Participate in open and close procedures \n  Support store operations by maintaining loss prevention awareness, assisting with store office activities and helping to prepare for physical inventory \n  \n EDUCATION & EXPERIENCE: \n  \n  High school diploma or equivalent \n  Sincere interest in helping customers and driving world-class customer experiences \n  Ability to communicate professionally and handle multiple customers \n  Physical requirements: lift up to 50 lbs., stand for prolonged periods of time \n  Shifts include hours before and after the store is open to the public and may also include mornings, nights, weekends and holidays \n  \n Micro Center is a place where your future success and growth are truly a result of your own efforts and achievements. Our teams are made up of motivated individuals who work hard to advance their careers. Join our team and see how hard work, loyalty, competitive spirit and unwavering commitment to the customer can take you and your career to new places. \n  Micro Center is an Equal Opportunity Employer.\n\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "TheLiquorStore.com",
+  "location": "Brooklyn, NY 11217",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/TheLiquorStore.com/jobs/Cashier-5dc60d5e15f5a4c4?fccid=8f9a9b37724d757f&vjs=3",
+  "id": "5dc60d5e15f5a4c4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:25.415Z",
+  "description": "(Please read the entire description)\nHello! We're a Wine & Spirits shop located in the heart of Downtown Brooklyn. We're looking a a reliable cashier able to work in a fast paced environment. NY lotto experience is preffered. Does this sound like you?Come join our team! We've listed the needed schedule down below.\nCashierResponsibilities / Skills Needed-Great Customer Service Skills-Punctuality-Processing Card & Cash Transactions-Processing NY State Lotto Sales-Verifying Customer Age-Performing All End Of Day Tasks-Stocking During Down Time-Expediting Delivery & Shipping Orders\nSchedule\nWednesday - 3pm - 10pm\nFriday - 4pm - 10pm\nSaturdays - 2pm - 10pm\nWeekend and Holiday availability is necessary. Employees are provided with a discount and their lunch break is payed for. Please apply only if you have prior retail experience.\nJob Type: Full-time\nPay: From $15.00 per hour\nCOVID-19 considerations:All of our employees wear face coverings during shifts. Counter is disinfected everyday.\nAbility to commute/relocate:\n\n Brooklyn, NY 11217: Reliably commute or planning to relocate before starting work (Required)\n\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$17 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "City of Jersey City",
+  "location": "Jersey City, NJ 07302",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/City-of-Jersey-City/jobs/Cashier-4a89fc45f3302637?fccid=18439f53916df132&vjs=3",
+  "id": "4a89fc45f3302637",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:25.510Z",
+  "description": "Department:  Recreation and Youth DevelopmentDivision:  RecreationExempt/Non-Exempt:  Non-ExemptUnion/Management:  UnionFull-Time/Part-Time/Seasonal:  Part-TimeWorkweek:  Thursday 2:30 pm-7:30 pm; Friday 2:30 pm-7:30 pm; Saturday 3 pm-8 pm; Sunday 2 pm-8 pm; Monday 2:30 pm-7:30 pm (26 hours total)Pay Rate:  $17/hour\nOpen to Applicants aged 18+\nThe Department of Recreation and Youth Development is looking for a Part-Time Cashier representative who will assist the Division of Recreation in managing transactional duties such as operating the cash registers and totaling prices of purchased items, and ensuring that cash and checks received are reconciled and accurately calculated for bank depositing at both Pershing Pool and Pershing Ice Rink.\nJob Duties:\n\n Assist customers and constituents with inquiries relating to late fees, pricing for items and licenses, and hours of operation\n Ensure that all program payments are accepted and recorded for tracking purposes\n Ensure cash and checks received are reconciled and accurately calculated with receipts for bank depositing\n Ensure that all recreational guidelines and procedures are followed at all times\n Operate cash register to list and total the price of items purchased\n Maintain and update customer records and files\n Prepare financial statements upon request\n Perform other duties as assigned.\n\n*Please note, this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time, with or without notice. \nRequired License: GED or High School Diploma\nRequired Experience:  One (1) year of customer service experience\nPreferred Education/Skills/Qualifications: (1) Previous experience with Microsoft Office, (2) Bilingual in Spanish and English is a plus\nEssential Skills/Qualifications:\n\n Excellent interpersonal skills with the ability to create and maintain a positive and professional work environment\n Excellent communication, metrics, and customer service skills\n Ability to add, subtract, multiply, and divide into all units of measure, using whole numbers, common fractions, and decimals\n Strong organizational, detail-orientation, time management, and multi-tasking skills\n Ability to work independently, use sound judgement, and maintain the confidentiality of sensitive information.\n\nThis is a Civil Service Job, and you must eventually pass and qualify for the applicable Civil Service title.\nTo apply for this job with the City of Jersey City, please fill out our Employment Application.\nPlease note that this role is subject to the residency requirements set forth by NJ First Act.\nThe City of Jersey City is an Affirmative Action/Equal Employment Opportunity Employer and complies with all applicable federal and state laws, rules and regulations relating to anti-discrimination and antiharassment.\nJob Type: Part-time\nPay: $17.00 per hour\nSchedule:\n\n Evening shift\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier/Stocking",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Domenick's Wines & Spirits",
+  "location": "Astoria, NY 11102",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Domenick's-Wines-&-Spirits/jobs/Cashier-Stocking-1032f5a202080e1c?fccid=7a83d6a34cb35d14&vjs=3",
+  "id": "1032f5a202080e1c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:26.118Z",
+  "description": "Job duties include:- Perform walk-throughs, assess shift cleanliness and preparedness.- Handle cash and credit transactions.- Maintain inventory control and monitor sales.- Accept and prepare Uber and Drizly orders.- Manage customer deposits and special orders.- Regularly assess product stock levels and replenish when needed.- Provide exceptional customer service by advising brands, recognizing needs, and answering questions.- Check delivered orders for damages, notify the owner.- Knowledgeable about wine and spirits.\nJob Type: Part-time\nPay: From $15.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+},
+{
+  "positionName": "Cashier/Stocker/Sales Associate",
+  "salary": "$14 - $15 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "US Pharmacy & Surgical Inc",
+  "location": "Brooklyn, NY 11216",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/US-Pharmacy-&-Surgical-inc/jobs/Cashier-Stocker-Sales-Associate-3913fe275671f516?fccid=0282d7d88c79e8f3&vjs=3",
+  "id": "3913fe275671f516",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:24:28.196Z",
+  "description": "\n Welcoming customers, answering their questions, helping them locate items, and providing advice\n Accurately perform cashier duties – handling cash, checks and credit card transactions with precision\n Maintaining the sales floor by restocking shelves, checking in vendors, updating pricing information and completing inventory management tasks as directed by store manager\n\nJob Type: Full-time\nPay: $14.00 - $15.00 per hour\nShift:\n\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Brooklyn, NY 11216: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-New York, New York12-04-2022 12_23"
+}]

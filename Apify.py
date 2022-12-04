@@ -4,8 +4,13 @@ from datetime import datetime
 
 # Initialize the ApifyClient with your API token
 client = ApifyClient("apify_api_R6A0sqF7uqr01hfDbAtwsMZaZou4D13Y3HbR")
-jobArray = ["Software Engineer","Computer Science", "Data Science"]
-cityArray = ["Philadelphia", "New York City", ]
+
+# jobArray = ["Software Engineer","Computer Science", "Data Science"]
+# cityArray = ["Philadelphia", "New York City", ]
+
+jobArray = ["Computer Science","Retail Cashier","Doctor","Restuarant Server","Receptionist","Event planner","Writer","Janitor","Construction Worker","Banker"]
+cityArray = ["New York, New York","Los Angeles, California","Chicago, Illinois","Houston, Texas","Phoenix, Arizona","Philadelphia, Pennsylvania","San Antonio, Texas","San Diego, California","Dallas, Texas","San Jose, California"]
+
 # Prepare the actor input
 for job in jobArray:
         for city in cityArray:
@@ -16,7 +21,7 @@ for job in jobArray:
                 "position": job,
                 "country": "US",
                 "location": city,
-                "maxItems": 20,
+                "maxItems": 50,
                 "maxConcurrency": 5,
                 "extendOutputFunction": """($) => {
                 const result = {};

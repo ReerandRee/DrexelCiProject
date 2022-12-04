@@ -1,0 +1,889 @@
+[{
+  "positionName": "Server - Beverage 2",
+  "salary": null,
+  "jobType": null,
+  "company": "Hard Rock Hotel San Diego",
+  "location": "San Diego, CA",
+  "rating": 4,
+  "reviewsCount": 3651,
+  "url": "https://www.indeed.com/rc/clk?jk=2f0e1db28ae7ebc7&fccid=e8eb3c501603bf6d&vjs=3",
+  "id": "2f0e1db28ae7ebc7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:23.913Z",
+  "description": "\n Job Summary\n  Información disponible en español a continuación.\n  The Server is responsible for taking customer's food and drink orders serve food and beverages prepare itemized checks and sometimes accept payments. May perform additional duties which may include escorting guests to tables serving customers seated at counters setting up and clearing tables or operating a cash register. They also check the identification of patrons to ensure they meet the minimum age requirement for the purchase of alcohol. Responsible for providing the highest quality of service possible to guests in an efficient and courteous manner.\n  El Mesero es responsable de tomar ordenes de comidas y bebidas de los clientes preparar la cuenta y aceptar pago. Servicios adicionales como acompañar a los clientes a la mesa sentar y limpiar las mesas y manejar caja registradora. Responsable de revisar la identificación de los clientes para asegurar que cumplen los requisitos de edad para comprar bebidas alcohólicas; proveer el servicio de más alta calidad posible a los huéspedes de manera eficiente y cortés.\n  Responsibilities\n  Qualifications\n  \n  High School diploma or equivalent and/or experience in a hotel or a related field preferred. \n  Alcohol Awareness Certification (must comply with State regulations) \n  Food Handlers certification (must comply with State regulations) \n  Must be able to convey information and ideas clearly. \n  Must be able to evaluate and select among alternative courses of action quickly and accurately. \n  Must work well in stressful high pressure situations. \n \n \n  Se prefiere diploma de Escuela Superior o su equivalente y / o experiencia en un hotel o campo relacionado. \n  Certificación para Manejar alimentos( debe cumplir con requisitos del Estado) \n  Certificación para Servir/Vender Alcohol (debe cumplir con requisitos del estado) \n  Tiene que poder expresar claramente información e ideas. \n  Tiene que poder evaluar y seleccionar entre varias opciones alternativas rápida y acertadamente. \n  Tiene que poder trabajar bien bajo presión. \n \n Responsibilities\n  \n  Comply at all times with Aimbridge Hospitality standards and regulations to encourage safe and efficient hotel operations. \n  Comply with certification requirements as applicable to position to include Alcohol Awareness Food Handlers Safety etc. \n  Be familiar with the organization of the restaurant and lounge and know the function of each job position. \n  Have a thorough knowledge of menus and specials in the restaurant. \n  Service guests with all food and beverage requirements in a warm friendly courteous and professional manner. \n  Clear clean and reset tables as needed. \n  Be familiar with the operation of the P.O.S. system. \n  Carry out cashiering functions in closing checks and end of shift paperwork. \n  Perform opening and closing procedures and side work duties according to station rotation assignment. \n  Ensure that tables and side stands are kept stocked tidy and clean. \n  Perform other tasks/jobs as assigned by the supervisor or manager. \n \n \n  Cumplir en todo momento con las normas y reglamentos de Aimbridge Hospitality para alentar operaciones de trabajo seguras y eficientes. \n  Cumplir con los requisitos de certificación requeridos para la posición incluyendo Certificado para manejar alimentos Certificado para servir alcohol Seguridad etc. \n  Estar familiarizado con la organización del restaurante y el salón social y saber la función de cada puesto. \n  Estar completamente familiarizado con los menús y los especiales en el restaurante. \n  Servirle a los huéspedes todas las bebidas y los alimentos pedidos de manera calurosa simpática cortés y profesional. \n  Recoger limpiar y volver a preparar mesas según necesario. \n  Estar familiarizado con la operación del Sistema Punto de Ventas (P.O.S.) \n  Llevar a cabo funciones de cajero para cerrar los cheques y el papeleo para el cierre del turno. \n  Llevar a cabo los deberes de abertura y cierre y otros deberes extras de acuerdo con la asignación de la rotación de las estaciones. \n  Asegurarse que las mesas y las estaciones para los meseros se mantenga suplidas nítidas y limpias. \n  Llevar a cabo otra tarea según asignada por el supervisor o gerente.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=2f0e1db28ae7ebc7&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhsByGSnDYADVxM-AgI7j5ZXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=5b9ac25cc095e716&assa=3757",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Cafe Sevilla, Inc.",
+  "location": "San Diego, CA 92101",
+  "rating": 3.7,
+  "reviewsCount": 20,
+  "url": "https://www.indeed.com/rc/clk?jk=0f036069bcb7b346&fccid=7690b2eb3fb4ffb2&vjs=3",
+  "id": "0f036069bcb7b346",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:24.535Z",
+  "description": "At Café Sevilla the Server position is responsible for ensuring guests enjoy Sevilla’s memorable music, food, and culture, developing loyal guest relationships that result in repeat visits. This position requires a dedication to learning about Sevilla’s distinctive cultural aspects via on the job training and self education. The ability to passionately communicate Sevilla’s unique characteristics to our guests, positively contribute to our work environment, and follow Company, state and federal regulations are the keys to success as a Sevilla Server! \n\n Position duties and responsibilities include, but are not limited to the following: \nServer Responsibilities \n1. Promote and sell Sevilla’s culinary delights, unique beverages, and other specials/promotions following the Company’s Steps of Service. The goal is for the Server to educate the guest about the food, wines, and culture of Spain. \n2.Follow the Sevilla Steps of Service specific to the job code. \n3.Use the Opening and Closing Checklists on a daily basis to track completion of opening and closing procedures. \n4.To create the best guest experience and cultivate customer return. \n5.Responding to guests needs or requests in a timely manner. \n6.Food and beverage entry into Aloha policy and procedure is followed at all times. \n7.Evaluate the quality of all items being served. Do not serve any food or drinks with substandard quality or presentation. \n8.It is the responsibility of the Server to oversee the activities of a Busser. A Busser is never to clear a table unless assisted and directed by the Server. \n9.Run food whenever possible. \n10.Table maintenance- it is the responsibility of the server to ensure proper table maintenance at all times. Dirty plates, silverware, cups, trash, etc. must be removed by the server at all times possible. \n11.Assist at the host stand when possible- if no tables are requiring service, service should assist with seating tables as needed. \n12.Collect funds for payment of all food and beverages served. Follow cash handling procedures and immediately report any cash handling concerns. \n13.Address routine guest concerns in accordance with Sevilla requirements. Notify a manager immediately for all non-routine guest concerns. \n14.Maintain all side work and room appearance to the proper standards. \n15.Proper completion of all end of the night side work- side work is to be signed off by a manager prior to clocking out. \n16.Proper completion of check out- see Best Practice on proper check out procedures for any clarification needed. \n17.Protect establishment and patrons by adhering to sanitation, safety and alcohol control policies. \n18.Immediately report any maintenance, security, and/or safety issues or concerns to a Manager. \n19.Other work duties as assigned by Management. \n20.Must always carry a tray. \n21.Maintain clean, organized, and safe work areas. \n22.Adhere to all daily and weekly cleaning schedules. \n23.Providing great customer service. \n24.Engaging with guests to ensure they're happy with food and service. \n25.Maintain clean, organized, and safe work areas. Immediately report safety hazards to a manager. \n26.If working Show Server- \na.Dinner show is properly set up and ready on time \nb.All show tickets are properly rang into the aloha system, payments are processed, pre-payments are deducted, social offers are redeemed. \nc.All show supplies are properly put away in their correct place.d.All steps of service for Dinner Show are followed. \n27.Knowledge of all Best Practices applicable to job code. \n28.Completion of all assigned training tests & courses. \n29.TEAM WORK- Always keep a positive work attitude and friendly (approachable) demeanor with the ability to work well with coworkers and as a team when necessary. ONE TEAM, ONE MISSION!30.Adhere to uniform expectation per Sevilla Handbook and uniform policy. \n\n Additional Responsibilities \n1. Clock-in and out for each work day properly. Clock-in upon arrival, clock-out when leaving for meal period/10 minute break (or other personal time away from work), clock-in upon return from meal period/10 minute break (or other personal time away from work), and clock-out when the work day has ended and no more work tasks will be performed. Immediately notify a manager if a clock-in or clock-out is missed or incorrectly recorded. \n2. All breaks must be taken per Company Policy outlined in the Sevilla Handbook. \n3. Take a meal period when 6 or more hours are worked in one work shift. Start the meal period no later than the beginning 5th hour of \nwork. 30 minute and 10 minute breaks are to be clocked into Aloha when taken. For 30 meal period, the posted break log is to be signed as well. \n4. Immediately notify a manager if you feel you are not able to take a meal period or 10-minute break for any reason. \n5. Attend and participate in all mandatory staff meetings. \n6. Report suspicions of harassment, discrimination, retaliation, and/or safety issues immediately to a manager. \n\n To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to assist individuals with disabilities to perform the essential functions. \n\n Education/Experience \na.High School Diploma or equivalent \nb.2+ years related experience and/or training in a fast-paced, fine dining establishment; or equivalent combination of education and experience \nc.Working knowledge of state and federal safety and sanitary requirements \n\n Certifications \na.Current Food Handler’s Cardb.LEAD Card \n\n Computer Skills \na.Working knowledge of, or ability to learn, Company POS and timekeeping systems \n\n Work Environment \na.Reasonable accommodation or restricted duty may be made as recommended by a licensed physician \nb.The noise level in the work environment is usually loud \nc.The work environment is tight and requires “squeezing” by others and working in close quarters \nd.The work environment may be hot on occasion \ne. A clean, well-kept presentation is required all times in accordance with the Employee Handbook",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Pizza Hut Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Summit Restaurant Group LLC",
+  "location": "National City, CA 91950",
+  "rating": 2.8,
+  "reviewsCount": 13,
+  "url": "https://www.indeed.com/rc/clk?jk=6ba170a5a18cd979&fccid=010f1b0c533cc550&vjs=3",
+  "id": "6ba170a5a18cd979",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:24.697Z",
+  "description": "Be a sauce boss and make hungry people happy as a Server for Pizza Hut®. That's right, you can earn some cash while serving great pizza, pasta and wings. Sound good? \n\n As a Pizza Hut® Server, you'll prepare and serve all of our menu items for our customers and will have some cleaning duties. You should be a fun and friendly person who values customers and takes pride in creating and serving excellent food, and you should enjoy being part of a team. \n\n Your training will teach you everything you need to know to succeed on the job, but you should have good communication skills. You’ve got attitude - the right kind of course - and understand the need to be on time, all the time. \n\n We'll provide you with a uniform, you just need to keep it clean and come to work wearing it. You must be at least 16 years old. \n\n In addition to serving great Pizza Hut® products, you may occasionally have other duties in the restaurant. And, of course, you'll have to follow company policies and procedures. If you want to work as part of a great team, apply today!",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Cocktail Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Cafe Sevilla, Inc.",
+  "location": "San Diego, CA 92101",
+  "rating": 3.7,
+  "reviewsCount": 20,
+  "url": "https://www.indeed.com/rc/clk?jk=5bf91ff0858fb3c4&fccid=7690b2eb3fb4ffb2&vjs=3",
+  "id": "5bf91ff0858fb3c4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:24.813Z",
+  "description": "Work Duties and Responsibilities \n1)Use the Club Opening and Closing Checklists on a nightly basis to track completion of opening and closing procedures. \n2)At the time of opening, all servers must be standing within their section with a Bottle Service menu. The Servers goal is to sell tables/bottles to guests already in the club. It is the responsibility of the server to know, prior to opening, what prices they are able to sell a bottle/table for. \n3)Ensure every guest is having an enjoyable and memorable experience at Café Sevilla. \n4)All VIP Guests are to be served to Sevilla expectation and the Steps of Service for Cocktail Servers are followed. \n5)Interacting with customers by taking their orders, making recommendations, providing them with accurate bills, serving them drinks, processing payments, and supplying them with their requests in a timely manner. \n6)Processing all payments in accordance with Cafe Sevilla policies. This includes cash handling, CC processing and CC/ID verification procedures. \n7)Encouraging additional sales to guests- Upsell drinks/bottles, offer additional bottles with appropriate pricing, promote table service to guests not already seated. \n8)It is the responsibility of the server to inquire with Management as to what pricing they are able to sell any additional bottles for. What discount, if any, is available. This will vary for the multiple nights of the Nightclub as well as based on guest count of table. \n9)Handling multiple tables and tasks in an efficient manner. \n10)Maintaining clean and presentable tables and work area- minimal trash and empty glassware on tables during service hours. \n11)Always keep a positive work attitude and friendly (approachable) demeanor with the ability to work well with coworkers and as a team when necessary. \n12)During business hours, a server is never to be out of their section for more than 2 minutes at a time. The only time out of their section should be to pick up a bottle or get something that the Porter has not been able to get. 13)Maintain a polished professional appearance in accordance with the Employee Handbook. \n14)Inform management of any additional resources needed- If overwhelmed and cannot give service to Sevilla expectation, ask for assistance. \n15)Watch for underage drinking at all times, if applicable to the location. \n16)Immediately report any maintenance, security, and/or safety issues or concerns to a manager. \n17)If a server at any time feels as though they are being harassed by a guest or group that is displaying offensive language or gestures, the server must let Management know immediately as it is not taken lightly. Management will address the issue immediately and remedy as seen fit. Possible outcomes will be rotation of table to a different server or removal from the club. If rotation of table is necessary, Management will do their best to ensure any \"swap\" of tables is fair to all servers involved. In the occasion occasion that this does happen however, it is not an excuse for a server to not be available in their section at all times. \n18)Recommend process improvements to a manager and participate in implementing approved process improvements as appropriate. \n19)Properly complete all end of shift paperwork including nightly check out- must be completed per Company Policy. \n20)Other work duties as assigned by a manager.",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Part-Time Lunch Shift Server - Maderas Golf Course",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Maderas Golf Club",
+  "location": "Poway, CA 92064",
+  "rating": 3.9,
+  "reviewsCount": 7,
+  "url": "https://www.indeed.com/rc/clk?jk=fbf6cc9c64380944&fccid=39a86f5fcd8c2387&vjs=3",
+  "id": "fbf6cc9c64380944",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:25.206Z",
+  "description": "\n \n  \n   Part-Time Lunch Shift Server - Maderas Golf Course\n   \n   \n    \n      Job Summary:\n    \n     Servers are responsible for providing friendly and efficient customer service. Server's play an integral role in ensuring our customers have exceptional dining experiences. At all times, servers are expected to be attentive to our guests' needs, making them feel welcome, comfortable, important and relaxed.\n     We are looking for someone who will be passionate about food service and thoroughly enjoy creating excellent experiences for our customers.\n    \n    \n      Responsibilities:\n      \n     \n      Receives food and drink orders from patrons\n     \n    \n    \n     Stay updated on current menu choices, specialties and menu deviations, knowing if the kitchen staff is running out of any items, etc.\n     Transmit orders to bar and kitchen by recording patrons' choices, identifying patrons' special dietary needs and special requests\n     Obtain revenues by totaling charges; issuing bill; accepting payment; delivering bill and payment to host; returning change or credit card and signature slip to patrons\n     Rings drink orders into register POS system, collects money from patrons for drinks served and makes change.\n     Arranges bottles and glasses to make an attractive display and merchandise drinks.\n     May wash and sterilize glassware.\n     Sets up bar with glassware, ice, and all other bar supplies\n     Other duties may be assigned as needed\n    \n    \n    \n      Qualifications:\n    \n    \n     Must have ability to remain stationary for long periods of up to four hours in length. Must be able to reach, bend, stoop and frequently lift up to 50 pounds.\n     Professional appearance and demeanor.\n     Must be able to work weekends\n    \n    \n     Required Skills/Abilities:\n    \n     Excellent interpersonal and customer service skills.\n     Well-organized with ability to take and place food and beverage orders accurately.\n     Ability to operate point-of-sale systems.\n    \n    \n     Education and Experience:\n    \n     Must be at least sixteen years old (at least 21 years old to serve alcoholic beverages).\n     Previous experience as a server preferred.\n     Must successfully complete restaurants training course.\n    \n    \n     Physical Requirements:\n    \n     Prolonged periods of standing and walking.\n     Must be able to lift, balance, and carry trays of food weighing up to 25 pounds.\n    \n    \n     Maderas Golf Club is an Equal Opportunity Employer (M/F/D/V) and maintains a drug free workplace. \n    If you receive an offer of employment, it will be a conditional offer contingent on the successful completion of a pre-employment drug screen and background check.\n   \n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=fbf6cc9c64380944&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhOxS3Q9G0afXZvvNdk_aHZIv02HSGSZoWequxOEmCHqw&vjfrom=serp&astse=7ed550bf1108232e&assa=4974",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Barista / Server Assistant",
+  "salary": "$18 - $22 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Naked Cafe",
+  "location": "Encinitas, CA 92024",
+  "rating": 2,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/company/Naked-Cafe/jobs/Barista-978de8d575ad53b0?fccid=b5c80c37a9b491cd&vjs=3",
+  "id": "978de8d575ad53b0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:25.592Z",
+  "description": "Naked Cafe Encinitas 760.635.7866\nMust be able to work various shifts including on Saturdays and Sundays until 3:30pm! Consistent weekend availability, both Saturdays and Sundays, is a requirement for this position.\nWe are looking for an experienced barista / server assistant to join our team at Naked Cafe! Barista and food runner experience and the ability to create latte art, POS knowledge, and full service restaurant experience are preferred to be considered for this role!\nWe look for outgoing, bright, vibrant people who share in our passion for health and the environment! Our ideal candidate moves with a strong sense of urgency, has the ability to multitask, and is extremely efficient. You must be able to work at a very fast pace, while offering exceptional customer service.\nJob responsibilities include creating espresso drinks, educating customers on our drink menu, making recommendations based on their preferences, facilitating takeout orders, up-selling special items, food running, assisting servers, and more. Ultimately, you’ll ensure an amazing drinking experience for our guests.\nWe are open 7:30am - 2:30pm every day.\nPay is $15 per hour PLUS great cash tips every shift!!\n- check out our Instagram @thenakedcafe or our website thenakedcafe.com -\nPlease send in your resume through Indeed or drop one off at our cafe M-F : )\nJob Types: Full-time, Part-time\nPay: $18.00 - $22.00 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Day shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nExperience:\n\n Barista: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Resort Restaurant Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Sycuan Casino",
+  "location": "El Cajon, CA 92019",
+  "rating": 3.8,
+  "reviewsCount": 231,
+  "url": "https://www.indeed.com/rc/clk?jk=918aaaf4df870ecc&fccid=e861d77e70a05102&vjs=3",
+  "id": "918aaaf4df870ecc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:26.083Z",
+  "description": "\n \n  The ancestors of the Sycuan Band of the Kumeyaay Nation existed many centuries ago as a community of people…a Tribe living together, farming, hunting and fishing to survive.\n   \n   Much has changed since that time. Today the Sycuan Tribe governs its Reservation, owns and operates a Casino and a Golf Resort, and owns a number of other business ventures in the San Diego Region. \n   \n   One attribute that remains unchanged, however, is Sycuan's sense of community. Sycuan is more than just a business. Sycuan is a community of people working together toward a common goal. Whether you work in our state-of-the-art Casino, our beautiful Resort, or become a staff member in our Tribal Government division, you will be part of the Sycuan family. \n \n \n  \n   Job Purpose: \n  \n  \n   Provides service to guests by delivering food and drinks \n  \n  \n   Job Duties and Responsibilities: \n  \n  \n   (Note: Duties and responsibilities may be added, deleted, or changed at the sole discretion of Sycuan Management at any time) \n  \n  \n   \n    Provides guests with service by acknowledging and welcoming guests entering the restaurant area, promptly taking and serving food and beverage orders, entering orders into the property management system, entering discounts, processing and returning change or receipt following established procedures. - 50% \n   \n   \n    Promotes guest relations by responding to guest requests, offering appropriate up to date information regarding promotional contests and giveaways, providing requested assistance and product knowledge, and treating guests in a friendly and courteous manner. - 15% \n   \n   \n    Provides accounting of transactions during shift by entering cash transactions in to point of sale system, counting currency, logging guest discounts, vouchers, VIP points and credit cards on to cashier drop work sheet, balancing money drawer against generated cashier report following established procedures, and reporting discrepancies to the food services management team. - 10% \n   \n   \n    Ensures responsible alcohol beverage service polices are followed by asking for proper identification from guests that appear to be under the age of 30, monitoring alcohol consumption, ensuring guests do not become intoxicated following established procedures, stopping alcohol service at the designated time, and clearing the room of all alcoholic containers, glasses and bottles for each venue at the time specified. - 10% \n   \n   \n    Maintains safe and sanitary dining areas by cleaning surfaces, picking up used plates, cups, condiments and utensils, and disposing of all trash. - 10% \n   \n   \n    Ensures restaurant stations are stocked and clean by placing delivered water, food and supplies in designated areas, replenishing condiments in the server stations, polishing glassware and silverware, folding napkins, and cleaning shelves, condiment holders, tables and counters according to established procedures. - 5% \n   \n  \n  \n   Job Specifications: \n  \n  \n   Education and Experience: \n  \n  \n   Essential: \n  \n  \n   Current food handlers card \n   1 year of food server experience \n  \n  \n   Desirable: \n  \n  \n   Guest or Hospitality Service \n   Fine dining server experience \n  \n  \n   Skills and Knowledge: \n  \n  \n   Essential: \n  \n  \n   Ability to work effectively with team members and guests \n   Ability to communicate effectively in the English language \n   Ability to maintain professionalism and composure \n   Ability to count cash and make change in a fast-paced environment \n   Ability to recognize counterfeit monies \n   Ability to perform simple mathematical calculations \n   Ability to complete forms and documents \n   Ability to understand verbal directives and written instructions \n   Ability to accept constructive criticism \n   Ability to stand and walk for up to 8 hours at a time \n   Ability to carry large serving tray and tray jacks \n   Ability to bend, stoop, push and pull \n   Ability to appear for work on time \n   Ability to routinely lift and carry 35 pounds \n  \n  \n   Desirable: \n  \n  \n   Multi Lingual \n  \n  \n   Supervisory/Managerial Accountability: \n  \n  \n   Direct: None \n  \n  \n   Indirect: None \n  \n \n \n  If you enjoy being part of a community dedicated to creating a memorable guest experience, we invite you to explore career opportunities with Sycuan and join our winning team!\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=918aaaf4df870ecc&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjmzTvJN_JIvrEIA-EzizHikiS-2XS_43VyhyRGICpJaw&vjfrom=serp&astse=5fbf8f45bfac91ef&assa=5842",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$14 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Gyu-Kaku Japanese BBQ",
+  "location": "San Diego, CA 92101",
+  "rating": 3.3,
+  "reviewsCount": 256,
+  "url": "https://www.indeed.com/rc/clk?jk=fed14eaddf5f8aca&fccid=c2ef93b6ef6f5a95&vjs=3",
+  "id": "fed14eaddf5f8aca",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:26.357Z",
+  "description": "\n Title: Server\n  \n Employment Type: Hourly \n  \n Job Description: The Server serves food and drinks following established guidelines, procedures, and policies as prescribed by company standards. He or she interacts with guests and staff in a cordial, efficient, and professional manner and helps with seating guests, clearing and setting tables, preparing to go orders, side work, and cleaning duties.\n  \n  The ideal candidate for this position has a high school diploma or high school equivalency diploma and at least one year of experience in a restaurant setting. He or she can work a flexible schedule that includes days, nights, weekends, and holidays. Good written and speaking communication skills, good time management skills, and professional dress, speech, and behavior are all required for this position.\n  \n  \n Responsibilities: \n \n  Greets all customers in a warm, sincere and helpful manner \n  Takes orders and serves meals and beverages promptly and courteously \n  Operates the complete POS system and other required software \n  Ensures that work areas are clean and that equipment, tools, and supplies are properly stored \n  Follows safety and sanitation rules and practices \n  Helps bus and set tables and performs side-work and cleaning duties as needed \n \n Qualifications: \n \n  One year of relevant experience preferred \n  Helpful attitude and friendly demeanor \n  Able to work days, evenings, weekends, and holidays \n  Food Handler Card AND RBS Alcohol Certificate are required from the first day of work \n  Must be able to show proper document(s) that verify your identity and employment authorization \n \n Benefits: \n \n  Employee Discounts \n  Employee Recognition Program \n  Opportunity for growth within the company\n \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server - Beverage 2",
+  "salary": null,
+  "jobType": [
+    "Temporary"
+  ],
+  "company": "Bars @Hard Rock",
+  "location": "San Diego, CA 92101",
+  "rating": 3,
+  "reviewsCount": 845,
+  "url": "https://www.indeed.com/rc/clk?jk=d280731ac84c7c90&fccid=4bb34e973af10c48&vjs=3",
+  "id": "d280731ac84c7c90",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:26.756Z",
+  "description": "\n Job Summary: \n  Información disponible en español a continuación.\n  The Server is responsible for taking customer's food and drink orders serve food and beverages prepare itemized checks and sometimes accept payments. May perform additional duties which may include escorting guests to tables serving customers seated at counters setting up and clearing tables or operating a cash register. They also check the identification of patrons to ensure they meet the minimum age requirement for the purchase of alcohol. Responsible for providing the highest quality of service possible to guests in an efficient and courteous manner.\n  El Mesero es responsable de tomar ordenes de comidas y bebidas de los clientes preparar la cuenta y aceptar pago. Servicios adicionales como acompañar a los clientes a la mesa sentar y limpiar las mesas y manejar caja registradora. Responsable de revisar la identificación de los clientes para asegurar que cumplen los requisitos de edad para comprar bebidas alcohólicas; proveer el servicio de más alta calidad posible a los huéspedes de manera eficiente y cortés. Responsibilities: \n  QUALIFICATIONS:\n \n   High School diploma or equivalent and/or experience in a hotel or a related field preferred.\n   Alcohol Awareness Certification (must comply with State regulations)\n   Food Handlers certification (must comply with State regulations)\n   Must be able to convey information and ideas clearly.\n   Must be able to evaluate and select among alternative courses of action quickly and accurately.\n   Must work well in stressful high pressure situations.\n \n \n \n   Se prefiere diploma de Escuela Superior o su equivalente y / o experiencia en un hotel o campo relacionado.\n   Certificación para Manejar alimentos( debe cumplir con requisitos del Estado)\n   Certificación para Servir/Vender Alcohol (debe cumplir con requisitos del estado)\n   Tiene que poder expresar claramente información e ideas.\n   Tiene que poder evaluar y seleccionar entre varias opciones alternativas rápida y acertadamente.\n   Tiene que poder trabajar bien bajo presión.\n \n  RESPONSIBILITIES:\n \n   Comply at all times with Aimbridge Hospitality standards and regulations to encourage safe and efficient hotel operations.\n   Comply with certification requirements as applicable to position to include Alcohol Awareness Food Handlers Safety etc.\n   Be familiar with the organization of the restaurant and lounge and know the function of each job position.\n   Have a thorough knowledge of menus and specials in the restaurant.\n   Service guests with all food and beverage requirements in a warm friendly courteous and professional manner.\n   Clear clean and reset tables as needed.\n   Be familiar with the operation of the P.O.S. system.\n   Carry out cashiering functions in closing checks and end of shift paperwork.\n   Perform opening and closing procedures and side work duties according to station rotation assignment.\n   Ensure that tables and side stands are kept stocked tidy and clean.\n   Perform other tasks/jobs as assigned by the supervisor or manager.\n \n \n \n   Cumplir en todo momento con las normas y reglamentos de Aimbridge Hospitality para alentar operaciones de trabajo seguras y eficientes.\n   Cumplir con los requisitos de certificación requeridos para la posición incluyendo Certificado para manejar alimentos Certificado para servir alcohol Seguridad etc.\n   Estar familiarizado con la organización del restaurante y el salón social y saber la función de cada puesto.\n   Estar completamente familiarizado con los menús y los especiales en el restaurante.\n   Servirle a los huéspedes todas las bebidas y los alimentos pedidos de manera calurosa simpática cortés y profesional.\n   Recoger limpiar y volver a preparar mesas según necesario.\n   Estar familiarizado con la operación del Sistema Punto de Ventas (P.O.S.)\n   Llevar a cabo funciones de cajero para cerrar los cheques y el papeleo para el cierre del turno.\n   Llevar a cabo los deberes de abertura y cierre y otros deberes extras de acuerdo con la asignación de la rotación de las estaciones.\n   Asegurarse que las mesas y las estaciones para los meseros se mantenga suplidas nítidas y limpias.\n   Llevar a cabo otra tarea según asignada por el supervisor o gerente.\n  Property Details:\n \n  FLOAT AND 207 AT HARD ROCK HOTEL SAN DIEGO\n \n   Voted San Diego’s Best Rooftop Bar, FLOAT is set atop Hard Rock Hotel surrounded by panoramic views of the electric Gaslamp Quarter. In the afternoon find a stylish poolside oasis, which evolves into a sophisticated lounge featuring fire pits and music each night. Private poolside cabanas can be reserved day and night. Hotel guests and locals can enjoy the weekly Liquid Sunshine pool party all summer long, as well as special events featuring some of the top DJs in the world. Whether the sun is up or down, there is something to fit every mood and satisfy every impulse at FLOAT.\n \n \n   \n \n \n  Seven days a week, 207 offers hotel guests a hip yet unpretentious bar and lounge to enjoy a vast selection of wine, beer and hard-to-find, ultra-premium spirits. Midweek and during the sunny San Diego days, 207 bar it’s a great place for casual conversation over cocktails on the outdoor terrace or catching the game on one of our many flat screens. Weekend nights it’s one of San Diego’s hottest and friendliest Downtown San Diego bars.\n \n \n \n   \n  Company Overview: \n \n   As the global leader in third-party hotel management, our growing portfolio represents over 1,550 hotels in all 50 states and 22 countries, from top international lodging brands to luxury hotels, destination resorts and lifestyle hotels. Our associates around the globe are passionate about serving our guests and driving exceptional results, and thrive in a culture where everyone is inspired to be the best. Join a world of possibility with Aimbridge Hospitality.\n  Benefits: \n \n   After an initial waiting period, those hired into full time positions are eligible for a competitive benefits package that includes the following:\n \n \n   Now offering Daily Pay! Ask your Recruiter for more details\n   Medical, Dental, and Vision Coverage\n   Short-Term and Long-Term Disability Income\n   Term Life and AD&D Insurance\n   Paid Time Off \n  Employee Assistance Program\n   401k Retirement Plan\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=d280731ac84c7c90&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj9wlkaBZrX0EIGqogMloQlwsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=d9f761eae349b3e6&assa=6536",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "FOH Manager/Server",
+  "salary": "From $21 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Nishiki Ramen",
+  "location": "San Diego, CA 92103",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Nishiki-Ramen-Hillcrest/jobs/Foh-Manager-Server-bcd08e20db095568?fccid=9b1532267ac24bd1&vjs=3",
+  "id": "bcd08e20db095568",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:27.251Z",
+  "description": "We are looking to hire FOH managers/servers. The FOH manager/server will work as two different positions, as an hourly manager and as a servers shift lead.\nWhen working as a manager, duties and responsibliities include but not limited to:\nScheduling\nEvaluating employees\nInventory management for FOH\nImproving overall customer service\nWhen working as a shift lead, duties and responsibilities include but not limited to:\nTeam player/leader for the shift\nHandling customer complaints/issues\nTraining new staff\nJob Types: Full-time, Part-time\nPay: From $21.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n Paid training\n\nExperience level:\n\n 3 years\n\nRestaurant type:\n\n Casual dining restaurant\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92103: Reliably commute or planning to relocate before starting work (Required)\n\nLicense/Certification:\n\n Driver's License (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Olleh Sushi",
+  "location": "San Diego, CA 92111",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Shabu21+/jobs/Server-e4f9857153bdb5b2?fccid=44cf69d89b957714&vjs=3",
+  "id": "e4f9857153bdb5b2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:27.665Z",
+  "description": "Olleh Sushi\nServer / Food Runner\nPart time / Full Time\n$15 + Tip\n8198 clairemont mesa blvd san diego ca 92111\n858 437 7733\nJob Types: Full-time, Part-time\nSalary: $15.00 - $20.00 per hour\nRestaurant type:\n\n Fine dining restaurant\n\nShift:\n\n Day shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=e4f9857153bdb5b2&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhI9Il2FUU_L-Z4VOmdHqHeMIfcMu539kP3i1FMxIq2rA&astse=93c80c166a99017c&assa=7398",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Seeking Server @ Tanuki (Kensington)",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Tanuki Sake Bar",
+  "location": "San Diego, CA 92116",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Tanuki/jobs/Server-Tanuki-d370e58f51ac3893?fccid=eb4e3cfd77bc989c&vjs=3",
+  "id": "d370e58f51ac3893",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:33.604Z",
+  "description": "\n 2 years experience at a Japanese restaurant\n Set Up FOH and outdoor patio\n Prepare/serve teas, coffee, sake, beer, & wine\n Maintain cleanliness of restaurant\n Serve customers\n Bus tables\n Prepare for dinner service: set dinner settings, stock, tidy, prepare notes for reservations\n Have interest in learning about sake in order to help cultivate a sake culture at Tanuki\n Good communication skills: customer service, food running, harmony amongst staff, etc\n Friendly & professional: knowing - when to chat, how long to chat, what to chat about, how loud to chat : )\n Enthusiastic to be a part of a growing business\n\nJob Type: Part-time\nPay: From $15.00 per hour\nBenefits:\n\n Employee discount\n Paid sick time\n\nRestaurant type:\n\n Bar\n Casual dining restaurant\n Upscale casual restaurant\n\nShift:\n\n Day shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92116: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 2 years (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "RESTAURANT SERVER FS",
+  "salary": null,
+  "jobType": null,
+  "company": "Marriott Del Mar",
+  "location": "San Diego, CA 92130",
+  "rating": 3.4,
+  "reviewsCount": 61,
+  "url": "https://www.indeed.com/rc/clk?jk=08950dcaa4828d24&fccid=eedf660cd68437c3&vjs=3",
+  "id": "08950dcaa4828d24",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:33.757Z",
+  "description": "This is the job description for RESTAURANT SERVER. \n\n \nJob Title: Restaurant Server \n\nDepartment: Food & Beverage \n\nCompany: Dimension Hospitality \n\nReports To: Food & Beverage Supervisor, Manager or Director \n\nSupervises: N/A \n\n \nJob Purpose: To serve meals to patrons according to established rules of etiquette. \n\n \nJob Responsibilities:\n 1. Serves ice water and/or coffee upon greeting the table. \n2. Presents menu to diner, suggesting dinner courses, appropriate wines, and answering questions regarding food \npreparation. \n3. Writes order on check or memorizes it. \n4. Relays order to kitchen or bar and serves courses from kitchen and service bars. \n5. Garnishes and decorates dishes preparatory to serving. \n6. Serves patrons from dish at table on occasion. \n7. Observes diners to fulfill any additional request and to perceive when meal has been completed. \n8. Totals bill and accepts payment or refers patron to cashier. \n9. Replenishes supplies and prepares for the next meal. \n10. Takes the initiative to greet guests in a friendly and warm manner. \n11. Other duties as assigned. \n\n \nJob Skills:\n 1. Use arithmetic to total costs and make change. \n2. Talk with different kinds of people to find out what services they want and to give them information. \n3. Stand or walk for varying lengths of time, sometimes for long periods. \n4. Move fingers and hands easily and quickly to handle things like dishes, money and merchandise. \n5. Lift and carry things like heavy trays. \n\n \nJob Qualifications: Describe the minimum qualifications needed to complete the job responsibilities. \n\nEducation: HS Diploma or equivalent \n\nExperience: None required \n\nLicenses/Certifications: Must have TIPS and Food Safety certifications. \n\n \nPhysical Requirements: Ability to speak and hear in English. Close and distance vision. Frequently lifts/carries up to 25 lbs. Continual use of manual dexterity and gross motor skills with frequent use of bi-manual dexterity and fine motor skills. \n\n Additional physical & visual requirements (check all that apply) \nX Outdoor weather conditions \nX Stand for long periods of time \nX Walk extended distances \nX Lift/carry 6-25 lbs. \nX Able to work overtime and irregular hours \n\n While this job description is intended to be an accurate reflection of the requirements of the job, management reserves the right to add or remove duties from particular jobs when business need dictates.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=08950dcaa4828d24&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXii4X1Xy2rXoqDOYcoM6TxiIv02HSGSZoWequxOEmCHqw&vjfrom=serp&astse=575f2117a7d7ffc8&assa=3509",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Restaurant Server at BBQ Chicken Convoy",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "BBQ Chicken Convoy",
+  "location": "San Diego, CA 92111",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/BBQ-Chicken-Convoy/jobs/Restaurant-Server-9d043c57e2bacf2c?fccid=abf10194a4b5bad5&vjs=3",
+  "id": "9d043c57e2bacf2c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:34.687Z",
+  "description": "We are looking for a competent Restaurant Server to take and deliver orders. You’ll be the face of our restaurant and responsible for our customers’ experiences. Food server responsibilities include ensuring our tables are clean and tidy when guests arrive, presenting menus and serving food and beverages. You need to be quick on your feet (literally and metaphorically) and have a polite and friendly attitude. If you enjoy talking to people and thrive in a fast-paced workplace, we’d like to meet you. Your ultimate goal will be to provide high-quality service that will help us maintain and attract customers.\nWe have a great work environment with friendly staff and great tips!\nResponsibilities\n\n Attend to customers upon entrance\n Have a friendly and positive attitude\n Present restaurant menus and help customers select food/beverages\n Take and serve orders\n Be attentive to customers wants and needs and check in on tables regularly\n Be fast on your feet to work in a fast paced environment\n Collaborate with other restaurant servers and kitchen/bar staff\n Issue bills and accept payment\n\nSkills\n\n Proven restaurant serving or waitering experience\n Hands-on experience in cashier duties\n Attention to cleanliness and safety\n Patience and customer-oriented approach\n Excellent people skills with a friendly attitude\n Responsible and trustworthy\n\nJob Types: Full-time, Part-time\nPay: $15.00 - $17.00 per hour\nBenefits:\n\n Employee discount\n\nRestaurant type:\n\n Casual dining restaurant\n\nShift:\n\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:We are following all state mandated guidelines.\nApplication Question(s):\n\n What is your availability throughout the week?\n When are you able to start?\n\nExperience:\n\n Serving: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server/Barista/Bartender",
+  "salary": "Up to $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "livingroom cafe",
+  "location": "San Diego, CA 92110",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/livingroom-cafe/jobs/Server-Barista-Bartender-dee4a6ba71ba2f79?fccid=896e30cee623f54a&vjs=3",
+  "id": "dee4a6ba71ba2f79",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:34.790Z",
+  "description": "server/barista .\nwe are a livingroom cafe and a restaurant.looking for amazing servers/baristas to join our team.Amazing location,successful business,stable hours,long term,guaranteed pay check,.work as server/barista and everything else. livingroom cafe and mexican grill is located in old town.make coffee drinks,milk shakes,smoothies,juices for juice bar,margarita,pina colada, michilada, beer/alcoholic drinks etc....pastries,cakes,misc drinks and food items,take orders,deliver food,sweep,mop,dish washing, open/close responsibility etc........ employee must be clean,honest,reliable,mature,smart,go getter,nice to customers etc....no drugs/criminal history/alcohol abuse.will train the right person.we are also looking for.call me at 619 251 1282''Work Location:\n\n One location\n\nWork Remotely\n\n No\n\nJob Type: Part-time\nPay: Up to $15.00 per hour\nBenefits:\n\n Flexible schedule\n\nRestaurant type:\n\n Bakery\n Bar\n Café\n\nShift:\n\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:disinfect all day with bleach\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Black Bear Diner | Gogri Restaurants Inc.",
+  "location": "El Cajon, CA 92020",
+  "rating": 3.4,
+  "reviewsCount": 592,
+  "url": "https://www.indeed.com/rc/clk?jk=62c96915cfe71d81&fccid=497336d1b7c96087&vjs=3",
+  "id": "62c96915cfe71d81",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:35.057Z",
+  "description": "\n Server\n  Job Description\n  Job Description\n  A short description of the company:\n  Black Bear Diner is a restaurant chain in the western United States which serves homestyle and \"old-fashioned\" comfort foods. Black Bear decor has a rustic motif with \"over-the-top bear paraphernalia\". It offers family meals such as breakfast, burgers, salads, and shakes.[6] Baked goods prepared on site are offered, and some locations offer alcohol sales.\n  A short description of the position:\n  Provide friendly, prompt, individualized service that creates a dining experience so positive that all guests will want to return.\n  Duties/Responsibilities of the Job:\n \n   Welcome and greet guests. Make all our guests feel comfortable and let them know youre there to personally take care of them.\n   Inform guests of specials and feature items.\n   Answer questions about our food, beverages and other restaurant functions and services.\n   Take food and beverage orders from guests, enter orders in our point-of-sale system.\n   Deliver food and beverages to guests in a timely matter.\n   Run food orders from the pick-up window promptly regardless of which server placed the order.\n   Perform side work at the start and end of each shift as assigned.\n   Maintain clean service areas.\n   Monitor and observe guests dining experience. Ensure guests are satisfied with the food and service. Respond promptly and courteously to any requests. Pre-bus tables frequently.\n   Prepare bill and present check to guest at appropriate point in service sequence.\n   Clean and reset tables promptly. Clean chairs, booths, and surrounding carpet.\n   Be ready and willing to assist fellow servers as situations arise.\n   Thank guests for their visit and invite them to return.\n   Be available to fill in as needed to ensure the smooth and efficient operation of the restaurant as directed by the restaurant manager or immediate supervisor.\n \n  Benefits of the Job:\n \n   Upward Mobility\n   Fun Environment\n   Employee Events\n \n  Requirements of the Job:\n \n   Possess verbal and language skills to understand and communicate with guests.\n   Must have a basic knowledge of dining room and service procedures and functions.\n   Possess basic math skills, operate a point-of-sale system, and have the ability to handle money.\n   Be able to work in a standing position for long periods of time (up to 5 hours).\n   Be able to safely lift and easily maneuver plates of food, as well as supplies weighing up to 10 pounds.\n \n  You are applying for work with Bear Buddies Inc., a franchisee of Black Bear Diner, not Black Bear Diners, Inc., or any of its affiliates. If hired, the franchisee will be your only employer. Franchisees are independent business owners who set their own wage and benefit programs that can vary among franchisees.\n  \n  Brand: Black Bear Diner \n  Address: 1025 Fletcher Pkwy El Cajon, CA - 92020 \n  Property Description: BBD El Cajon \n  Property Number: 229\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Miguel's Cocina | Brigantine, Inc",
+  "location": "San Diego, CA 92110",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=d32ccb2324f834a1&fccid=d21ae66d69d64827&vjs=3",
+  "id": "d32ccb2324f834a1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:35.573Z",
+  "description": "“We are looking for friendly, energetic, detail-orientated team players who enjoy working in a fun, fast-paced environment and are able to work a flexible schedule. \n\n \nExperience: 1-2 years of previous experience in a fast paced/full service restaurant required. Experience in a similar environment is a plus. \n\n We are part of the Brigantine, Inc and offer flexible schedules, room for advancement, discounts on meals, and competitive wages and benefit.” \n\n \nBrand: Miguel's Cocina \n\nAddress: 2444 San Diego Ave San Diego, CA - 92110 \n\nProperty Description: Miguel's Old Town \n\nProperty Number: 7",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Applebee's | Apple American Group",
+  "location": "National City, CA 91950",
+  "rating": 3.5,
+  "reviewsCount": 17833,
+  "url": "https://www.indeed.com/rc/clk?jk=c7cc7a6d46989461&fccid=8d06e6fe8a035d32&vjs=3",
+  "id": "c7cc7a6d46989461",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:36.347Z",
+  "description": "\n Fun. Flexibility. Growth.\n  Are you looking for a fun and exciting environment, flexible work schedule, or an opportunity for growth? Blending all of these together is the difference between a good job and a great career. At Applebee's you will discover a balance between work life and personal life, as well amazing benefits for your health, future, family and happiness.\n  As an Applebee's Server, you will be our guests first and last impression. You will need to be friendly, make recommendations, and anticipate the needs of the guest. You will work hard, but have a great time doing it!\n  You must be at least 18 years old, be able to effectively communicate with others, and committed to making an impact.\n  We offer flexible work schedules, healthcare benefits, meal discounts, and a great career path.\n  The health, safety and well-being of our employees is our top priority.\n  Physical Standards: Must have mobility for long periods of up to four (4) hours in length. Must be able to safely reach, bend, stoop and frequently lift up to 25 pounds. Transports plates, glasses, and baskets to and from dining room, service bar, and the kitchen about 30 times per shift. Must be able to speak clearly and listen attentively to employees and dining room staff. Ability to wear protective hand coverings through entire shift. Ability to work with disinfectant cleaning supplies throughout entire shift. Ability to wear protective face coverings and/or masks through entire shift. Ability to frequently wash hands with disinfecting soap throughout shift.\n  For a copy of Flynn Restaurant Groups Workplace Privacy Notice, please visit http://www.flynnrestaurantgroup.com/workplace-privacy-notice/. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n  \n  Brand: Applebee's \n  Address: 3030 Plaza Bonita Road National City, CA - 91950 \n  Property Description: 2074 - Plaza Bonita - National City, CA \n  Property Number: 1J23\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "On The Border Mexican Grill and Cantina | Dos Gringos",
+  "location": "San Diego, CA 92126",
+  "rating": 3.6,
+  "reviewsCount": 1073,
+  "url": "https://www.indeed.com/rc/clk?jk=da9910137c188074&fccid=228b155bc98a1579&vjs=3",
+  "id": "da9910137c188074",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:37.145Z",
+  "description": "\n POSITION SUMMARY:\n  OTB Servers are the key to delivering great guest Service. We call it No Borders Service. Servers ensure that they provide an Every Guest is My Guest experience, from greeting to departure.\n  RESPONSIBILITIES:\n \n   Greets guests promptly and courteously, reviews specials, Club Cantina program, and menu options.\n   Service of food and/or beverage to include the order-taking, delivery and clearing of any food and/or beverage items.\n   Maintains service station, before, during and after shift to ensure proper set-up and cleanliness. Takes the order and inputs the order into the Point of Sale computer.\n   Confirms ready orders for accuracy, then runs them from kitchen to guest, as part of team service. Before departing table, ensure that guests have their complete order, cooked to their satisfaction and all their required items are delivered.\n   Ensures Guest satisfaction throughout the meal service, including drink refills, pre-bussing and removal of empty plates.\n   Delivers check promptly, completes transaction and thanks guests for coming to OTB. Abide by all state, federal regulations and restaurant liquor policies pertaining to serving alcoholic beverages to minors and intoxicated guests.\n \n  QUALIFICATIONS:\n \n   High School graduate or equivalent preferred\n   Must be 18 years of age or older, unless in Arkansas (Must be 19 years old).\n   Ability to operate computerized POS system, make change and accurately conduct credit card transactions\n   Team Player, ability to work within a fast paced, team environment\n   Valid Food Worker Card (if required by state or county)\n   Prefer a minimum of one year of serving experience\n   Ability to effectively communicate in English (verbal and written)\n   Must have a courteous, friendly and professional demeanor with guests and coworkers\n   Ability to stand, walk, and carry food trays for prolonged periods of time\n  \n  Brand: On The Border Mexican Grill and Cantina \n  Address: 10789 Westview Parkway San Diego, CA - 92126 \n  Property Description: On The Border MM \n  Property Number: MM\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Brigantine Seafood | Brigantine, Inc",
+  "location": "San Diego, CA 92101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=f0b386c5c3b061f9&fccid=f5b06b1f1c6df7d3&vjs=3",
+  "id": "f0b386c5c3b061f9",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:38.391Z",
+  "description": "“We are looking for friendly, energetic, detail-orientated team players who enjoy working in a fun, fast-paced environment and are able to work a flexible schedule. \n\n \nExperience: 1-2 years of previous experience in a fast paced/full service restaurant required. Experience in a similar environment is a plus. \n\n We are part of the Brigantine, Inc and offer flexible schedules, room for advancement, discounts on meals, and competitive wages and benefit.” \n\n \nBrand: Brigantine Seafood \n\nAddress: 1360 N Harbor Drive San Diego, CA - 92101 \n\nProperty Description: Brigantine Portside Pier \n\nProperty Number: 21",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Mimi's Cafe | Mimis Cafe",
+  "location": "San Diego, CA 92108",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=dfc57fd85f824ca8&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "dfc57fd85f824ca8",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:39.760Z",
+  "description": "\n Servers will make anywhere between $100 and $200 in tips!\n  Server \n \n  \n Servers at our restaurant play an integral role in ensuring our customers have exceptional dining experiences. We are interested in growing our team,and are in search of a professional Server with a minimum of 1 year experience at a full service restaurant. The right person will be passionate about food and service, and thoroughly enjoy creating excellent experiences for our customers. The ideal candidate will have a friendly, outgoing disposition, and previous experience working as a Server in a bustling, fast-paced restaurant setting. Candidate is required to enhance guest experience through suggestive selling and be able to multi-task answering phones, cleaning tables, performing side work duties.\n  \n  \n  Brand: Mimi's Cafe \n  Address: 5180 Mission Center Rd San Diego, CA - 92108 \n  Property Description: Mission Valley \n  Property Number: 60028\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": null,
+  "company": "The Cheesecake Factory",
+  "location": "San Diego, CA 92101",
+  "rating": 3.8,
+  "reviewsCount": 5783,
+  "url": "https://www.indeed.com/rc/clk?jk=2ae3592be1dad06f&fccid=bbbd83274f4eef08&vjs=3",
+  "id": "2ae3592be1dad06f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:41.379Z",
+  "description": "\n Overview:\n \n   As a server, you’ll wow our guests with outstanding service and hospitality. Whether guests are celebrating a special occasion or just spending time with family and friends, our servers go the extra mile to make it memorable. You’ll help with menu selections, quickly refill beverages and ensure food arrives on time, always delivering warm and friendly interactions. Our busy restaurants mean consistent hours, flexible schedules and the opportunity to make a great income – as well as a lot of friends and memories along the way!\n \n  What we're looking for:\n \n   Excellent communication, hospitality, interpersonal and math skills\n   Skilled at reading the table and can anticipate your guests’ needs\n   Team player; you’re always willing to give and ask for help\n   Able to lift up to 35 lbs., and continuously bend, reach and twist; you’re constantly on the move!\n   At least six months experience as a server in a full-service restaurant (if you have less experience, consider Cashier or Barista / Baker)\n   Must be at least 18 years old\n \n  What we offer:\n \n   Flexible scheduling\n   Hospitality training\n   Health benefits including medical, dental and vision (after 25 hours/week average)\n   Paid time off (after 25 hours/week average)\n   Discounted shift meals\n   25% discount for your party when dining in as a guest\n   Work this week access 50% of your pay at no cost\n   Career growth opportunities\n \n \n  Our Safety Commitment:\n \n   The health and wellbeing of our staff, managers and guests is always our top priority. We follow all COVID-19 guidance from the CDC and local health departments.\n \n \n  Who we are:\n \n   Since 1978, we’ve been known for our legendary cheesecakes, upscale casual hospitality and fresh-from-scratch menu, but we’re most proud of being named to the Fortune 100 Best Companies to Work For® list since 2014. With 45,000 staff members across more than 300 restaurants – including The Cheesecake Factory, North Italia, Grand Lux Cafe, Social Monk and Fox Restaurant concepts – our people-centered culture offers something for everyone.\n \n \n \n   We are an equal opportunity employer. We are committed to creating an inclusive and welcoming workplace for all. We welcome applicants from a wide variety of identities, ideas, perspectives and experiences and encourage people from underrepresented backgrounds to apply. The Cheesecake Factory offers reasonable accommodations to job applicants with disabilities.\n \n \n \n   #SoCheesecake #LifeAtCheesecake\n \n \n  Compensation Range ..\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server/Host",
+  "salary": "$20 an hour",
+  "jobType": [
+    "Temporary"
+  ],
+  "company": "AtWork SoCal",
+  "location": "Rancho Bernardo, CA",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AA_Zzz6hryWCtYS2_YXVwadF11QLCJAFg_SF-SwK6kLOC5lOZc9k1hNb1rkpihOy1uDX-xKRDOM8JxuxcllNTuW59k91ZdMyNIdP9MBXgqAz6eCWsvoVmyk52NOUqBNSvy6I4cVqEw_y4cwKMu-I3nElCskKqU8MaJBh3NipFkf322GX4DsyRObVQu20debtpk5nOvnJ2sRyVge3RR1mg55VQrN1j0H9jDn94gQ9OaCa9uA9YDil9DnJsBXhedXKzVB1OzfL1Nw-o_O2wyt7lSTmiUzK2kjsaF8Gh_lazdON-texjr1KN81oF-x1eY1MGcQhSojq0ngyJJozA8J3Eds0b8r4slJOV4f_CeKR41Guy3qx-ucm7ev0CHcLN25h8wFNUH_i_xUiiGkTv0Jp3U3I4l0GziMK4RVSJvWSK5V90fxiJpACHBv0bE1NoOHc7YLWafyKuHvQY-K2W_HXO1BfbEVSw3fjtcYWpgPJ5Yv-qyhErdDcvRvZFwFRgq9eQ=&xkcb=SoC9-_M3WvCnWbwXxx0KbzkdCdPP&p=1&fvj=1&vjs=3",
+  "id": "7204c2ec16c94cd2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:43.244Z",
+  "description": "Luxurious Resort Urgently Hiring Banquet Servers\n$20 / HR. Great opportunity to make extra $$$!\nHelp with setting up event tables\n\n Deliver plates\n Keep drinks filled\n Provide silver ware\n Provide direction to restrooms\n\nDress Code Required for most events: Black shirt (Button Down) Black Pants - Slacks (no leggings, jeans, or tights) Black NON-Slip shoes.\nCall Rosa 442 287 0300 ext 308\nJob Types: Part-time, Seasonal\nSalary: $20.00 per hour\nBenefits:\n\n 401(k)\n Health insurance\n\nRestaurant type:\n\n Fine dining restaurant\n\nShift:\n\n Evening shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location\nJob Type: Temporary\nPay: $20.00 per hour\nShift:\n\n Evening shift\n\nWeekly day range:\n\n Weekends only\n\nAbility to commute/relocate:\n\n Rancho Bernardo, CA: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Restaurant Staff",
+  "salary": "From $15.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Pazza Market & Cucina, in the new UTC Collection",
+  "location": "San Diego, CA 92122",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Pazza-Market-&-Cucina/jobs/Restaurant-Staff-855416cd82f39b98?fccid=72d8383c5b425548&vjs=3",
+  "id": "855416cd82f39b98",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:44.512Z",
+  "description": "Now Hiring all positions for Pazza Market & Cucina!\nJoin us for a Hiring Fair on Tuesday, December 6th, 10am - 2pm or Wednesday, December 7th, 2pm to 6pm at UTC Collection - 4577 La Jolla Village Drive Suite 1234 ( near CB2 ) Please clarify in your message when applying if you will be attending the hiring fair!\nWe are excited to introduce our new Italian concept to La Jolla! Pazza Market & Cucina will offer guests the opportunity to dine-in the restaurant, shop our retail & Italian wine collection or grab a family meal to take home and enjoy!\nThis will be a unique and fun opportunity for our team members as it will be a different environment than your typical restaurant. A great candidate will feel comfortable working as a team, interacting with guests and being diverse in their daily work.\nFOH STAFF\n\n Responsible for serving food & beverages, assisting guests with wine selections/pairings and educating shoppers on Pazza's retail products\n Experience in retail or restaurants is highly recommended\n Starting wage: $15.50/ hr plus tips\n Required when hired: California Alcohol Server Certificate\n\nBOH STAFF\n\n Experienced Pizza, Pantry, Prep Cooks, Line Cooks and Dishwashers\n Pay based on position and industry experience\n\nALL STAFF\n\n Show devotion to identifying and maintaining relationships with team members, guests and managers\n Hiring full time and part time staff\n Required when hired: California Food Safety Certification\n Hours of operations align with mall hours which includes weekends and holidays\n Employee meals on the day you work\n Employee discounts on retail items\n\nHiring Fair on Tuesday, December 6th, 10am - 2pm or Wednesday, December 7th, 2pm to 6pm at UTC Collection - 4577 La Jolla Village Drive Suite 1234 ( near CB2 ) Please clarify in your message when applying if you will be attending the hiring fair!\nJob Types: Full-time, Part-time\nPay: From $15.50 per hour\nBenefits:\n\n Employee discount\n\nSchedule:\n\n Day shift\n Evening shift\n Holidays\n Monday to Friday\n Weekend availability\n\nSupplemental pay types:\n\n Tips\n\nAbility to commute/relocate:\n\n San Diego, CA 92122: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant: 1 year (Preferred)\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Kai Sushi Restaurant",
+  "location": "Poway, CA 92064",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Kai-Sushi-Restaurant/jobs/Server-09d5c1e689c8b487?fccid=415cab21a0893687&vjs=3",
+  "id": "09d5c1e689c8b487",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:44.996Z",
+  "description": "Looking for experienced servers close to our Poway location. We hope to expand our team with attentive and hardworking individuals. Must be familiar with Japanese cuisine.\nJob Types: Full-time, Part-time\nPay: $15.00 per hour\nShift:\n\n 10 hour shift\n 12 hour shift\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Poway, CA 92064: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Rovino Restaurant + Bar",
+  "location": "San Diego, CA 92101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=8193f32eaf8cda30&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "8193f32eaf8cda30",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:45.590Z",
+  "description": "\n Rotisserie chicken, homemade pasta, beer, wine, & cocktails served in warm environs with a snug sidewalk patio.\n  As an assistant to the server, you are responsible for preparing service stations, assisting in the service to members and their guests, clearing and resetting tables, removing all trays from the dining rooms, and cleaning and closing service stations.\n \n  Job Duties \n \n  Welcoming patrons, escorting them to their tables, and providing them with menus.\n  \n \n  Serving complimentary snacks to patrons once they are seated.\n  \n \n  Wrapping utensils in napkins accordingly.\n  \n \n  Clearing dirty plates, utensils, and glassware from tables as required.\n  \n \n  Carrying dirty tableware to the kitchen area.\n  \n \n  Preparing tables for arriving patrons by wiping up spills, clearing away crumbs, replacing soiled linen, and setting up tableware, napkins, and condiments.\n  \n \n  Delivering food to tables when Servers are busy.\n  \n \n  Responding to patrons' requests and informing management of any complaints.\n  \n \n  Arranging tables and chairs to accommodate larger groups of patrons.\n  \n \n  Ensuring that the server station is adequately stocked with necessary restaurant supplies.\n \n  Working at Rovino Restaurant + Bar\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server Assistant",
+  "salary": "$24 - $28 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "PUESTO.",
+  "location": "5010 Mission Center Rd, San Diego, CA 92108",
+  "rating": 3.1,
+  "reviewsCount": 37,
+  "url": "https://www.indeed.com/rc/clk?jk=df87f29ead7fc2eb&fccid=e5828ebf552856f0&vjs=3",
+  "id": "df87f29ead7fc2eb",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:48.665Z",
+  "description": "\n \n  Puesto Mission Valley is looking to hire Server Assistants.\n   Located at 5010 Mission Center Rd, CA 92108.\n   \n   \n  Why you:\n \n \n   You are a person who is passionate about food and has the ability to create a welcoming environment.\n   You have the desire to join us in a busy, fun, hectic, and rocking party environment!\n   You love a good challenge and thrive when the going gets tough! Join us and help us bring our ideas and inspirations to light!\n \n \n   \n   Why us:\n \n \n   At Puesto we are uncommonly positive, we work hard to consistently exceed expectations and provide you with the opportunity to grow and learn. We are natural hosts, entertainers, and party throwers. We feel this is the best job in the world because we get to do it every day, and we get to do it with a crew that loves doing this as much as we do.\n \n \n   \n   Apply:\n \n \n   Apply online to be scheduled for an interview, please submit your resume.\n \n \n   \n   What we offer:\n \n \n   Flexible Scheduling.\n   Medical, Dental, and Vision Insurance to all Full-Time employees.\n   30% off employee discount at all of our locations.\n \n \n   \n   Competitive Wages:\n \n \n   $150 - $200 per shift.\n \n  \n  \n  \n About PUESTO.:\n  \n  \n We’re inspired by the world-renowned chefs and street vendors of Mexico City. We start with whole ingredients like tenderloins you can throw over your shoulder and fresh local catch from our fisherman neighbors. Our tortillas are made with organic, non-GMO, blue corn because it’s the 1200 BC old-fashioned way. We believe every meal should be a party, and most parties should have tequila. When you eat one of our tacos, hold it stable and face-dive in. That’s a metaphor for how your taco was conceptualized: face-first into freshness with a steady grip on tradition.\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Kettner Exchange",
+  "location": "San Diego, CA 92101",
+  "rating": 3.3,
+  "reviewsCount": 4,
+  "url": "https://www.indeed.com/rc/clk?jk=384e541b6036ebac&fccid=4c16bf3b20e33d9f&vjs=3",
+  "id": "384e541b6036ebac",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:51.453Z",
+  "description": "\n \n  \n   \n    \n     \n      \n       Kettner Exchange is looking for a hospitality professional with a passion for food, service, and providing unrivaled experiences for our guests. Our ideal server candidate is a charismatic individual who is familiar with both our brand and our cuisine. Candidates should pride themselves on flawless execution, wine presentation, and menu knowledge for both food and beverage.\n      \n      \n      \n        Duties and Responsibilities as follows:\n      \n      \n       Provide impeccable table side service\n       100% food and beverage menu knowledge with the ability to suggest pairings when necessary\n       Ability to course food items appropriately\n       Professional appearance\n       Reliable with a driven work ethic\n       Must be available weekends\n      \n      \n      \n        Our employees receive competitive salaries and hourly rates. We offer companywide restaurant discounts. SDCM promotes from within, and each team-member will work closely with award-winning chefs and leading beverage directors. Our company sincerely values a proper work-life balance, offering the accommodations and flexibility our workforce community requires. SDCM is committed to maintaining our diverse and inclusive workforce and all applicants will receive consideration for employment.\n      \n     \n    \n   \n  \n \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Busser/Server Assistant",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Cesarina Pasta LLC",
+  "location": "San Diego, CA 92107",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AtR68e5gWpPxoovZgA7Udo-dcymoK0NpHFMpIgh7LYz0NxxZAN23UT4mQmUPuY_QsTwpCfECDxw5q4UOhsLH7BDBxC-9fY1_EPE2qAvSoec5cpg2sRKC-iN12xqEuhoR-1rUPezfKDu87hWzrcOniaZPiUcUMrMvXr5NY8cFCKB8zmJ3tQcFteo5HWDv2nCCuxgWB4lcCa0sr9SCc5HU4F88ARTWDscw9FxedHrJuJgvk2H_4fHX3rFR68VxSNRkprhjFcxfxlDhbtLx2mrikulUs2ernOc2qNkt78Y8f6OvKS1jX6yU_G2fTpx76cFreRuM43zs5ZHXIyKBuyDTgsmadebtcJ7KoYLxHadvWPONQj3rqjzj_GRpGbjRT_gT__NeOh2SpIpFRDfU6okv3KnuHBhMvdAf0b3uIpvtONytQs0QogUuD6KWOIPllISQ463c_ML-FpH4SjmpbHysn3NnLvVy0sWNZEbYc301ZIhjBDjsNFvdLHdTackUgpXjPE52Kr_BsJWQ==&xkcb=SoBH-_M3WvCk2q2bBZ0LbzkdCdPP&p=3&fvj=1&vjs=3",
+  "id": "4ddaadbd5239ebca",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:52.901Z",
+  "description": "We are looking for BUSSER/SERVER ASSISTANT\nAM and PM shifts\nWe are looking for an individual who seeks a positive and fun work environment. An enthusiast human who values teamwork and enjoys being around others.\nResponsibilities and Duties:Prepare dining areas before guests are seatedDecorate tables with the proper settingsPlace tableware and condiments on tablesServe water and breadRefill beverages and breadRemove dirty utensils and replenish, as neededClean and reset tables after guests leaveMaintain health and safety regulations in all kitchen and dining areasMaintain a precise ethic of execution and organizationFollow directions and be able to handle feedbackPossess the ability to work well with a team and under pressure\nRequirements2 years of work experience as a busser in high volume restaurantFlexibility to work in shifts, including weekends, evenings, and holidaysUnderstanding of hygiene and food safety rulesPhysical ability and stamina to carry heavy trays and stand for long hoursAbility to multitask and remain calm and professional in a fast-paced environmentA high school diploma is a plus\nTo apply respond to this email with your attached resume. Applications with no resumes will not be taken into consideration.\nJob Types: Full-time, Part-time\nPay: From $15.00 per hour\nBenefits:\n\n 401(k)\n Employee discount\n Health insurance\n Referral program\n\nPhysical setting:\n\n Casual dining restaurant\n Fine dining restaurant\n\nShift:\n\n 8 hour shift\n Day shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92107: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server Assistant",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Punch Bowl Social",
+  "location": "San Diego, CA 92101",
+  "rating": 3,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/company/New-Punch-Bowl-Social/jobs/Server-Assistant-57b8d66a9c155602?fccid=1758a88e92daca03&vjs=3",
+  "id": "57b8d66a9c155602",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:53.076Z",
+  "description": "Server Assistants – We want you at Punch Bowl Social!\nLife is short, work somewhere awesome. Join the Punch Bowl Social crew today and be the envy of all your friends.\n· Competitive hourly rate + tips\n· Flexible working hours\n· Opportunity for growth and development\n· Referral bonus program\n· Team member discounts on food, beverage and activities!\nOur server assistants are protectors of all that is sacred: culinary integrity. The good news is that your training will teach you everything you need to know to succeed on the job. But there are a few skills you should have from the get-go:\n\n You value guest experiences and take pride in everything you do\n You've got attitude (the right kind, of course)\n Communication is key - you should be comfortable talking with strangers\n You understand that work is easier - and more fun - with teamwork\n Experience working in a high-volume restaurant/bar is ideal\n\n*** Must be 21 years old and over ***\nWhat you'll be doing: \n· Ensuring that quality product leaves the kitchen – every shift, every plate\n· Delivering dishes with enthusiasm and highlighting quality ingredients\n· Helping the team create memorable guest experiences by refilling and running drinks and quickly clearing the table when a guest has departed\n\n General upkeep and maintenance as needed - Constant cleaning\n Helping with general cleaning and maintenance duties around the restaurant as needed\n\nFollow us @punchbowlsocial or check us out at punchbowlsocial.com\nOur team takes the current Covid-19 pandemic very seriously and has implemented additional safety and health guidelines to protect staff and guests. Proper safety and sanitation guidelines will be provided during training.\nWe focus on an inclusive culture and celebrate everyone for who they are. We are an Equal Opportunity Employer and do not discriminate in hiring or employment on the basis of race, color, creed, religion, sex, sexual orientation, national origin, citizenship status, ancestry, age, marital or veteran status, physical or mental disability, arrest record, genetic information or any other characteristic protected by applicable federal, state and local laws.\nJob Type: Part-time\nBenefits:\n\n Employee discount\n Referral program\n\nPhysical setting:\n\n Casual dining restaurant\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Waiters & Waitresses needed for Holiday Events and More!",
+  "salary": "$16 - $18 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Royalty Staffing",
+  "location": "San Diego, CA",
+  "rating": 3.6,
+  "reviewsCount": 34,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0A7y15GFalzmTcuZgCHaF10VWk2EtHtYWH5Oy_e7VIqEt8f2ZUQo_BJF1HnhUUjQexF1aj6DBOgXTV4x31BJH7XDQHWayNFqFllD9Wl_CehFUs4Db3mCiMWt9kLhS16yPsLfF0S-OnadA5FY1kOX-1a_H6P12_S9YM3IfajCT3X6EqZxf3G6t6jx_Hc_kbZwmXM90mpJos33c7qhWQH9m9wyz1boHgQvXBAbkiJOKL2Fb3ZdkuByPKTZfI52JCHcba_CTMjvwVjUv8-uvNjHVQ7at0a2vi0_enDhiIeIDXVdk17xamUAzeCK6TSSVlPrhLLQQLJiQKPHE1laiYQTaU3dPPgNb3wizfLeQKJQ4tqCHD3BByGwJEpq7irD9li0CpVQFcKrZ8kQ1VDN8Z4tDbpQmOhMs5cGrV0DDc5zxxRnIPv3NSAHInD2q63FaDlpHPX0Qtd0LSzeC8Ybk4mlAbw0_SSLu2z3oKG6CMmkQvBnLQefzqIYmkkPcJCJ0k8_jXuue-YaJBeolVRIbzSjP8QbVsTr3X7wgqsTfHXJkRWkw==&xkcb=SoD8-_M3WvClYh2bER0LbzkdCdPP&p=11&fvj=1&vjs=3",
+  "id": "f29d0e7c0563e1b2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:55.243Z",
+  "description": "AMAZING OPPORTUNITY IN THE LIVE EVENTS INDUSTRY!\nIN PERSON special events are looking for YOU!\nJoin our team of Experienced Special Events Waitstaff to work venues throughout San Diego County, Especially for Holiday Events Coming Soon!!\nWE WANT YOU ON OUR TEAM!\nWe work with San Diego's premier hotels, caterers, country clubs and sport/entertainment venues!\nRoyalty Staffing is THE sought after event Staffing agency in San Diego!\n- Meet people just like you and gain new friendships!\n-Discover new experiences working with various event venues, styles and cultures!\n- Flexible work schedule; events are posted and YOU decide when YOU want to work!\n-In a growing industry, there is SO much growth opportunities available within our company!!\nPay $16-$18 / HR\nReady to explore this exciting opportunity?\nSubmit your Resume and someone will shoot you a text message with an interview date.\nLimited positions available so don't hesitate to respond NOW!\nJob Type: Part-time\nPay: $16.00 - $18.00 per hour\nShift:\n\n 8 hour shift\n Evening shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Rotating weekends\n Weekend availability\n\nCOVID-19 considerations:All COVID Protocols Followed.\nExperience:\n\n Restaurant: 1 year (Required)\n\nWork Location: On the road",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Waiter/Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "The Remington Club",
+  "location": "San Diego, CA 92128",
+  "rating": 3,
+  "reviewsCount": 2366,
+  "url": "https://www.indeed.com/rc/clk?jk=a1e7179f0e1ceba0&fccid=459db60187a68a4e&vjs=3",
+  "id": "a1e7179f0e1ceba0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:56.241Z",
+  "description": "\n Location Information The Remington Club is a beautiful community in San Diego, CA, with more than 400 units offering independent living, assisted living, and skilled nursing care.\n  Key Responsibilities\n \n  At this time, we are seeking a Waiter/Server to join our team!\n \n  Responsibilities\n \n   Takes resident(s) meal orders and serves meals correctly and efficiently.\n   Delivers trays to rooms of ill residents.\n   Sets tables with napkins and tableware.\n   Refills condiments and salt and pepper shakers.\n   Sets up and keeps salad and dessert counter supplied.\n   Cleans dining room tables and chairs and vacuums dining room.\n   May perform other duties as needed.\n \n \n  Qualifications\n \n   High school diploma or equivalent.\n   Similar experience preferable.\n   The ability to work in a team environment and work flexible shifts.\n   Strong communication and listening skills.\n   Ability to lift a minimum of 15 pounds and stand for extended periods of time.\n \n \n  Shift/Hours Evening\n  Our Core Values\n \n \n   We Put People First\n   We Act With Integrity\n   We Mind the Business\n   We Listen, Then Act Decisively\n   We Work to be Our Best\n \n \n  Five Star Senior Living and Ageility are operating divisions of AlerisLife, a provider of an evolving portfolio of residential and lifestyle services to older adults who want to live life to the fullest. We are approximately 10,000 team members serving in 29 states as well as our corporate AlerisLife headquarters located outside of Boston. Together, we’re assembling a suite of best-in-class products and services to inspire joyful living in a growing range of settings.\n \n  About Five Star The Five Star Senior Living division includes independent living, assisted living and Alzheimer's/memory care communities across the United States. When you join Five Star, you become part of a family where you’ll be supported in your efforts, offered guidance in your career and celebrated for your unique talents. We’re a team of dedicated professionals who make it possible for older adults to live their healthiest, happiest and most fulfilling lives. We hope you can join us and be part of an amazing team!\n \n  EEOC Five Star prohibits discrimination against any applicant or employee with regard to or on the basis of race, color, religion, national or ethnic origin, age, ancestry, sex, pregnancy (including pregnancy, childbirth, lactation and related medical conditions), gender, gender identity and expression (including transgender), sexual orientation, mental or physical disability, military status, certain criminal records, genetic information (including characteristics and testing), HIV testing, a personal admission to a facility for the care and treatment of a mentally ill person and taking of parental leave or membership in any other category protected by applicable law. In addition to federal requirements, Five Star complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has communities and/or facilities. This policy applies to all terms and conditions of employment, including, but not limited to, recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.\n \n  In addition, Five Star expressly prohibits any form of workplace harassment based on race, color, religion, national or ethnic origin, age, ancestry, sex, pregnancy (including pregnancy, childbirth, lactation and related medical conditions), gender, gender identity and expression (including transgender), sexual orientation, mental or physical disability, military status, certain criminal records, genetic information (including characteristics and testing), HIV testing, a personal admission to a facility for the care and treatment of a mentally ill person and taking of parental leave or membership in any other category protected by applicable law. We will not tolerate harassment of employees in the workplace, or in other settings in which employees may find themselves in connection with their employment. Improper interference with the ability of Five Star’s employees to perform their job duties may result in discipline up to and including discharge. Additionally, retaliation, including intimidation, threats, or coercion, because an employee or applicant has objected to discrimination harassment or retaliation, engaged or may engage in filing a complaint, assisted in a review, investigation, or hearing or have otherwise sought to obtain their legal rights under any federal, state, or local law is prohibited and will not be tolerated.\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=a1e7179f0e1ceba0&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjskiPnFdcHicAW9nCxkaL4wsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=5a47d90b010ae026&assa=6032",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server/Bartender",
+  "salary": "$15 - $45 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Khans Cave Tavern & Grill",
+  "location": "San Diego, CA 92123",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AtR68e5gWpPxoovZgA7Udo-dcymoK0NpHFMpIgh7LYz89a6ptN8bpMIulPkgfysNk-NM0DHMjLL0DmgJMjNdruiot91RQASju0lyTsxccOomgKVuEletEG1k7tVRvZJSlfAYf99m5qqRLavNRFkvYQn4sJ3ugaDNADiNAx5upTbJWRcEoCEtTCDi1wxIkzpWrT51ZOt2uSA2mpEqoaaLWTOAI4_tmftrjs-mWR5ufGwGbFdT94ZBM0NL2Gdax7xD4FhaufUhUx4UkHh-UvfVnP-XTFcpA3HPwui1eKzWVwvpKl3gtsQLbAqbNYsBo_JCnF2lsdxU7letpWoN-XdqmQ8rlk7LHpRr836C7X8S3u79Y_Yh0m8iJBnqs5O-zwdg0r0xZROhsSl2C0c0gr35h-ppboudmshQeJnYnPT8poN8cVo3JmyTsqxAgWU-wxU4l6MSlFbqFLoUACzEBfd5jAgkZ8askfdRJm5fB92luqnknZ_22a_6KiY8xi6y3heLM=&xkcb=SoAe-_M3WvClYhWbER0ObzkdCdPP&p=10&fvj=1&vjs=3",
+  "id": "8cdff68475e55c0d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:56.501Z",
+  "description": "Looking for friendly, energetic, highly motivated people who will thrive in a fast-paced, team-oriented environment.\n\n Minimum of 6 months of experience as a Server in a full-service or comparable restaurant\n\n\n Service of food and/or beverage to include the order-taking, delivery and clearing of any food and/or beverage items.\n Ensures Guest satisfaction throughout the meal service, including drink refills, pre-bussing and removal of empty plates.\n Delivers check promptly, completes transaction and thanks guests for coming to restaurant.\n Abide by all state, federal regulations and restaurant liquor policies pertaining to serving alcoholic beverages to minors and intoxicated guests\n\nJob Type: Part-time\nPay: $15.00 - $45.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nRestaurant type:\n\n Bar\n Casual dining restaurant\n\nShift:\n\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92123: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Punch Bowl Social",
+  "location": "San Diego, CA 92101",
+  "rating": 3,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/company/New-Punch-Bowl-Social/jobs/Server-6779f4c0bf71cc92?fccid=1758a88e92daca03&vjs=3",
+  "id": "6779f4c0bf71cc92",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:57.265Z",
+  "description": "Servers – We want you at Punch Bowl Social!\nLife is short, work somewhere awesome. Join the Punch Bowl Social crew today and be the envy of all your friends. . We’re open and building a team of teams that we want you to be part of.\n· Competitive hourly rate + tips\n· Flexible working hours\n· Opportunity for growth and development\n· Referral bonus program\n· Team member discounts on food, beverage and activities!\nOur servers have a high culinary integrity, a passion for craft cocktails and a flair for creating exclusive experiences. The good news is that your training will teach you everything you need to know to succeed on the job. But there are a few skills you should have from the get-go:\n\n You value guest experiences and take pride in everything you do\n You've got attitude (the right kind, of course)\n Communication is key - you should be comfortable talking with strangers\n You understand that work is easier - and more fun - with teamwork\n Experience working in a high-volume restaurant/bar is ideal\n\nWhat you'll be doing:\n\n Working alongside a team to create excellent guest experiences\n Be a proud host and guide guests on how to enjoy Punch Bowl Social\n Follow steps of service to meet brand standards\n Uses Aloha POS for entering orders/processing payments\n Keeping your tables on point, ensuring guests have everything they need and nothing they don’t\n Helping guests navigate the menu, with close attention to allergens and highlighting out craft beverage options\n Assisting at keeping the server station stocked\n\n*** Must be 21 years old and over ***\nFollow us @punchbowlsocial or check us out at punchbowlsocial.com\nWe focus on an inclusive culture and celebrate everyone for who they are. We are an Equal Opportunity Employer and do not discriminate in hiring or employment on the basis of race, color, creed, religion, sex, sexual orientation, national origin, citizenship status, ancestry, age, marital or veteran status, physical or mental disability, arrest record, genetic information or any other characteristic protected by applicable federal, state and local laws.\nJob Type: Part-time\nBenefits:\n\n Employee discount\n Referral program\n\nRestaurant type:\n\n Casual dining restaurant\n\nShift:\n\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "BJ's Restaurants",
+  "location": "San Diego, CA 92037",
+  "rating": 3.5,
+  "reviewsCount": 2737,
+  "url": "https://www.indeed.com/rc/clk?jk=163ab93051a99f26&fccid=c1f9bad50073da66&vjs=3",
+  "id": "163ab93051a99f26",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:57.373Z",
+  "description": "\n Overview: \n \n   Open interviews conducted daily - Walk-ins are Welcome\n \n \n   \n \n \n   Hiring Immediately\n   \n   We value Gracious Hospitality in everything we do, it starts with you! Our team members are the not-so-secret ingredient in crafting memorable moments and delivering the exhilarating brewhouse experience our Guests know us for.\n   \n  \n    Server\n  \n   \n  \n  \n    There’s a place for you at our table. Craft your career today.\n  \n  \n    You give your all to delight our Guests, we serve up the ingredients for you to live your best life.\n  \n  \n    Flexible scheduling options\n    Fun, energetic and inclusive workplace\n    Career path programs to help you advance your career. We love promoting our team members!\n    Competitive pay & earn tips\n    Team Member dining discounts\n    Benefits designed for your holistic wellness:\n    \n      Medical, dental, vision, and wellness programs (eligibility based on hours worked).\n      Flexible spending accounts, 401(k), and financial wellness plans.\n      Life, disability, accident, home, auto, and pet insurance.\n      Perks Spot discount program – save on entertainment, movie tickets and hundreds of products!\n    \n  \n  Responsibilities: \n \n  Gracious Hospitality is in your capable hands. You:\n \n \n   Deliver fun, memorable brewhouse experiences that exhilarates the senses and nourishes the soul.\n   Craft memorable connections that delight our Guests with your service focused hospitality and genuine smile that keeps Guests excited for their next visit.\n   Make crave worthy food and beverage recommendations that keep our Guest full and smiling.\n  Requirements: \n \n  Bring your Guest focused enthusiasm to our team today.\n \n \n   Do you have 2+ years of full-service, high-volume, casual dining restaurant experience?\n   Do you thrive working in a fast-paced, collaborative, team-oriented environment?\n   Do you have excellent communication and cash-handling skills?\n   Are you 21 years of age or over?\n \n \n   Apply today!\n \n  \n \n \n   About BJ’s Restaurants\n \n \n   We have been crafting memorable brewhouse experiences since our humble beginnings in Southern California in 1978. We pride ourselves in providing our Guests with crave worthy food and beverages that exhilarates the senses and nourishes the soul. We are proud of our brewhouse legacy and take our craft seriously. Guests come to BJ’s to experience our brewhouse escape and make good times better. We can do that thanks to our dedicated team members, who take pride in providing every Guest with our signature gracious hospitality.\n \n  \n \n \n   BJ’s settings and the nature of our business require our team members meet the physical requirements to perform the job effectively, with or without accommodations.\n \n  \n \n \n   BJ’s Restaurants is an equal opportunity and E-Verify employer. Proof of eligibility to work in the U.S. required.\n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=163ab93051a99f26&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjaBIOXOASICH0Xk1gTR8-4-BhdrQogdzP3xc9-PmOQTQ&vjfrom=serp&astse=ba4baa69f26393d9&assa=7015",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Food Server",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Zen Modern Asian Bistro",
+  "location": "San Diego, CA 92128",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Zen-Modern-Asian-Bistro/jobs/Food-Server-4d2b07b4d4df718b?fccid=9f0a370f24c0fa76&vjs=3",
+  "id": "4d2b07b4d4df718b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:57.552Z",
+  "description": "The Server contributes to the success of Zen by serving the Guests within the restaurant. The Server’s responsibility is to serve Guests in a friendly, sincere manner and to do “whatever it takes” to insure a vital, vibrant, and powerfully flavored Guest dining experience. If you take pride in providing great service, work hard, and want to make money with a flexible schedule, then we want to hear from you for our delicious Asian cuisine! We are seeking hard working individuals to join our team.\nEssential Duties and Responsibilities include the following other duties may be assigned. \n\n Prepares and delivers food and drinks to guests and meets or exceeds guests expectations\n Greet guests, answers questions, and makes suggestions regarding food, drinks and service.\n Interacts verbally with all guests creating a friendly and upbeat atmosphere\n Package all take out items correctly and efficiently according to Zen's guidelines, double checking that all food is made and packaged properly.\n Committed to speed, quality, an appetite for learning, and always striving to be better\n Takes pride in all aspects of their work, whether running out food, making drinks, running the register, or cleaning the floors.\n Hears and senses guest needs and keeps the manager and fellow colleagues informed on an ongoing basis.\n Give and gets respect always willing to play their part in making the restaurant a warm and welcoming place\n Recognizes how critical cleanliness and safety are to the quality of the product and the health of the business.\n Takes his/her craft seriously and does everything necessary to create memorable experiences that make our guests crave more.\n To carry dirty dishes from dining room to kitchen.\n To wipe table tops and chairs with damp cloth.\n Set-up of all tables immediately after the departure of the guests.\n To continually stock and maintain service areas.\n To maintain full levels of water, soft drinks and coffee at guest's table at all times.\n Daily clean, sweeping and mopping of the restaurant, maintain fresh supplies of paper products in restrooms, and general restaurant maintenance.\n To be responsible for set-up of all tables in your station at the conclusion of the service for the next shift.\n To maintain constant communication with all colleagues\n Help Kitchen team as needed\n Demonstrates thorough knowledge of menu and responds to guest inquiries and concerns in a courteous manner.\n\nJob Types: Full-time, Part-time\nPay: From $15.00 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Day shift\n Night shift\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "The Henry",
+  "location": "1031 Orange Ave, Coronado, CA 92118",
+  "rating": 3.2,
+  "reviewsCount": 27,
+  "url": "https://www.indeed.com/rc/clk?jk=ec60bc3f4c37cd3d&fccid=a2fd74775504309e&vjs=3",
+  "id": "ec60bc3f4c37cd3d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:58.458Z",
+  "description": "\n Overview:\n \n \n   Hiring – Server\n \n \n   Hiring Immediately\n \n \n \n   Why The Henry?\n \n \n   Killer earning potential\n   Benefits available when you work 25 hours per week – including medical, dental, & vision\n   35% dining discounts at all Fox Restaurant Concepts\n   Additional discounts at The Cheesecake Factory and North Italia\n   Flexible schedules\n   Tuition reimbursement\n   Opportunity for growth within our family of brands\n \n \n   Who we are:\n \n \n   The Henry is a part of Fox Restaurant Concepts, an ever evolving and growing line of innovative concepts founded in 1998. The Henry is the greatest neighborhood restaurant and from the moment you step into the doors, the energy proves that to be true. Our menu is layered with a variety of elegant, yet casual dishes and the atmosphere is bursting with charm. We’re hiring immediately!\n \n \n \n   What you’ll do:\n \n \n   Must have 1+ year high-volume restaurant experience\n   You have excellent communication skills, can stand for long periods of time, and are able to lift up to 25 pounds.\n   Provide great hospitality by going above and beyond for every guest\n   Know the menu and be able to make genuine recommendations\n   Keep it clean. You treat your tables like they’re in your own home.\n   Perform calmly and effectively in a high-volume environment\n   Respond to on-the-fly requests with ease and poise\n   Understand POS systems and OpenTable (or other digital/online reservation systems)\n   Availability to work weekends and some holidays\n   Be available to fill in as needed to ensure the smooth and efficient operation of the restaurant\n \n \n   Fox Restaurant Concepts, an entity of the Cheesecake Factory, is an Equal Opportunity & E- Verify Employer. Proof of eligibility to work in the United States is required.\n \n\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Busser/Server Assistant",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Cardellino",
+  "location": "4033 Goldfinch St, San Diego, CA 92103",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Rare-Society/jobs/Busser-Server-Assistant-aaa59b3fea9eca50?fccid=2c3a066511dab89e&vjs=3",
+  "id": "aaa59b3fea9eca50",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:58.671Z",
+  "description": "Join our Cardellino Italian Chophouse team in Mission Hills! Trust Restaurant Group is looking for talented, enthusiastic, and experienced hospitality professionals to join our family!\nWHO WE ARE:  Trust Restaurant Group is one of San Diego’s top hospitality collectives, helmed by acclaimed Chef Brad Wise. Cardellino Italian Chophouse highlights premium cuts of meat, utilizing a Big Green Egg and Woodstone Oven. As an Italian Chophouse, we are one of one in San Diego, bringing something new and exciting to the city's restaurant scene.\nWHAT WE OFFER: Flexible schedule and competitive salary with tips, alongside mentorship and growth opportunities.\nWHAT WE'RE LOOKING FOR: \nBUSSER/SERVER ASSISTANT: Cardellino Italian Chophouse is looking to add bussers to our nightly dinner service. Your duties will include keeping our restaurant pristine. You will clear and re-set between courses, perform water service, and assist with service as needed. Another great position for those who are new to the industry and want to explore the world of hospitality as a career. Shifts include dinner service six days a week.\nJoin us and learn everything you’ll need to become a successful hospitality professional. We offer training, mentorship, and professional development opportunities across all our restaurants!\nJob Type: Part-time\nPay: $15.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": null,
+  "jobType": null,
+  "company": "PL Boutique Investors, LLC",
+  "location": "San Diego, CA 92106",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=2d82e700e0bc39f6&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "2d82e700e0bc39f6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:10:59.269Z",
+  "description": "\n \n  \n   Server Job Description\n   \n    Hotel Description\n    The Monsaraz, Tapestry Collection, is a truly unique experience for our guests, driven by the passion and care of our associates. We will demonstrate the art of hospitality by evoking a refined yet simple hospitality experience. Sophisticated yet simplistic, old Spanish with a modern touch. These terms may seem contradictory but that’s what this design is all about. This hotel will combine old world charm with modern day amenities that guests crave.\n   \n    Hotel Culture\n    Our team will be the passport to Point Loma and San Diego, being able to speak to our brand pillars, details of the hotel that are further described in this document, describe in detail the flavors and spirit of Westerly San Diego, Dark Horse Coffee, Point Loma attractions and restaurants, and different activations.\n   \n    Our associates will know the balance between being “San Diego hospitable” while keeping the “hotel magic” alive for our guests, by staying fresh, polite, humble, proud, and positive. Exuding the refined yet simple energy will leave our guests wanting more and building the “loyalty beyond reason” that brings the business back to us.\n   \n    Our team members are one of a kind and are always there to give you the ‘locals favorite spots’ or even host their own outings as a way to share their passions. We aim to do hospitality the way it should be done. Come join us in Point Loma, the place “where California began”.\n   \n    Food and Beverage Vision\n    Westerly San Diego a 60 seat Cali-Coastal style restaurant, will showcase the flavors and spirit of the coastal towns of Venice Beach, California.\n    Job Description\n    Provide guests exceptional service in order to achieve customer satisfaction, quality service, compliance with procedures and federal, state and local regulations while meeting/exceeding financial goals and driving the vision of Westerly San Diego.\n   \n   \n     Check station before, during and after shift for proper set-up and cleanliness.\n     Greet guests in a friendly and courteous manner and explain any specials and/or restaurant promotions for guest awareness.\n     Record the details of the order from the guests, repeating the order to the guest to check for accuracy.\n     Input the order into the Point of Sale computer to inform the kitchen of the particulars in the order being placed.\n     When complete, retrieve order up to 30 lbs. from kitchen, confirm its accuracy, lift and deliver to guest along with appropriate condiments.\n     Abide by all State, Federal and Corporate requirements pertaining to serving alcoholic beverages.\n     Replenish beverages as necessary and check with guests for overall satisfaction.\n     Market and serve upon request any dessert items or specialty coffees.\n     Operate the Point of Sale procedures to pre-check order and close out the check.\n     Present the check to guest promptly.\n     Share guest feedback to the Restaurant Manager or Chef.\n     Recommend innovative ideas to continually improve and build on the guest experience.\n     Communicate effectively in a calm, positive demeanor in all interactions with the kitchen, service, beverage, catering, banquets, and engineering staff, as well as the guests to ensure timely execution of events, extraordinary service, and loyalty.\n     Respond to customer trends, needs, issues, comments and problems to ensure a quality experience and enhance future sales prospects.\n     Monitor and control the maintenance and sanitation of the various outlet areas and equipment to protect the assets, comply with regulations and ensure quality service.\n     Be the brand ambassador by promoting the brand and identity of the restaurant.\n     Take ownership in the guest experience by continuously focusing on ways to build guest loyalty, adapt to feedback, and always seeking to reduce areas of opportunity and grow strengths.\n     Remain calm and alert especially during emergency situations and heavy hotel activity. Plan and implement detailed steps by using experienced judgment and discretion.\n     Resolve customer complaints; anticipate potential problems by reviewing and monitoring complaints, operational issues, business flow and associate performance to ensure high levels of customer satisfaction and quality.\n     Be the brand ambassador by promoting the brand to guests, connecting the guests to what makes the Westerly San Diego and Monsaraz a true “San Diegan experience”.\n     Comply with attendance rules and be available to work on a regular basis\n     Perform any other job related duties as assigned.\n   \n   \n    Experience, Skills and Knowledge\n   \n     Two+ years of full employment in a related position within a hotel or independent restaurant.\n     Maintain a professional appearance and manner at all times.\n     Must be willing to “pitch-in” and help co- workers with their job duties and be a team player.\n     Must have basic knowledge of food and beverage preparation, service standards, guest relations and etiquette.\n     Knowledge of the appropriate table settings, service ware and menu items.\n     Ability to remember, recite and promote the variety of menu items.\n     Ability to transport large trays weighing up to 30lbs. through a crowded room on a continuous basis throughout shift with or without reasonable accommodation.\n     Ability to operate beverage/coffee and toast equipment with or without reasonable accommodation.\n     Ability to establish and maintain effective working relationships with associates, customers and patrons.\n     Ability to operate a keyboard and learn Point of Sale procedures.\n     Ability to work effectively under time constraints and deadlines.\n     Ability to move throughout all food and beverage areas and continuously perform essential job functions.\n     Command of the English language both written and verbal.  Benefits Lamming Co. is committed to providing a comprehensive benefits plan that offers you choices for your physical, mental and financial wellness, creating value in your most important investment – our associates!  For your physical and mental wellness we offer competitive Medical, Dental and Vision Insurance programs geared to you and your family's needs as well as Vacation/Sick/Holiday benefits. In addition, our Hotel Room Discount programs provide additional incentives for choosing the Monsaraz, Tapestry Collection by Hilton, as your employer.\n   \n   \n    Lamming Co. is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.\n  \n \n\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "RB Sushi",
+  "location": "Rancho Bernardo, CA",
+  "rating": 2.5,
+  "reviewsCount": 20,
+  "url": "https://www.indeed.com/rc/clk?jk=2454e3147485169a&fccid=cdb0a2e00ceff9bd&vjs=3",
+  "id": "2454e3147485169a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:00.276Z",
+  "description": "Server\nAt this time RB Sushi is seeking enthusiastic individuals looking for long term employment for our Server position and we are excited to offer a great work environment with generous benefits for career-minded candidates. This is an opportunity for someone looking to do more in the restaurant industry and gain great experience. We are proud of our reputation in San Diego and pride ourselves on the customer service we provide as well as our commitment to providing consistent quality food for our guest. Hiring enthusiastic individuals with a focus on guest relations is what are looking for.\nSkills\n\n 1 year experience as a server.\n Positive and upbeat personality.\n Able to follow directions and work well as a team.\n\nBenefits\n\n Direct Deposit\n Extensive Training\n Career Advancement\n Friendly Work Environment\n\nJob Type: Part-time\nPay: $15.00 per hour",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Guest Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Lolita's Restaurants Inc. | Lolitas Restaurants Inc",
+  "location": "San Diego, CA 92101",
+  "rating": 3.5,
+  "reviewsCount": 11,
+  "url": "https://www.indeed.com/rc/clk?jk=f16069b6d307729d&fccid=82954aa439481f00&vjs=3",
+  "id": "f16069b6d307729d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:02.575Z",
+  "description": "\n Lolita's Restaurants Inc.\n  Job Description\n \n  Job Title: Guest Server\n  Department: Restaurant Operations\n  Reports To: General Manager/Assistant Manager/ Shift Leader\n  FLSA Status: Non-Exempt\n \n  Summary: Deliver excellent guest service, smile, takes orders correctly, handles money correctly. Acts as part of the team and exhibits team work that supports the rest of the team.\n  \n  Brand: Lolita's Restaurants Inc. \n  Address: 202 Park Boulevard San Diego, CA - 92101 \n  Property Description: 5-At the Park \n  Property Number: 5\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$15 - $50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Rosati's Pizza - San Diego",
+  "location": "San Diego, CA 92120",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=a0d010a4da1323f0&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "a0d010a4da1323f0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:04.140Z",
+  "description": "\n Rosati’s Pizza is ‘Chicago’s Greatest Thin Crust Pizza’ company built on family values, work ethic, and teamwork. At Rosati’s, our passion runs deep for our food, our team members, and our customers. Authentic Italian food matched with authentic, genuine people is the Rosati recipe.Most Rosati’s Pizza locations are locally owned and operated by entrepreneurial, franchised Operators. A range of Team Member opportunities exists at each restaurant, including front-of-house, back-of-house, and leadership roles.Our aim is to serve guests and communities well, and we know that starts with people. Creating a positive and productive place to work is important to both Rosati’s Pizza and our franchisees. \n Job Summary:As a Server, you’ll make our customer’s meal memorable whether they’re celebrating a life milestone or craving the best pizza in town (maybe both). You’ll roll up your sleeves and help out wherever you can, whether the machines are down or the drink needs a refill. We’re all working toward one goal: making sure our customers can’t wait to come back. To be a great server at Rosati’s, you have to love the rush, work through the downtime, and stay calm when things go wrong. \n Responsibilities:\n  \n  Start with side work. What needs to be done? You’ll do that to make sure your shift runs smoothly \n  Serving customers and having fun while you’re at it, whether it’s taking orders, cashing out checks, or whatever else they need \n  Serve guests in a friendly manner; attending to the needs of each individual \n  Responsible for totaling bill, accepting payment, and making correct change for guests \n  \n Qualifications:\n  \n  Excellent communication skills \n  Ability to work well under pressure \n  Passion for providing hospitality to guest and coworkers \n  Enjoy working in a fast paced team environment \n  Ability to be on your feet approximately 90% of shift \n  Flexibility to work a variety of shifts \n  \n Benefits/Perks:\n  \n  Competitive Hourly Wages \n  Friendly, Team-Oriented Environment \n  Excellent Growth Opportunities\n \n  \n This franchise is independently owned and operated by a franchisee. Your application will go directly to the franchisee, and all hiring decisions will be made by the management of this franchisee. All inquiries about employment at this franchisee should be made directly to the franchise location, and not to Rosati's Pizza.\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Buca di Beppo Server - CA",
+  "salary": null,
+  "jobType": null,
+  "company": "Buca di Beppo San Diego",
+  "location": "San Diego, CA 92101",
+  "rating": 3.3,
+  "reviewsCount": 816,
+  "url": "https://www.indeed.com/rc/clk?jk=299843fe4e1d7132&fccid=48e3104a16f64333&vjs=3",
+  "id": "299843fe4e1d7132",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:04.567Z",
+  "description": "With locations from New York City to Honolulu, Buca di Beppo restaurants embody the Italian traditions of food, friendship and hospitality. Dishes enjoyed for generations in villages throughout Italy inspire the menu, which features both Northern and Southern Italian favorites. While the food has pleased millions of palates from coast-to-coast, Buca di Beppo is equally famous for its quirky décor and upbeat atmosphere. \n\n At Buca di Beppo, we consider our employees, Family, and we are looking to expand our family with only the most sincere and enthusiastic family members. The quality and integrity of the Buca family is the catalyst for commitment to the service of guests. Buca di Beppo is one of the most vibrant restaurant companies in the country, with the vision to be the first choice for Celebratory Dining. The Buca Mission is to provide every guest with an over the top celebratory experience by delivering vibrant Italian food in an eclectic vintage setting. \n\n The Server contributes to the success of Buca di Beppo by serving the Guests within the restaurant. The Server’s responsibility is to serve Guests in a friendly, sincere manner and to do “whatever it takes” to insure a vital, vibrant, and powerfully flavored Guest dining experience. \n\n ESSENTIAL FUNCTIONS \nReasonable Accommodations Statement \nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions. \n\n Essential Functions Statement(s) \n\n \n Run food – any food that is up whether it is yours or another family member. \n Warmly greet and pitch your Guests in a friendly and sincere manner. \n Effectively merchandise food and beverages in an informative, friendly, and enthusiastic manner. \n Record orders, place accurate orders, and monitor the timing of the dining experience. \n Ensure quality food and beverages for your Guests. \n Upsell and suggestive sell at every opportunity. \n Present accurate bills, collect proper payment, and secure payment until you cash out. \n Pre-bus and reset tables. \n Follow the Ten Points of Difference and Guest Standards of Execution as described in the Server Workbook. \n Anticipate and exceed your Guest’s expectations \n Work as a team and use positive communication skills at every opportunity. \n Clean, stock, and maintain workstation throughout the shift. \n Follow all safety and sanitation policies. \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$50,000 a year",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Claim Jumper | KRG, LLC",
+  "location": "San Diego, CA 92101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=d2d96e8381008d55&fccid=527a8b9e45aa4834&vjs=3",
+  "id": "d2d96e8381008d55",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:05.666Z",
+  "description": "\n $50,000 Earning Potential\n  $15.00 + TIPS\n  Work a Little or WORK A LOT!!!\n  Flexible Schedules!\n  Joining our team has perks that support your personal and professional journey!!\n  Teamwork, Family, & Development\n  When you start your career with us, youll become part of a winning team of motivated and positive members who pride themselves on providing the perfect dining experience to each and every guest! As a valued team member, youll enjoy competitive pay and benefits and outstanding career growth opportunities, all in a fun, friendly environment where you can really shine. What are you waiting for? Apply today!\n  \n  \n Job Summary\n  \n  The Server position is to work as a member of team which takes orders and serves food and beverages to Guests at tables in restaurant. Always aware of Guest satisfaction and delivering the perfect service experience. Ensure high quality of food and beverages to Guests.\n  \n  \n Key Job Responsibilities\n \n   Provide the perfect service experience for every Guest.\n   Ensure the Guest feels important and welcome in the restaurant.\n   Ensure hot food hot and cold food cold.\n   Adhere to timing standards for products and services.\n   Look for ways to consolidate service and increase table turns.\n   Present menu, answer questions and make suggestions regarding food and beverage.\n   Serve the Guest in an accommodating manner.\n   Must know all food liquor, beer, wine and retail offered.\n   Apply positive suggestive sales approach to guide Guests.\n   Pre-bus tables; maintain table cleanliness, bus tables.\n   Looks for ways to avoid waste and limit costs.\n   Assist keeping the restaurant clean and safe.\n   Provide responsible service of alcoholic beverages.\n   Deliver food and beverages to any table as needed.\n   Participate in Celebration.\n   Follow daily cleaning calendar tasks.\n   Must follow all cash handling policies and procedures.\n \n  Minimum Requirements\n \n   Must be of legal age to serve alcoholic beverages. (May vary by state)\n   Must have all certifications and licenses as required by local Health Department and Alcoholic Beverage Commission statutes.\n   Must have clear written and verbal communication skills.\n   Must have the physical abilities to carry out the functions of the job description.\n   Must be able to responsibly handle cash transactions.\n   Must be able to consolidate and coordinate needs for all tables within their station.\n   Must be able to carry food and beverages.\n   Must be physically able to dance.\n   Must be able to work in a team environment.\n \n  Physical Demands\n  \n  The physical demands described here are representative of those that must be met by a team member to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the team member is regularly required to stand, walk, use hands to finger, handle or feel; reach with hands and arms; climb or balance; and talk or hear. The team member is occasionally required to stoop, kneel, crouch, or crawl and taste or smell. The team member must regularly lift and/or move up to 50 pounds and frequently lift and/or move up to 10 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision and depth perception.\n  \n  \n Work Environment\n  \n  The work environment characteristics described here are representative of those a Team Member encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.\n  \n  \n Similar Job Titles / Key Words: Waiter, Waitress, Wait Staff, Restaurant Server, Food Service \n  \n  We are an Equal Opportunity employer that does not discriminate against an employee or applicant based upon race, color, religion, gender, national origin, disability, or veterans status, in accordance with 41 C.F.R. 60-1.4(a), 250.5(a), 300.5(a) and 741.5(a).\n  \n  This job description is a summary and not all inclusive of position duties and responsibilities. \n  Brand: Claim Jumper \n  Address: 1355 North Harbor Drive San Diego, CA - 92101 \n  Property Description: 14550 - San Diego, Harbor Dr. \n  Property Number: 14550\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$25 - $40 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Roy's",
+  "location": "San Diego, CA 92101",
+  "rating": 3.9,
+  "reviewsCount": 40,
+  "url": "https://www.indeed.com/rc/clk?jk=f10a2733b9544eb6&fccid=ff15613f792abacd&vjs=3",
+  "id": "f10a2733b9544eb6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:08.781Z",
+  "description": "\n \n  \n   We believe in: fresh, innovative and remarkable. We're culinary pioneers, inspired dreamers and dedicated employees. We are Roy's. \n    Founded by Roy Yamaguchi, acclaimed James Beard Award winner, we offer an upscale dining experience and contemporary Pacific Rim fusion menu. At Roy's, we create an environment of inclusion and learning, where every member of our Ohana may be inspired and supported in their professional growth and development. \n   \n  We're looking for passionate people to join our Ohana, Hawaiian for “family”, and grow with us. Roy's is primarily a dinner-only restaurant that provides great financial opportunities and a rewarding career path to its dedicated family. \n   Now Hiring: \n   Servers / Waiters / Waitresses \n   Roy's benefits include: \n   \n   Medical, dental and prescription drug coverage \n   Meal discounts \n   A flexible schedule \n   Career advancement opportunities \n   \n  Requirements \n   \n   Must meet local legal minimum age requirement to serve alcoholic beverages. \n   2+ years of experience working in a fine dining restaurant preferred. \n   Basic wine and spirits knowledge required; strong wine and spirits knowledge preferred. \n   \n  Equal Opportunity Employer \n   This is a tipped role where you will be paid the tip credit wage plus tips. The pay mentioned is an estimate based on average take home pay but varies on shifts & availability. \n  #477uv #SourcingPro #roys #roys2507server\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time",
+    "Temporary"
+  ],
+  "company": "Ruth's Chris Steak House",
+  "location": "San Diego, CA 92101",
+  "rating": 3.8,
+  "reviewsCount": 1062,
+  "url": "https://www.indeed.com/company/Ruth's-Chris-Steak-House/jobs/Server-90ee8034dd86b285?fccid=835dae29df1c1a0d&vjs=3",
+  "id": "90ee8034dd86b285",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:09.033Z",
+  "description": "We'd LOVE to speak with you!\nUse your cell phone to text the word SIZZLE to 22100 to get scheduled with a hiring manager\nWAGES PLUS TIPS!\nGet Ready to Sizzle: Personalities are welcome here! You’ll serve up legendary hospitality and an exceptional dining experience.\nThis role and you are the perfect pairing if you can: \n\n Greet Guests immediately, guide them through our menus, while demonstrating genuine Hospitality\n Provide friendly and attentive service that makes our Guests feel well taken care of and builds their intent to return\n Accurately record food orders ensuring each Guest receives their meal to their exact specifications\n Ensure all food and beverages are served promptly, garnished correctly, and meet the Ruth’s Chris standard of excellence\n Demonstrate a Guest-first mindset by placing a high priority on the Guest experience\n Effectively communicate with our Guests and other Team Members\n Stay calm under pressure and demonstrate problem-solving skills\n\nThis is your chance to join the best of the best and start a career with endless opportunity, plus great benefits like: \n\n Health insurance eligibility when working an average of 24 hours per week\n 401(k) with competitive match\n Employee assistance program\n Dining discounts\n Training and exciting career growth opportunities\n Paid time off\n Referral program – refer a friend and earn a bonus\n\nJob Types: Full-time, Part-time, Temporary\nPay: $15.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Employee discount\n Health insurance\n Paid time off\n Referral program\n\nRestaurant type:\n\n Fine dining restaurant\n\nShift:\n\n Day shift\n Evening shift\n\nWeekly day range:\n\n Weekend availability\n\nAbility to commute/relocate:\n\n Waltham, MA 02451: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "METL BAR HIRING WEEKEND SERVER/HOST/RUNNER",
+  "salary": "$15 - $40 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Metl Bar & Restaurant",
+  "location": "San Diego, CA 92101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Metl-Bar-&-Restaurant/jobs/Metl-Bar-Weekend-Server-Host-Runner-34bf06992fc21bcb?fccid=6cf71b0a8c47c9fe&vjs=3",
+  "id": "34bf06992fc21bcb",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:09.699Z",
+  "description": "Metl Bar has an open position for a weekend server/host. This is one position that requires multi-tasking. Your job is to host and take tables as needed. This position may also require food running and bussing. Must be available Fridays & Saturdays and have experience as a cocktail and/or food server in a full service restaurant. Shifts are 6pm-12am. Please apply with your resume for consideration.\nJob Type: Part-time\nPay: $15.00 - $40.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n Paid sick time\n\nShift:\n\n Evening shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nExperience:\n\n Serving Experience: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server Supervisor",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Sammy’s Restaurant & Bar",
+  "location": "Chula Vista, CA 91910",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=ffb0e5f577075217&fccid=7dc534523db20d2e&vjs=3",
+  "id": "ffb0e5f577075217",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:10.466Z",
+  "description": "\n Sammy’s Food & Wine, founded in 1989, operates 13+ locations throughout Southern California and Las Vegas and is continuing to add new concepts and locations. \n We are known for our eclectic menu, consistent quality, and our signature Messy Sundae ®; and we also just added 20+ exciting new menu items\n  The front of house assistant manager works alongside the FOH Manager to oversee all operations at the restaurant (except for the kitchen). They shape a restaurant-goer’s experience by maintaining the dining room’s appearance, training quality staff, and ensuring good customer service.\n \n  Job Duties \n \n  Assist in hiring for a restaurant’s bar and waitstaff. Front of house assistant manager must follow the hiring processes to meet the restaurant’s needs.\n  \n \n  Assist in the scheduling and training sessions of the servers, bartenders, hosts, and bussers.\n  \n \n  Supervise upkeep of guest areas by directing staff to attend to messes or accidents. Assisting in cleanup is a critical responsibility in maintaining the customer experience.\n  \n \n  Assist in shift planning to ensuring each shift is properly staffed.\n \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Chart House Cardiff",
+  "location": "Cardiff-by-the-Sea, CA 92007",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=908fc16bb421f5f8&fccid=ae0b38c93bfa16eb&vjs=3",
+  "id": "908fc16bb421f5f8",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:10.643Z",
+  "description": "\n\n \n  \n   \n    \n     JOIN A WINNING TEAM!\n      \n      \n     SERVER\n    \n    \n    \n      This isn’t just your next job – it’s your opportunity to be part of an amazing team that delivers on our promise to meet and exceed our guest’s experience the moment they walk through our doors! We offer structured programs for growth and career advancement and consider our employees to be our greatest asset.\n    \n    \n      \n    \n    \n     What we offer you:\n    \n    \n      Unparalleled training and development programs\n      Generous employee discounts on dining, retail, amusements and hotels\n      Flexible schedules\n      Multiple benefit plans to suit your needs\n      Paid time off or paid sick leave (based on location)\n      Opportunities for advancement\n      Community volunteer opportunities with Landry’s League\n      Positive and respectful work environment where diversity is valued\n    \n     \n     Apply now if you:\n    \n      Aspire to our “Be FAIR” ideals: Be Friendly, Accommodating, Inclusive and Respectful\n      Are a Team Player with a guest first attitude\n      Have 1+ year Server experience \n     Have a passion for great food and great fun\n      Are comfortable working in fast-paced environment\n    \n    \n    \n      Learn more about Landry’s by visiting our website at www.landrysinc.com\n      \n      \n     EOE\n    \n   \n    \n    \n  \n  \n   Address \n   \n    2588 South Coast Hwy 101\n    \n  \n  \n   City \n   \n    Cardiff By The Sea\n    \n  \n  \n   State \n   \n    California\n    \n  \n  \n   ZipCode \n   \n    92007\n    \n  \n  \n   Auto req ID \n   \n    154457BR\n   \n  \n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=908fc16bb421f5f8&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhdCi2pkHyKqFcTxj0YBsPHl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=969a364c2c408661&assa=378",
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+},
+{
+  "positionName": "Banquet Server (PT)",
+  "salary": "$19.00 - $20.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "La Jolla Country Club",
+  "location": "La Jolla, CA 92037",
+  "rating": 3.7,
+  "reviewsCount": 11,
+  "url": "https://www.indeed.com/rc/clk?jk=8ad86b75f7eb0679&fccid=ccbe4f01181140f2&vjs=3",
+  "id": "8ad86b75f7eb0679",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:11:11.504Z",
+  "description": "\n \n  SUMMARY\n \n \n   \n \n \n   Greets and serves members and guests professionally and proficiently using formal fine dining a la carte and banquet techniques.\n \n \n   \n \n \n   ESSENTIAL DUTIES AND RESPONSIBILITIES include the following:\n \n \n   Serves as a representative of the Club, displaying courtesy, tact, consideration, and discretion in all interactions with other staff, management, members and guests.\n   Compliance with all Club Safety Regulations and participation in ongoing Safety Seminars.\n   Must follow all LJCC departmental policies.\n   Must have knowledge, and be able to communicate all food and beverage menu offerings.\n   Must be proficient in all forms of a la carte, banquet service, and techniques regarding serving, clearing, and service order.\n   If in the Traditions Room, set up and clean up daily happy hour, set out and maintain newspapers and magazines in an orderly fashion, maintain Card Room in an orderly fashion.\n   Check in with supervisor after clocking in to receive assignments.\n   Check tables in assigned section. Fill condiments, clean silver/presentation and correct size linen/glassware. Perform assigned opening side work, making sure kitchen and side stations are adequately stocked for meal service.\n   Attend weekly Food and Beverage Service Meetings.\n   Consistently utilize proper service techniques as follows:\n   Greet members/guests and take beverage order. Offer wine list and suggestions.\n   Determine member name and number, and open all tickets under correct member number.\n   After cocktail period, present menus and announce featured selections. Make presentation brief, concise, and appealing.\n   Take food order, starting with ladies first and ending with host member. Use note pad and assign each person to the proper seat number.\n   Enter orders into POS, by seat numbers and include special requests. Review before sending to the kitchen.\n   Make sure that proper silverware has been pre-set for the upcoming course.\n   Serve each course in the same order that original was taken.\n   Ensure that busser is taking proper care of table, including clearing and replenishing of beverages.\n   Present dessert and after dinner drink menus, and describe featured items.\n   Accurately and quickly complete check and present to member at the end of the meal. * Member name and number must match the signature.\n   In general, check back frequently, but subtly, to ensure that the guest is enjoying their experience. Avoid interrupting conversations.\n   Double check all tickets for accuracy, and turn in to supervisor.\n   Remain on the floor and in your station as much as possible. If it is necessary to go into the kitchen, only communicate through the Expeditor or the Kitchen Supervisor on duty.\n   Maintain a safe, clean, organized, and stocked work area.\n   Complete assigned side work duties, re-set station for the following shift, and check with supervisor before clocking out or leaving for breaks. Remain at your station until reliever is present and has been briefed on the status of your tables.\n   Ability to open, present and serve wine correctly.\n   Must be able to read, interpret, and set-up event per BEO (Banquet Event Order) instructions and set-up diagrams.\n   Must have knowledge of beverage and wine pricing.\n   Must follow responsible service guidelines regarding alcohol consumption. Supervisors must be informed immediately in situations of over consumption.\n   Communicate any member or guest needs/complaints immediately to the Supervisor on duty.\n   Other duties as assigned.\n \n \n   \n   OTHER DUTIES AND RESPONSIBILITIES\n \n \n   (Responsibilities/important duties performed occasionally or in addition to the essential duties of the position. \n   \n   \n  Essential Skills Required\n \n \n   Must possess complete knowledge of all menu items, as well as wine list and available bar drinks.\n   Must display confidence in making food and wine recommendations, and in making recommendations.\n   Must become familiar with members, their likes and dislikes.\n   Must be able to communicate effectively with members, guests, and employees. Understanding of English language is essential for communication with members and guests.\n   Must consistently display a positive and professional image.\n   LJCC Server Basic Training required.\n   Entry Level.\n   Less than 1 year fine dining experience.\n \n \n \n   WORKING CONDITIONS AND ENVIRONMENT\n \n \n   (i.e., necessary travel, unusual work hours, unusual environmental conditions, etc. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)\n \n  \n \n \n   PHYSICAL DEMANDS (Walking, lifting, equipment, operation, etc.)\n \n \n   (Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)\n \n  \n \n \n   Ability to lift/carry up to 40 lbs.\n   Ability to stand while working 67 – 100% of time.\n   Ability to bend, kneel, or squat for intermittent periods 1 – 33% of time.\n   Digital and wrist dexterity 67 – 100% of time.\n   Repetitive movement of arm at shoulder for intermittent periods 67 – 100% of time.\n   Repetitive movement of both hands for intermittent periods 67 – 100% of time.\n   Ability to reach with hands and arms for intermittent periods 67 – 100% of time.\n   Ability to twist neck for intermittent periods 67 – 100% of time.\n \n \n   \n   Required Certificates, Licenses Registration\n \n \n   Food Handlers Certification\n \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Diego, California12-04-2022 13_10"
+}]

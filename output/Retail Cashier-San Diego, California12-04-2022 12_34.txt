@@ -1,0 +1,907 @@
+[{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "99 Ranch Market - San Diego Balboa store",
+  "location": "San Diego, CA 92117",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Tawa-Services,-Inc./jobs/Cashier-b5b9cfeab0bad2fd?fccid=98f38a7e12310836&vjs=3",
+  "id": "b5b9cfeab0bad2fd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:11.880Z",
+  "description": "99 Ranch Market – San Diego (Balboa) Store is now hiring Cashier!\n99 Ranch Market is the largest Asian supermarket chain in the United States, with over 61 store locations across 10 states and more to come! We are passionate and honored to shape the Asian Supermarket culture within the grocery industry. \"For 100, we try harder\" is our commitment to always provide the best products and services to the communities we serve. With our new expansion strategy and efforts in our cross-generational transition to continue growing our footprint across the country, we welcome YOU to join and grow alongside our family!\nJob Duties\n\n Proactively greet customers, and answer their questions in a professional manner\n Identify product items properly\n Scan customer orders accurately and efficiently\n Follow all cash handling procedures and complete the process accurately and efficiently\n Bag items properly\n Answers customer inquiries by phone or in person with appropriate etiquettes\n Conducts customer returns and exchanges in compliance with the company policies\n Properly handles customer suggestions and complaints for customer retention\n Review, create and apply new batches. Update prices in the system. Make various sizes of price tags, and ensure price tags and signage are correctly labeled\n Process online orders according to company procedures\n Maintains clean, organized work areas, and comply with internal procedures\n Perform other duties as for business needs\n\nMinimum Requirement\n\n Previous front end customer service experience preferred\n Knowledge of cashier registers, POS devices, online orders platforms, and computers\n Excellent communication skills and willingness to help with customer requests\n Available to work on weekends and holidays or rotating schedules\n\nSkills Requirement\n\n Good customer service skills\n Good time management skills\n Good attention to details\n\nPhysical Demands\n\n Standing for extended periods is commonly required\n Repetitively ring up items of 0 -5 lbs\n Make repetitive finger and wrist movement\n Good manual dexterity for the use of processing equipment such as cutter or labeling\n Ability to lift 30 lbs or more with appropriate equipment\n\nEmployment Type:  Part Time (30+ hours/week), Day Shift 8am-4pm, Night Shift 1pm-9pm\nSalary:  up to $19, DOE\nCompany Benefit: \n\n Medical Insurance\n 401(k) Retirement Savings Plan with up to 4% Company Match\n Employee Referral Bonus up to $600\n Employee Discount\n\nHow to apply: \n\n Fill out the application form or provide your resume at the customer service counter\n Call for more information and/ or to set up an interview\n Tel: (858)300-8899\n Store Location: 5950 Balboa Ave., San Diego, CA 92111\n\nDisclaimer: \nTawa Group dba 99 Ranch Market, is an equal opportunity employer committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.\nJob Type: Part-time\nBenefits:\n\n 401(k)\n 401(k) matching\n Employee discount\n Health insurance\n\nShift:\n\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92111: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Cashiering: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Retail Cashier - Part time - Downtown Ace Hardware",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Downtown Ace Hardware",
+  "location": "San Diego, CA 92101",
+  "rating": 3.7,
+  "reviewsCount": 6644,
+  "url": "https://www.indeed.com/rc/clk?jk=cfaf8d7d516cc222&fccid=d58be9e5bb7e408d&vjs=3",
+  "id": "cfaf8d7d516cc222",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:14.573Z",
+  "description": "Don't look for a job, find a career at Downtown Ace Hardware today. We offer flexible schedules, fantastic employee discount, and advancement opportunities. We are a locally owned family business. We are looking for fun, friendly, outgoing cashiers that love meeting new people and can provide exceptional customer service with a smile. If you are dependable, honest, motivated, courteous, drama free and can multi task, we want you now! \n\n Join us and work in a fun environment where we go the extra mile to amaze every customer every time! We are dedicated to deliver our customers the best service experience ever. \n\n This is a part time position, 20-30 hours per week and requires availability for week days, evenings and weekends. Advancement to full time is possible. Compensation starts at $15 per hour plus incentive opportunities. Public transportation reimbursement. \n\n Cashiers are responsible for operating our computerized cash registers, handling cash with accuracy and efficiency while ensuring the checkout experience is fast and friendly. Some of your tasks include directing customers to product locations, suggesting appropriate additional products, handling merchandise returns/exchanges quickly and efficiently, and maintaining and cleaning displays as well as continuing to build your product knowledge. \n\n We are located in the heart of Downtown and are the go-to hardware store for all our customers. \n\n \nRequirements/Qualifications:\n Must be up to date with COVID-19 vaccines / booster \n\n Please include employment history and/or attach a resume to your application. \n\n \n \n Must have retail cashier or customer service experience \n Excellent verbal communication skills \n Ability to stand and walk for long periods of time \n Ability to lift 50lbs \n Bilingual - Spanish/English is a PLUS, but not required \n Some knowledge of hardware is a PLUS, but not required \n High School graduate or GED equivalent required. \n Background check will be required prior to hire \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=cfaf8d7d516cc222&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj97D3j_rsrMZJ0C2M1BV-sMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=98ff1ca85524ec05&assa=4231",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Music Store Retail Clerk/Cashier",
+  "salary": "$15.00 - $15.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Music Central",
+  "location": "San Diego, CA 92126",
+  "rating": 4.9,
+  "reviewsCount": 7,
+  "url": "https://www.indeed.com/company/Music-Central/jobs/Music-Store-Retail-Clerk-Cashier-4e209e2729249a5a?fccid=8866f55756ee23f1&vjs=3",
+  "id": "4e209e2729249a5a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:15.371Z",
+  "description": "We are looking for a friendly, focused, and attentive person to hire for our Cashier position here at Music Central. We're a small music store located in the heart of Mira Mesa, we specialize in music supplies, lessons, instrument rentals, repairs, and instrument sales and now we're looking for someone to join the team. The ideal candidate has music experience, knowledge of instruments, a friendly attitude, and attention to detail. We're hiring immediately for part-time with opportunities for additional hours in the future. A resume MUST be sent to be considered for the position, otherwise your application will be automatically rejected.\nResponsibilities\n\n Manage transactions with customers using cash registers\n Scan goods and ensure pricing is accurate\n Collect payments whether in cash or credit\n Issue receipts, refunds, or change\n Resolve customer complaints, guide them and provide relevant information\n Greet customers when entering or leaving the store\n Maintain clean and tidy checkout areas\n Handle merchandise returns and exchanges\n Basic work organizing and moving product\n restringing guitars, basses, violin, viola, and cello\n Sign up new lessons and instrument rentals\n\nSkills\n\n Basic knowledge of musical instruments is a must (woodwind, brass, strings)\n Work experience as a retail cashier or in a similar role in sales is huge Plus\n Basic PC knowledge\n Strong communication and time management skills\n Customer satisfaction-oriented\n\nJob Type: Part-time\nPay: $15.00 - $15.50 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Sprouts Farmers Market",
+  "location": "San Diego, CA 92103",
+  "rating": 3,
+  "reviewsCount": 4558,
+  "url": "https://www.indeed.com/rc/clk?jk=0b669f27ae926e1e&fccid=95d1741fa7ecafec&vjs=3",
+  "id": "0b669f27ae926e1e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:16.055Z",
+  "description": "\n Job Introduction:\n \n  Do you enjoy meeting and talking to new people? Does being the face of a company excite you? Do you have a passion for delivering an extraordinary customer service experience while working in a fast paced and friendly environment? If the thought of helping people make healthy choices in one of the fastest growing retailers is up your alley – then we need YOU to join our winning team at Sprouts Farmers Market as a Cashier! Overview of Responsibilities: \n  As a Cashier at Sprouts Farmers Market, you are the face of the company while you process each customer’s order quickly, accurately, and efficiently while ensuring complete customer satisfaction through prompt and friendly service. As a Cashier, Sprouts Farmers Market looks to you to accurately handle customer cash, credit/debit payments, and change, and assist customers by providing information and resolving their complaints. Following all front end procedures, assisting with stocking shelves, facing and dusting as needed are all a part of the day for a Sprouts Farmers Market Cashier. A Cashier maintains knowledge of weekly ad items, gives customers direction of product location throughout the store, is familiar with events and seminars going on or coming up, and maintains excellent communication with front end manager and Head Cashier at all times. A Cashier is expected to ensure that checkout areas are properly maintained in a clean and orderly condition at all times, and execute all other related duties as assigned.\n \n   #li-dni\n  Qualifications: \n  To be a Cashier at Sprouts Farmers Market you must:\n \n   Be at least 18 years of age and have a high school diploma or equivalent, and 1-2 years of recent cashiering experience.\n   Have and show an outgoing and friendly behavior, a positive attitude and the ability to interact with our customers.\n   Ability to operate front end equipment; register, calculator, scanner.\n   Be dependable and reliable having the ability to work a flexible schedule that changes as the business changes; including nights, weekends and holidays. \n  Have good communication skills; the ability to take direction/constructive criticism and participate in a team environment\n   Be able to perform repetitious activities, and have the ability to multi-task, prioritize and stay organized.\n   Must lift/carry product horizontally/vertically weighing up to 30 lbs., from 36” to 24”, for a distance up to 3 feet for up to 50 hours without mechanical assistance. \n  Must use both hands to move grocery carts horizontally requiring a force up to 35 lbs., for a distance up to 4 feet for up to 50 hours. \n  Requires strong attention to detail and proficiency with numbers; proficient in cash handling and mathematical skills; ability to read, write and count.\n  Benefits: In addition to a rewarding career, Sprouts offers a comprehensive program to help support you and your family. These programs include: - Competitive pay - Sick time plan that you can use to support you or your immediate families health - Opportunities for career growth - 15% discount for you and one other family member in your household on all purchases made at Sprouts - Flexible schedules - Employee Assistance Program (EAP) Eligibility requirements may apply for the following benefits: - 401(K) Retirement savings plan with a generous company match - Affordable benefit coverage, including medical, dental vision - Paid parental leave for both mothers and fathers - Pre-tax Flexible Spending Accounts for healthcare and dependent care - Company paid life insurance and short-term disability coverage Get Paid Every Day! Sprouts Farmers Market offers DailyPay - if you’re hired as an eligible employee, you’ll be able to transfer the money you’ve already earned at no extra cost, and get it the next business day, for free. We offer DailyPay so you don’t have to wait for payday to access the money you’ve already worked for. With DailyPay, you can see how much you’ve made every day and you can transfer your money any time before payday. You can learn more by visiting dailypay.com. Why Sprouts: \n \n   Grow with us!\n \n \n   If you have a passion for inspiring people and a flair for fresh food, consider applying for a job at Sprouts! With a focus on customer service, our neighborhood grocery stores offer high-quality, farm fresh produce, natural meats, plenty of scoop-your-own bulk goods and much more in a fun, friendly, old-fashioned farmer’s market setting. Come grow your career in healthy living with a fast-paced, rapidly growing company and teams that pride themselves on empowering others along their journey.\n \n \n \n   The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work. This is not an exhaustive list of all duties, responsibilities, and requirements. Sprouts’ management reserves the right to amend and change duties, responsibilities, and requirements to meet business and organizational needs as necessary.\n \n \n \n   California Residents: We collect information in accordance with California law, please see \n  here\n   for more information.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Seasonal Cashier Associate",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time",
+    "Seasonal"
+  ],
+  "company": "Burlington Stores",
+  "location": "3962 Clairemont Mesa Blvd, San Diego, CA 92117",
+  "rating": 3.2,
+  "reviewsCount": 11840,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CJm4vJz7SDlL3lGccjaB2wU5huGLb-8XfJ0aGDrrd1pHK6w7Bb23FcixGc9BBH0kU8i-aEj-GVysxbCMG_VVUT457QzweFYfu6UCcI2vHMh2G21zocLYbzb0rLvPKOa2fexs1HngBAQCi7R_V2-mwGXu9tZr6z4HrncY1VwlqGRUVVHFyMLwnnz7VUfkb2QKgy2CivXBsu1NNAvtsv2tqQKoxkA0oBj0x4spDTbzFNe2ms07zQjYCcEgF4hAPLxC4orQp27kbbe_us3IFD1BwpW10kv60AkNuE0u5qTHBIVBOA5UNzZgcKwZsnIK98E0Re7EQ02GgL28TShmQ3q2BB0T3QEXPr9cJWG7Nq3ngwOa3WYv5xUyt0hkBbVILYEF-gfEtZSZVATVroZz-BHesOOWJL4AVHKu-QLwDvrJeJoBUbRuhvvIeVyipoZErIrKwOqlpeeTQTcr-kN5VBzab0jxIF1WAmVhDZh8krKuVY0N6HEY5qjVMs9WPMvTSdEr_4MQLNvHo0oVn45qOSzIjYxFXUEyyfDzd-vlbWj-BPb4SrvXufvwjwjfsBDcc46F2DtLqZ74BMzSGne-X1eeZ9Dr8QwWlTTv8=&xkcb=SoDi-_M3WvOqlc25cJ0LbzkdCdPP&p=0&fvj=0&vjs=3",
+  "id": "65e58fb4d3934bc5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:16.857Z",
+  "description": "\n LOCATION 3962 Clairemont Mesa Blvd San Diego CA US 92117 \n Overview \n If you want an exciting job with one of the largest off-price retail stores in the nation, join the Burlington Stores, Inc. team as a Cashier! Are you a people person with an outgoing and friendly demeanor? Can you think on your feet in a fast-paced and demanding environment? Do you enjoy the satisfaction of positively impacting someone’s day? If so, this may be the right role for you! \n Cashiers are at the heart of Burlington’s success! As the last person our customers interact with in stores, you’re tasked with the great responsibility of creating a lasting and positive memory of their Burlington shopping experience. By always maintaining a positive and professional attitude, and working to deliver excellent customer service that addresses all the customer’s needs while getting them through the check-out process quickly and easily, our cashiers are key in helping us provide a world-class shopping experience to our customers. \n Responsibilities: \n \n  Deliver excellent customer service with a positive, professional attitude \n  Accurately and efficiently ring on register \n  Process layaways, returns, and exchanges \n  Perform other tasks as assigned by manager from time-to-time \n \n Candidates must be able to work a flexible schedule; including nights, weekends and holidays as required. \n If you… \n …are excited to deliver great values to customers every day; \n …take a sense of pride and ownership in helping drive positive results for a team; \n …are committed to treating colleagues and customers with respect; \n …believe in the power of diversity and inclusion; \n …want to participate in initiatives that positively impact the world around you; \n Come join our team. You’re going to like it here! \n You will enjoy a competitive wage, flexible hours, and an associate discount. Part-time associates, based on hours worked, may be eligible for Burlington’s benefits package which includes dental and vision coverage, and including life insurance. Part-time associates may also be eligible for paid time off, paid holidays and a 401(k) plan. \n We are a rapidly growing brand, and provide a variety of training and development opportunities so our associates can grow with us. Our store teams work hard and have fun together! Burlington associates make a difference in the lives of customers, colleagues, and the communities where we live and work every day. Burlington Stores, Inc. is an equal opportunity employer committed to workplace diversity. \n Location US-CA-San Diego \n Posting Number 2022-185957 \n Address 3962 Clairemont Mesa Blvd \n Zip Code 92117 \n Workplace Type On-Site \n Position Type Seasonal Part-Time \n Posted Date 2 months ago (10/3/2022 1:47 PM) \n Career Site Category Store Associate \n Position Category Store Associate \n Evergreen Yes \n Min USD $15.00/Hour\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=65e58fb4d3934bc5&from=vj&pos=bottom&mvj=0&spon=1&adid=403012978&ad=-6NYlbfkN0CJm4vJz7SDlL3lGccjaB2wU5huGLb-8XfJ0aGDrrd1pHK6w7Bb23FcixGc9BBH0kU8i-aEj-GVysxbCMG_VVUT457QzweFYfu6UCcI2vHMhwXibMnBjXbO54bXyOL0b7VnyqVgks83om1UsJD6ivZdL9ivdNf5sc6JfmyzScTe311V8ZgN55mD1QzeBziHKCqpTIdyWv5fuOWzHyRgyftvsT89dBKTr9PssI9uuTloNTg2I5fndVKFjK2CSnx9j5Ue-1sDb0GF30cb2VgSxz1GoSvbXLCH6VnsVExjBBvU7ZsdqYy3tZsIzxyD7ZPwuGhkYYJYOdL4jlIJJIpy4UmKW2FKGBvArxSoVuEF6V9xUlLRe4IIAKCwMPQW_zHPWmtPIWblqWZyXg%3D%3D&sjdu=Zku6eJFgtULdwPOT05RzgvSmPd0Bngd-GjXWOX-Tgl03ru_AniITga1KgQWe6tiJybRhe7Xvd85CtDvHow4FwQ&vjfrom=serp&astse=ebe62f064349de30&assa=5089",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Retail Cashier/ Customer Service Associate",
+  "salary": "$16.50 - $18.00 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Jacksons Food Stores, Inc.",
+  "location": "Chula Vista, CA 91911",
+  "rating": 3.5,
+  "reviewsCount": 346,
+  "url": "https://www.indeed.com/rc/clk?jk=b7ed3544e7b31bcf&fccid=1cce8b348b026a60&vjs=3",
+  "id": "b7ed3544e7b31bcf",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:17.850Z",
+  "description": "In this role, you'll greet customers with a smile and ensure they receive top notch service on every visit. You spend most of your day as a Cashier operating a register, but don’t worry, there are plenty of other things to do, such as cleaning, stocking shelves, receiving deliveries and providing excellent customer service! In addition to competitive pay and bonus potential, store team members receive cool perks and discounts such as $.20 off per gallon of fuel and 15% of most merchandise. \nTake the first step and join the team today! Come on, let’s GO! \n\n What will I get when I join the team? \n\n \n Store bonus opportunities every 2 months! \n Company bonus opportunities every 6 months! \n Opportunities to advance! We promote from within! \n A fun work environment with a family centric environment. \n FT Medical, Vision, and Dental benefits within 60 days. \n 401k match, profit sharing, bonuses, and performance-based raises. \n Same day pay! \n Tuition Reimbursement (up to $5250 a year) and more! \n What will I do as a Retail Cashier/Customer Service Associate? \n\n \nHere are just some of things you will do in this role:\n \n \n Greet every customer with a smile, thanking them for their business, and inviting them back. \n Deliver a fast, friendly, and professional cashier checkout experience. \n Suggest possible purchases to the customer to promote store specials. \n Accurately ring up sales and merchandise, offering our customers available discounts/promotions while following all company policies and applicable laws regarding restricted sales including the sale of alcohol and tobacco. Must be the legal age to sell and stock these products. \n Maintain cleanliness, inside and outside the store. \n Restock shelves, displays, and coolers as needed. \n Clean fast-food area, equipment, and stock as needed. \n Ensure proper sanitation and food handling/prep/storage/disposal procedures are followed. \n Properly label, rotate and stock shelves, coolers, and displays. \n Additional duties as assigned. \n \nWhat we’re looking for:\n \n \n A willingness and passion for delivering exceptional customer service. \n Excellent communication skills with a friendly can-do attitude! \n Flexible availability to support business needs for a 24/7 operation including holidays and weekends. \n Experience leading by example and doing the right thing, always. \n A strong sense of teamwork! We work together to get the job done. \n The ability to think quick on your feet and react to change. \n Must be 21 years old due to alcohol sales and onsite gambling \n \nPhysical Requirements:\n Must be able to stand for an extended period. While performing the duties of this job, frequently required to stand, walk, bend, and twist; reach with hands and arms; climb or balance; stoop, kneel, or crouch; and talk and listen. Must frequently lift and/or move up to 20 pounds and occasionally lift and/or move up to 65 pounds. Work safely in work conditions that include heat, cold, allergen, noise, and fume/chemical/odor from gasoline and cleaning chemicals. \n\n **Must be 21 for this role.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Receptionist/ Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Perry Ford National City",
+  "location": "National City, CA",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=60dd34f2404b0771&fccid=45052c2f800f9220&vjs=3",
+  "id": "60dd34f2404b0771",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:18.580Z",
+  "description": "\n Family Owned + run car dealership is looking to add a new Receptionist/Cashier/Deposits Clerk to its team in National City, CA \n  \n  Answer incoming phone calls \n  Calculate the customer’s bill using the dealership’s computer system \n  Receive cash, checks and credit card payments from customers and record the amount received on the repair order and/or counter ticket \n  Make change accurately and issue receipts to customers \n  Answer phones and direct consumer to the proper department and follow up in a timely manner \n  Handle customer complaints diplomatically and refer complaining customers to the appropriate individual for resolution \n  \n REQUIREMENTS: \n  \n  Ability to work flexible hours \n  Experience with Microsoft Office suite is a plus \n  Ability to communicate customers' interests needs and requests to management and sales personnel \n  Professional personal appearance \n  \n Auto Dealership experience preferred!\n\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "West Marine",
+  "location": "San Diego, CA 92106",
+  "rating": 3.5,
+  "reviewsCount": 496,
+  "url": "https://www.indeed.com/rc/clk?jk=6ae229e4b5d194e6&fccid=92ecea7ff742829f&vjs=3",
+  "id": "6ae229e4b5d194e6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:19.684Z",
+  "description": "\n Job Summary:\n  As a cashier, you are the first person a Customer sees as they walk through the door and the last person they work with when they leave. You fully understand and appreciate that West Marine exists to provide excellent Customer service and expert product knowledge. \n \n  \n We are Boaters serving Boaters with a mission of More Water, Less Hassle! Our Customers come to us to fulfill a need, complete a project on their boat, or gather items for a great day on the water; you guide your team to ensure Customers leave with the right products to make that happen. Each interaction with a West Marine Customer is an opportunity for you to exceed their expectations and ensure they remain a loyal Customer. West Marine is a Drug Free Workplace and Equal Opportunity Employer.\n \n  Duties/Responsibilities:\n \n   Greet incoming customers with company approved greeting\n   Answer phones announcing your name and where you can direct their call\n   Coordinates with retail staff for product inquires and price checks\n   Resolves escalated issues with angry customers\n   Informs customers about services available and assess customer needs\n   Scan products, operate scanning equipment and fix scanning issues\n   Handles cash, credit and on-account transactions\n   Process credit and debit cards, helping customers with processing equipment\n   Maintain cash control over register drawer and verify amounts are correct\n   Takes deposits for Special Orders\n   Provide receipt and any additional paperwork to customer upon completion of transaction.\n   Bags purchases as needed\n   Process return transactions following company return policy\n   Directs customers to product location in store upon request\n   Process put backs as needed\n   Complete all training and review all SOPs for position\n   Train and sometimes supervise new cashiers\n   Keeps point of sale area neat, cleaned, and organized and properly stocked with supplies\n   Assistance in the maintenance of store front and retail displays \n  Helps stock shelves in proximity of the cash register\n   Available to work a flexible schedule based on business needs, including nights, weekends and some holidays.\n   Perform other job-related duties as assigned.\n \n \n  Required Skills/Abilities: \n \n  Excellent verbal and written communication skills. \n  Excellent interpersonal and customer service skills.\n   Excellent sales and customer service skills.\n   Excellent organizational skills and attention to detail.\n   Excellent time management skills with a proven ability to meet deadlines.\n   Strong analytical and problem-solving skills.\n   Ability to function well in a high-paced and at times stressful environment.\n \n \n  Education and Experience:\n  High school diploma or equivalent.\n \n  Physical Requirements: \n \n  Must be able to lift up to 50 pounds at times. \n  Ability to be mobile on the sales floor for extended periods of time.\n  \n  Brand: West Marine \n  Address: 1250 Rosecrans San Diego, CA - 92106 \n  Property Description: 16 - San Diego \n  Property Number: 16\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier!",
+  "salary": "$17 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "99 Ranch Market",
+  "location": "San Diego, CA 92111",
+  "rating": 3,
+  "reviewsCount": 115,
+  "url": "https://www.indeed.com/rc/clk?jk=716ec78ce18700e9&fccid=32f79b33c20bf078&vjs=3",
+  "id": "716ec78ce18700e9",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:21.870Z",
+  "description": "99 Ranch Market – San Diego Store is now hiring Cashier! \n\n 99 Ranch Market is the largest Asian supermarket chain in the United States, with over 60 store locations across 10 states and more to come! We are passionate and honored to shape the Asian Supermarket culture within the grocery industry. “For 100, we try harder” is our commitment to always provide the best products and services to the communities we serve. With our new expansion strategy and efforts in our cross-generational transition to continue growing our footprint across the country, we welcome YOU to join and grow alongside our family! \n\n Job Duties \n\n Proactively greet customers, and answer their questions in a professional manner \n\n Identify product items properly \n\n Scan customer orders accurately and efficiently \n\n Follow all cash handling procedures and complete the process accurately and efficiently \n\n Bag items properly \n\n Answers customer inquiries by phone or in person with appropriate etiquettes \n\n Conducts customer returns and exchanges in compliance with the company policies \n\n Properly handles customer suggestions and complaints for customer retention \n\n Review, create and apply new batches. Update prices in the system. Make various sizes of price tags, and ensure price tags and signage are correctly labeled \n\n Process online orders according to company procedures \n\n Maintains clean, organized work areas, and comply with internal procedures \n\n Perform other duties as for business needs \n\n Minimum Requirement \n\n Previous front end customer service experience preferred \n\n Knowledge of cashier registers, POS devices, online orders platforms, and computers \n\n Excellent communication skills and willingness to help with customer requests \n\n Available to work on weekends and holidays or rotating schedules \n\n Skills Requirement \n\n Good customer service skills \n\n Good time management skills \n\n Good attention to details \n\n Physical Demands \n\n Standing for extended periods is commonly required \n\n Repetitively ring up items of 0 -5 lbs \n\n Make repetitive finger and wrist movement \n\n Good manual dexterity for the use of processing equipment such as cutter or labeling \n\n Ability to lift 30 lbs or more with appropriate equipment \n\n \nEmployment Type : Part Time (Day Shift, Night Shift) \n\n \nSalary : $17 \n\n \nCompany Benefit :\n Medical Insurance \n\n 401(k) Retirement Savings Plan with 4% match \n\n Employee Discount \n\n Referral Program \n\n \nHow to apply:\n Fill out an application form or provide your resume at the customer service counter \n\n Call for more information and/ or to set up an interview \n\n \n \n Store Manager: Stephanie Yang/ Tel: (858) 974-8899 \n Store Location: 7330 Clairemont Mesa Blvd. San Diego, CA 92111 \n \nDisclaimer:\n Tawa Group dba 99 Ranch Market, is an equal opportunity employer committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. \n\n 大華超市 San Diego 店誠徵收銀員! \n\n 99大華超級市場是美國最大的亞洲連鎖超市之一,我們在十個州以上擁有超過60家分店。大華對顧客以誠信相待,我們滿懷熱誠且非常榮幸能塑造華人超市新氣象。\"成就百分體驗,我們加倍用心!\" 展示了我們始終為所服務的社區提供最好的產品及服務的承諾。 憑藉我們新的擴張戰略和當前跨世代轉型的努力,我們希望繼續擴大其在全國的足跡。 在大華不斷成長的同時,我們也擁有許多工作和升遷機會。我們誠摯的歡迎您加入我們的大家庭並一同成長! \n\n \n工作職責:\n 主動迎接客戶,並以專業的方式回答他們的問題 \n\n 正確識別產品項目 \n\n 準確高效地掃描客戶訂單 \n\n 遵守所有現金處理程序,準確高效地完成流程 \n\n 妥善包裝物品 \n\n 以適當的禮節通過電話或親自回答客戶的詢問 \n\n 按照公司政策進行客戶退貨和換貨 \n\n 妥善處理客戶建議和投訴以留住客戶 \n\n 查看、創建和應用新批次。更新系統中的價格。製作各種尺寸的價格標籤,並確保正確標記價格標籤和吊牌 \n\n 根據公司程序處理線上訂單 \n\n 保持清潔、有條理的工作區域,並遵守內部程序根據業務需要履行其他職責 \n\n \n最低要求:\n 有前台客服經驗者優先 \n\n 了解收銀機、POS 設備、在線訂單平台和電腦 \n\n 出色的溝通技巧和願意幫助客戶要求的能力 \n\n 可在周末和假日或輪班工作 \n\n \n技能要求:\n 良好的客戶服務技巧 \n\n 良好的時間管理能力 \n\n 注重細節 \n\n \n物理需求:\n 通常需要長時間站立 \n\n 反覆吊起 0 -5 磅的物品 \n\n 重複手指和手腕運動 \n\n 良好的手動靈活性,適合使用切割機或貼標等加工設備 \n\n 能夠使用適當的設備舉起 30 磅或更多重量 \n\n \n職務類型 :兼職 Part Time \n\n \n薪資 :$17 \n\n \n公司福利 :\n 綜合醫療保險 \n\n 401(k) 退休福利計劃、公司配比 4% \n\n 員工折扣 \n\n 員工推薦計畫 \n\n \n應徵方法:\n 向顧客服務台索取聘僱申請表或直接遞交履歷給客服櫃台人員 \n\n 請致電詢問工作細節或預約面談時間 \n\n \no 店長:Stephanie Yang/ Tel: (858) 974-8899 \n\n \no 地址:7330 Clairemont Mesa Blvd. San Diego, CA 92111 \n\n \n免責聲明:\n 我們致力成為頂尖企業並為員工提供優良工作環境。請注意工作內容敘述旨在描述分配給該類人員執行的一般工作性質和水平。它並不涵蓋員工所有工作相關的技能、職務或責任細項,因此它不能被解釋為該分類人員的所有技能、職務和責任的詳盡清單。人員可能根據管理層的指示履行其它職責。工作職責可能會隨時改變,恕不另行通知。大華超級市場是E.E.O.平等就業機會雇主。 \nJob Features \n\n Job Category Stores, Cashier, Language, English, Chinese \n\nLocation 地址:7330 Clairemont Mesa Blvd. San Diego, CA 92111 Experience Level Previous front end customer service experience preferred Knowledge of cashier registers, POS devices, online orders platforms, and computers Language English, Chinese Benefits Medical Insurance 401(k) Retirement Savings Plan with 4% match Employee Discount Referral Program",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=716ec78ce18700e9&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjQeUdkTUV1Px_MENxre2LWnUUKYs5yKqp3Fg7KgmoxhA&vjfrom=serp&astse=6775b6727aa0d6b8&assa=914",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Vallarta Supermarkets (GMC)",
+  "location": "National City, CA 91950",
+  "rating": 3.3,
+  "reviewsCount": 778,
+  "url": "https://www.indeed.com/rc/clk?jk=6cc6d2d3a96652bc&fccid=3bb6b799bed56df6&vjs=3",
+  "id": "6cc6d2d3a96652bc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:22.212Z",
+  "description": "Job Duties:\n \n \n Operate cash till, balancing the till at the end of your shift. \n Greet all customers in a friendly manner. \n Complete all sales transactions: Cash, Credit Card, Debit Card, WIC, and Food Stamps. \n Cash checks in accordance with policy. \n Bag merchandise after sales transaction is completed and paid for. \n Thank customers for their patronage. \n Maintain a clean workstation. \n Walk produce department daily. \n Know weekly specials. \n Sign in and out for breaks. \n Scan items per minute within policy. \n Follow the cash irregularities policy. \n \nJob Requirements:\n \n \n Follow dress/uniform policy. \n Must pass Produce Code Test. \n Must pass WIC Grocery Test. \n Must follow ABC (Alcohol Beverage Control) regulations, ask for identification for any individual who appears to be under the age of 35. \n Must ask for identification for any individual who appears to be under the age of 21 when purchasing cigarettes. \n \nEssential Job Duties:\n \n \n Lift boxes and product ranging between 20 lbs up to 60 lbs \n Place bags/product onto shopping cart \n Push/pull between 30 lbs up to 50 lbs (items on to shopping cart) \n Bend/Stoop pick up and or place product below waist level (when placing items in shopping cart) \n Place product onto shelfs and position for sale \n Grasp/Grip product to place in shopping bags. \n Constant sweeping/pushing broom to pick up debris to keep work area clean \n Reaching above shoulder level to placement items into shopping bags. \n \nNon-essential Job Duties:\n \n \n Climb ladders to retrieve product on top shelf. \n Provide Excellent Customer Service",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6cc6d2d3a96652bc&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjbeTxmMRed9X2L1XUjLHnCkiS-2XS_43VyhyRGICpJaw&vjfrom=serp&astse=dfcde35066f7fccb&assa=1697",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier - Part Time Customer Service Associate",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Porters",
+  "location": "San Diego, CA 92106",
+  "rating": 2.5,
+  "reviewsCount": 48,
+  "url": "https://www.indeed.com/rc/clk?jk=f165db9a98c1f2bd&fccid=7a9d178cab3738d1&vjs=3",
+  "id": "f165db9a98c1f2bd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:24.754Z",
+  "description": "JOB TITLE: CSA – CASHIER PT \n\nFLSA STATUS: NON-EXEMPT HOURLY \n\nSHIFT SCHEDULE: FULL-TIME \n\nDEPT/LOCATION: TBD \n\nREPORTS TO: RETAIL STORE MANAGER \n\n The Customer Service Associate (CSA) is responsible for providing prompt, efficient, and courteous, quality service to all customers. This includes operating a cash register, greeting customers, assisting with fuel dispensers, cash handling, light janitorial duties, and other duties as assigned. \n\n DUTIES AND RESPONSIBILITIES \n\n \n Provide friendly service to customers \n Greet and assist customers \n Operate cash register to enter a convenience store and gasoline purchases (assistance will be available if needed) \n Account for all monies, cigarettes and lottery tickets on assigned shift \n Check the expiration date and face-off product \n Follow proper safety protocols and procedures \n REQUIREMENTS \n\n \n Must be flexible to work various schedules such as weekends, holidays, and overtime as needed \n Must have the ability to accurately handle money \n Must have strong attention to detail \n Must possess excellent verbal and written communication skills \n Must have excellent customer service skills \n Must be capable of effectively communicating with customers and co-workers \n Must be able to work independently and be self-motivated \n Must be able to do simple math such as counting, recording, addition, subtraction, and multiplication \n PHYSICAL DEMANDS \n\n \n Must be able to stand and walk for the duration of shift \n Regularly lift and or move up to 20-50 pounds \n Must be comfortable working in a convenience store environment \n Must maintain a professional appearance and abide by the Dress Code Policy \n Must maintain professional and friendly demeanor towards customers and fellow employees \n Daily exposure to gasoline and oil products \n Fast-paced environment \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=f165db9a98c1f2bd&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgAqKWJ4vnHcbPmRL1bOvguQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=8dd649c44980f385&assa=3241",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Part-time Associate (Cashier)",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Smart & Final Stores",
+  "location": "Chula Vista, CA 91911",
+  "rating": 3.5,
+  "reviewsCount": 1369,
+  "url": "https://www.indeed.com/rc/clk?jk=731a434e22869baa&fccid=d32e4f60c1e6d94e&vjs=3",
+  "id": "731a434e22869baa",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:25.438Z",
+  "description": "\n Part-time Associate (Cashier)\n  463 - Chula Vista\n \n  Do you?\n \n   Provide excellent Customer Service? \n   Love your Community? \n   Love Food?\n \n  Join our Store Operations Team as a Part-time Associate (Cashier)!\n  Store Location  3141 Main Street Chula Vista, California, 91911 United States \n The Opportunity\n  The Part-Time Associate is the key to our success! \n Stores count on the Part-Time Associate to provide excellent customer service, keep the shelves fully stocked with good, fresh food and create an all around great shopping experience for our customers.\n  What You'll Do\n \n   Maintain a store section as assigned and may order, receive and stock merchandise using proper equipment, assures proper pricing on merchandise, checks product date codes to validate proper rotation, stocks shelves, end displays, floor stacks, displays and refrigerated/frozen cases. May prepare perishable products for sale. \n   Set up advertising/promotional displays. Reviews invoices/bills for accuracy. \n   Clean and maintain sanitation standards in all interior and exterior areas of store and parking lot as directed by store management. \n   Operate a cash register, receives payment from customers, and makes change or processes check/charge/debit transactions. Processes cash and/or credit refunds, when approved by management. \n   Verify customer eligibility when selling alcoholic beverages. \n   Offer friendly, knowledgeable, efficient and courteous assistance to customers by providing them with current store and product information. \n   When requested, load customer purchases by assisting customers to their vehicles. \n   Perform basic bookkeeping duties. Record lost/damaged goods and store supplies using appropriate tools.\n \n  What You'll Bring\n \n   Candidates should possess the ability to: \n   Read and write English, interact with general public and co-workers. \n   Read and comprehend simple instructions, product labels, product pricing codes, shelf tags, short correspondence, and memos. \n   Write simple correspondence. \n   Effectively present information in one-on-one and small group situations to customers, clients, and other employees of the organization. \n   Apply common sense understanding to carry out detailed but uninvolved written or oral instructions. \n   Regularly lift and/or move up to 25 pounds, frequently lift and/or move up to 45 pounds, and occasionally lift and/or move up to 60 pounds.\n \n  It Would Be Extra Awesome if you brought...\n \n   Basic PC/Outlook skills \n   Retail Management Certificate\n \n  Who We Are We are the smaller, faster grocery warehouse store and one of the longest continuously operating food retailers in the United States and operates under two banners: Smart & Final and Smart & Final Extra!. Headquartered in Los Angeles, where our history dates back to 1871, Smart & Final operates more than 250 grocery and foodservice stores in California, Arizona and Nevada.  Across all of Smart & Final, we’re passionate about providing for those who provide for others. And we’re dedicated to the communities we serve. With the help of our customers and associates, Smart & Final and the Smart & Final Charitable Foundation donate more than $1 million and 1,000 volunteer hours each year – providing support and improving the lives of millions in the areas of health & wellness, hunger relief and emergency response, K-12 education, and youth sports.\n  What We Bring\n \n   10% Associate Discount to Shop Where You Work! \n   401(k) Retirement Benefit + Match \n   Continuing Education Benefits \n   And Much More!\n \n  Our company provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=731a434e22869baa&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXias8YBuJkjNkQgI1BD116S5Z_dA0xndw9ylAW4Hz2CAQ&vjfrom=serp&astse=127b6b40b862d150&assa=3051",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier /Treasury Managment Clerk",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Mossy Auto Group",
+  "location": "San Diego, CA",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=18fd0ce825e25450&fccid=483fc02be28cfdb4&vjs=3",
+  "id": "18fd0ce825e25450",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:25.768Z",
+  "description": "The Treasury Management Clerk/Cashier receipts and processes all incoming deposits and corresponding paperwork, applies payments on all receivable accounts to the proper customer and prepares the daily deposits for multiple dealerships. Required experience in fast-pace automotive business office environment.At Mossy Auto Group our employees are our most valuable asset. Our mission statement is to create an environment of high integrity & mutual respect that nurtures openness, creativity, & innovation. Every employee at Mossy is absolutely critical to its success. As a family owned & operated business, we consider each employee and extension of the Mossy family. We promise to deliver the same award-winning service and value that our community has come to expect from our dealership through the years.Benefits\n\n Medical, Dental & Vision\n Group Insurance Plans & Discounts\n 401K Retirement Savings Plan\n Paid Vacation and Holidays\n Disability Insurance\n LAP (Life Assistance Program)\n Basic Life, Dependent & Accident Insurance\n Growth Opportunities\n Paid Training\n Employee Purchase Incentives\n Family Owned & Operated\n Health & Wellness\n Flexible Work Schedule\n Discounts on Products & Services\n Direct Deposit\n\nResponsibilities Specific responsibilities include but are not limited to the following; other duties may be assigned.\n\n Receipt, reconcile and post all incoming money to appropriate accounts.\n Prepare bank deposits\n Reconcile Bank Statements\n Dealer Reserve Reconciliations\n Verification of cleared checks\n Prepare 8300 Reporting\n Reconcile schedules for proper accounting.\n Analyze transactions for compliance with IRS reporting requirements.\n Work with other cashiers to appropriate joint payments to the correct receiving entity.\n Participate in gathering pertinent financial reports for end of the month closing.\n Provide support for and cross train in other business office positions.\n Maintain and Update client files and account information.\n Fill in for other administrative positions as needed and as directed by management.\n\nQualifications\n\n Minimum 2 years Automotive Accounting Experience Preferred\n Good Computer skills –Proficient in MS Excel, Word & Outlook\n Strong accounting skills\n Good Communication and organizational skills\n Positive attitude\n Ability to multi-task\n Exceptional written and verbal communications skills\n Must be highly organized, have excellent follow-up and prioritization abilities.\n High School Diploma or equivalent\n\nWe are an equal opportunity employer & drug-free workplace. Offers of employment contingent upon successfully passing background screening (incl. criminal background check, review of motor vehicle records, verification of SSN & passing drug test at a certified testing facility).\nJob Type: Full-time",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Del Road, LLC",
+  "location": "San Diego, CA 92101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=a1c7e5f3568e5eeb&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "a1c7e5f3568e5eeb",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:26.882Z",
+  "description": "\n Description: \n  Job title—Guest Engagement Cashier.\n  Job Location—Little Italy Food Hall (LIFH); Samburgers & Not Not Tacos.\n  Classification—Nonexempt under the Fair Labor Standards Act (FLSA).\n  Salary level—hourly with gratuity tip pool payments.\n  Reports to— Del Road LLC., Little Italy Food Hall (LIFH) Supervisors and Managers\n  Summary/objective\n  Enhance the guest’s experience by providing prompt, friendly, knowledgeable, and professional service that supports Grain & Grit Collective’s Mission; Live to Create the most compelling guest experience possible. Our values of Grain: Caring, Kindness, Authenticity & Accountability. Our Grit: Passion & Perseverance. Take responsibility for achieving individual and team sales goals.\n  Essential functions\n \n   Guest service and guest engagement:\n   Positive, energetic & friendly personality utilizing all company established standards.\n   Guest personality engagement smiling with your eyes.\n   Informing management of any and all concerns with guests or situations creating barriers to\n \n  guest engage and great service\n \n   Expeditor of Food:\n   Collecting/assembly of food & beverage orders to ensure guest receives correct order.\n   Greeting quests while multi-tasking as an Expeditor (Expo).\n   Following and in-compliance with all Food Safety practices.\n   Following and in-compliance with all Personal Hygiene and food safety hygiene practices.\n \n  ? Includes adhering to all established company uniform standards.\n \n   Proficient at Point of Sales (POS) system to complete quest orders.\n   Closing out orders with cash, credit cards and App payments.\n   Ensuring accuracy for all transactions including counting back change with cash transactions.\n   Menu knowledge\n   Menu knowledge to understand POS substitutions.\n   Menu and POS knowledge to ensure accuracy.\n   Engaging with guest to repeat orders.\n   Upselling & suggestive sales of food and beverage.\n \n  ? Following specific Steps of Service.\n \n   Stocking stations, surrounding areas, restrooms, merchandise, point of sale materials and take out supplies.\n   Assembly of takeout containers with parchment paper.\n   Fry cook and final production of French fries and tater tots.\n   Dispensing fountain sodas and bottled beverages (soda, water and canned alcohol) to guests.\n   Adhering to California ABC responsible Beverage Service Training guidelines and regulations.\n   Cleaning inside; general area including near fry station and expo, lobby seating area, chairs, tables, floors, sweeping entire area and spot sweeping, mopping entire area and spot mopping when spills occur.\n   Cleaning outside; patio area (Piazza), chairs, tables, floors, sweeping entire area and spot sweeping, spot mopping when spills occur.\n   Cleaning Common Area Inside & Out; trash/refuge removal, Common Area sinks, Common Area bathrooms.\n   Hourly checklist completion of duties.\n   Use proper Personal Protective Equipment (PPE) for all cleaning and trash removal.\n   Use of rubber gloves or disposable gloves is required when cleaning and/or trash collection.\n \n  ? Disposable gloves must be discarded after each use.\n  ? Wash hands thoroughly prior to returning to your workstation or other task.\n  ? Rubber gloves must be washed with soap and water after each use and allowed to air dry.\n  ? Wash hands thoroughly prior to returning to your workstation or other task.\n \n   Conduct opening duties to prepare station for guests, (shift readiness).\n   Midday/Side work duties mentioned above to maintain station and Common Area appearance and sanitation standards.\n   Closing duties to prepare station and assigned Common Areas for next day.\n   Informing management of any and all concerns with guests or situations creating barriers to guest engage and great service.\n   Report workplace injuries as soon as reasonably responsible, but in no event later than leaving the workplace or within 8 hours.\n  Requirements: \n  Competency\n \n   Ability to read & write English.\n   Ability to calculate and count cash & change.\n   Time management\n   Customer service\n   Dispute resolution\n   Dependability\n   Efficiency\n   Flexibility\n   Friendliness\n   Attention to detail\n   Point of Sale systems (POS)\n   Positive attitude\n   Punctuality\n   Multitasking\n \n  Supervisory responsibilities\n \n   No direct reports.\n \n  Work environment\n \n   Primary work environment is Indoors with outdoor work for routine cleaning; daily set up and breakdown of large patio (Piazza) area; temperatures range from 50F-90F with varying weather conditions.\n   Noise level can be loud at times due to crowds, order taking and music.\n \n  Physical demands\n \n   Lift and/or move up to approximately 30 pounds frequently.\n   Bending/stooping/kneeling required – frequently.\n   Climbing ladders – occasionally.\n   Routine standing for duration of shift (up to 8 hours).\n   Ability to work varied hours and days including nights, weekends and holidays as needed.\n \n  Position type and expected hours of work\n \n   Part time to 32 hours/week or more, working shifts as early as 9:30 AM working shifts as late as 11:30pm, schedule work shifts from 4- 8 hours, with occasional meeting/training shifts of 2 hours.\n   Due to unexpected business demands overtime (shifts greater than 8 hours) may be required.\n   Working hours can be included weekends and holidays.\n \n  Travel\n \n   N/A\n \n  Required education and experience\n \n   High School diploma or GED.\n   Generally, 1+ years retail or restaurant experience\n   Demonstrated sales and service skills, strong interpersonal skills, verbal communication and listening skills. Ability to multi-task, basic math and cash handling experience.\n   Must have an aptitude and enthusiasm to learn about all brands and products available to our guest.\n \n  Preferred education and experience\n \n   Additional education and cashier guest service experience.\n \n  Additional eligibility qualifications\n \n   San Diego Food Handers Card.\n   TBD California ABC Responsible Beverage Service Training & Certificate ID #.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier I Retail Sales",
+  "salary": null,
+  "jobType": null,
+  "company": "Dixieline Lumber & Home Centers",
+  "location": "La Mesa, CA 91941",
+  "rating": 3.2,
+  "reviewsCount": 1110,
+  "url": "https://www.indeed.com/rc/clk?jk=7249d912eb75f72c&fccid=eb0325fdd6d51307&vjs=3",
+  "id": "7249d912eb75f72c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:27.048Z",
+  "description": "The Dixieline Lumber and Home Centers are conveniently located throughout San Diego County, offering both homeowners and contractors complete customer service. Our sales staff can help select the proper hardware, tools and supplies needed for just about any project.Today, Dixieline Lumber & Home Centers is owned by Builders FirstSource, the largest supplier of building products, prefabricated components, and value-added services to the residential construction market in the U.S. \n\n Under direct supervision, greets customers and receives payment; issues receipts, refunds, credits, or change due to customers; package customer purchases. \n\n \n Provides product information, location, and general store knowledge. Directs customer to product pick-up point, if necessary. \n Opens and closes-out till and accurately documents all transactions, makes accurate change, verifies credit cards and checks, and balances receipts. \n Assists in pricing and stocking inventory, display preparation and maintenance, and maintains quality store presentation. Participates in annual physical inventory activities. \n \nRequirements: High school diploma or General Education Degree (GED) and six (6) months of related experience, or an equivalent combination of education and experience. \n\n Builders FirstSource is an Equal Opportunity/Affirmative Action Employer \nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender, gender identity, national origin, status as a protected veteran or status as an individual with a disability. \n\n In compliance with the ADA Amendments Act (ADAAA), if you have a disability and would like to request an accommodation in order to apply for a position with Builders FirstSource, \n\nplease call (214) 765-3990 or email: ADA.Accommodation@bldr.com. Please do not send resumes to this email address - it is intended only to be used to request an accommodation in submitting an application for a job opening. \n\n https://www.dol.gov/ofccp/regs/compliance/posters/ofccpost.htm \nEEO THE LAW - English/Spanish \nEEO IS THE LAW - SUPPLEMENT - English/Spanish \nPay Transparency Provision - English/Spanish",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$14 - $16 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Intazza",
+  "location": "San Diego, CA 92109",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=1d8b174193fbb413&fccid=47d475592d38562d&vjs=3",
+  "id": "1d8b174193fbb413",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:29.093Z",
+  "description": "\n Company Overview: \n  Intazza is a coffee roasting company located in Murrieta, CA. We pride ourselves in delivering the art of third-wave coffee to local consumers. Currently, we own 3 cafes known as Intazza Mug & Grub that spread from Murrieta all the way down to the beaches of San Diego, but our expertise doesn’t end there. Our network expands at a wholesale food service level. Our company is inviting and warm, a great place to learn restaurant etiquette and coffee experience. We are proud to serve amazing coffee from various regions around the world always thinking about our responsibility to sourcing. Whether we are thinking inside or outside the box we are always thinking inside the cup. \n  \n  \n Job Summary: \n  Intazza is looking to hire a part-time cashier who is willing to learn our craft and serve our customers the best experience possible. Primary responsibilities include greeting customers while they enter and exit the facility, while simultaneously handling cash and credit card transactions with integrity and a smile. At INtazza, we believe in teamwork. Cashiers will also be asked to help customers receive their correct orders, while also helping keep our cafe looking clean and inviting. Overall, we are looking for a people person who is capable of managing restaurant efficiency, and customer service, while delivering a quality experience. \n  \n  \n Responsibilities: \n \n  Maintaining a clean workspace behind the counter \n  Greeting each customer when they arrive as well as when they leave \n  Properly counting money transactions correctly to ensure an even cash drawer at the end of every shift \n  Maintaining a positive attitude throughout each shift to insure a positive customer experience \n  Helping out coworkers to maintain restaurant cleanliness and efficiency \n  Knowledge of not only the entire menu, but Intazza as a whole in order to portray the company's mission statement on a daily basis \n \n Qualifications:\n  \n  Completed high school education \n  Preferred experience in Food and Hospitality \n  Reliable transportation \n  Willingness to learn and grow within the company \n  Availability to work when requested \n \n Benefits\n  \n  Livable wage \n  Tips \n  Employee Discount on food and drinks\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Front Line Cashier - Open (Daytime) Availability Required",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "San Diego Model Railroad Museum",
+  "location": "San Diego, CA 92101",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/San-Diego-Model-Railroad-Museum/jobs/Front-Line-Cashier-0b5752bffedc63ff?fccid=23e5150d5655b586&vjs=3",
+  "id": "0b5752bffedc63ff",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:29.196Z",
+  "description": "JOB SUMMARY The part-time gift shop clerk is vital to ensure visitors feel welcomed when entering the San Diego Model Railroad Museum. Duties include, but are not limited to, customer service, ticketing and admission, group facilitation, membership sales, gift shop sales, and maintaining a clean, inviting gift shop for members and guests. We are looking for someone that can work independently, has experience in visitor services and/or retail, communicates effectively with both guests and staff, and provides a friendly, welcoming atmosphere for all that visit the San Diego Model Railroad Museum and its gift shop.\nDUTIES AND KEY RESPONSIBILITIES Greet and welcome all visitors  Maintain a friendly, professional, customer care attitude when checking in guests for their admission to the museum Promote/sell memberships, special events, and other add-on experiences  Facilitate check-in process for all visitors and groups, and assist them in planning their museum experience Be available to answer questions, and enforce museum rules of conduct when needed  Follow all procedures for opening and closeout of registers and reconciliation of receipts and cash. Gift shop sales and customer service  Clean, restock, and maintain gift shop and front desk Answer mainline phone.\nQUALIFICATIONS A passion for people, museums, zoos and/or model trains  Minimum 1 year experience in a visitor facing/customer service role Experience in hospitality, retail, attractions, or cultural organizations preferred  High school diploma required; relevant coursework from an accredited college or university strongly preferred Knowledge of admissions, POS, and online ticketing systems  Ability to work with individuals from a wide variety of ethnic, cultural, and economic backgrounds Ability to identify and positively resolve visitor complaints as they arise; strong decision making skills necessary  General knowledge of information technology and business software applications including Outlook, Microsoft® Suite; ability to run copies or print flyers 2 Effective and persuasive communications skills; able to write and speak clearly and present information to a wide variety of audiences  English/Spanish (bilingual) highly desirable bit not required Must be able to stand and move around public areas of the museum for extended periods of time (reasonable accommodation will be made for qualified candidates with disabilities\nSCHEDULE Must be able to work a regular schedule during set museum hours (we try to give one weekend off a month to anyone that requests it) and on occasion weekdays, holidays, and special events as necessary  Typical shifts are 10:30 a.m. – 4:30 p.m., Tuesday through Sunday. Schedule averages 6-24 hours/week depending on event schedule and availability. (Right now we have a need for someone to work 4 or 5 days a week from 10:30 am to 4:30 pm. We are open Tuesday through Sunday. Closed on Mondays, except for Holidays.)\nWORKING ENVIRONMENT/PHYSICAL REQUIREMENTS Work is performed while standing, sitting, or walking with occasional bending, reaching, and the lifting and occasional carrying of boxes weighing up to 25lbs. Work is performed in an adequately ventilated and lighted gift shop public area and/or in office and administrative support area. This position is an indoor job with occasional exposure to a variety of other tasks that include outdoor conditions, exposure to weather, and occasional driving to pick up supplies may be required. This job description is intended as a guide to the general job responsibilities and is not inclusive of every duty the employee is expected to perform. SDMRM is an Equal Opportunity Employer.\nJob Type: Part-time\nPay: From $15.00 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Day shift\n\nWeekly day range:\n\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nShift availability:\n\n Day Shift (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/ Corndog Maker",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time",
+    "Contract"
+  ],
+  "company": "Two Hands Corn Dog Convoy",
+  "location": "San Diego, CA 92111",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Two-Hands-Corn-Dog-Convoy/jobs/Cashier-689e30529cbb2b03?fccid=4c6befcdfa2bf484&vjs=3",
+  "id": "689e30529cbb2b03",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:30.375Z",
+  "description": "HANG WITH TWO HANDS CORN DOG IS LOOKING FOR A CASHIER WHO CAN ALSO MAKE CORN DOGS WELL! JOIN OUR TEAM!\nLIVE TO CREATE THE MOST COMPELLING GUEST EXPERIENCE POSSIBLE.\nOUR VALUES\nGRAIN: CARING, KINDNESS, AUTHENTICITY & ACCOUNTABILITY\nGRIT: PASSION & PERSEVERANCE\nGOT WHAT IT TAKES? HERE’S THE ESSENTIALS\n\n Jump to \"YES\" and positive attitude!\n Dynamic, outgoing personality a must!\n Sets the pace and vibe for the team & guests\n Consistent attendance and punctuality\n Strong understanding of company vision & core values\n Project passion and confidence\n Amazing teamwork skills\n Strong communication skills (verbal, non-verbal, and electronic)\n Genuinely friendly and authentic with guests & team members\n Ability to thrive in a growth culture\n Fast foot speed and ability to work successfully in a fast paced environment\n Efficiently operate the point-of-sale (POS) system\n\nJob Types: Full-time, Part-time, Contract\nPay: From $15.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nSchedule:\n\n Day shift\n Night shift\n\nShift:\n\n Day shift\n Evening shift\n\nSupplemental pay types:\n\n Tips\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:Workers must wear a mask while working\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Gas Station and C store Cashier",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "H Street Arco",
+  "location": "Chula Vista, CA 91910",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/H-Street-Arco/jobs/Gas-Station-C-Store-Cashier-c1a411a4b11784e7?fccid=6f1108abd4347fb8&vjs=3",
+  "id": "c1a411a4b11784e7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:30.669Z",
+  "description": "Shifts available: Varies from afternoon to night shifts\nTo be able and in charge of running shifts and perform tasks independently.\nMust be able to work graveyard shifts.\nMust be able to work weekends.\nSpanish speaking is a plus.\nResponsible and on time.\nCompensation: Starts from $16 based on experience and performance, including overtime pay.\nJob Types: Full-time, Part-time\nPay: From $16.00 per hour\nBenefits:\n\n 401(k)\n Flexible schedule\n Paid time off\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n Overnight shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Retail Associates & Cashiers: 1 year (Preferred)\n\nLanguage:\n\n Spanish (Preferred)\n\nShift availability:\n\n Night Shift (Required)\n Overnight Shift (Required)\n Day Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Stocker",
+  "salary": "$16 - $17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Midway shell",
+  "location": "San Diego, CA 92110",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Circle-Market-San-Marcos/jobs/Cashier-Stocker-26d5ce46f3041c36?fccid=30510816d7b3ce4c&vjs=3",
+  "id": "26d5ce46f3041c36",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:32.351Z",
+  "description": "Full Job Description \nHere are just some things you will do in this role:\nGreet every Guest with a smile, thanking them for their business, and inviting them back.\nDeliver a fast, friendly, and professional checkout experience.\nAccurately ring up sales and merchandise, offering our GUESTs available discounts/promotions while following all company policies and applicable laws regarding restricted sales.\nMaintain cleanliness, inside and outside the store.\nProperly label, rotate and stock shelves, coolers, and displays.\nMeet the physical demands of standing, lifting, bending, and pulling items.\nAdditional duties as assigned.\nMaintaining cash drawer and performing cashier reconciliation at each end of shift to ensure accurate management of sales.\nPhysical Requirements:\nMust be able to stand for an extended period.\nWhile performing the duties of this job, frequently required to stand, walk, bend, and twist; reach with hands and arms; climb or balance; stoop, kneel, or crouch; and talk and listen.\nMust frequently lift and/or move up to 5 to 25 pounds and occasionally list and or move up to 25 pounds\nWork safely\nJob Types: Full-time, Part-time\nPay: $16.00 - $17.00 per hour\nBenefits:\n\n Flexible schedule\n Paid time off\n Paid training\n\nShift:\n\n 10 hour shift\n 12 hour shift\n 8 hour shift\n Day shift\n Evening shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Spring Valley, CA 91977: Reliably commute or planning to relocate before starting work (Required)\n\nLicense/Certification:\n\n Driver's License (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Downey Grocery Outlet",
+  "location": "Chula Vista, CA 91911",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Valencia-Family-Grocers/jobs/Cashier-Customer-Service-a201ebc0dd743669?fccid=68d4043f37da1354&vjs=3",
+  "id": "a201ebc0dd743669",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:32.746Z",
+  "description": "\n Provides a positive customer experience with fair, friendly, and courteous service.\n Registers sales on a cash register by scanning items, itemizing and totaling customers’ purchases.\n Resolves customer issues and answers questions.\n Bags purchases if needed.\n Processes return transactions.\n Itemizes and totals purchases by recording prices, departments, taxable and nontaxable items; and operating a cash register.\n Enters price changes by referring to price sheets and special sale bulletins.\n Discounts purchases by redeeming coupons.\n Collects payments by accepting cash, check, or charge payments from customers and makes change for cash customers.\n Verifies credit acceptance by reviewing and recording driver’s license number; and operating credit card authorization systems.\n Balances cash drawer by counting cash at beginning and end of work shift.\n Provides pricing information by answering questions.\n Maintains checkout operations by following policies and procedures and reporting needed changes.\n Maintains a safe and clean working environment by complying with procedures, rules, and regulations.\n Contributes to team effort by accomplishing related results as needed.\n\nJob Types: Full-time, Part-time\nPay: $15.00 per hour\nBenefits:\n\n Paid time off\n\nShift:\n\n 4 hour shift\n Day shift\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n chula vista, ca 91911: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Gas Station Cashier",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "La Mesa Sinclair",
+  "location": "La Mesa, CA 91941",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Center-City-Shell/jobs/Gas-Station-Cashier-7c1557013b989ec6?fccid=ff3d8f130a3f961e&vjs=3",
+  "id": "7c1557013b989ec6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:33.344Z",
+  "description": "Gas Station Cashier\nJob Summary\nResponsible for collecting payments from patrons frequenting a gas station. Accept payments for gas, food, medicine, cigarettes, vehicle repair work orders, or alcohol and deliver change. Fill patrons' gas tanks if necessary.\nPrimary responsibilities\n\n Collect cash from patrons at a gas station and Dispense change.\n Charge purchases to customers' credit cards or debit cards.\n Provide customers with receipts.\n Sell food and grocery items.\n Fill up gas tanks if asked.\n Collect and dispose of trash outside.\n Verify age of customer if they are purchasing alcohol or cigarettes.\n Answer questions and provide directions if needed.\n Activate fuel pumps.\n Answer phone, transfer calls and/or take messages.\n Clean gas station bathrooms.\n Count money in cash drawers.\n Operate price scanners.\n Sweep and mop floors.\n Stock Shelves. (Ability to lift 20 Pounds, climb ladder, and reach overhead)\n Must wear supplied Sinclair Shirt and Name badge. (Supplied by La Mesa Sinclair)\n Arrive and clock-in 10 minutes before shift starts, to count cash drawer.\n Call police to report suspicious activity in and around gas station.\n Pump gas for customers.\n Fill propane bottles.\n\nCOVID-19 Precaution(s):\n\n Personal protective equipment provided or required\n Plastic shield at work stations\n Social distancing guidelines in place\n Sanitizing, disinfecting, or cleaning procedures in place\n\nHours per week:\n\n 20-29\n 30-39\n\nWork Includes\n\n Evenings\n Weekends\n Holidays\n\nPaid Training:\n\n Yes\n\nPay frequency:\n\n Every other week\n\nManagement:\n\n Store Manager\n\nEmployees working per shift:\n\n 5 or fewer\n\nThis Job Is:\n\n Open to applicants who do not have a college diploma\n\nWork Remotely\n\n No\n\nJob Types: Full-time, Part-time\nPay: $15.00 - $17.00 per hour\nShift:\n\n 8 hour shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Grocery Clerk/Cashier/Customer Service",
+  "salary": "$15.50 - $16.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Stehly Farms Market",
+  "location": "San Diego, CA 92116",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Stehly-Farms-Market/jobs/Grocery-Clerk-Cashier-Customer-Service-011fe248a87728a1?fccid=19e4fcaf0e60396d&vjs=3",
+  "id": "011fe248a87728a1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:34.060Z",
+  "description": "Stehly Farms Market is a neighborhood market located in the heart of Kensington. We are looking for an energetic, reliable, flexible, customer service oriented applicant. Duties include cashier, stocking, and flexibility to move into other departments. Experience in grocery and ability to work a POS system is required.\nJob Types: Full-time, Part-time\nPay: $15.50 - $16.50 per hour\nBenefits:\n\n 401(k)\n Employee discount\n Flexible schedule\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Rotating weekends\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n POS: 2 years (Preferred)\n Grocery: 1 year (Required)\n\nLanguage:\n\n English (Preferred)\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Senior Cashier",
+  "salary": "$42,016 - $50,690 a year",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "City of San Diego",
+  "location": "San Diego, CA 92101",
+  "rating": 4,
+  "reviewsCount": 202,
+  "url": "https://www.indeed.com/rc/clk?jk=2e917ed5b3048d08&fccid=20fb1b6c4a720741&vjs=3",
+  "id": "2e917ed5b3048d08",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:34.766Z",
+  "description": "\n \n  \n   \n    \n     Salary \n    \n   \n   \n   \n    \n     $42,016.00 - $50,689.60 Annually\n     \n   \n  \n  \n   \n    \n     Location \n    \n   \n   \n   \n    \n     City of San Diego, CA\n     \n   \n  \n  \n   \n    \n     Job Type\n     \n   \n   \n    \n     Varies by Position\n     \n   \n  \n  \n   \n    \n     Business Area\n     \n   \n   \n    \n     N/A - Multiple Departments\n     \n   \n  \n  \n   \n    \n     Job Number\n     \n   \n   \n    \n     SI-T11667-202211\n     \n   \n  \n \n \n \n  \n   \n    Closing\n    \n  \n  \n   12/12/2022 5:00 PM Pacific\n  \n \n \n\n\n \n  \n   JOB INFORMATION\n   \n  \n  \n   \n    Senior Cashier positions assign, direct, and supervise the work of subordinate cashiers; review transactions for accuracy; verify, reconcile, and balance the total daily transactions of each cashier; receive daily cash reports and deposit slips from revenue producing departments within the City; prepare daily bank deposits; maintain accurate reports of various accounts; maintain control of vault and other funds; prepare written reports and correspondence; process returned checks; and train and evaluate the work performance of subordinates; and perform other duties as assigned.\n   \n   \n   \n     NOTE:\n   \n   \n    \n      Eligible benefitted employees originally hired on or after July 10, 2021, will be automatically enrolled in the San Diego City Employees Retirement System (SDCERS).\n    \n   \n  \n   \n   \n  \n   MINIMUM REQUIREMENTS\n   \n  \n   You must meet the following requirements on the date you apply, unless otherwise indicated.  EXPERIENCE: One year of full-time cashier experience with a municipal organization, public agency, non-profit organization, utility company (e.g., phone, cable/internet, gas, electric, water/wastewater, and refuse/recyclable/greenery collection), bank, savings and loan, or credit union, which must include ALL of the following:\n   \n     Receiving cash, checks, and other negotiable instruments from the public and issuing receipts.\n     Calculating and making correct change.\n     Balancing monies against register tapes and various source documents using a 10-key adding machine by touch.\n   \n   \n     NOTES:\n   \n   \n     Balancing receipts against register tapes only is NOT qualifying.\n     Cashier experience in retail stores, restaurants, movie theaters, check cashing outlets, or similar non-bank facilities is NOT qualifying.\n     City of San Diego employees using Out-of-Class Assignment (OCA) experience to qualify must submit written documentation signed by their appointing authority or payroll specialist, detailing the work performed, dates, and total number of qualifying OCA hours. OCA experience without the required documentation will NOT be considered.\n    LICENSE: A valid California Class C Driver License may be required at the time of hire.\n   \n     HIGHLY DESIREABLE:\n   \n   \n     Familiarity with banking adjustments, transactions, and procedures including validating and encoding checks using an encoder-endorser machine and experience in detecting counterfeit bills.\n     Customer service experience in resolving complaints regarding bills/invoices.\n   \n   \n     REQUIRED DOCUMENTS (MUST SUBMIT WITH APPLICATION):\n   \n   \n    \n      For City of San Diego employees, proof of Out-of-Class Assignment (OCA), if utilized to meet the minimum requirements.\n    \n   \n   \n   \n     Required documents should be attached electronically to your application. If you are unable to attach at the time of application submittal, you must submit them as soon as possible via fax: (619) 533-3337; or to the Employment Information Center: City of San Diego Personnel Department, 1200 Third Avenue – Suite 300, San Diego, CA 92101. Include your name and the title of the position for which you are applying.\n   \n  \n   \n   \n  \n   SCREENING PROCESS\n   \n  \n   Please ensure all information is complete and accurate as the responses you provide on the supplemental questions will be reviewed using an automated evaluation system. If you are successful in this initial screening process, your application will be reviewed for applicable education, experience, and/or training to ensure all minimum requirements have been met. Successful candidates will be placed on a list which will be used to fill position vacancies during the next six months (180 days). For each vacancy, only those candidates with the most appropriate qualifications will be contacted by the hiring department for an interview.\n   \n  \n   SUPPLEMENTAL INFORMATION\n   \n  \n   PRE-EMPLOYMENT REQUIREMENTS: Employment offers are conditional pending the results of all screening processes that are applicable to this position, which may include the following: confirmation of citizenship or legal right to work in the United States; completion of a pre-employment medical review and exam (which may include drug and alcohol testing); reference checks; confirmation of full COVID-19 vaccination; and fingerprinting. Fingerprints will be submitted to the Federal Bureau of Investigation and the California Department of Justice for a conviction record report. Certain positions may require additional screening processes, which may include a polygraph examination and/or background investigation. All of these processes must be successfully completed before employment begins. A positive test for alcohol or illegal drugs, including marijuana, or inadequately explained prescription drugs, or misrepresentation, falsification, or omission of pertinent facts in any step of the screening or selection process, may be cause for disqualification or termination of employment. Nothing in this job posting constitutes an express or implied contract for employment with the City of San Diego. Candidates must notify the Personnel Department of any change in their name, mailing address, email address, or phone number, otherwise they may miss employment opportunities.\n   \n   \n     COVID-19 VACCINATION: You must be fully vaccinated against COVID-19 before your start date.\n   \n   \n   \n     NOTES:\n   \n   \n     “Fully vaccinated” means a person has received, at least 14 days prior, either the second dose in a two-dose COVID-19 vaccine series or a single-dose COVID-19 vaccine, or otherwise meets the criteria for full vaccination against COVID-19 as stated in applicable public health guidance, orders, or law. Acceptable COVID-19 vaccines must either be approved by the U.S. Food and Drug Administration (FDA) or authorized for emergency use by the FDA or the World Health Organization.\n     Candidates who receive a conditional job offer will be required to provide proof of their full COVID-19 vaccination.\n     Employees and candidates with a disability or medical condition that makes it medically inadvisable for them to receive a COVID-19 vaccine, as verified by their healthcare provider, or those with a sincerely held religious belief, observance, or practice that prevents them from receiving a COVID-19 vaccine, may request reasonable accommodation and exemption from the COVID-19 vaccination requirement. Candidates who receive a conditional job offer and wish to make a request for accommodation will be provided with more information. The City will review requests for medical or religious accommodation on a case-by-case basis in accordance with the Americans with Disabilities Act, Title VII of the Civil Rights Act of 1964, and the California Fair Employment and Housing Act. A candidate’s start date may be adjusted to allow for the accommodation process.\n   \n  \n \n\n \n\n\n \n  \n   City employees may be eligible to participate in a benefit program including holidays, vacations, savings and retirement plans, health programs, and other benefits.   Eligible City employees initially hired or assuming office on or after July 10, 2021, with the exception of Police Recruits participating in the City’s Police Academy, will participate in the City’s Defined Benefit Plan administered by the San Diego City Employees’ Retirement System (SDCERS).  Benefits may change due to employer-employee contract negotiations.  Flexible Benefits Plan Options for Employees Represented by Municipal Employees Associate (MEA) or review the Benefits Summary for MEA Employees. (Download PDF reader)\n  \n \n \n\n\n \n  \n   \n    Agency\n    \n   \n    City of San Diego\n    \n  \n \n \n  \n   \n    Address\n    \n   \n    1200 3rd Ave., Suite 300, MS 51P  San Diego, California, 92101 \n   \n  \n \n \n  \n   \n    Phone\n    \n   \n    (619) 236-6400 \n     (619) 236-6358\n   \n  \n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=2e917ed5b3048d08&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXib1090KbFtLXnl83OT-MMZl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=5069a68fcf2f08b3&assa=4339",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Head Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Sprouts Farmers Market",
+  "location": "San Diego, CA 92117",
+  "rating": 3,
+  "reviewsCount": 4558,
+  "url": "https://www.indeed.com/rc/clk?jk=944a8bc304974ae4&fccid=95d1741fa7ecafec&vjs=3",
+  "id": "944a8bc304974ae4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:34.936Z",
+  "description": "\n Job Introduction: \n \n   Do you enjoy leading others by providing an exemplary example and serving as a mentor? Does overseeing a fast paced team in a fast paced environment sound exciting? Do you have a passion for delivering an extraordinary customer service experience while working in a friendly environment? If the thought of helping people make healthy choices in one of the fastest growing retailers is up your alley – then we need YOU to join our winning team at Sprouts Farmers Market as a Head Cashier!\n  Overview of Responsibilities: \n \n   At Sprouts Farmers Market, the Head Cashier is responsible for the supervision of a team of cashiers and assistance with operational issues. \n \n \n  Ensure excellent customer service through proactively visiting registers and providing direction/support to Cashiers and Courtesy Clerks\n   Assist in potential customer assistance issues at the register\n   Assign store sweeps, monitor/maintain cash register supply levels and maintain cleanliness standards in the restrooms and parking lots\n   Maintain visibility of the exit doors for security and loss prevention issues\n   Schedule and oversee proper execution of appropriate meal and rest breaks in compliance with company policy and state requirements\n   Assist in the hiring and training of new Cashiers and taking necessary steps for disciplinary actions\n   If you are someone who thrives in a fast-paced environment then we want to hear from you!\n  Qualifications: \n \n   To be a Head Cashier at Sprouts Farmers Markets you must:\n \n \n \n   Be at least 18 years of age; possess a high school diploma or GED, and 1-2 years of recent cashiering experience supplemented with leadership training.\n   Be dependable and reliable having the ability to work a flexible schedule that changes as the business changes; including nights, weekends and holidays.\n   Have and show an outgoing and friendly behavior, a positive attitude and the ability to interact with our customers, representing as a role model in behaviors.\n   Ability to operate front end equipment; register, calculator, scanner.\n   Have good communication skills; the ability to take direction/constructive criticism and participate in a team environment\n   Be able to perform repetitious activities, and have the ability to multi-task, prioritize and stay organized.\n   Must lift/carry product horizontally/vertically weighing up to 30 lbs., from 36” to 24”, for a distance up to 3 feet for up to 50 hours without mechanical assistance.\n   Must use both hands to move grocery carts horizontally requiring a force up to 35 lbs., for a distance up to 4 feet for up to 50 hours.\n   Requires strong attention to detail and proficiency with numbers; proficient in cash handling and mathematical skills; ability to read, write and count.\n  Benefits: In addition to a rewarding career, Sprouts offers a comprehensive program to help support you and your family. These programs include: - Competitive pay - Opportunities for career growth - 15% discount for you and one other family member in your household on all purchases made at Sprouts - Flexible schedule - Employee Assistance Program (EAP) Eligibility requirements may apply for the following benefits: - 401(K) Retirement savings plan with a generous company match - Minimum essential coverage medical plans - Voluntary coverage such as short-term disability, hospital indemnity, accident, and critical illness - Competitive vacation and sick time programs Get Paid Every Day! Sprouts Farmers Market offers DailyPay - if you’re hired as an eligible employee, you’ll be able to transfer the money you’ve already earned at no extra cost, and get it the next business day, for free. We offer DailyPay so you don’t have to wait for payday to access the money you’ve already worked for. With DailyPay, you can see how much you’ve made every day and you can transfer your money any time before payday. You can learn more by visiting dailypay.com. Why Sprouts: \n \n   Grow with us!\n \n \n   If you have a passion for inspiring people and a flair for fresh food, consider applying for a job at Sprouts! With a focus on customer service, our neighborhood grocery stores offer high-quality, farm fresh produce, natural meats, plenty of scoop-your-own bulk goods and much more in a fun, friendly, old-fashioned farmer’s market setting. Come grow your career in healthy living with a fast-paced, rapidly growing company and teams that pride themselves on empowering others along their journey.\n \n \n \n   The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work. This is not an exhaustive list of all duties, responsibilities, and requirements. Sprouts’ management reserves the right to amend and change duties, responsibilities, and requirements to meet business and organizational needs as necessary.\n \n \n \n   California Residents: We collect information in accordance with California law, please see \n  here\n   for more information.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "From $17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Bonita ARCO AMPM",
+  "location": "Bonita, CA 91902",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Arco-Bonita/jobs/Cashier-Customer-Service-a7de4cda70ed74bd?fccid=18f1d8a29ba65657&vjs=3",
+  "id": "a7de4cda70ed74bd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:35.472Z",
+  "description": "Full Job Description\nAre you interested in A cashier, retail, or gas station attendant employment with competitive pay and benefits?\nNow hiring! We are looking for a friendly, punctual, and honest cashiers with excellent customer service skills for a full-time or part-time position. Prior experience would be an asset but not required as on-site training will be provided. Responsible, attentive, and respectful are all qualities we are looking for in a candidate.\nIf you are an individual who is outgoing, and loves working with people, then we'd love to speak with you!\nBENEFITS: \n\n 401K\n Paid Time Off\n Competitive pay\n Flexible schedule\n\nEssential Job Functions and Responsibilities\nWork duties include the following but not limited to this list.\n\n Arrives to work station on time, appropriately groomed, dressed and ready to work, following all scheduled shifts\n Provide an exceptional Customer Service\n Greeting customers and offering assistance\n Answering customer questions and concerns\n Conduct all cashier functions properly and accurately, while following company safety guidelines and procedures\n processing transactions such as fuel sales, lottery, and store items\n Performing and Maintaining a clean and organized indoor and outdoor retail environment facilities, including restrooms, islands, pumps\n Assisting with stock management\n Arranging merchandise on shelves and displays\n This position requires you to stand for long periods of time and be able to lift 50 pounds\n Perform shift duties and other responsibilities as assigned by store manager\n Follow all safety standards and procedures\n\nQualifications: \n\n Retail: 1 year (Preferred)\n Customer service: 1 year (Preferred)\n Be authorized to work in the United States\n Professionalism at all times is required\n\nskills & proficiencies: \n\n Proficient in verbal and written English language\n Strong attention to detail\n Solid communication and interpersonal skills\n Ability to read, write, and effectively communicate with customers, peers, and management\n Strong Basic math skills\n Strong work ethic and ability to work in a fast-paced environment with a sense of urgency\n Ability to multitask, while being attentive to customers and remaining flexible to the needs of the business\n\nShift: \n\n 8-hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n Overnight shift\n Weekend availability\n\nPaid Training Starts at $15/HR and will be increased to $17 once completed and assigned to a permanet schedule\nWe look forward to meeting you!\nJob Types: Full-time, Part-time\nPay: From $17.00 per hour\nBenefits:\n\n 401(k)\n Paid time off\n\nShift:\n\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n Overnight shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Bonita, CA 91902: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$15.00 - $15.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "7-Eleven",
+  "location": "Chula Vista, CA 91910",
+  "rating": 3.5,
+  "reviewsCount": 14795,
+  "url": "https://www.indeed.com/company/7--Eleven/jobs/Cashier-Customer-Service-ce81aa784cf50e6e?fccid=e22ec123cbb88199&vjs=3",
+  "id": "ce81aa784cf50e6e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:44.625Z",
+  "description": "Cashier, customer service, stocking, cleaning\nJob Types: Full-time, Part-time\nPay: $15.00 - $15.50 per hour\nShift:\n\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Chula Vista, CA 91910: Reliably commute or planning to relocate before starting work (Required)\n\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Vien Dong 4 / World Foods Supermarket",
+  "location": "San Diego, CA 92105",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=740579b0d3bc68e9&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "740579b0d3bc68e9",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:46.264Z",
+  "description": "\n Vien Dong 4 Supermarket in San Diego, CA is looking for one cashier to join our 84 person strong team. We are located on 5382 University Ave. Our ideal candidate is attentive, punctual, and engaged.\n  Responsibilities\n \n   *Greet customers entering and leaving the business *Maintain a clean and tidy work area *Accurately process all cash and credit payments *Provide exceptional customer service\n \n \n  Qualifications\n \n   *Proven working experience as a cashier or in customer service *Basic mathematical skills *Strong attention to detail *Ability to listen and communicate effectively *We are looking forward to reading your application. \n  \n Available shifts and compensation: We have available shifts all days of the week. Compensation depends on your experience.\n  About Vien Dong 4 / World Foods Supermarket: Vien Dong 4 and World Foods Supermarket is looking for an individual to join our team. Our ideal candidate is self-driven, motivated and trustworthy. Learn more about us at www.viendong4.com.\n  By applying to this job, you agree to receive periodic text messages from this employer and Homebase about your pending job application. Opt out anytime. Msg & data rates may apply.  Powered by Homebase. Free employee scheduling, time clock and hiring tools.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=740579b0d3bc68e9&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjxKmM_gsHg9Wj3JgVIfHapnUUKYs5yKqp3Fg7KgmoxhA&vjfrom=serp&astse=b99bf42e95d87570&assa=5186",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Bookseller/Cashier I",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Goodwill Industries of San Diego County",
+  "location": "Chula Vista, CA 91915",
+  "rating": 3.7,
+  "reviewsCount": 12,
+  "url": "https://www.indeed.com/rc/clk?jk=daa442fdfc0ddef3&fccid=0fe68650742f217a&vjs=3",
+  "id": "daa442fdfc0ddef3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:47.937Z",
+  "description": "\n About Us: \n \n   Are you looking for meaningful work and want to make a difference? Do you want to gain valuable work experience? Joining the Goodwill team could be a great fit for you! At Goodwill we live and breathe our Core Values of Creativity, Credibility, and Collaboration. We are a mission-integrated organization that is funded by resalable goods. Last year alone, we were able to keep 10 million pounds of donated goods from hitting our landfills. Through the reselling of donated items, we can provide job readiness training and employment opportunities to individuals with disabilities and barriers to employment.\n  Overview:\n \n \n   POSITION SUMMARY: Receives and disburses money in our Bookstore establishments. Process credit/debit card and cash payments using POS system, provides good customer service and accurate cash handling. Daily duties include, placement and removal of merchandise on the sales floor, housekeeping duties and processing and accepting donations.\n \n  \n  Responsibilities: \n \n   Essential Function Statement:\n \n \n   Accurately rings up customers using POS system, receives payment of cash, credit card, debit cards and GISD gift certificates, bags and/or wraps customer’s purchase\n   Provides excellent customer service to donors and shoppers, greets customers upon entering and leaving the store. Listens to customers’ complaints politely and refers them to management for appropriate resolution.\n   Utilizes 4DX methodology for achieving organizational goals.\n   Follows Daily Assignment List issued by management which includes duties such as sorting and shelving books, pricing books and merchandise, identifying books/product that are in popular demand such as “hot” and “new release”, and place new merchandise on sales floor, create window and in-store displays, and keep the store stocked with fresh merchandise.\n   Keeps all areas of the store clean and neat. Assists in housekeeping duties, including mopping floors when necessary.\n   Reports any incidents of theft or unauthorized possession of company property to management immediately.\n   Accepts donations according to company guidelines and maintains all donation receipts securely in an organized manner.\n   Performs other related duties as assigned.\n  Qualifications: \n \n   SKILLS & ABILITIES:\n \n \n \n   Education /Experience: High School Diploma (or GED) preferred. Minimum one year related experience.\n \n \n \n   Computer Skills: Basic use of computer and computer related equipment/software. MS Office Suite – Word and Excel programs.\n \n \n \n   Equipment: Ability to operate electronic, POS cash register system.\n \n \n \n   Other Requirements: Must be able to understand the basic principles of running a retail store: stocking, merchandise flow, quotas. Cash handling: Able to perform simple arithmetic tasks including addition, subtraction, fractions, percentages, etc. Follow procedures and company established guidelines both in written and unwritten format.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=daa442fdfc0ddef3&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjc_VOe7XSZD5au2lLae6ZDULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=145cba8eba6fc686&assa=7557",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Retail Sales Associate/Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "7-Eleven (Corporate Stores)",
+  "location": "San Diego, CA",
+  "rating": 3.5,
+  "reviewsCount": 14795,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BSf9pPnoahPBe0gqKt7uYqfG4gEBvR6kUR_hQaM8zuqgun0tEgr5e-qid57YqS2jMyDFXIwejBcdS1w0EJJLyAt11BgTVo2RXFVivDifsDuhHzo1kEu26JTSmYFNKdZebQpD6ZxS5l-0F9_1FV0bQgGS1lI72SnZDBwj93A7Y4G_Uoee7XjDUlmnxcw9bpB68U6V2muuFUOrGcFJ-Vdloo-Y7wZeTJKUodumDXMjPzaLPDRrG7uchZLek_vyuwpO_mGH1anyR-95NPUaBbXcBqpKNaYhdg5JDqdWf1FD0GVCw-GlO9IECbUhOY_KaEsujIh4rTwFN15v4WOjSn5wB9apSu8bJs7KeamN33IRNtvMhOrMc559ufu9zwG5ZrnpqPcQHJvkU_D6nE_IpYJdsHo-8IeydyGySxXti1Qv_z8lxYh7uPfhjltSQ1T1VKB86PFa6cErPJPn3xMX34KcblqhAbrp5ANNGR_PPzUI0QTIXJdGrCsWlC-vhZMaVDjp2zI68R57L_Y4BxWl3o1GSyZ6Om45Qf5RY=&xkcb=SoD--_M3WvOqlf25cJ0LbzkdCdPP&p=9&fvj=1&vjs=3",
+  "id": "fb6f0e44871430e2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:48.132Z",
+  "description": "Store Crew (Associates)- Hiring Immediately\nCrew positions are entry level opportunities with both full and part time possibilities to fit your schedule. As one would expect, cash handling, fuel transactions, cleaning, and stocking are part of the role with some foodservice positions specifically tasked with food prep and foodservice safety. What you might not expect is the camaraderie of the store team and fun interactions with customers. Retail, cashier, or foodservice experience is great, but not required. If you have a positive attitude, 7-Eleven’s training programs will prepare you to excel in the role.\nWhat 7-Eleven brings: \n· A focus and dedication to your success! We are committed to ensuring our employees receive proper training so they can confidently provide excellent customer service to our customers every time they visit.\n· A strong “promote from within” philosophy providing advancement opportunities for all levels.\n· Schedule flexibility! We have full-time and part-time opportunities that will work with your schedule.\nOur benefits include: \n· 401k plan\n· Paid vacation (full-time positions)\n· Coverage in medical, dental, life, and vision insurances eligible upon enrollment (full-time positions)\n· Tuition Reimbursement including GED and Adoption Assistance\n· Exciting incentive and rewards programs\nWhat you bring: \n· A desire for meeting and exceeding customer expectations on every visit.\n· Commitment to maintaining a clean, safe environment to ensure the store is always customer ready.\n· Ability to ensure proper food preparation and presentation including making one of our customer-favorites….coffee!\n· Excellence in cash handling, fuel transactions, and promoting the 7 Rewards loyalty program.\n· Ability to follow proper health code guidelines.\n· The ability to multi-task, perform repeated bending, standing, and reaching, and occasionally lifting up to 50 pounds.\n7-Eleven is an Equal Opportunity Employer and is committed to workplace diversity.\nJob Types: Full-time, Part-time\nShift:\n\n Evening shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Part-Time Sales Associate - San Diego",
+  "salary": "$14 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Ammo Bros",
+  "location": "San Diego, CA 92126",
+  "rating": 4,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/rc/clk?jk=2729e90772f66fd1&fccid=e542f9200d74f4a1&vjs=3",
+  "id": "2729e90772f66fd1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:49.164Z",
+  "description": "\n \n  \n   Are you a shooting sports enthusiast able to give excellent customer service to our customers? Do you have retail experience or looking to get into the retail industry? Part-time opportunities for Sales Associates described below:\n  \n \n \n  \n   \n     Qualifications:\n   \n   \n     High school graduate or GED certificate preferred.\n     Prior retail or sales experience preferably the retail industry.\n     Shooting sports knowledge a plus.\n     Prior retail cashier or cash handling experience is preferred.\n     Good communication and interpersonal skills.\n     Legally eligible to work in a firearms environment.\n     Previous customer service experience preferred.\n     Must be 18 years or older.\n   \n   \n     Essential Functions:\n   \n   \n     Greets all customers.\n     Demonstrates excellent customer service and salesmanship.\n     Demonstrates constant awareness of firearm safety.\n     Executes all required firearms paperwork within legal parameters.\n     Provides product knowledge and helps locate or obtain merchandise based on customer needs and desires.\n     Bending, twisting, reaching, pushing, pulling, and performing repetitive motions.\n     Standing and walking the entire work shift.\n     Ability to work a variety of shifts based on business needs, including evenings, holidays and weekends. Open for business 7 days / week.\n   \n  \n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Tous Les Jours San Diego",
+  "location": "San Diego, CA 92111",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ACu_hgM4mYOpGjE6TXudS1eLEYdlotK5aSiNrSIRlNjteDZ2LlmFyslTduQZAkqd8hiOxCRhS7LFm-F6hIFradIZqTJoJ9Ekw2Hurikd0D2gbh3B-yKb_VGQodNx0C8VmNQZ7FPehj7uEZyybs8S4LFehawK4_xFpKkEvZy69Y3Ka_dr75GVGiuuQlv5pMqABRUMMe-dSDoPgWswAVPAQsDlC4th71CmpnyXIqBW1B9VXUg-puQuavVj7cqQPHS1qY9Go4b5vabCm3E7OkzFZFW6Gp59UmAAuf_7kDhRHTR4ep6Ivnc7xKE-RCoQw53q6EO0bpd4s8-enKvcKJlgor3KdrWSSdK1CwK9m01lH4WROOr_iMyKEyUgSC_-x2Gw-6hzVYEcW6k3Yy3-gIGhqILWFN7fSsFl55hzE-oxeHDKpmSlpgTkaIXazujJRBYpOT7jFXKzgltpee7VRgV9zeDpcgW_u6nrWfUaGaUFZZp_FqAKjEpD0c&xkcb=SoBB-_M3WvOmN4Rwih0LbzkdCdPP&p=11&fvj=1&vjs=3",
+  "id": "dfb0d7b34a6f1388",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:49.629Z",
+  "description": "We're Hiring who love bread and coffee.\nTous Les Jours is one of the best Bakery in San Diego.\n7725 Balboa Ave, San Diego CA 92111\n1. Hiring Positions (Full/Part time) Cashier\n2. Job Descriptions\n- Packing Breads, Making Coffee\n- Help customers to check out\n3. Work Schedule - 1:00pm - 8:00pm (weekday & weekend)(Schedule is flexible, more details available upon interview)\n4. Required Experience\n- Eligible to work in US\n5. Wage - from $16\n6. Job Types: Full-time, Part-time\nJob Types: Full-time, Part-time\nPay: $16.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92111: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Data Entry Operator/Cashier - CBP - Otay Mesa, CA",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "IT Coalition",
+  "location": "San Diego, CA 92154",
+  "rating": 3,
+  "reviewsCount": 25,
+  "url": "https://www.indeed.com/rc/clk?jk=42e0ed409e599df6&fccid=c375a841ae1f110e&vjs=3",
+  "id": "42e0ed409e599df6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:50.249Z",
+  "description": "\n JOB TITLE: Data Entry/Cashier\n  GOVERNMENT AGENCY: US Customs & Border Protection - CBP\n  POSITION INFORMATION: Full-Time Position\n  LOCATION: Otay Mesa, CA\n  POSITION TIMING: Position requires a CBP Government security clearance which can take 6-8+ weeks to process and must be complete prior to candidate starting work. \n SALARY: $15.00/hr + $4.22 per hour Health & Welfare used towards ITC's benefits plan. If not used towards benefits, H&W is deposited in a 401(k) account on the employees' behalf.\n  BENEFITS: Health, Dental and Vision, 401(k), Flexible Spending Account (FSA), 11 Paid Federal Holidays, PTO, Sick Leave\n  IT Coalition, Inc. is an information technology and consulting company focused on servicing the needs of the Federal Government. IT Coalition's mission is to apply earned expertise in information technology and information assurance/security to assist this client in achieving its mission. IT Coalition is located in Alexandria, VA and offers outstanding compensation and benefits plan and a challenging and rewarding professional work environment.\n  IT Coalition is currently recruiting for a Full-time (38-40 hours) Junior Data Analysts to support the US Customs and Border Protection contract at the Otay Mesa Entry Branch.\n  RESPONSIBILITIES:\n \n   Entering data required for Entry Summaries; Liquidations; Entry Releases; In Bond and various other source documents from source documents provided by CBP, via data entry terminals with formatted screens. System login will be required and performed in order to access the appropriate system for data entry.\n   Collecting payments and cash deposits and posting them into the appropriate CBP data systems. Proficiency in basic math functions and the ability to correctly and accurately perform subtraction, addition, multiplication and division is required. Contractor must learn and become proficient in the use of the CBP cash register / electronic collection system.\n   Document receipt, production control, source document analysis, data base maintenance, key entry of new and updated records, visual verification and out put processing in accordance with CBP procedures, and reporting.\n   Prepare documents for mailing and distribute mail.\n   Apply postage to outgoing correspondence and mail through the use of a postage mailmetering machine; track the available funds in the mail meter machine; notify CBP when funds are needed; upload funds to mail meter machine.\n   Work with US Postal Service or other private delivery service (UPS/DHL/FedEx) to send or receive mail via certified, registered or express delivery services. Transport mail to US Postal Service as needed.\n   Maintain production logs.\n   Provide document statistics. \n  Provide data control support.\n   Review, analyze, and edit source documents.\n   Provide user assistance (which may be in person or over the telephone).\n   Operate computers functioning as workstations running under Windows, and create documents using standard software programs such as MS Word, Excel. \n  Support administrative processing systems, including customs broker processing; assist in providing solutions to specific cases/source documents, and data entry problems, and discuss specific cases/data with CBP personnel to clarify and resolve issues.\n   Ancillary function may be required, limited to quality control, sorting, editing, controlling and handling of documents, word processing, and consolidating new procedures as required by CBP.\n   Services will be requested and controlled by means of production logs, which will record all processed deliverables. Terminal processing statistics generated by the ACS and/or ACE systems will supplement these logs.\n   Data will be extracted from various CBP forms to perform input functions. Records contain an average of 80 keystrokes each.\n   Workload will vary from day to day and month to month, during the hours of operation\n \n  REQUIRED:\n \n   Proficiency in typing, data entry, operation of a computer, photocopier and other office equipment required. \n  Proficiency in Microsoft Office, Outlook and Excel required.\n   Bilingual in English and Spanish (proficient in reading, writing and speaking) required.\n   High school diploma or equivalent certification required. \n  Must be able to lift and carry 20 lb. boxes.\n \n  WORK ENVIRONMENT AND PHYSICAL DEMANDS: Candidate must be able to function in general office environment. Must be able to lift and carry 20 lb. boxes.\n  IT Coalition, Inc. is an equal opportunity/affirmative action employer and will not discriminate against any application for employment on the basis of age, race, color, gender, national origin, religion, creed, disability, veteran status, marital status, sexual orientation, genetic information, military status, disability, or sex including pregnancy and childbirth or related medical condition or on any other basis prohibited by law.\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "[H Mart Store Cashier] San Diego Balboa - Full-time",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "H-Mart",
+  "location": "7725 Balboa Ave, San Diego, CA 92111",
+  "rating": 3.2,
+  "reviewsCount": 162,
+  "url": "https://www.indeed.com/rc/clk?jk=fa0e613ccca5ec19&fccid=94d3886128fd0051&vjs=3",
+  "id": "fa0e613ccca5ec19",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:51.493Z",
+  "description": "H Mart Store Associate \n\n We are H Mart, the largest Asian supermarket chain in America. Starting in 1982 with a single store in Woodside, Queens, H Mart has grown to include more than 71 stores across the United States. H Mart is America’s premier Asian food destination and provides groceries and everyday essential needs as well as upscale products. H Mart offers a full line of Asian foods as well as a broad range of Western groceries to complement its full scale offering to that of a traditional supermarket. H Mart is also known for its innovative new food halls which are an extension of over 37 years of providing eateries in its stores. \n\n Cashiers (Full-time Preferred) \n\n Cashiers at H Mart perform a wide number of important duties as below but not limited to: \n\n \n Provide a positive customer experience with fair, friendly, and courteous service. \n Register sales on a cash register by scanning items, itemizing and totaling customers’ purchases. \n Resolve customer issues and answers questions. \n Bag purchases if needed. \n Maintain checkout operations by following policies and procedures and reporting needed changes. \n Maintain a safe and clean working environment by complying with procedures, rules, and regulations. \n Contribute to team effort by accomplishing related results as needed. \n Benefits \nBenefits for Full-Time employees after 3 months of employment \nDental insurance, Health insurance, & Vision insurance \n401(k) matching \nPaid Vacation, Paid Sick Leaves \nEmployee Discount (5%) \nCompany Resorts \nEAP (Employee Assistance Program) per company policy \nLife Insurance and AD & D (Accidental Death & Dismemberment) per company policy \nCelebration & Condolence Benefits per company policy \nHoliday Gift Certificates per company policy \n\n \nWork Location: 7725 Balboa Ave San Diego, CA 92111",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Retail Cashier - Part time - Hillcrest Ace Hardware",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "STERLING ACE HARDWARE",
+  "location": "San Diego, CA 92103",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=c532564691b406ca&fccid=c1c13d6950ca43da&vjs=3",
+  "id": "c532564691b406ca",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:52.850Z",
+  "description": "Don't look for a job, find a career at Hillcrest Ace Hardware, the Coolest Hardware Store on the Planet. We offer flexible schedules, fantastic employee discount, and advancement opportunities. We are a locally owned family business celebrating over 25 years in the Uptown area. We are looking for fun, friendly, outgoing cashiers that love meeting new people and can provide exceptional customer service with a smile. If you are dependable, honest, motivated, courteous, drama free and can multi task, we want you now! \n\n Join us and work in a fun environment where we go the extra mile to amaze every customer every time! We are dedicated to delivering our customers the best customer service experience ever. \n\n This is a part time position, 20-30 hours per week and requires availability during the week and on weekends. Advancement to full time is possible. Compensation starts at $15 per hour plus incentive opportunities. \n\n Cashiers are responsible for operating our computerized cash registers, handling cash with accuracy and efficiency while ensuring the checkout experience is fast and friendly. Some of your tasks include directing customers to product locations, suggesting appropriate additional products, handling merchandise returns/exchanges quickly and efficiently, and maintaining and cleaning displays as well as continuing to build your product knowledge. \n\n \nRequirements/Qualifications:\n Please include employment history and/or attach a resume to your application. \n\n \n \n Must have retail cashier or customer service experience \n Excellent verbal communication skills \n Ability to stand and walk for long periods of time \n Ability to lift 50lbs \n Bilingual - Spanish/English is a PLUS, but not required \n Some knowledge of hardware is a PLUS, but not required \n High School Grad or GED equivalent required. \n Background check will be required prior to hire \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=c532564691b406ca&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiqse9RsQ59tN6w0ztit7LV5Z_dA0xndw9ylAW4Hz2CAQ&vjfrom=serp&astse=0769cc2c0531850f&assa=2479",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "MEANLEY & SON, INC.",
+  "location": "La Jolla, CA 92037",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=ed5d29c526543247&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "ed5d29c526543247",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:54.542Z",
+  "description": "Cashier / Customer Service - Retail \n\n Meanley & Son ACE Hardware in beautiful downtown La Jolla, two blocks from the La Jolla Cove Beach, is looking for a cashier/customer service clerk. We are a retail hardware store selling cookware, paint, hardware, gardening supplies, plumbing, electrical, tools, etc. We need a cashier, restocking clerk, and customer service team member. Retail and cashiering experience would be preferable but not absolutely necessary. We are a very customer service-oriented operation. Good attitude and people skills are a must. We operate in a beautiful location; we offer benefits and there are opportunities for growth. Full or part time available. Call 858-454-6101 Email: rmeanley@me.com. \n\n \nAbout Meanley & Son:\n Meanley & Son Ace Hardware is a family owned business that has operated in the same location on Girard Ave. in La Jolla since 1948. Meanley & Son joined Ace Hardware in 1997. “ACE is the place.” Ace is a coop of independently owned and operated hardware retailers who joined together to establish buying power which enables us to purchase from the manufacturers at competitive prices. Ace's focus on customer service and being the “Helpful Place” is 100% consistent with Meanley’s 70+ year tradition in La Jolla and we are proud to carry the Ace Banner. \n\n General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Clear customer checkout lines quickly and efficiently. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Continually build product knowledge base and possess the ability to assist customers with store layout and product location. \n Assist in pricing, stocking, marking and bagging of merchandise. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Adhere to any Store Support Center program or promotion that may require implementation at the cash registers. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. Face and dust front end. \n Assist with keeping impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure fresh ads are stocked in shopping carts at all times. \n Ensure forms and supplies are stocked at all times. \n Assist with decorating the front end according to the Store Support Center program. \n Call for cart pickups when necessary. \n Inform management when merchandise returns need to be put away. \n Perform all other duties as assigned. \n Other Essential Requirements \n\n Education/Training \nHigh School or GED equivalent. \n\n Experience \nCashier experience preferred. Customer service experience preferred. \n\n Physical Demands \nStanding, walking, lifting (up to 25lbs) and climbing.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$17 - $20 an hour",
+  "jobType": null,
+  "company": "Rice Goban",
+  "location": "San Diego, CA 92122",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=c2092dee3b2503f1&fccid=e5922a337564fff7&vjs=3",
+  "id": "c2092dee3b2503f1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:55.514Z",
+  "description": "\n Rice Goban in San Diego, CA is looking for one cashier to join our team. We are located on 4545 La Jolla Village Dr.. Our ideal candidate is a self-starter, punctual, and hard-working.\n  Responsibilities\n \n   *Greet customers entering and leaving the business *Maintain a clean and tidy work area *Accurately process all cash and credit payments *Provide exceptional customer service\n \n \n  Qualifications\n \n   *Proven working experience as a cashier or in customer service *Basic mathematical skills *Strong attention to detail *Ability to listen and communicate effectively *We are looking forward to receiving your application. Thank you. \n  \n Available shifts and compensation: We have available shifts all days of the week. Compensation is $17.00 - $20.00/hour.\n  About Rice Goban: Rice Goban in San Diego, CA is looking for an individual to join our team. We are located on 4545 La Jolla Village Dr. Ste Fc 12. Our ideal candidate is a self-starter, punctual, and hard-working. Learn more about us at www.ricegobanusa.com.\n  By applying to this job, you agree to receive periodic text messages from this employer and Homebase about your pending job application. Opt out anytime. Msg & data rates may apply.  Powered by Homebase. Free employee scheduling, time clock and hiring tools.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=c2092dee3b2503f1&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiRagS60lSVo6B8jmpi_bK62Lr7DfU83qy6ilMSvPFMEw&vjfrom=serp&astse=844625ac4e632ad9&assa=5332",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Front End - Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Lazy Acres Natural Market",
+  "location": "San Diego, CA 92103",
+  "rating": 3.5,
+  "reviewsCount": 54,
+  "url": "https://www.indeed.com/rc/clk?jk=1c77acdddbbd02ea&fccid=8099c65e5cf59ff7&vjs=3",
+  "id": "1c77acdddbbd02ea",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:56.281Z",
+  "description": "Who Is Lazy Acres Natural Market? \nAt Lazy Acres Natural Market, we believe in a natural approach to optimal health and wellness. From organic and seasonal produce and products steeped in tradition, to functional supplements and body care, we are here to support you in mind, body and soul. \n\n Our friendly, informative, and passionate team members remain committed to providing exceptional service and wellness tips with our community; and accommodating the needs of our guests. We continue to live by the closely held belief that our collective actions can and will contribute to a healthier planet. \nWe’re committed to creating an environment that will attract the most passionate and enthusiastic people in our field. We’re always on the lookout for people inspired by health, wellness, and eating clean and strive for excellent customer service. Our Leadership is dedicated to fostering a diverse and inclusive work environment, offering opportunities for professional growth, education, and community involvement. \n\n Ingredients You'll Bring to the Table \nYou love food and have the ability to create an experience that is beyond the everyday. You have a positive attitude and work well in a team environment. You can connect with people and reach a level of hospitality that exceeds guests' expectation. You are warm, outgoing, authentically amazing and want to be inspired, challenged and proud of where you work, You embody a spirit of entrepreneurship and mutual respect. You approach every situation with a YES! attitude and seek to find a solution to all opportunities that arise. \n\n What Will Be On Your Plate? \n\n Bristol Farms / Lazy Acres Natural Market \nJob Description \n\n \nJob Title: Cashier \n\nDepartment: Front-end \n\nReports To: Customer Service Manager \n\nFLSA Status: Nonexempt \n\n Summary \nA Cashier’s responsibilities include operating a cash register to record the sale of merchandise, process returned items with the direction of a supervisor, and promote customer service at the Front-end. Due to the customer service nature of this position, it is imperative that a cashier is enthusiastic, punctual, eager to serve and naturally happy. A Cashier must have strong communication skills, posses the ability to handle high stress and volume of customers while maintaining a positive shopping experience for the customer. \n\n Essential Duties and Responsibilities \nA cashier is responsible for providing service that exceeds the expectations of customers by performing the following duties (other duties may be assigned). Adheres to all Bristol Farms policies & procedures when operating the cash register; including but not limited to: \n\n \n \n Verifies till contents (money) at the beginning of each shift. \n Follows procedures for signing in/out on registers. \n Accurately records prices and collects payment. \n Accurately records daily transaction amounts from cash register to balance cash drawer. \n Responsible for accurate balancing of cash drawer. \n Accurately identifies produce items. \n Required to memorize produce codes and apply the proper code used to record the sale. \n Accurately weighs merchandise following California Weights & Measures mandated laws. \n Follows and implements correct accounting procedures for all voids, returns, exchanges, & department transfers. \n Accurately collects cash, checks, or charge payments from customers and makes change when required on cash transactions. \n Verifies identification for authenticity and signature when processing checks and credit card purchases. \n Enforces Bristol Farms Employee Discount Card guidelines & other specified policies. \n Adheres to company policies regarding till cash limits. Ensures cash does not exceed authorized, pre-determined limits. \n Verifies till contents (money) at the end of each shift with the direction of a supervisor. \n Required to keep contents of cash drawer and media neat and organized. Cash and checks are to be faced & secured in the cash drawer. \n Packages and handles customers’ groceries according to their preference - paper, plastic, or both. \n Offers/assists Customers with carry out service. \n Collects shopping carts from inside the store and from the outer perimeter of the store, parking lot and any other areas where needed. Keeps Floral Department free of hand baskets and shopping carts. \n Required to keep work area neat, clean, & organized. \n Follows liquor & tobacco laws implicitly, in every regard including, but not limited to the verification and authenticity of valid, acceptable identification. Is responsible for ensuring that all alcohol purchases are made by persons aged 21 and older & tobacco purchases are made by persons aged 18 and older. Verifies proper identification of customers who appear to be under the age of 30 that are making an alcohol or tobacco purchase. \n As mandated by California state law; Cashiers who sell alcoholic beverages must be18 years old or older. \n Follows safe work standards and reports any safety hazards to the management member in charge. \n Availability requirements include but are not limited to; days, evenings, weekends and holidays. \n Follows policies and procedures set forth in employee handbook at all times. \n At all times, meets and exceeds Bristol Farms standards in accuracy, customer service, appearance, quality, safety, and cleanliness. \n Customer Service Skills \nCashiers are expected to provide customer service that is extra ordinary and exceeds the expectations of our customers. They are required to follow established policies and guidelines that go beyond simply smiling and greeting customers. Going above and beyond encompasses attitudes, respect, and flexibility. Cashiers are expected to have a positive “can-do” attitude; to treat others with respect; and easily adjust to changes in the workplace. \n\n Education and/or Experience \nHigh school diploma or general education degree (GED). \n\n Language Skills \nAbility to read and comprehend simple instructions such as safety rules, operating and procedure manuals. Ability to write simple correspondence. Ability to speak effectively with customers. \n\n Knowledge of English \nThis is a customer service driven position. Cashiers must have the ability to speak, read and understand English. \n\n Mathematical Skills \nAbility to add, subtract, multiply, and divide using whole numbers. \n\n Reasoning Ability \nAbility to interpret a variety of instructions furnished in written, oral, diagram, or schedule form. \n\n Physical Demands \nWhile performing the duties of this job, cashiers are regularly required to stand for long periods of time; walk; reaching; bending; frequent use of wrists; hands, hands to finger; handle, or feel objects, tools, or controls. A Cashier is frequently required to bend at the waist and reach with their arms and hands into customer’s grocery cart to collect merchandise. A cashier is occasionally required to climb or balance and stoop, kneel, crouch, or crawl. Cashiers must frequently lift and /or move up to 50 pounds. Cashiers must have the ability to speak effectively with customers and staff members. Specific vision abilities required by this job include close and color vision. \n\n Work Environment \nThe noise level in the work environment is usually moderate. \n\n Why You’ll Love Working at Lazy Acres Natural Market \n\n \n Amazing earning potential, paid weekly! \n A values-based culture that will engage and empower your growth and development \n A strong training program that will build your restaurant and guest service skills \n Opportunity for growth within our family of brands \n Benefits available – Including medical, dental, vision, and 401K \n Numerous scholarship opportunities available to full & part time team members \n 20% discount at all Bristol Farms and Lazy Acres locations \n $60 credit to Shoes for Crews every 6 months of employment \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier - Service Associate PT",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Rite Aid",
+  "location": "San Diego, CA 92107",
+  "rating": 3.5,
+  "reviewsCount": 12953,
+  "url": "https://www.indeed.com/rc/clk?jk=c36692c7eadb2972&fccid=70849576d4f74b24&vjs=3",
+  "id": "c36692c7eadb2972",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:35:57.351Z",
+  "description": "\n\n \n  \n   \n    Service Associate\n     Contribute to our mission to improve Health and Wellness in your community.\n     Become a Rite Aid Service Associate, today!\n   \n   \n     As a Service Associate, you are responsible for the day-to-day operations, care, and service provided to our customers & patients. Your purpose is to help others achieve a higher level of well-being through thoughtful and attentive customer service.\n   \n   \n     Why you will THRIVE here:\n     You love to help people. You enjoy jumping in and helping. You are a natural leader. You consistently exceed expectations. You are excited to provide top-notch customer service. You remember people and they remember you. You easily turn customer complaints into compliments.\n   \n   \n     Day-in-the-Life of a Service Associate:\n    \n      Provide excellent customer service by assisting customers with their shopping needs, answering customer inquiries, and resolving customer complaints.\n      Engage with customers in a friendly and efficient manner while completing customer transactions on the cash register.\n      Maintain the cleanliness and organization of the store.\n      Stock store shelves and endcaps with merchandise.\n      Ensure the proper identification is produced when selling alcohol, tobacco, and lottery tickets, if applicable.\n      Assist with the operation of the One-hour Photo department, if applicable.\n      Build and maintain displays of merchandise and complete new plan-o-grams.\n      Complete inventory counts and order merchandise based on the results.\n      Put up signs that identify items on sale in weekly advertisements and take down this signage when the sale is over.\n      Assist with price markdowns and changes for merchandise on the shelves.\n    \n   \n   \n     Qualifications:\n     Must be 18 years of age or older.\n   \n   \n     What's in it for you?\n     In an effort to improve and sustain the health and wellness of our employees, we offer competitive health plans, generous paid time off, 401K matching, and career growth opportunities! From the moment you join our team, we provide an environment that inspires and motivates you to work here and reach your full potential. We support personal growth and celebrate achievements. We dedicate ourselves to creating an experience for all our associates that is easy, exciting, and engaging.\n   \n   \n     Apply to become a Rite Aid Service Associate and thrive with us today!\n   \n  \n  183474771\n \n Weekdays|Evenings|Weekend Days|Weekend Evenings",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=c36692c7eadb2972&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXggvwpbOudZ1bWY3OWGXuOJMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=08d4db42df659d16&assa=7156",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Seasonal PT - Cashier, Stock and Sales Associates",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Bed Bath & Beyond",
+  "location": "Chula Vista, CA 91910",
+  "rating": 3.4,
+  "reviewsCount": 8050,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bx3uYTcnYYNb24VcLG4UxSGNj8c04Z0zLfLrDj3o33VU8mNyVeXe91mTiQKZlpM6kIWUFyGE4RSzM0LtJ3L1-Pfozjb8sVK_n84fM9bnTsW-MnLTfDR0sg2mXy4mesYpEWMhK3Cc1QEISYERcTNap1aq3xAdMvwDOJiFttYumPeuf1grQBDX1jHDo_Rbi_-NBR-t67OcGb8vU89RGiScWvgISwe0o84Dd7YoQUiw3Sdnd4s0leTpKhEBcrq_X8eyt2TUX0lBFOg9f84gK0ly7OLzg7hmWmWrqAntZaLUTDb7Xqf4NzmgC5nM_v3abxvSrVcS55CoIXAnNJkFLEtpi8fSBXDFGc182kS-0dDQbylHmeFJVVipAYtVhr0f7tTI7QCMBu3ZouQ8qrKQVtxMtU_Y2uSWp47oDZjUpPHmjyYa1G8TNSrDF6W_NU3kkUW45wRK_glr4P8Bnkz-MS5YHvIUnb6mZ9-Zl4eQG3K4uWY9KzDVxaqrgjOifmJqrCTSs3SZ7y76AKRmOrFlgh_ry_dl580eNt8bvcmPZLMZpjl3ExjtibJ_M8l8RHibmYtqg_euiXg2M-jCKUSymTyLttCY9_YzoffFHgF7DFyIvkG-pMhZAaXHL1MtcPWXgtSau7TE1-xJo4lwaYAMPSswe6MAr3Ln71f2zXa26cAhHfVZE6-ASHVhFUdmY2zJwG4IizhoMFNQeMouS-Ws1o9x5m0VwtJzhAKvq1FN0xToM0t9zF6H226L9ab0gnC2zpByRQDsLswFu35PKf1HDpRbOYy-k6MAiqgFZklKC33_adIZuuI7xPKTWsmMhNtS3QuvNf4IuHvMjE9eqNtTxfQRK8mPzzMfrvZlNSVRBYnYVCGANZ4sM5fA8vJeDpcCvuqMsGmGsqW8f4lyo-kUkkNUXyEVrK5tSnjnoWEqzCHfHF5xZtNsfNedP2_dk-K0vQ21aEdGUD17415D8sEEl6Mk9N&xkcb=SoC8-_M3WvOmAC2atR0LbzkdCdPP&p=0&fvj=0&vjs=3",
+  "id": "28ce53615684460c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:00.539Z",
+  "description": "\n Our mission at Bed Bath & Beyond is to make it easy for our customers, and our associates, to feel at home. We’ve made enhancements to our store environment and implemented health and safety best practices to ensure a clean and safe shopping environment for customers and a safe workplace for our associates.\n  \n  As a Sales Associate, you will be responsible for exceeding our customers’ evolving expectations by providing “best in class” customer service and a pleasant and fulfilling shopping experience. Successful candidates will be given the opportunity to offer our customers the widest range of quality housewares, home furnishings and much more! We offer associate discounts, flexible schedules, ongoing training, and the potential for advancement.\n \n  Bed Bath & Beyond\n  As a part of our seasonal team, you will play an instrumental role in bringing Bed Bath & Beyond’s “Home Happier” vision to life. While a Seasonal Associate, you will be responsible for exceeding our customers’ expectations by providing “best in class” customer service and an enjoyable and fulfilling shopping experience. This is a temporary position with the opportunity to be converted to regular employment based on tenure and performance.\n \n  Available positions:\n \n   Fulfillment Associate:\n   \n     Receive and stock inventory\n     Fulfill customer orders and oversee curbside pick-ups\n     Assist and satisfy the needs of our in-store and online customers\n   \n \n \n \n   Sales / Stock Associate:\n   \n     Engage with customers to determine their needs and direct them to the appropriate merchandise\n     Provide a positive customer experience which includes a strong understanding of product knowledge while offering additional goods and service\n     Perform a wide variety of tasks in the Receiving Department, including verifying shipments, processing damages, and completing daily stock replenishment\n   \n \n \n \n   Cashier:\n   \n     Ensure an accurate, timely and friendly checkout while assisting our customers to have a positive experience\n   \n \n \n  May perform additional duties as required including, but not limited to, general maintenance which may include daily front end readiness (cleaning exterior and interior windows, doors and surfaces), stocking, cart retrieval, break room and restroom housekeeping. May require use of ladders to move merchandise or complete other tasks that require a ladder to access areas and work safely. May require lifting/moving up to 40 pounds.\n \n  Benefits:\n \n   Employee discount of 25% off total @ Bed Bath & Beyond concepts purchases (Harmon, Bed Bath & Beyond, and Buy Buy Baby)\n   A fun and engaging work environment that prides itself on employee training and development\n \n \n  Requirements/Qualifications: \n \n  Must be flexible to adjust tasks and priorities when necessary to meet business needs\n   Strong communication and customer service skills\n   Positive and welcoming attitude\n   Learn and adapt to company and mobile retail technologies\n   Experience using common retail technology, such as smart phones and tablets\n \n \n  If you need reasonable accommodations to complete the on-line application, please contact the People & Culture Department.\n  Phone: 1-844-MYHRSC1\n  Email: myHRSC@bedbath.com\n  This email address is only to request reasonable accommodation for the application process due to a medical condition. If you do not need a reasonable accommodation for such reason, please use the apply button below to complete an application and upload your resume.\n \n  An Equal Opportunity Employer\n  It is the policy of Bed Bath & Beyond Inc. to recruit, hire, train, promote, transfer and compensate our associates and provide all other conditions of employment including Company sponsored events without regard to race, color, creed, religion, national origin, age, sex, gender identity, genetic information, marital status, lawful alien status, sexual orientation, physical or mental disability, citizenship status, veteran status, employment status or any other basis prohibited by applicable law.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=28ce53615684460c&from=vj&pos=bottom&mvj=0&spon=1&adid=390852035&ad=-6NYlbfkN0Bx3uYTcnYYNb24VcLG4UxSGNj8c04Z0zLfLrDj3o33VU8mNyVeXe91mTiQKZlpM6kIWUFyGE4RSzM0LtJ3L1-Pfozjb8sVK_n84fM9bnTsW_PW8PjQgVLaHEXZnP4R6_nbae0bjcq4ATTJGiKDgzxIm9N3hlO-w4PmdwbURPEyen04QF4ESNYZaEU4aR2vajifu2dsrr8pRbyWp0fXIpz_ZkumIyJNjC6fwWlqk1TqMcfa-StQOnvpLdDHDBWs6gQ_CLGDeLcWG5boDseZpzO1Vp9ZxbKrBqlQUDyj7hMc4ewIxFgbyp4UAKJVDonN1yzjq4r-TUA1G6SSPA47O5p6bJr2jgXUTw-t5oYSEWjPKgvibAZW99dk&sjdu=9nrDNPdV1DghkDNnC2WJlW1nrk21-asFvjSk9jx-s_OgwSrXjKypQkE8ySvACkf-CrMtQt0YWV7DlISUBFlJzbyIXgbLs5RBxcdF5VdxFe5fP3JbVhR6vML7bPLP73cV44I0QmzcIF6zlzx8_CIEjt-SseCopQJ4EEjKxivK4rAjlwsF9kDg6FodF3MTpj8nN2cRgthHhQJJ07_lYmYtz4o_LLqKMHqgwKRuYUSn4gDyj3x1XFtm9V_ScTc1IydKEmhi1cp2aojxWshTL4KTWEYXl8x8Kd79TGkLPtviJH1WthkeTFQ-PkP1eIPEzAKeNUq-Ptt_tH52yz-vdOGNJlVN7C8XwNYKJwia_jFzono4Is_P8idMKdLqQbGurrHCBVsdGb7xLuhPM2NOnkPBu_zkTGq5-Vr2qFLgMrHRLYBeFalY9cakVZliDopBnRV6&vjfrom=serp&astse=89ff71927baeb1bb&assa=9284",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "7 eleven cashier",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "7-Eleven Convenient store",
+  "location": "San Diego, CA 92102",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/7--11/jobs/Eleven-Cashier-9512fff5f6cfbfe6?fccid=426f990c6d54cdab&vjs=3",
+  "id": "9512fff5f6cfbfe6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:04.971Z",
+  "description": "711 sales associate\nCashiering ,stocking, cleaning, organizing\nCustomer service\nJob Types: Full-time, Part-time\nPay: From $15.00 per hour\nShift:\n\n Day shift\n Evening shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nPeople with a criminal record are encouraged to apply\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "G&M Oil Company",
+  "location": "San Diego, CA 92111",
+  "rating": 3.4,
+  "reviewsCount": 79,
+  "url": "https://www.indeed.com/company/G&M-oil-company/jobs/Cashier-Customer-Service-a4b17395929031f6?fccid=f7148ea0114a9d89&vjs=3",
+  "id": "a4b17395929031f6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:06.438Z",
+  "description": "Are you interested in cashier, retail, or gas station attendant opportunities with great benefits? Then apply today as a Cashier for G&M Oil Company Inc.!\nWhether you are seeking a first job or a long-term career, G&M Oil Company provides you the flexibility and opportunity to grow.\nBENEFITS: \n\n Paid vacation time\n Paid Holidays\n Competitive wages\n 401K Savings Plan\n Medical, Dental, and Vision plans, Life Insurance\n Opportunity for advancement\n Full time schedules available\n\nWho We’re Looking For?\nThe perfect fit for our team is individuals who are self-motivated, dependable, and able to work effectively & safely in a fast-paced environment while maintaining 100% total customer focus. If you have these qualities, then apply today for the Cashier position!\nEssential Functions: \n\n Provide exceptional customer service. Be courteous, always greet and thank all customers.\n Work professionally with vendors\n Conduct all cashier activities accurately, safely, while following company guidelines\n Maintain cash drawer, secure all funds in safes, and perform cashier reconciliation at each end of shift to ensure accurate management of sales.\n Perform consistent station cleaning of the indoor and outdoor facilities including restrooms, islands, pumps, and car wash, if applicable.\n Effectively manage foodservice and beverages to ensure maximization of sales\n Stock and continuously ensure shelves are full of products.\n Follow federal law and company standards on carding customers for all age restricted products sold at the stations.'\n\n'Work Location:\n\n One locationWork Remotely\n\n\n No\n\nJob Types: Full-time, Part-time\nPay: $17.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n Vision insurance\n\nShift:\n\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n Overnight shift\n\nWeekly day range:\n\n Weekend availability\n\nAbility to commute/relocate:\n\n Costa Mesa, CA 92626: Reliably commute or planning to relocate before starting work (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Seasonal Cashier Store #26 Part-time",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Northgate Gonzalez Markets, Inc.",
+  "location": "San Diego, CA 92154",
+  "rating": 3.7,
+  "reviewsCount": 333,
+  "url": "https://www.indeed.com/rc/clk?jk=75c07ad14275f1ab&fccid=3efe1e5b7d53f84f&vjs=3",
+  "id": "75c07ad14275f1ab",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:06.754Z",
+  "description": "\n\n JOB SUMMARY: Providing a Fast and Friendly experience to the stores’ customer when operating a cash register; while charging the customers accurately and working efficiently. To perform stocking and other duties, as assigned, depending upon the amount of time available, business volume, and other criteria according to company policy; to ensure that the work shift contributes to the financial best interests of the store. \n  ESSENTIAL DUTIES AND RESPONSIBILITIES: \n  The essential duties and responsibilities of this position include, but are not limited to, the following: \n  \n  Greet all customers and provide them with prompt and courteous service or assistance.  \n  Observe all store rules and company policies Observe shift operating hours at all times as scheduled or assigned by the store team leader. \n  Adhere to all local, state and federal health and civil code regulations.  \n  Clean check stands and work area daily.  \n  Responsibility of cash drawer contents in both the \"start\" and \"end\" of the actual work shift.  \n   Cashier accountability (i.e., over/ shorts of till) \n  Scan or record the purchases of a customer into a cash register efficiently and accurately.  \n  Be knowledgeable in and able to recognize or differentiate between all the various types of produce merchandise carried in the store including differences between varieties of similar classes of products (e.g., apples, lettuces, etc.).  \n  Assist customers with bulk products that they may have difficulty in handling.  \n  Collect money in the form of cash or checks from customers and tender accurate change in accordance with company policies and procedures.  \n  Process all of the various types of sales transactions accepted by the store including but not necessarily limited to authorized Accounts Receivable sales, EFT transactions, WIC Coupons, Food Stamps, manufacturers' coupons, gift certificates, etc. in strict accordance with established company policies and procedures including full compliance with any legal requirements or regulations governing same.  \n  Bag or package merchandise according to established company policies and procedures.  \n  Handle damaged or spoiled products and return‑to‑stocks (\"go‑backs\") according to company policy.  \n  Ring all sales into cash register in accordance with company cash handling procedures.  \n  Verify all customer IDs presented and observe store policies pertaining to the acceptance of checks and the sale of alcoholic beverages.  \n  Notify management promptly of any irregularities or discrepancies in the operating results of any applicable work shift if cash variations exceed $5.00 (or the level that has been established by management for your particular store or location).  \n  Record on designated forms any price discrepancies and/or any \"not on file\" items that are encountered on electronic point‑of‑sale terminals or computers; request price checks promptly on any such items according to company policy.  \n  Maintain general housekeeping and sanitation standards in compliance with store policy and state and local health regulations on a regular, ongoing basis.  \n  Assist in keeping all checkout, sales and storage areas clean, clear and in good order.  \n  Use and maintain equipment in good working order and report any problems or malfunctions immediately to your supervisor.  \n  Adhere to company policy pertaining to excessive cash in registers and perform cash pickups in accordance with such policy. \n   Observe security standards by staying alert and being aware of customer actions and behavior; report to manager or security any abnormal behavior.  \n  Secure register at all times when leaving it unattended; protect company assets at all times.  \n  Notify department manager of personnel situations or policy violations affecting store operating performance or of situations requiring disciplinary action or that may potentially require such action.  \n  Perform any other work-related duties as assigned. \n  Assist in training associates and co‑workers when directed to do so.  \n  Maintain good communications in the department and throughout the organization  \n  Comply with safety policies and procedures.  \n   Maintain a neat, well-groomed personal appearance at all times and observe company dress regulations.  \n \n REQUIREMENTS AND CONDITIONS: \n  Education/Experience \n  \n  High school education preferred with successful completion of an apprenticeship/training program; or equivalent combination of education and experience  \n \n Certificates/Licenses/Registrations \n  \n  (None required) \n  \n Skills Required \n \n  Be able to calculate figures and amounts such as discounts, gross margins, percentages, ratios, and apply concepts of basic algebra in order to handle sales transactions, tender change, and verify vendor invoice charges and counts.  \n  Be able to accurately complete required reports including daily sales reports, inventory counts, receiving logs, and cash accountability or cash reconciliation and audit forms.  \n  Ability to hear, speak and understand the spoken word in order to respond promptly to pages for assistance, to accommodate verbal requests from customers for information or assistance, to answer telephones, and to be able to communicate effectively with others. \n  Ability to read, write, analyze, interpret and understand the English language with sufficient proficiency in order to read and understand instructions for operating electronic equipment and tools; company handbooks, policies and procedures; and other written job-related documents including postings on company bulletin boards.  \n  Be able to pass a standard drug test and qualify as being drug free under the legal and medical guidelines permitted by the Drug Free Workplace Act of 1988.  \n \n Physical Demands and Work Conditions \n  The physical demands and work conditions described below are representative of those that must be met by an employee to successfully perform the essential functions of this job. Some requirements may be modified to accommodate individuals with disabilities: \n  \n  While performing the duties of this job, the employee is regularly required to sit, stand, and use the hands to handle, finger, or feel objects, tools or controls.  \n  The employee must occasionally exert or lift up to 50 pounds carrying boxes of records and forms and frequently exert or lift moderate amounts of weight.  \n  Successful performance requires specific vision abilities that include close vision and the ability to adjust focus to check identification cards, checks, invoices and other written documents.  \n  Be able to climb a ladder to retrieve inaccessible items for customers located above freezer cases or from stockrooms and other storage areas; be able to sweep and mop floors, dust and face shelves, and lift and carry out trash containers to be emptied in an outside bin. \n  Have sufficient physical mobility or agility to be able to respond quickly to fire or other emergencies such as cleanup requests (due to accidental spills or breakage of glass or plastic containers having liquid contents), shoplifting and other security assistance requests, customer accidents, etc. \n  Be able to work with fresh fruits, vegetables, house plants and flowers without negative allergic consequences that adversely impact performance. \n  Be able to tolerate moderate amounts of dust and chemical fumes from common household cleaning agents such as ammonia during routine housekeeping duties. \n  Have sufficient memory retention skills to memorize weekly ad prices and daily produce (or other perishable department) specials.  \n  The work environment includes occasional exposure to refrigerated frozen food storage areas with temperatures as low as 20 degrees (Fahrenheit) below zero. \n  The work environment includes occasional exposure to heated ovens and high temperatures. \n  Typically, the noise level in the work environment is moderate. \n  \n IMPORTANT DISCLAIMER NOTICE \n  The job duties, elements, responsibilities, skills, functions, experience, educational factors, and the requirements and conditions listed in this job description are representative only and not exhaustive of the tasks that an employee may be required to perform. The Employer reserves the right to revise this job description at any time and to require employees to perform other tasks as circumstances or conditions of its business or the work environment change.\n  \n  \n  Truck drivers must be able to pass a standard drug test and qualify as being \"drug‑free\" under the legal and medical guidelines permitted by the Drug‑Free Workplace Act of 1988.” All other employees not subject to the U.S. Department of Transportation drug and alcohol rules and comparable state laws, must be able to pass a pre-employment drug test, which will not screen for non-psychoactive cannabis metabolites.\n  \n  \n  Northgate Markets is proud to be an Equal Opportunity Employer\n  \n  \n  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.\n  \n  \n  Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n  \n  \n  Northgate Markets will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the California Fair Employment and Housing Act (Ban the Box Law).\n \n  Education Preferred\n \n   High School or better\n \n  Licenses & Certifications Preferred\n \n   ABC Certification\n   WIC Certification\n \n  Skills Preferred\n \n   Customer Service\n   Bilingual\n   Mathematics\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier (Retail Convenience Store & Fueling Station)",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Hassan & Sons, Inc",
+  "location": "San Diego, CA 92121",
+  "rating": 3.8,
+  "reviewsCount": 19,
+  "url": "https://www.indeed.com/company/Hassan-&-Sons-Inc/jobs/Cashier-3bce452f14790a12?fccid=1222000e26d2791e&vjs=3",
+  "id": "3bce452f14790a12",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:09.507Z",
+  "description": "As a company that continues to grow every day, we stand ready to serve our communities and offer rewarding opportunities for any new team members looking to join as Cashiers for our essential business. Internally, we refer to Cashiers as Customer Service Representatives because we truly believe in the value this role brings to the day to day interactions with our customers. We strongly believe in providing growth opportunities and promoting from within, which is how most of our Assistant and Store Managers got into their positions. We also provide on the job training to help our team members continually evolve within the company.\nWe generally have full time and part time positions for all shifts available (1st, 2nd, 3rd), but also have some flexibility to adapt to the ever changing environment if needed. If you prefer to work weekends, evening and overnight shifts please let us know.\nWe offer a full suite of benefits including medical, dental and vision along with other voluntary insurance programs such as critical illness. Our employees also enjoy opportunity to participate in the Company 401K plan with a generous matching component.\nPlease click to apply and we look forward to hearing from you!\nIn case you’re not sure what a Cashier would do, here are some of the essential functions:\nWe greet our customers by making eye contact and would say something like “Welcome to Chevron”. In addition, you are the first and sometime the only mode of interaction a customer may receive with our Company; therefore, you will be representing the Company in a professional manner at all times by being polite and courteous to customers, vendors and coworkers. The hands-on tasks include maintaining a clean and well stocked, visually appealing food mart and accurately handling all cash, debit and credit transactions.\nIf you are interested in joining our team, you’ll be provided a more detailed job description. If you were to be hired, we would provide a full array of training from how to use a cash register, to safety training, and even how to inform customers of promotional items and credit card applications.\nWork Remotely\n\n No\n\nJob Types: Full-time, Part-time\nPay: From $16.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Health insurance\n Vision insurance\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Diego, CA 92121: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n POS: 1 year (Preferred)\n Sales: 1 year (Preferred)\n Basic math: 1 year (Preferred)\n Cashiering: 1 year (Preferred)\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "GuilTea Cravings LLC",
+  "location": "San Diego, CA 92117",
+  "rating": 3.3,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/rc/clk?jk=6bf403b91e70102d&fccid=96630f48cff35ef6&vjs=3",
+  "id": "6bf403b91e70102d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:10.038Z",
+  "description": "\n Guil Tea Cravings Llc in San Diego, CA is looking for one cashier to join our 18 person strong team. We are located on 5497 Clairemont Mesa Blvd. Our ideal candidate is self-driven, ambitious, and engaged.\n  Responsibilities\n \n   *Greet customers entering and leaving the business *Maintain a clean and tidy work area *Accurately process all cash and credit payments *Provide exceptional customer service\n \n \n  Qualifications\n \n   *Proven working experience as a cashier or in customer service *Basic mathematical skills *Strong attention to detail *Ability to listen and communicate effectively *We are looking forward to hearing from you. \n  \n Available shifts and compensation: We have available shifts all days of the week. Compensation depends on your experience.\n  About GuilTea Cravings LLC: GuilTea Cravings LLC is looking for an individual to join our team. Our ideal candidate is self-driven, motivated and trustworthy. Learn more about us at www.guilteacravings.com.\n  By applying to this job, you agree to receive periodic text messages from this employer and Homebase about your pending job application. Opt out anytime. Msg & data rates may apply.  Powered by Homebase. Free employee scheduling, time clock and hiring tools.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6bf403b91e70102d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiO5cLS4eWH3v-hTo48MuXbQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=c7412f300b67e2d9&assa=9744",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$16.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Hudson Group",
+  "location": "San Diego, CA 92101",
+  "rating": 3.2,
+  "reviewsCount": 1158,
+  "url": "https://www.indeed.com/rc/clk?jk=711d15c122080357&fccid=79fc65c58838121e&vjs=3",
+  "id": "711d15c122080357",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:11.585Z",
+  "description": "\n $300 HIRING BONUS FOR JOINING OUR TEAM!\n  \n  Grow With Us!\n  \n  Hudson is North America's leading travel retailer. For over 30 years, Hudson has met the needs and wants of travelers in more than 1,000 duty-free, duty-paid, and food & beverage stores. We couldn't serve our customers, landlords, and partners in airports, commuter terminals, hotels, and casinos without the continued support of our greatest assets: our team members. We're dedicated to hiring and training exceptional team members, who are committed to serving the customer as the Traveler's Best Friend. We strive to ensure we're fulfilling our team members' career potentials through training, skills-development, and career pathways - as our team members grow and succeed both personally and professionally, so does Hudson.\n  \n  What We Will Offer You:\n  \n \n  A competitive rate of pay of $16.50 per hour\n  A 20% off Hudson Employee Discount\n  A 50% off Hudson Food & Beverage Discount\n  $300 hiring bonus for joining our team!\n \n  This Sales Associate Job Is for You, If You Would Enjoy:\n  \n \n  Helping others, understanding a customer's needs and in turn provide an amazing customer service experience while having fun doing it\n  Working at the San Diego International Airport\n \n  Your Team is counting on you as a Sales Associate to:\n  \n \n  Provide flexibility to work any shift, any day of the week, including weekends & holidays\n  Work a part-time schedule\n \n  Sales Associate Key Duties:\n  \n \n  Acknowledge and greet customers as they enter the store or approach the cash wrap\n  Follow all company policies, cash handling policies and special store loss prevention procedures\n  Communicate effectively with customers, fellow employees and store management\n  Effectively operate a cash register\n  Know basic store layout to assist customers in their selection of product and be able to answer customer questions about the entire store\n  Be knowledgeable and familiar with the surrounding businesses/offerings within the facility\n  Communicate pricing, out of date and inventory issues with management\n  Assist other store employees in maintaining security in stores\n  Stock merchandise\n  Inform management of any out-of-stock situations\n  Help maintain a neat, clean, organized store, which includes sweeping, dusting, straightening of merchandise on store fixtures and displays\n  Assist with book inventory process (i.e., ordering, receiving, returns)\n  Perform related work as assigned\n \n  Required Qualifications:\n  \n \n  Ability to interact with diverse personalities\n  Strong interpersonal skills\n  Ability to provide open availability and work any shift, any day\n  Be able to lift 40 pounds\n \n  Preferred Qualifications:\n  \n \n  Previous customer service/ cashier experience in a retail environment\n  High School Diploma or equivalent\n  Prior stockroom or warehouse experience\n \n  Some of our company-offered benefits for you and your family include:\n  \n \n  Health & Well Being: Medical/Dental/Vision Insurance\n  Paid Time Off\n  Various Personal and Parental Leave Programs\n  Universal Life Insurance\n  Retirement Programs & Matching Employee Contributions: 401K & RRSP\n  Employee Recognition & Anniversary Programs\n  Training, Development, and Growth Opportunities\n  Tuition Assistance & Scholarship Programs\n \n  Hudson is an Equal Opportunity Employer of all qualified individuals. All employment decisions are made without regard to age, race, color, religion, sex, sexual orientation, national origin, citizenship, disability, military leave or veteran status, genetic information, or any other status protected by applicable federal, state or local law. We are committed to creating an inclusive workplace in which we value diversity and unique experiences, backgrounds and identities.\n  \n  All offers are contingent upon successful completion and passing of background checks and/or employment verification results.\n  \n  Note to staffing agencies: Please do not contact Hudson (including the recruitment team or any hiring managers) regarding this position with candidates. If assistance is needed in filling any position for Hudson, a member of our recruiting team will reach out directly. \n  \n  #AF123QA\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=711d15c122080357&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgF5yS6uai_1KmMFK0bvcBCXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=d8a69acfad30f361&assa=691",
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$15 - $16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "7-Eleven",
+  "location": "San Diego, CA 92154",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Palm-7--Eleven/jobs/Cashier-Customer-Service-b20da76131b8d874?fccid=f22d108910a6e77c&vjs=3",
+  "id": "b20da76131b8d874",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:11.793Z",
+  "description": "Two cashiers needed at our 7-11. 2-10 pm and graveyard shift which is 10pm-6am. Full time and part time needed. Please send resume or stop by at 1881 Palm Avenue San Diego CA 92154\nJob Type: Full-time\nPay: $15.00 - $16.00 per hour\nShift:\n\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$15 - $17 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Cycle Gear",
+  "location": "San Diego, CA 92111",
+  "rating": 3.5,
+  "reviewsCount": 199,
+  "url": "https://www.indeed.com/rc/clk?jk=d99c50d6efdec36e&fccid=474c61b808dbebed&vjs=3",
+  "id": "d99c50d6efdec36e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:12.838Z",
+  "description": "\n Company Description\n  Total Compensation: $15.00 - $17.00 / hour\n  Comoto Holdings is America’s largest and fastest-growing omnichannel platform in the powersports aftermarket-products industry; dedicated to advancing the experience of powersports enthusiasts across the globe. Comoto’s brands, RevZilla, Cycle Gear, J&P Cycles, REVER, and Common Tread, deliver premium products, dedicated expertise, engaging media, and passionate customer support of the powersports community, through best-in-class e-commerce and retail experiences.\n \n \n\n Job Description\n  What to expect when you work here\n  As a Cashier, you would be responsible for ensuring that each customer receives outstanding customer service by greeting and acknowledging every customer with 90 seconds of entering the store and maintaining an upbeat, can-do attitude throughout all customer interactions. You will be expected to process all sales, meet and exceed Special Offer promotion goals, name and customer email capture, and housekeeping of the register stations.\n  You can expect our 5 Core Values to drive everything we do.\n  Aim For The Podium:\n \n   The Cashier provides an outstanding shopping experience and deliver exceptional customer service, while accurately and efficiently entering sales at the register\n   Maintain store aesthetics by cleaning, stocking, organizing and following merchandising plans\n   Stay up-to-date with our brand and product knowledge, company information, sales and company-wide events, truly becoming a resource to our customer base\n \n  Take Risks; Wear a Helmet:\n \n   It never hurts to try something new, such as a display at the register. We are always looking to grow and progress and want to hear all your new ideas\n   Don't be afraid to fail; no one is right all the time, but you can always be well-prepared\n \n  Share The Road:\n \n   We take the health, safety, and wellness of our employees seriously. Our Wellness program and safety committee offers workshops, classes, resources, etc. to all of our team members\n   Our Diversity, Equity, and Inclusion council and employee resource groups promote open and honest communication, remove barriers, and champion policies to build a more equitable environment\n   Do the right thing, always. A friendly and upbeat personality is a must\n \n  Keep It Real:\n \n   This position can be part-time or full-time. Full Time benefits include Medical/Dental/Vision/Life/Accident, Paid Time Off, and 401K matching. All employees receive a generous employee discount\n   Because a whole lot of life happens between paychecks, Comoto also offers a voluntary benefit to all team members called DailyPay which allows for secure, instant transfers of earned pay before payday. This benefit is available to all team members immediately upon hire\n   Although your main duties are focused at the register, you could be pulled to help with other tasks, as requested by management\n \n  Fuel Your Passion:\n \n   Work in an industry that you are passionate about!\n   We are a growing company, and we promote from within - career opportunities!\n   Exciting opportunities to represent Cycle Gear at special events - International Motorcycle Show, motocross races, etc.\n   We have the best customers! Riders are passionate, friendly, charitable, community-minded people, and we get to interact with them every day!\n \n \n \n\n Qualifications\n  Our next Cashier has:\n \n   1 year + of cashiering or customer service experience\n   A self-starter mentality that consistently delivers an outstanding, personalized retail experience\n   An open mind, and is eager to learn and be a part of the riding community\n   Experience with computers and POS systems (particularly RetailPro)\n   Motorcycle riding experience, knowledge, or interest (desired, not required)\n \n  Additional Information\n  Cycle Gear provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "Cashier/Sales Associate",
+  "salary": "$15 - $16 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Shell Gas station/ EZ Mart",
+  "location": "San Diego, CA 92103",
+  "rating": 3.5,
+  "reviewsCount": 186,
+  "url": "https://www.indeed.com/rc/clk?cmp=Shell-Gas-station%2F-EZ-Mart&ti=Cashier+Sales+Associate&jk=63a253fba9147f4f&fccid=d8f9566b26842561&vjs=3",
+  "id": "63a253fba9147f4f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:14.122Z",
+  "description": "Cashier needed at our Shell gas station and convenience store. Must have cashier experience. Please submit your resume or come in person and fill out at application at 330 Washington Street San Diego, CA 92103.\nJob Type: Full-time\nPay: $15.00 - $16.00 per hour\nShift:\n\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+},
+{
+  "positionName": "CASHIER",
+  "salary": "Up to $21 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Mendocino Farms",
+  "location": "San Diego, CA 92037",
+  "rating": 3.9,
+  "reviewsCount": 150,
+  "url": "https://www.indeed.com/rc/clk?jk=5f230f0383241784&fccid=923d2f3714f713aa&vjs=3",
+  "id": "5f230f0383241784",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:36:15.183Z",
+  "description": "\n HIRING IMMEDIATELY for our location in La Jolla!   NOW HIRING CASHIERS! Cashiers-Takes orders at the register and guides our guests through the menu Make up to $21.00 / hr including tips!  Visit the restaurant location for an on-the-spot interview! Where: 8795 Villa La Jolla Dr La Jolla, CA 92037 When: Daily, 2pm-4pm  Not your average restaurant… Mendocino Farms is looking for friendly and outgoing front of house Team Members to be ambassadors of the Mendo Brand and join our Hospitality Team! Do you love people? LOVE FOOD? Then this is the opportunity you have been waiting for!  Competitive Pay Tips – ALL Mendo Team Members participate in the tip pool! Opportunities for career advancement  Perks and Benefits: Health, Dental, Vision, 401(K) Match, and other ancillary benefits for Team Members who qualify Free and delicious Mendo Meals on every shift!  We’re Looking for Team Members that have the following: Great personalities, personality is everything! Hospitable attitudes! An overwhelming desire to help people! The ability to SELL HAPPY! You’ll spend your day passionately connecting with our guests!  Schedule: Full-time AND Part-time hours available Ability to work a flexible schedule including nights, weekends, and holidays  Responsibilities & Essential Functions: Must be able to lift 35 pounds Hand use: single grasping, fine manipulation, pushing and pulling Work requires the following motions: bending, twisting, squatting, and reaching Exposure to FDA approved cleaning chemicals Exposure to temperatures: o 32-40 degrees Fahrenheit (refrigerators) o >90 degrees Fahrenheit Ability to work in a wet and cold environment. Ability to use restaurant tools and equipment Must be 18 years of age or older\n  **The purpose of this document is to provide a general summary of essential responsibilities for the position and is not meant as an exhaustive list.\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Diego, California12-04-2022 12_34"
+}]

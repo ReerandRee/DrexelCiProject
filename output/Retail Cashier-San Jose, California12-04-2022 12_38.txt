@@ -1,0 +1,895 @@
+[{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Sprouts Farmers Market",
+  "location": "San Jose, CA 95131",
+  "rating": 3,
+  "reviewsCount": 4558,
+  "url": "https://www.indeed.com/rc/clk?jk=7e8d5b3883aef1dc&fccid=95d1741fa7ecafec&vjs=3",
+  "id": "7e8d5b3883aef1dc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:46.966Z",
+  "description": "\n Job Introduction:\n \n  Do you enjoy meeting and talking to new people? Does being the face of a company excite you? Do you have a passion for delivering an extraordinary customer service experience while working in a fast paced and friendly environment? If the thought of helping people make healthy choices in one of the fastest growing retailers is up your alley – then we need YOU to join our winning team at Sprouts Farmers Market as a Cashier! Overview of Responsibilities: \n  As a Cashier at Sprouts Farmers Market, you are the face of the company while you process each customer’s order quickly, accurately, and efficiently while ensuring complete customer satisfaction through prompt and friendly service. As a Cashier, Sprouts Farmers Market looks to you to accurately handle customer cash, credit/debit payments, and change, and assist customers by providing information and resolving their complaints. Following all front end procedures, assisting with stocking shelves, facing and dusting as needed are all a part of the day for a Sprouts Farmers Market Cashier. A Cashier maintains knowledge of weekly ad items, gives customers direction of product location throughout the store, is familiar with events and seminars going on or coming up, and maintains excellent communication with front end manager and Head Cashier at all times. A Cashier is expected to ensure that checkout areas are properly maintained in a clean and orderly condition at all times, and execute all other related duties as assigned.\n \n   #li-dni\n  Qualifications: \n  To be a Cashier at Sprouts Farmers Market you must:\n \n   Be at least 18 years of age and have a high school diploma or equivalent, and 1-2 years of recent cashiering experience.\n   Have and show an outgoing and friendly behavior, a positive attitude and the ability to interact with our customers.\n   Ability to operate front end equipment; register, calculator, scanner.\n   Be dependable and reliable having the ability to work a flexible schedule that changes as the business changes; including nights, weekends and holidays. \n  Have good communication skills; the ability to take direction/constructive criticism and participate in a team environment\n   Be able to perform repetitious activities, and have the ability to multi-task, prioritize and stay organized.\n   Must lift/carry product horizontally/vertically weighing up to 30 lbs., from 36” to 24”, for a distance up to 3 feet for up to 50 hours without mechanical assistance. \n  Must use both hands to move grocery carts horizontally requiring a force up to 35 lbs., for a distance up to 4 feet for up to 50 hours. \n  Requires strong attention to detail and proficiency with numbers; proficient in cash handling and mathematical skills; ability to read, write and count.\n  Benefits: In addition to a rewarding career, Sprouts offers a comprehensive program to help support you and your family. These programs include: - Competitive pay - Sick time plan that you can use to support you or your immediate families health - Opportunities for career growth - 15% discount for you and one other family member in your household on all purchases made at Sprouts - Flexible schedules - Employee Assistance Program (EAP) Eligibility requirements may apply for the following benefits: - 401(K) Retirement savings plan with a generous company match - Affordable benefit coverage, including medical, dental vision - Paid parental leave for both mothers and fathers - Pre-tax Flexible Spending Accounts for healthcare and dependent care - Company paid life insurance and short-term disability coverage Get Paid Every Day! Sprouts Farmers Market offers DailyPay - if you’re hired as an eligible employee, you’ll be able to transfer the money you’ve already earned at no extra cost, and get it the next business day, for free. We offer DailyPay so you don’t have to wait for payday to access the money you’ve already worked for. With DailyPay, you can see how much you’ve made every day and you can transfer your money any time before payday. You can learn more by visiting dailypay.com. Why Sprouts: \n \n   Grow with us!\n \n \n   If you have a passion for inspiring people and a flair for fresh food, consider applying for a job at Sprouts! With a focus on customer service, our neighborhood grocery stores offer high-quality, farm fresh produce, natural meats, plenty of scoop-your-own bulk goods and much more in a fun, friendly, old-fashioned farmer’s market setting. Come grow your career in healthy living with a fast-paced, rapidly growing company and teams that pride themselves on empowering others along their journey.\n \n \n \n   The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work. This is not an exhaustive list of all duties, responsibilities, and requirements. Sprouts’ management reserves the right to amend and change duties, responsibilities, and requirements to meet business and organizational needs as necessary.\n \n \n \n   California Residents: We collect information in accordance with California law, please see \n  here\n   for more information.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Head Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Sprouts Farmers Market",
+  "location": "20558 Stevens Creek Boulevard, Cupertino, CA 95014",
+  "rating": 3,
+  "reviewsCount": 4558,
+  "url": "https://www.indeed.com/rc/clk?jk=5525539ed894ab13&fccid=95d1741fa7ecafec&vjs=3",
+  "id": "5525539ed894ab13",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:47.331Z",
+  "description": "\n Job Introduction: \n \n   Do you enjoy leading others by providing an exemplary example and serving as a mentor? Does overseeing a fast paced team in a fast paced environment sound exciting? Do you have a passion for delivering an extraordinary customer service experience while working in a friendly environment? If the thought of helping people make healthy choices in one of the fastest growing retailers is up your alley – then we need YOU to join our winning team at Sprouts Farmers Market as a Head Cashier!\n  Overview of Responsibilities: \n \n   At Sprouts Farmers Market, the Head Cashier is responsible for the supervision of a team of cashiers and assistance with operational issues. \n \n \n  Ensure excellent customer service through proactively visiting registers and providing direction/support to Cashiers and Courtesy Clerks\n   Assist in potential customer assistance issues at the register\n   Assign store sweeps, monitor/maintain cash register supply levels and maintain cleanliness standards in the restrooms and parking lots\n   Maintain visibility of the exit doors for security and loss prevention issues\n   Schedule and oversee proper execution of appropriate meal and rest breaks in compliance with company policy and state requirements\n   Assist in the hiring and training of new Cashiers and taking necessary steps for disciplinary actions\n   If you are someone who thrives in a fast-paced environment then we want to hear from you!\n  Qualifications: \n \n   To be a Head Cashier at Sprouts Farmers Markets you must:\n \n \n \n   Be at least 18 years of age; possess a high school diploma or GED, and 1-2 years of recent cashiering experience supplemented with leadership training.\n   Be dependable and reliable having the ability to work a flexible schedule that changes as the business changes; including nights, weekends and holidays.\n   Have and show an outgoing and friendly behavior, a positive attitude and the ability to interact with our customers, representing as a role model in behaviors.\n   Ability to operate front end equipment; register, calculator, scanner.\n   Have good communication skills; the ability to take direction/constructive criticism and participate in a team environment\n   Be able to perform repetitious activities, and have the ability to multi-task, prioritize and stay organized.\n   Must lift/carry product horizontally/vertically weighing up to 30 lbs., from 36” to 24”, for a distance up to 3 feet for up to 50 hours without mechanical assistance.\n   Must use both hands to move grocery carts horizontally requiring a force up to 35 lbs., for a distance up to 4 feet for up to 50 hours.\n   Requires strong attention to detail and proficiency with numbers; proficient in cash handling and mathematical skills; ability to read, write and count.\n  Benefits: In addition to a rewarding career, Sprouts offers a comprehensive program to help support you and your family. These programs include: - Competitive pay - Opportunities for career growth - 15% discount for you and one other family member in your household on all purchases made at Sprouts - Flexible schedule - Employee Assistance Program (EAP) Eligibility requirements may apply for the following benefits: - 401(K) Retirement savings plan with a generous company match - Minimum essential coverage medical plans - Voluntary coverage such as short-term disability, hospital indemnity, accident, and critical illness - Competitive vacation and sick time programs Get Paid Every Day! Sprouts Farmers Market offers DailyPay - if you’re hired as an eligible employee, you’ll be able to transfer the money you’ve already earned at no extra cost, and get it the next business day, for free. We offer DailyPay so you don’t have to wait for payday to access the money you’ve already worked for. With DailyPay, you can see how much you’ve made every day and you can transfer your money any time before payday. You can learn more by visiting dailypay.com. Why Sprouts: \n \n   Grow with us!\n \n \n   If you have a passion for inspiring people and a flair for fresh food, consider applying for a job at Sprouts! With a focus on customer service, our neighborhood grocery stores offer high-quality, farm fresh produce, natural meats, plenty of scoop-your-own bulk goods and much more in a fun, friendly, old-fashioned farmer’s market setting. Come grow your career in healthy living with a fast-paced, rapidly growing company and teams that pride themselves on empowering others along their journey.\n \n \n \n   The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work. This is not an exhaustive list of all duties, responsibilities, and requirements. Sprouts’ management reserves the right to amend and change duties, responsibilities, and requirements to meet business and organizational needs as necessary.\n \n \n \n   California Residents: We collect information in accordance with California law, please see \n  here\n   for more information.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "!!!!!!!!!!NOW HIRING CASHIER/SALES ASSOCIATES!!!!!!!!!",
+  "salary": "$15.00 - $17.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Off Broadway Shoes",
+  "location": "San Jose, CA 95125",
+  "rating": 3.5,
+  "reviewsCount": 372,
+  "url": "https://www.indeed.com/company/Off-Broadway-Shoes/jobs/Cashier-Sales-Associate-baf21150d7789614?fccid=f7522514c519890f&vjs=3",
+  "id": "baf21150d7789614",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:47.718Z",
+  "description": "*MUST HAVE WEEKEND AVAILABILITY\n*OPEN AVAILABILITY BEST\n*Customer service*Shipping and receiving*Stocking and merchandising store*Inventory*Loss prevention*Light janitorial work\nPrevious retail experience is helpful, but not a requirement for consideration. If you are a hardworking motivated individual seeking a career with a solid company please apply today.\nSalary: $15.00 - $17.50per hour\nJob Type: Part-time\nPay: $15.00 - $17.50 per hour\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier - Auto Part Sales",
+  "salary": "From $18 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Pick n Pull Auto Dismantlers",
+  "location": "1065 Commercial St, San Jose, CA 95112",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Pacific-Car-Crushing/jobs/Cashier-70eb7d2c8e05a55b?fccid=062679832db69957&vjs=3",
+  "id": "70eb7d2c8e05a55b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:48.230Z",
+  "description": "\n $1,000 Sign On Bonus\n $18/hr plus $ales incentive$\n Weekend Availability Needed\n Must be able to pass a drug screen and background\n Part time schedules must work weekends\n No late nights!\n\n*** Please note that even in states where marijuana is legal (recreational OR medical) a positive drug test will disqualify you from employment ***\nPromote the Pick-n-Pull Safety Culture. Be a team player. Offer friendly and enthusiastic answers to customer questions. Follow loss prevention, risk control, quality assurance, and proper cash handling procedures at all times. Work as a team\nQualifications: \n\n Must work safely at all times.\n Must have good people skills with an outgoing friendly positive attitude.\n Able to work retail hours including overtime, weekends and holidays.\n Must have reliable means of transportation.\n Must be able to read, write, and speak in the English language.\n Bilingual in Spanish a plus, but not required.\n Be proficient in automotive part/product identification and recognize parts and how they relate to our customer receipts.\n Follow company dress code policy, maintaining a well groomed, neat appearance so as to create a favorable impression with customers.\n Previous experience in a retail environment preferred but not required.\n\nThe Customer Service Advisor (CSA) often begins as a Pick-n-Pull Greeter and can work their way up through Part Sales, Parts Specialist and eventually a store Sales Lead through positive work ethics and evaluations. This is a retail sales position that requires a “can do” selling spirit and the ability to work as a team to meet the store’s sales goals. The CSA will be present during all peak customer traffic periods which could include weekends, sale days, or any other occasion that would generate high customer flow into the store per the specified store schedule. The CSA will promote sales and service to customers. The CSA is expected to maintain the excellent standards of all Pick-n-Pull policies and procedures, while always being pleasant, respectful, and helpful.\nPhysical Activities Required to Perform Essential Functions: \nStanding, lifting, walking, bending, and stretching are required regularly to perform customer care, product relocation and placement, and environmental health and safety functions.\n\n Manual dexterity to maintain the housekeeping of the facility by mopping, sweeping, etc. In conjunction, but not limited to, assigned task list duties.\n Vision must be sufficient to perform job functions safely as described above.\n Able to work on feet (stand and walk) for assigned work shift.\n\nJob Conditions: \n\n Exposure on a regular basis to outdoor weather conditions.\n Exposure to occasional noisy conditions and machinery operation.\n\nPLEASE NOTE: The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, duties and skills required.\nAll U.S. applicants must be 18 years of age or older and all Canada applicants must be 16 years of age or older.\nSchnitzer Steel Industries, Inc. participates in e-verify for all U.S. new hires.\nAn offer of U.S. employment by Schnitzer Steel Industries, Inc. or any of its subsidiaries is contingent on the satisfactory completion of a post-offer drug screen and background check.\nAll new hires must review and sign an Arbitration Agreement. This applies to all U.S. non-union employees.\nAs an Equal Opportunity Employer, Schnitzer Steel Industries, Inc. does not discriminate on the basis of race, religion, color, sex, marital status, disability status, national origin or ancestry, veteran status, age, prior industrial injury, sexual orientation, genetic information, or any other protected status under local, state or federal law.\nCompany Pick N Pull Auto Dismantlers\nJob Type: Full-time\nPay: From $18.00 per hour\nBenefits:\n\n 401(k) matching\n Employee discount\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Head Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Westlake ACE Hardware",
+  "location": "2555 Charleston Rd, Mountain View, CA 94043",
+  "rating": 3.7,
+  "reviewsCount": 6644,
+  "url": "https://www.indeed.com/rc/clk?jk=e1c8d6a553937f52&fccid=d58be9e5bb7e408d&vjs=3",
+  "id": "e1c8d6a553937f52",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:48.413Z",
+  "description": "About Westlake Ace Hardware \nAce Retail Holdings, the division of Ace Hardware Corporation that owns and operates the Westlake Ace Hardware chain, is one of the largest hardware retailers in the United States. Headquartered in Lenexa, Kansas, Westlake Ace Hardware has been in operation for over a century and operates over 120 neighborhood stores located throughout the United States. Great people make Westlake stand out in our industry, and we are looking for individuals who strive for personal and professional growth, and who want to work with a company founded on (and still led by) our solid Core Values of: \n\n Service, Passion, Respect, Integrity, Teamwork and Excellence \n\n General Summary \nThe Head Cashier is responsible for register transactions involving the sale and/or return of merchandise. The Head Cashier is also responsible for assisting the Assistant Manager, Operations in the completion of office duties. \n\n \nEssential Duties & Responsibilities:\n Customer Service \n\n \n Project a positive representation of Westlake Ace Hardware. \n Greet customers entering and throughout the store. Thank customers by name, when possible when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as those supervised. \n Ensure excellent customer service from those supervised. \n Ensure all calls and pages are answered promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Ensure fast, accurate, professional checkouts. \n Perform Cashier duties as needed to eliminate delays. \n Possess strong product knowledge and knowledge of store layout and location of products. \n Ensure customers are being greeted and thanked by name whenever possible. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Adhere to any Store Support Center program or promotion that may require implementation at the cash registers. \n Assist with register and computer problems, downloads, upgrades, and fixes as needed. \n Cash Room Operations \n\n \n In the absence of the Assistant Manager-Operations, verify Cashier-balancing procedures are followed. \n In the absence of the Assistant Manager-Operations, verify deposit procedures and policies are followed on a daily basis. \n Help prepare deposit, long/short recap, cashier over-short acknowledgements, and sales audits. \n Verify weekend vault counts and randomly verify vault. \n Office Operations \n\n \n Provide assistance to the Assistant Manager-Operations in the completion of multiple office duties, including receiving, invoices, purchase orders, inventory adjustments, etc. \n Audit \n\n \n On an as needed basis, provide assistance to the Assistant Manager-Operations in the completion of the quarterly audit checklist. \n On as needed basis, observe Cashiers for proper phone etiquette, greeting customers, handling returns correctly and that the customers are being treated attentively. \n Front End Appearance and Upkeep \n\n \n Keep the front end neat and clean at all times. Face and dust front end. \n Keep impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure fresh ads are stocked in shopping carts at all times. \n Ensure forms and supplies are stocked at all times. \n Assist with decorating the front end according to the Store Support Center program. \n Call for cart pickups when necessary. \n Perform all other duties as assigned. \n Leadership \n\n \n Communicate any merchandising, cost control or sales idea to the General Manager for follow up. \n Participate in store and Cashier meetings. \n Assist with training and development of new cashiers. \n Work with Assistant Manager-Operations to prepare for advancement \n Other Essential Requirements \nAbility to exhibit and incorporate our Core Values into daily decisions and interactions with others: \no SERVICE – Amaze our customers, our associates and our communities by delivering on our helpful promise. \no PASSION – Showing our love for the work we do, our customers, and our associates. \no RESPECT – The humble appreciation that every person is unique and valued. \no INTEGRITY – An authentic commitment to moral and ethical behavior. \no TEAMWORK – Together we can achieve extraordinary things. \no EXCELLENCE– A disciplined approach to achieve outstanding results through continuous improvement. \n\n Minimum Skills, Requirements and Qualifications \n\n \n High School or GED equivalent. \n Experience in retail and/or office management preferred. Cashier experience preferred. Customer service experience preferred. \n Standing, walking, lifting (up to 25lbs) and climbing. \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$19.50 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "us issworld",
+  "location": "San Jose, CA 95138",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=4d0fb1b1100bee13&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "4d0fb1b1100bee13",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:48.588Z",
+  "description": "\n\n \n  \n   \n    \n     \n      \n       \n        \n         \n          \n           Cashier\n          \n           \n           \n          \n           Hourly Wage\n           \n          \n           ISS offers a competitive compensation package including Benefits, Paid Time Off, and a starting hourly salary of\n            $19.50 USD.\n          \n           \n           \n          \n           Key Purpose\n           \n          \n           The Cashier is the representative of Guckenheimer. He/she is responsible for the effective and efficient functioning of operating cash register and stocking product within the guidelines established by the client organization as well as the Corporation.\n          \n           \n           \n          \n           Success Criteria\n          \n           \n           \n          \n           Be able to anticipate customer needs, deliver on those needs and exceed expectations. \n           Identify service deficiencies and communicate effectively to a manager before becoming long term issues. \n           Positive attitude. \n           Have passion for customer service. \n           Being reliable, responsible, dependable, and fulfilling obligations. \n           Commitment to the service values and ethics of the client company. \n           Ensure full compliance with Allergen Policy.\n          \n           \n           \n          \n          \n           Key Areas of Collaboration and Influence\n          \n           \n           \n          \n           Ability to effectively communicate, motivate and interact with all customers to help build and speak about the culture of Guckenheimer/ISS. \n           Develop and maintain good relations with cooks, servers, porters, and managers. \n           Greet, smile, make eye contact, and make customer feel welcome.\n          \n           \n           \n          \n          \n           Ideal Candidate Experience\n          \n           \n           \n          \n           Minimum 1 year in Retail Cashier or in a similar role experience in operating cash registers. \n           Strong customer services skills. \n           Have cafeteria or food operating skills. \n           Knowledge of set up or restock beverage and product displays. \n           Prior knowledge in basic computer skills. \n           Familiarity with electronic equipment, like cash register and POS systems. \n           Good math skills. \n           Strong communication and time management skills. \n           Customer satisfaction oriented. \n           Prior experience handling cash and credit card transactions.\n          \n           \n           \n          \n          \n           Key Accountabilities\n          \n           \n           \n          \n           To accurately record sales on a cash register and make change for customers within a 1% margin of error. \n           Respond to customer concerns in a professional and urgent manner per company’s policy. \n           Follow all safety rules and be actively aware and observant in prevention of accidents. \n           Commitment to the service values and ethics per company’s standard. \n           To operate Cash Register Accurately. \n           To recognize menu items and accurately charge customers for purchases. \n           To prepare and stock service areas for hot and cold beverages, such as coffees and teas. \n           Clean or sanitize work areas, utensils or equipment. \n           Provide customers with product details, such as coffee blend and preparation descriptions. \n           Ensure service set up is to clean and in a neat attractive manner with proper signage for all café stations. \n           Maintain inventory of all paper, beverage, condiments and grab & go items are fully stocked throughout the day. \n           Perform side work and end of shift closeout tasks. \n           Provide exceptional customers service and maintaining neat cashier stand appearance. \n           Work efficiently on moving the customers through the line quickly while keeping everything around the café clean by HACCP guideline. \n           Assist with front of house additional set ups and break down of food products. \n           Perform side work including opening and closing shift tasks. \n           Must follow other duties as assigned.\n          \n           \n           \n          \n          \n           Physical Demands & Work Environment\n           \n          \n           Ability to lift a minimum of 25 pounds \n          \n          \n           Employee must be able to work on their feet 8 hours per day excluding breaks. \n           Employee must be able to work under pressure and time deadlines during peak periods. \n           Ensure and maintain safe working environment for all dining customers and staff.\n          \n           \n           \n          \n          \n           \n          \n           ISS, a leading workplace experience and facility management company, provides placemaking solutions that contribute to better business performance and makes life easier, more productive and enjoyable – delivered to high standards by people who care. ISS believes that people make places and places make people. From strategy through to operations, ISS partners with over 60,000 customers in 30+ countries to deliver places that work, think and give and is served by 471,056 employees who connect people and places every single day. In 2019, ISS earned DKK 78 billion in revenue. It is headquartered in Copenhagen, Denmark.\n           \n         \n        \n       \n      \n     \n     \n      \n       \n        JOB DETAILS \n       \n      \n      \n       \n        \n         \n          Date posted: \n          NOV 29, 2022 \n         \n        \n       \n      \n      \n       \n        \n         \n          Country: \n          UNITED STATES \n         \n        \n       \n      \n      \n       \n        \n         \n          Location: \n          SAN JOSE, CA, US, 95138-1400 \n         \n        \n       \n      \n      \n       \n        \n         \n          Job Category: \n          FOOD SERVICES \n         \n        \n       \n      \n      \n       \n        \n         \n          Full time/Part time: \n          FULL TIME \n         \n        \n       \n      \n      \n       \n        \n         \n          Requisition ID: \n          32654\n         \n        \n       \n      \n     \n    \n   \n  \n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=4d0fb1b1100bee13&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhy5RKjHLue5RRNKM-KuGQxULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=4b74a35cba1ef758&assa=7974",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "LOS GATOS MERCANTILE, INC.",
+  "location": "Los Gatos, CA 95032",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=012ad6ad5377acf3&fccid=07cc1fda4732f8a2&vjs=3",
+  "id": "012ad6ad5377acf3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:48.919Z",
+  "description": "General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Clear customer checkout lines quickly and efficiently. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Continually build product knowledge base and possess the ability to assist customers with store layout and product location. \n Assist in pricing, stocking, marking and bagging of merchandise. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. Face and dust front end. \n Assist with keeping impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure forms and supplies are stocked at all times. \n Education/Training \n\n Attending High School or GED equivalent. \n\n Experience \n\n Cashier experience preferred. Customer service experience preferred. \n\n Physical Demands \n\n Standing, walking, lifting (up to 25lbs) and climbing.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Seasonal Retail Cashier & Sales Floor Support - Oakridge Rack",
+  "salary": "$18.90 - $19.70 an hour",
+  "jobType": [
+    "Seasonal"
+  ],
+  "company": "Nordstrom",
+  "location": "San Jose, CA",
+  "rating": 3.8,
+  "reviewsCount": 15143,
+  "url": "https://www.indeed.com/rc/clk?jk=a39fcf8d95219587&fccid=68ce5c21322a81a4&vjs=3",
+  "id": "a39fcf8d95219587",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:49.434Z",
+  "description": "\n Job Description\n  This job is a great fit for someone who is customer obsessed and loves to solve problems.\n \n  A day in the life…\n \n   Assist customers with a variety of transactions through a seamless and friendly experience\n   Demonstrate expertise in all technologies used in the store environment\n   Inspire trust, teamwork and positive team relationships\n   Defuse customer situations and provide resolution in a timely and effective manner\n   Ensure the security and privacy of customer information through education, compliance and resolution of issues\n   Motivate and inspire others to adopt initiatives such as our Nordstrom Rewards program\n   The hours and schedule for this position will vary by week depending on business needs\n \n \n  You own this if you have…\n \n   The ability to effectively build relationships with your customers, peers and leadership\n   Proficiency in multiple operating systems such as MS Windows, iOS and Android\n   Clear, effective communication with strong interpersonal skills\n   The ability to prioritize multiple tasks in a fast paced environment\n   Accountability, initiative and a high level of ownership\n   The ability to work a flexible schedule based on department needs\n \n \n  We’ve got you covered…\n \n  Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:\n \n   Medical/Vision, Dental, Retirement and Paid Time Away\n   Life Insurance and Disability\n   Merchandise Discount and EAP Resources\n \n \n  A few more important points...\n \n  The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.\n \n  Nordstrom will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.\n \n  Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com.\n \n  © 2022 Nordstrom, Inc\n \n  Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.\n \n  Pay Range Details\n \n  The pay range(s) below are provided in compliance with state specific laws. Pay ranges may be different in other locations.\n  California : $18.90 - $19.70 Hourly\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=a39fcf8d95219587&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgcAtSYKj2rQdkQkykSULLvXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=f9e24decb577fc14&assa=9247",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Ace Hardware",
+  "location": "Campbell, CA 95008",
+  "rating": 3.7,
+  "reviewsCount": 6644,
+  "url": "https://www.indeed.com/rc/clk?jk=af90127cb01d4e78&fccid=d58be9e5bb7e408d&vjs=3",
+  "id": "af90127cb01d4e78",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:50.037Z",
+  "description": "General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation of Forest Hill Ace Hardware. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. Face and dust front end. \n Perform all other duties as assigned. \n Cash handling experience is necessary. \n Education/Training \n\n High School or GED equivalent. \n\n Experience \n\n Cashier experience preferred. Customer service experience preferred. \n\n Physical Demands \n\n Standing, walking, lifting (up to 25lbs) and climbing.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Customer Service Associate (Cashier)",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Speedway | Rebel Convenience Stores",
+  "location": "Los Altos, CA 94024",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=4c9c0dc8600a25bc&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "4c9c0dc8600a25bc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:50.397Z",
+  "description": "\n Join the Rebel team for spontaneity and growth in your next role. \n \n  \n Why Join Our Team?\n  Family owned and operated for over 30 years, we understand the service station business. We are a community-centered, value-oriented, and steadfast in serving our customers. Join the Rebel Team today for spontaneity and growth in your next role. Help make the world a more colorful place!\n \n  Who We Are Looking For?\n  Our Customer Service Associates are very important to us. They represent the Rebel brand in all that they do. Therefore, our CSAs must be welcoming, efficient, and possess a high level of integrity.\n \n  What the Job Entails...\n \n   Providing excellent customer service\n   Adhering to cash handling procedures\n   Maintaining the cleanliness of all areas, inside and outside of the store\n   Operating beverage and food service equipment and preparing food\n   Ensuring safety is a #1 priority\n   Completing other tasks as required\n \n \n  Non-Negotiables...\n \n   Must be atleast 18 years of age.\n   Must be able to work alone and sit/stand for a period of 8 hours or more.\n   Must be able to read, write, and speak clearly, using the English language.\n   Must possess basic math skills and have the ability to learn and apply multiple procedures.\n   Have the ability to lift up to 30lbs and push/pull with arms, up to a force of 20lbs.\n   Must want to have fun at work and be part of an amazing team.\n \n \n  Money isnt Everything, We Offer Great Benefits!!!\n \n   Medical, Dental, and Vision* (Full-Time Employees Only)\n   Employee Assistance Program* (Full-Time Employees Only)\n   401k After 1 Year (Full-Time Employees Only)\n \n \n \n   Some Restrictions May Apply\n \n  \n  Brand: Speedway \n  Address: 929 Fremont Ave Los Altos, CA - 94024 \n  Property Description: 8159 Los Altos \n  Property Number: 8159\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "FT-Cashier-Day",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Lowe's",
+  "location": "Sunnyvale, CA 94085",
+  "rating": 3.5,
+  "reviewsCount": 51116,
+  "url": "https://www.indeed.com/rc/clk?jk=0d5565f6339f9f7d&fccid=402f23c7b01ca527&vjs=3",
+  "id": "0d5565f6339f9f7d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:52.085Z",
+  "description": "\n \n  What you Will Do \n  \n  At Lowe’s, we’ve always been more than just an improvement store. We’re also home to everything that makes your home feel like home. And for thousands of Lowe’s associates, we’re home to fresh starts, rewarding opportunities, and endless career possibilities.\n  \n   Whether you’re providing a quick, friendly checkout experience, helping our customers get the best value for their money, or assisting with payment or exchanges, it’s your job as a cashier to ensure every customer exits on a high note. You could be that final nudge of encouragement that a customer needs to transform a great project idea into reality.\n  \n   You will also:\n  \n    Deliver a fast, friendly, and professional checkout experience.\n    Scan and bag items accurately and efficiently.\n    Manage a cash register, payments, and exchanges.\n  \n  \n   What’s in It for You? Advantages\n   Beyond the chance to make a difference for customers and teammates, each day will offer new opportunities to learn, grow, and celebrate wins together with your Lowe’s team. Cashier team members also gain:\n  \n    A 10% discount on everything at Lowe’s.\n    Access to training and tuition reimbursement programs for trade certifications, college education, and more.\n    Eligibility for performance-based bonuses.\n    A talented and supportive team of associates who will welcome you like family.\n    Access to comprehensive physical, mental, and financial benefits *.\n  \n  \n   Your Day at Lowe’s Responsibilities\n  \n    Deliver excellent customer service at the register.\n    Showcase great customer service and with a winning smile.\n    Answer customer questions.\n    Help maintain a store that feels like home.\n  \n   Requirements\n  \n    Be able to work a variety of shifts, including nights and weekends.\n    Be able to lift items of up to 10lbs. unassisted.\n    Be able to stand or sit for long periods of time while engaging with customers.\n    Be able to use common retail technology, such as smart phones and tablets.\n    For individuals with disabilities who would like to request an accommodation, email HRServiceCenter@lowes.com.\n  \n   Bilingual applicants are encouraged to apply.  Lowe’s is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity or expression, marital status, veteran status, genetics or any other category protected under applicable law.\n  \n   Benefits offerings change each year and eligibility varies. For the most up-to-date breakdown of what’s available to you, visit MyLowesBenefits.com.\n  \n   Lowe’s adheres to CDC cleanliness and social distancing guidelines. Learn more at: lowes.com/l/safe.html\n \n  EEO Statement Lowe’s is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=0d5565f6339f9f7d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgsiaJKV8QmQHvCYBBx9OQLQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=9a92e840d107e74a&assa=1167",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier/Customer Service/Receptionist",
+  "salary": "$18 - $20 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Sunnyvale Volkswagen",
+  "location": "Sunnyvale, CA 94087",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Sunnyvale-Volkswagen-B&B-Collisions/jobs/Cashier-Customer-Service-Receptionist-167d9d7b6e890bcd?fccid=4dd1b8ebb2568b30&vjs=3",
+  "id": "167d9d7b6e890bcd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:54.683Z",
+  "description": "Our ideal candidate is an energetic, hospitable and customer service minded. Has exceptional people skills, a phone demeanor, and a passionate positive personality willing to provide help to our customers!\nReceptionist Job Duties: \n\n Setting appointments for customers on an everyday basis.\n Greeting and assisting writers in checking in customers.\n Handling a high volume of incoming calls and follow-up calls to our customers.\n Assisting the Director and management on client communication and administrative duties.\n\nReceptionist Qualifications: \n\n Must have a great attitude and proactive demeanor.\n Ability to work independently, with others and take constructive direction from management.\n Basic skills with computers and technology.\n Effective communication skills.\n Great customer service.\n Proactive and the ability to work independently.\n Must have the ability to multitask and work in a high pace and high-pressure environment.\n Most of all Detail Oriented, Organized, Punctual.\n Confident in making phone calls to clients.\n Able to speak other language is a plus+.\n High School Graduate or GED.\n A college degree is a ++.\n\nBENEFITS: Medical,401k, Vacation. Opportunities for advancement\nDrivers License must be valid no DUI's.\nApply now at http://www.sunnyvalevw.com/employment/listing.htm as the position needs to be filled immediately. Please apply directly to our website listed above, you will not be considered for the position without completing that application. Thank you!\nWork Remotely\n\n No\n\nJob Types: Full-time, Part-time\nPay: $18.00 - $20.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Health insurance\n Vision insurance\n\nShift:\n\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier - Stevens Creek BMW",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Sonic Automotive",
+  "location": "Santa Clara, CA 95051",
+  "rating": 3.4,
+  "reviewsCount": 258,
+  "url": "https://www.indeed.com/rc/clk?jk=4eaced16e9499c94&fccid=8c1c5fdb4a4a40a5&vjs=3",
+  "id": "4eaced16e9499c94",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:55.536Z",
+  "description": "\n Company Description\n  At Stevens Creek BMW, a Sonic Automotive family dealership, you'll find the opportunities, resources, and support you need to grow and develop professionally. Our 100+ dealerships are concerned with more than moving inventory; they're committed to your success and invested in your future. So read on, and consider a rewarding career with Sonic Automotive, Inc.\n \n \n\n Job Description\n  Purpose:\n  The cashier receives cash from customers and employees in payment for goods and services and records the amount received in an accurate manner. He/she is sometimes the customer’s last contact with the dealership and therefore, must represent the dealership in a friendly, professional manner. The cashier provides assistance to the accounting office as directed on an individual task basis.\n \n  Duties and Responsibilities:\n \n  Calculate the customer’s bill using the dealership’s computer system.\n  Receive cash, checks and credit card payments from customers and record the amount received on the repair order and/or counter ticket.\n  All personal checks are to be guaranteed. Any checks failing to guarantee must be approved by management.\n  Make change accurately and issue receipts to customers. Have every repair order signed by the customer at time of payment.\n  Ascertain and record totals of counter tickets and repair orders and verify against all cash, checks and credit card payments on hand at end of shift.\n  Work with department managers to keep abreast of new products and services offered by the dealership and any changes in price.\n  Refer customers who have additional questions (e.g. questions about their repair order) to the service advisor or other appropriate individual.\n  Handle customer complaints with integrity and poise and take or refer the complaining customer to the appropriate individual for further communication.\n  Give cash refunds accurately to customers for approved returned merchandise.\n  Maintain service files timely.\n  Perform receptionist duties as requested.\n  Perform other duties as assigned by management.\n  Must follow all company safety policies and procedures, and immediately report any and all accidents to a manager or supervisor.\n \n \n \n\n Qualifications\n \n   Ability to read and comprehend instructions and information.\n  Basic skills with computer and other office machines (copier, credit card machine, telephone, adding machine)\n  necessary to perform the cashiering/clerical duties.\n \n  Professional personal appearance.\n  Ability to work well with customers and present a friendly, helpful attitude at all times.\n  All applicants must be authorized to work in the USA\n  All applicants must perform duties and responsibilities in a safe manner\n  All applicants must be able to demonstrate ability to pass pre-employment testing to include background checks, MVR, drug test, credit report, and valid driver license\n \n  Additional Information\n  It's time to make the most important move of your career. From our cooperative, team-based approach, to our more than 1,000 internal advancements each year, it's easy to see the difference. When you join our organization, you'll enjoy comprehensive training, competitive compensation, and unparalleled benefits. Simply put, you'll experience the best that a career in the automotive industry has to offer.\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Front End Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Cardenas Market North | Cardenas Markets LLC",
+  "location": "San Jose, CA 95112",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=1243279843859350&fccid=e6e4c2a93c57a1ae&vjs=3",
+  "id": "1243279843859350",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:55.596Z",
+  "description": "\n Thank you for your interest in joining Cardenas Markets! We are more than just a grocery store; every one of our customers is part of the Cardenas Family, and we are committed to making our customers shopping experience enjoyable and unique! \n Our warm, friendly, and knowledgeable Team Members will bring families and communities together by providing our customers great food, products, and service at a superior value in a clean and safe environment. \n Job Duties & Responsibilities: \n \n  Greet and interact with customers to address questions or concerns in a friendly, service-oriented manner.\n   Work in a fun, fast-paced team environment.\n   Utilize POS and credit card system; handle cash and maintain balanced cash drawers.\n   Complete beginning and end-of-shift procedures.\n   Scan items, bag groceries, and process applicable coupons and discounts. \n  Provide flexibility by helping in any area in order to support store needs. \n \n Essential Abilities: \n \n  Friendly and People Oriented\n   Positive Attitude\n   Team Player\n   Ability to Multi-task\n   Quickly Adapt to Changes\n   Work with Sense of Urgency\n   Quality Focused\n   Strong Organizational Skills\n   Work in Fast-paced Environment\n   Attention to Detail \n \n Qualifications: \n \n  Cash-handling experience desirable \n  Customer Service background desirable \n \n  Brand: Cardenas Market North \n  Address: 1745 Story Rd. San Jose, CA - 95112 \n  Property Description: Store 204 - Cardenas Markets - Mi Pueblo \n  Property Number: 204\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=1243279843859350&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgalAQ1w-uwsCh728ZwHB26wsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=f3c733f61e80909d&assa=5460",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "PART TIME RETAIL ASSOCIATE CASHIERS NEEDED",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Marshalls",
+  "location": "Campbell, CA 95008",
+  "rating": 3.7,
+  "reviewsCount": 10529,
+  "url": "https://www.indeed.com/rc/clk?jk=898488f823cdbf93&fccid=417f86aed2946c16&vjs=3",
+  "id": "898488f823cdbf93",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:57.511Z",
+  "description": "\n\n All 1,000 of our Marshalls stores embrace discovery, from designer luggage to statement shoes. Our assortment of brands is always changing, but our mission to provide the surprises that make the everyday a little more fun is unwavering. Just like working here. Everyone encourages each other and embraces the excitement that can come with change. Each shift is a new opportunity to Discover Different.\n  Posting Notes: Marshalls Store 0529 || 1875 S. Bascom Ave. || Campbell || CA || 95008\n  Job Summary:  \n Responsible for delivering a highly satisfied customer experience demonstrated by engaging and interacting with all customers, embodying customer experience principals and philosophy, and maintaining a clean and organized store environment. Adheres to all operational, merchandise, and loss prevention standards. May be cross-trained to work in multiple areas of the store in order to support the needs of the business. \n Responsibilities: \n \n  Role models established customer experience practices with internal and external customers \n  Supports and embodies a positive store culture through honesty, integrity, and respect \n  Accurately rings customer purchases/returns and counts change back to customer according to established operating procedures \n  Promotes credit and loyalty programs during customer interactions \n  Maintains and upholds merchandising philosophy and follows established merchandising procedures and standards \n  Accurately processes and prepares merchandise for the sales floor following company procedures and standards \n  Initiates and participates in store recovery as needed throughout the day \n  Maintains all organizational, cleanliness, and recovery standards for the sales floor and participates in the maintenance/cleanliness of the entire store \n  Provides and accepts ongoing recognition and constructive feedback \n  Adheres to all labor laws, policies, and procedures \n  Supports and participates in store shrink reduction goals and programs \n  Participates in safety awareness and maintenance of a risk-free environment \n  Performs other duties as assigned \n \n Requirements: \n \n  Possesses excellent customer service skills \n  Able to work a flexible schedule to support business needs \n  Possesses strong organizational skills with attention to detail \n  Capable of handling multiple tasks at one time \n  Able to respond appropriately to changes in direction or unexpected situations \n  Possesses strong communication skills \n  Capable of lifting heavy objects with or without reasonable accommodation \n  Works effectively with peers and supervisors to accomplish tasks \n  Retail customer experience preferred \n \n We’re reinventing retail and helping people discover that next find that’s going to be their new signature look. You can be a part of their journey to look amazing. Our inventory is always changing and our approach is continually evolving, which means every day is another chance to Discover Different. In fact, that’s what it’s like throughout the entire TJX family, which includes TJ Maxx, HomeGoods, Sierra, and Homesense.\n  Discover Different also means we embrace each other’s differences and unique perspectives. We consider all applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, gender identity and expression, marital or military status. We also provide reasonable accommodations to qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local law.\n  Posting Notes: Marshalls Store 0529 || 1875 S. Bascom Ave. || Campbell || CA || 95008\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=898488f823cdbf93&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiju3A-YBOROOjyBXMre5YoULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=959ae29d6018100f&assa=7367",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$16.50 - $18.00 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "State of Mind Slice House",
+  "location": "Palo Alto, CA 94306",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/State-of-Mind-Slice-House/jobs/Cashier-338a74ccb7c16e9d?fccid=d3a21d79e31625e2&vjs=3",
+  "id": "338a74ccb7c16e9d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:58.040Z",
+  "description": "State of Mind Slice House is seeking to expand our amazing customer service team!\nWe are seeking to fill immediate openings for (full and part-time positions) for pizzeria counter persons.\nState of Mind Slice House offers the opportunity for working in a fun environment with the potential for learning and growth and assumption of additional responsibilities for those with an eager, positive attitude and desire to succeed.\nQualified candidates for the pizzeria counter person position at State of Mind Slice House will possess a wide variety of skills and experiences, including:\n*Strong positive and upbeat customer service skills\n* POS cashiering experience a plus\n*Maintain slice case for product quality and visual esthetics.\n*Prepare, package take out orders for guests.\n* Maintain the cleanliness of the dining area as well as back of house cleanliness\n*Perform daily prep such as portioning dressings, folding boxes, cheese and peppers.\n*Observe all opening and closing procedures including: checking with owner/manager at beginning and end of shift.\nWe expect that applicants for all positions (as pertains to the position) will:\n* Be responsible, reliable, and punctual.\n* Have basic understanding of pizzeria work flow\n*Use proper food handling techniques and sanitation standards.\n(Certification will be required within 30 days of hiring for all team members)\n*Ability to read, write, perform basic arithmetic calculations.\n*Be eager to learn and work independently.\n*Have attention to detail and cleanliness.\n*Thrive in a fast-paced environment with ability to prioritize and handle multiple tasks at once.\n*Possess a strong belief in teamwork.\n*Be able to work in a standing position for long periods of time (up to 8 hours).\n*Reach and bend frequently and sometimes lift up to 50 pounds.\n*Work flexible shifts and weekends.\n*Typical Shifts 10:30am-4:30pm and 4:30mm-9:30/10:30pm\nAbout us:\nState of Mind is a family owned pizzeria originating in Los Altos, CA. We were awarded World’s Best Non-Traditional Pizza at the 2017 International Pizza Expo. We make our pizza with slow proofed dough. California cheese, and organic Bianco Dinapoli tomato sauce. However, we aren’t just a pizzeria; We have a diverse menu with plates to share, fresh salads, sandwiches, wings and a few desserts. We make our food from scratch by hand, featuring local ingredients. This is how we eat as a family and we want to share it with the community. We have curated a rotating tap list of our favorite craft breweries from throughout the state that include IPAs, Pale Ales, Lagers, Stouts, Sours, Browns, Saisons and more! We also feature wine from independent wineries throughout california.\nJob Types: Full-time, Part-time\nPay: $16.50 - $18.00 per hour\nBenefits:\n\n Employee discount\n Paid time off\n\nShift:\n\n Day shift\n Evening shift\n\nWeekly day range:\n\n Weekend availability\n\nAbility to commute/relocate:\n\n Palo Alto, CA 94306: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Customer service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Sales Lead / Lead Cashier - Auto Parts",
+  "salary": "$20 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Pick n Pull Auto Dismantlers",
+  "location": "Newark, CA 94560",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Pacific-Car-Crushing/jobs/Sales-Lead-4d071a40fdb0efd1?fccid=062679832db69957&vjs=3",
+  "id": "4d071a40fdb0efd1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:58.987Z",
+  "description": "Sales Lead - Lead Cashier Automotive Parts/Scrap\n\n $20.00 per hour + sales incentives\n Must be able to work weekends\n Full Time w/ Benefits\n Day/Evening position, NO LATE NIGHTS!\n\nLooking for a Sales Lead with strong leadership skills and who is comfortable with the following: \n\n Facilitate counter sales, cashiering and cash handling with integrity and detail.\n Ensure successful implementation of Pick-N-Pull promotional activity.\n Assist with the ongoing training of new and certified customer service staff.\n Help maintain the standards of all Pick-n-Pull policies and procedures.\n Must be present during all peak customer traffic periods, as in weekends, sale days, or any other occasion that would generate high customer flow into the store.\n Always be pleasant, respectful, and helpful.\n\nQualifications: \n\n Customer service experience in a retail, or counter sales position is preferred, but no required.\n Experience leading a team of employees is preferred, but not required.\n Be able to successfully identify auto parts visually.\n\n***PICK-n-PULL hire is contingent upon clearing a pre-employment drug screen, assessment and background check ***\nPICK-n-PULL offers full time employees benefits such as 401K, health, dental, vision and life insurance. We also offer growth opportunities, employee recognition programs and employee discounts. We have benefit packages that are as low as $39/wk\nSchnitzer Steel Industries is proud to be selected four years in a row as one of the “World’s Most Ethical Companies” and to be recognized for our exceptional values. We promote a workplace free from discrimination and are an Equal Opportunity Employer. We strongly believe that diversity of experience, perspectives, and background will lead to a better culture for our employees, and better products and services for our customers. We cherish our values and encourage everyone to become part of changing the way the world conserves natural resources, supports sustainability, and preserves the environment through recycling.\n“By providing a mobile phone number and submitting your resume, you hereby consent to receive telephone calls and text messages (including SMS messages) from, or on behalf of, Schnitzer Steel Industries, Inc., or it employing subsidiaries in its steel manufacturing, auto parts, and scrap metal recycling businesses (the “Company”) at the mobile phone number provided, concerning employment opportunities and related events. These telephone calls and text messages may be sent via an automatic telephone dialing system and/or include a pre-recorded voice.\n“By submitting your resume, you warrant that you are the registered subscriber or authorized user for the telephone number(s) provided. You agree to notify the Company immediately, in writing at amrrecruiting@schncom, or 10860 Gold Center Dr. Suite 250, Rancho Cordova, CA 95670 of any change in your telephone number(s) or if you wish to “opt-out” of receiving our messages.”\nJob Type: Full-time\nPay: $20.00 per hour\nBenefits:\n\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nExperience:\n\n Retail sales: 1 year (Preferred)\n Leadership: 2 years (Preferred)\n Customer service: 2 years (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Michael Kors Milpitas 18 + PT Cashier",
+  "salary": "From $18 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Michael Kors Outlet",
+  "location": "Milpitas, CA 95035",
+  "rating": 3.7,
+  "reviewsCount": 1755,
+  "url": "https://www.indeed.com/company/Michael-Kors/jobs/Michael-Kors-PT-Cashier-523b7be8d400c5a0?fccid=927356efef1f3075&vjs=3",
+  "id": "523b7be8d400c5a0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:59.271Z",
+  "description": "CASHIER\nMichael Kors has joined with Jimmy Choo and Versace over the last year and is now the 3rd largest luxury group in the world known as Capri Holdings.\nTHE OPPORTUNITY Our contributors at Michael Kors are stylish, fashion forward individuals who are passionate about the customer experience and achieving results. As a Cashier, you are a flexible team player with the ability to multitask and thrive in a fun, inspiring and fast-paced store environment.\nWHAT YOU’LL DO:\n* Deliver an elevated and welcoming experience while responding to customers’ needs quickly and accurately\n* Achieve email capture and sales goals through creative engagement with customers\n* Demonstrate flexibility and perform store tasks with speed and excellence\n* Process POS transactions efficiently and comply with all policies and procedures while creating a memorable experience\n* Assist sales associates in determining customers’ needs and resolving all client issues.\n* Maintain store standards of cleanliness and organization.\n* Drive Omni channel sales by utilizing all available tools and technology\nWE’D LOVE TO SEE:\n* 1+ year of relevant retail experience\n* Consistent and effective communicator that adapts to meet the needs of different audiences\n* Energetic and motivated with the ability to engage\n* Customer service focused; love for fashion\n* Technologically savvy, detail-oriented individual\nTHE BENEFITS\n* Cross-Brand Discount\n* Amazing growth and mobility opportunities across all 3 brands\n* Flexible schedule\nJob Type: Part-time\nPay: From $18.00 per hour\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "CUSTOMER SERVICE REP-CASHIER",
+  "salary": "$18 an hour",
+  "jobType": null,
+  "company": "Chevron",
+  "location": "San Jose, CA 95113",
+  "rating": 4,
+  "reviewsCount": 5808,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bqm9XqxxkCQht3S7eI7quHj3tkFfSy9wjqgh864PBfGrteWqwmf1xktGAV6Sl3v1aB0kZGGP9S-aCEOH94RidVZTRQKbWfvDtaReW1gtkbPkyz8aaoqmgStl__wrFOVgm_W32rNZ0acal03t-ob2TvUVePIvMxlFXzZkVbWMRsTWYLJkgYPNw6taz2IPJKUGqwnqTkI4LhjkpvGJf7eTmi-gEe-bY9Cb9cdNYWLeSvo1KRFBkvZ-hSDZAQcHolQDAZ3F_WG8w43AsBOi6jB5i_auCY-lX39DaeS9eSBhtT1qH5Iu2lJ-NvbKcTd2TaSHeJv3lqEkyRmGPqOh2TMaRTDBuKR5QGT8xWV6Hydnk8UOB0raf-9hs_iJkSu4a1NcRZ0Oe-ksDiaAggMl5fsu9gLJv0XH7eHSuXIoXIKUk-t022ovaQua8EHgJpIFkUZswp_1QGi1AYAQ==&xkcb=SoBh-_M3WvPPJY0YIh0LbzkdCdPP&p=8&fvj=0&vjs=3",
+  "id": "a6940355ca351772",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:38:59.624Z",
+  "description": "\n Are you interested in cashier, retail, or gas station attendant opportunities with great benefits? Then apply today as a Customer Service Representative-Cashier for Chevron Stations Inc.!\n  Join us, where safety is important, development is championed and diversity is valued.\n  Whether you are seeking a first job or a long-term career, Chevron Stations Inc. provides you the flexibility and opportunity to grow.\n \n  BENEFITS\n \n   Paid vacation time\n   Competitive wages paid out weekly\n   Tuition reimbursement program\n   Medical, Dental, and Vision plans\n \n \n  Who We’re Looking For\n  The perfect fit for our team are individuals who are self-motivated, dependable and able to work effectively & safely in a fast-paced environment while maintaining 100% total customer focus. If you have these qualities, then apply today for our Customer Service Representative-Cashier position!\n \n  Essential Functions:\n \n  Provide exceptional guest service. Be courteous, always greet and thank all customers while making eye contact. This includes vendors and contractors. They’re our customers too!\n  Work professionally with vendors and contractors\n  Conduct all cashier activities accurately, safely, while following company guidelines\n  Maintain cash drawer, secure all funds in safes, and perform cashier reconciliation at each end of shift to ensure accurate management of sales.\n  Perform consistent station cleaning of the indoor and outdoor facilities including restrooms, islands, pumps, and car wash, if applicable.\n  Effectively manage foodservice and beverages to ensure maximization of sales\n  Cross-check price of delivered goods for accuracy.\n  Stock goods and continuously ensure shelves are full of products.\n  Follow federal law and company standards on carding customers for all age restricted products sold at the stations.\n  Filling vehicle fuel tanks with gasoline or diesel fuel to specified levels. - Oregon Only\n \n \n  Starting Wage: $18.00 per hour\n  Must be at least 18 years of age or older to work in California, Oregon or Washington locations.\n \n  USA based job position\n  Visas will not be granted\n \n  This job description is not all inclusive. In addition, Chevron Stations Inc. (CSI) reserves the right to amend this job description at any time. CSI is an Equal Opportunity Employer, committed to a diverse and inclusive work environment. Qualified applicants will receive consideration for employment without regard to race, color, religious creed, sex (including pregnancy, childbirth, breast-feeding and related medical conditions), sexual orientation, gender identity, gender expression, national origin or ancestry, age, mental or physical disability (including medical condition), military or veteran status, political preference, marital status, citizenship, genetic information or other status protected by law or regulation.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=a6940355ca351772&from=vj&pos=bottom&mvj=0&spon=1&adid=385456019&ad=-6NYlbfkN0Bqm9XqxxkCQht3S7eI7quHj3tkFfSy9wjqgh864PBfGrteWqwmf1xktGAV6Sl3v1aB0kZGGP9S-aCEOH94RidVZTRQKbWfvDtaReW1gtkbPlIFwFM7N3GAHyjO09BT2WQ88RRTOr0kXQLIkJTKe9I4x-nAqFwjYXQXc1dx6UPe8lErgjj4I2R1BTyNIS0oL48WdNEG45wF1s93t59Nb8KMl-9zv68KVHikOwKpyakALBY-8RnDYwGWEcsg0q11E8FG1x8_u4sKTspolwa-i5SfrExQrzOHjT4SlpoBQbMPN0KQqmm0u2K7gHbiSPmgb53hwiW_MfkxDZf0bOrF6QGY5CP9F01OmkBQElia5PVpyjqUPDq57K6GHP4xjWB_Vaw%3D&sjdu=QWF4TUFyrHvH7u082A4fazYOfSJ2OKi6jDDyhUVR02o&vjfrom=serp&astse=403d5e0b2d148a56&assa=9388",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Guest Advocate (Cashier or Front of Store Attendant/ Cart Attendant) (T0324)",
+  "salary": null,
+  "jobType": null,
+  "company": "Target",
+  "location": "San Jose, CA 95124",
+  "rating": 3.6,
+  "reviewsCount": 63680,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AgONBeCfCTVljpwzR96jFX3mtyFC--n153CYnqiKkqIY4vcS3R2dTH7njhuQTtI876Z__lxvBPRPEt9H01SMhbRSlKwxLfcK9lZsR1Qw6MaUpFLR30649d-WzsaUG9dUnIiZBBE8IyHY88fA8vuVMclGx3EcgADiJl1M6gQ_PIkYajDonHQT_FzrqJneUmoNCa3dAexPQSV7HSdWKThKQQy94Kkfa64_0qyBXInj4ktP7nnI21q2I_CpnMoihZCAtVUfuWnSsUXwSqF3fnjWM7b6-0ALtNdsHc4bXAjNQvXPHN_Z0X1EemacdREY6Xd2n6hZSRrTdSSoGI_-lgnIwbX0z_FZNwa2EehvKIEPjzELVQJ5pI58IxRey7ig1DzI_Fyp818JXXurEBMKeDVUYuC35efrlQyDvx--Q-U7V5AZvPgQbdTcpoAKm5Wn_NE_w=&xkcb=SoCD-_M3WvPPJYUYIh0ObzkdCdPP&p=7&fvj=0&vjs=3",
+  "id": "924b31384df0b464",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:00.086Z",
+  "description": "\n Location: 1811 Hillsdale Ave, San Jose, California, United States, 95124-3027 Starting Hourly Rate / Salario por Hora Inicial: $18.50 USD\n \n  ALL ABOUT TARGET\n  As part of our collaborative and guest-obsessed team, you help us create an experience that makes guests say “I love Target!” When you work at Target, you’re helping every family discover the joy in everyday life. You’re working alongside a dedicated team that brings their passion and pride to all that they do.\n \n  ALL ABOUT SERVICE & ENGAGEMENT \n Advocates of guest experience who welcome, thank, and exceed guest service expectations by focusing on guest interaction and recovery. Advocates of both physical and digital services and solutions who are knowledgeable about capabilities and features that drive adoption, usage and ultimately guest loyalty. Empowered to make shopping effortless and seamless for guests at the checklanes, guest services, gift registry, pick-up and drive up.\n \n  At Target, we believe in our team members having meaningful experiences that help them build and develop skills for a career. The role of a Guest Advocate can provide you with the: \n \n  Ability to communicate and interact with guests to build an inclusive guest experience\n   Ability to blend problem solving and decision making to positively impact the guest experience and resolve guest concerns\n   Ability to adapt to different guest interactions and situations\n   Experience promoting and selling various benefits, offerings and services\n \n \n  As a Guest Advocate, no two days are ever the same, but a typical day will most likely include the following responsibilities:\n \n   Create a welcoming experience by authentically greeting, every guest every time.\n   Make a connection with guests by engaging in friendly and genuine conversation throughout each transaction; asking open ended questions about the guest’s shopping experience and using those questions to assess, understand, and determine how to tailor your approach.\n   Welcome guests into self-checkout and provide assistance as needed.\n   Scan and bag all guest items efficiently, neatly, and in compliance with food safety standards and company best practices.\n   Work efficiently to minimize guest wait time while maintaining guest service and accuracy.\n   Make the guest aware of current and upcoming brand launches, store activities, and events.\n   Speak to the benefits of the REDcard with every guest and assist them through the application process.\n   Understand and show guests how to use Wallet and the other features and offerings within the Target App.\n   Be familiar with all fulfillment services, and know how to direct the guest to enroll, activate, and use them.\n   Attempt every return and follow register prompts, be empowered to make it right for the guest while following Targets policies and procedures.\n   Make it right for the guest by de-escalating any negative situations and recover the guest shopping experience while following Target’s policies and procedures.\n   Deliver easy and seamless service to all Order Pick Up, Drive Up, Registry, and Photo guests.\n   Maintain a clean, clutter free work area (including gathering abandoned items, baskets, and hangers)\n   Stock supplies during store open hours while being available for the guest.\n   Say thank you after every guest interaction and be sure every guest leaves satisfied with their shopping experience.\n   Demonstrate a culture of ethical conduct, safety, and compliance.\n   All other duties based on business needs.\n \n \n  WHAT WE ARE LOOKING FOR\n  We might be a great match if:\n \n   Working in a fun and energetic environment makes you excited…. We work efficiently and as a team to deliver for our guests\n   Providing service to our guests that makes them say I LOVE TARGET! excites you…. That’s why we love working at Target\n   You enjoy interacting with people all day and making things easy for others…. Interacting with guests, solving concerns and making the guests day better is core of what we do\n   You aren’t looking for Monday thru Friday job where you are at a computer all day… We are busy all day (especially on the weekends), making it easy for the guest to feel welcomed, inspired and rewarded\n \n \n  The good news is that we have some amazing training that will help teach you everything you need to know to be a Guest Advocate. But there are a few skills you should have from the get-go:\n \n   Communicating effectively, including using positive language and attentive to guests needs\n   Welcoming and helpful attitude toward guests and other team members\n   Attention to detail while multi-tasking\n   Willing to educate guests and sell products and services\n   Learn and adapt to evolving technology needs\n   Work both independently and with a team\n \n \n  We are an awesome place to work and care about our teams, so we want to make sure we are clear on a few more basics that we expect:\n \n   Accurately handle cash register operations and cash transactions\n   Scan, handle and move merchandise efficiently and safely, including frequently lifting or moving merchandise up to 15 pounds and occasionally lifting or moving merchandise up to 40 pounds\n   Flexible work schedule (e.g., nights, weekends and holidays) and regular attendance necessary\n \n \n  Roles Include:\n \n   Guest Advocate (Cashier)\n   Front of Store Attendant (Cart Attendant)\n \n \n  Americans with Disabilities Act (ADA)\n \n  Target will provide reasonable accommodations (such as a qualified sign language interpreter or other personal assistance) with the application process upon your request as required to comply with applicable laws. If you have a disability and require assistance in this application process, please visit your nearest Target store or Distribution Center or reach out to Guest Services at 1-800-440-0680 for additional information.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=924b31384df0b464&from=vj&pos=bottom&mvj=0&spon=1&adid=382926182&ad=-6NYlbfkN0AgONBeCfCTVljpwzR96jFX3mtyFC--n153CYnqiKkqIY4vcS3R2dTH7njhuQTtI876Z__lxvBPRPEt9H01SMhbRSlKwxLfcK9lZsR1Qw6Mae5rY1f0FzZMOge_fTNEXy9GrLGPrgNtP3dkg696OVZWViljdF1etZcrbW8ccYjcf7slTUYpLChUw9-ZrlO9cbd1nLcAao06Yl9H9x_dMNObPAxAWankrh1mK9vzQ4N9u66JdcI0QUpyglyUDjN20ymSYQAt75Eo5Pt09W-dkjKJRhoHf1g8C2LKpQo_CJBdl7jcofBoYhUH6JylGrtDxqX-OIKgZ9QFLUKMxyvr5t_c56sFEETuxWnhKawwXZ1Aqw%3D%3D&sjdu=QWF4TUFyrHvH7u082A4fa0pO1rt318eSTUTiKtktHqY&vjfrom=serp&astse=41f2eab8592562af&assa=9845",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier/Customer Service/ Gas Station/ Campbell",
+  "salary": "From $15.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Central Gas",
+  "location": "Campbell, CA 95008",
+  "rating": 2.5,
+  "reviewsCount": 4,
+  "url": "https://www.indeed.com/company/Grand-Petroleum/jobs/Cashier-Customer-Service-084ea6fa6d006e50?fccid=b3abb74d004c2612&vjs=3",
+  "id": "084ea6fa6d006e50",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:00.493Z",
+  "description": "We are seeking cashier positions - customer service representatives for our convenience store and gas station. We maintain a safe and friendly environment in a nice neighborhood. Applicants need to be reliable, self-motivated, and customer service-oriented. A Gas Station/ Convenience store Cashier is responsible for overseeing the daily operations of a gas station/ Store. To complete many duties to maintain the station, including attending to and assisting customers, accepting payments, stocking the shelves and maintaining station organization, preparing any hot food, and maintaining the cash drawer balance. To be successful in this role, you should have previous experience in a customer service position and good knowledge of how cash registers operate. You should also be available to take evening and weekend shifts occasionally.\nUltimately, you’ll ensure all transactions run smoothly and will help us maximize customer satisfaction.\nAdvancement roles will be considered upon performance and availability. Full-Time shifts consideration is given upon their availability.\n200.00 sign-on bonus paid in 50.00 installments every payroll after 30 days of employment.\nEmployee Discounts on merchandise (does not include tobacco or alcohol products).\nEvery Thanks Giving, we give a turkey or choice of extra virgin oil.\nWe offer appreciation bonuses ( Disclaimer, bouns are to be discretionary).\nAnnual reviews for raises ( Disclaimer, raises are to be discretionary).\nRequirements\n\n Work experience as a Cashier or in a similar role in sales\n Basic PC knowledge\n Familiarities with electronic equipment, like a cash register and POS\n Good math skills\n Strong communication and time management skills\n Customer satisfaction-oriented\n Able to handle a shift without supervision.\n Cash handling, paperwork, Reconciling and Balancing shifts.\n Lifting to 50lbs\n Must be 21 or older due to alcohol sales; ABC Cert required, and link will be sent for the state cert. (For sites that sell alcohol)\n Food Cert ( For sites that prepare food.)\n\nCashier responsibilities, not limited to the below-listed tasks/ responsibilities.\n\n Greet customers as they arrive at the gas station or the associated shop.\n Manage transactions with customers using cash registers, Collect payments for dispensed gas, and tender change or receipts to customers.\n Scan goods and ensure pricing is accurate\n Collect payments, whether in cash or credit\n Cross-sell products and introduce new ones; sell food, groceries, and vehicle-related items.\n Resolve customer complaints, guide them and provide relevant information\n Maintain clean and tidy checkout areas\n Track transactions on balance sheets and report any discrepancies\n Assist customers in determining methods of dispensing gas by instructing them or helping them pump gas.\n Ascertain that all gas dispensers receipts are filled and in good working order at all times.\n Check for leaks or malfunctions, and ensure that any such incidents get reported timely to the supervisor.\n Ascertain the store items are adequately stocked and communicate low stock situations to supervisors.\n Clean and sanitize shop areas and ensure that no hazardous materials are present in or around the gas station.\n Prepare day-by-day reports.\n Sanitize parking areas, restrooms, and remove garbage.\n Assist customers in pumping gas or pump gas for them if required\n\nTo keep our staff as safe as possible, we installed clear plastic barriers and provided hand sanitizer and gloves.\nJob Types: Full-time, Part-time\nPay: From $15.50 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:To keep our staff as safe as possible, we installed clear plastic barriers and provided hand sanitizer and gloves.\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$18 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Pick N Pull",
+  "location": "7400 Mowry Av, Newark, CA 94560",
+  "rating": 2.9,
+  "reviewsCount": 346,
+  "url": "https://www.indeed.com/company/Pick-n-Pull-Auto-Dismantlers/jobs/Cashier-Customer-Service-4534bbb02bcef034?fccid=0ca0f6d0dba6adf5&vjs=3",
+  "id": "4534bbb02bcef034",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:00.931Z",
+  "description": "Customer Service and Cashier - Day Shift - Full Time$18/hour\nFull Benefits (Medical, Dental, Vision, Paid Time Off)Shift Days: Monday through SundayShift Within the Hours Of: 7:30am - 7:00pm40 Hours Per WeekWeekend Availability Required\nThis position is eligible for a $500 sign-on bonus!\nA $250 sign-on bonus which would be paid following 30-days of continuous employment and another $250 sign-on bonus which would be paid following 120-days of continuous employment!!!\nAbout the Company\nPICK-n-PULL Auto Dismantlers is a self-service auto dismantling and recycling company, now with 60+ LOCATIONS throughout the U.S. and Canada, which is focused on consolidating the highly fragmented recycled auto parts market. PICK-n-PULL is a $300+ million, fastest growing division of Schnitzer Steel Industries, Inc. Schnitzer is a 100 year old publicly traded company with revenues in excess of $1.5 billion.\nGeneral position summary: \n- Greet, assist and advise customers\n- Work as a team to meet the stores sales goals with a ‘can do’ selling spirit\n- Maintain a pleasant, respectful, and helpful disposition\n- Cash handling experience preferred\n- Basic automotive knowledge is a plus\n- Must be 18 or over\n***PICK-n-PULL hire is contingent upon clearing a pre-employment drug screen and background check ***\nIf you are advanced in the process then we will email you inviting you to fill out our company's online application. Once you have filled out the online application, someone will be in contact with you regarding an in-person interview. Please watch your email for the invite.\nSchnitzer Steel Industries is proud to be selected four years in a row as one of the “World’s Most Ethical Companies” and to be recognized for our exceptional values. We promote a workplace free from discrimination and are an Equal Opportunity Employer. We strongly believe that diversity of experience, perspectives, and background will lead to a better culture for our employees, and better products and services for our customers. We cherish our values and encourage everyone to become part of changing the way the world conserves natural resources, supports sustainability, and preserves the environment through recycling.\nSchnitzer Steel Industries offers full time employees benefits such as 401K, health, dental, vision and life insurance. We also offer growth opportunities, employee recognition programs and employee discounts.\n\"By submitting your resume, you warrant that you are the registered subscriber or authorized user for the telephone number(s) provided. You agree to notify the Company immediately, in writing at amrrecruiting@schncom, or 10860 Gold Center Dr. Suite 250, Rancho Cordova, CA 95670 of any change in your telephone number(s) or if you wish to “opt-out” of receiving our messages.”\nPick-n-Pull, a division of Schnitzer Steel Industries, is taking many precautions and has implemented several policies and procedures to make sure that both our customers and employees are safe and protected at our facilities during the pandemic.\nWork Location: One location\nJob Type: Full-time\nPay: $18.00 per hour\nShift:\n\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Weekend availability\n\nExperience:\n\n Cash Handling: 1 year (Preferred)\n Customer Service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Part-time Cashier",
+  "salary": "$18 - $20 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Acara Solutions",
+  "location": "Los Gatos, CA 95032",
+  "rating": 3.2,
+  "reviewsCount": 89,
+  "url": "https://www.indeed.com/company/Acara-Solutions/jobs/Part-Time-Cashier-fad23c93e48a9efa?fccid=de702c22a3b62c95&vjs=3",
+  "id": "fad23c93e48a9efa",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:01.410Z",
+  "description": "Acara Solutions is searching for a Sales Associate for a retail store in Los Gatos, CA.\nSchedule: Flex hours, but 20-25 hours per week.\nPay: $18 /hr\nMajor Responsibilities: \n\n Service all customers through welcome greetings, merchandise sales, cashiering, merchandise bagging and carry-out assistance to customer's vehicle.\n Service all donors by receiving donations, and through carry-in assistance from donor's vehicles, placing donations in designated areas, providing donation receipts and processing receipts with donations.\n Service all volunteers through internal operational support.\n Store opening and closing procedures including cash register drawer counts and end of day income reporting.\n Maintain opening, ongoing, and end of day appearance of sales floor, including dressing room cleanout, dusting, vacuuming, straightening racks and fixtures, and refreshing depleted displays.\n Process donations, including sorting, steaming, pricing, and placing merchandise on sales floor.\n\nJob Type: Part-time\nSalary: $18.00 - $20.00 per hour\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Menlo Park, CA 94025: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Michael Kors Milpitas PT Seasonal Cashier",
+  "salary": "From $18 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Michael Kors Outlet",
+  "location": "Milpitas, CA 95035",
+  "rating": 3.7,
+  "reviewsCount": 1755,
+  "url": "https://www.indeed.com/company/Michael-Kors/jobs/Michael-Kors-PT-Seasonal-Cashier-db48b7c7ddb05ccd?fccid=927356efef1f3075&vjs=3",
+  "id": "db48b7c7ddb05ccd",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:03.985Z",
+  "description": "CASHIER\nMichael Kors has joined with Jimmy Choo and Versace over the last year and is now the 3rd largest luxury group in the world known as Capri Holdings.\nTHE OPPORTUNITY Our contributors at Michael Kors are stylish, fashion forward individuals who are passionate about the customer experience and achieving results. As a Cashier, you are a flexible team player with the ability to multitask and thrive in a fun, inspiring and fast-paced store environment.\nWHAT YOU’LL DO:\n* Deliver an elevated and welcoming experience while responding to customers’ needs quickly and accurately\n* Achieve email capture and sales goals through creative engagement with customers\n* Demonstrate flexibility and perform store tasks with speed and excellence\n* Process POS transactions efficiently and comply with all policies and procedures while creating a memorable experience\n* Assist sales associates in determining customers’ needs and resolving all client issues.\n* Maintain store standards of cleanliness and organization.\n* Drive Omni channel sales by utilizing all available tools and technology\nWE’D LOVE TO SEE:\n* 1+ year of relevant retail experience\n* Consistent and effective communicator that adapts to meet the needs of different audiences\n* Energetic and motivated with the ability to engage\n* Customer service focused; love for fashion\n* Technologically savvy, detail-oriented individual\nTHE BENEFITS\n* Cross-Brand Discount\n* Amazing growth and mobility opportunities across all 3 brands\n* Flexible schedule\nJob Type: Part-time\nPay: From $18.00 per hour\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Milpitas, CA 95035: Reliably commute or planning to relocate before starting work (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashiers & Sales Specialists",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Chase Ace Hardware",
+  "location": "Sunnyvale, CA 94087",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=fca28502aa1302f0&fccid=eb02cd063553a819&vjs=3",
+  "id": "fca28502aa1302f0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:06.884Z",
+  "description": " \n Do you enjoy people and being of service? \n Do you love being a part of a community? \n Are you passionate about making a difference? \n We are looking for cashiers and sales team members! Upon entering the Sprig you will find friendly faces, indoor and outdoor plants, and gifts for every occasion! Yes, I said gifts! We are a family-owned and locally operated business. We want you to grow with us! \n\n Experience in retail or cashiering is appreciated but we are willing to train the right person! Part-time or Full-time. Bottom line -- is we are looking for folks with a great work ethic, strong customer service skills and a willingness to learn. \n\n From our competitive compensation, benefits packages, a respectful team, relaxed cultural values and work environment, we're confident you'll find us a rewarding and even fun place to work.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=fca28502aa1302f0&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiR7b05roy6ri3H5tYqqkwJwsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=9ab1fe07479d6d36&assa=6697",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Michaels Stores, Inc.",
+  "location": "Cupertino, CA 95014",
+  "rating": 3.5,
+  "reviewsCount": 9899,
+  "url": "https://www.indeed.com/rc/clk?jk=a62f3807719789f2&fccid=7bec89cb1b3b9073&vjs=3",
+  "id": "a62f3807719789f2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:06.994Z",
+  "description": "Store - S.JOS-CUPERTINO, CA \nWe're here for the Makers! Come be a part of the team where innovation and teamwork come together to support the most exciting missions in the world! \n\n Michaels is an Equal Opportunity Employer. We are here for all Team Members and all Makers to create, innovate and be better together. \n\n Help customers shop our store and be able to find what they’re looking for. Ensure all customers receive a fast and friendly checkout experience. Maintain store recovery standards to deliver our Brand Promises. Prevent shrink with friendly service. \n\n Major Activities \nAdhere to Standard Operating Procedures (SOP’s) and Company programs to ensure compliance to applicable laws and requirements; execute Company policies and standards \nProvide a fast and friendly check out experience \nExecute cash handling to standards \nEngage customers on benefits of Rewards and complete enrollments \nEducate customer on Voice of Customer (VOC) survey \nParticipate in the truck un-load and stocking processes to ensure truck standards are followed and completed within budget \nResponsible to complete merchandise recovery and maintenance to include the merchandise return / go back process \nSupport shrink and safety programs \nAssist with Omni channel processes \nAcknowledge customers, help locate product and provide solutions \nInteracts with others in an accepting and respectful manner; remains positive and respectful, even in difficult situations; promotes commitment to the organization’s vision and values; projects a positive image and serves as a role model for others \nCross trained in Custom Framing selling and production \n\n Other duties as assigned \n\n Preferred Type of experience the job requires \nRetail and/or customer service experience preferred \n\n Physical Requirements \nAbility to remain standing for long periods of time \nAbility to move throughout the store \nRegular bending, lifting, carrying, reaching and stretching \nLifting heavy boxes and accessing high shelves by ladder or similar equipment \nIf you need help performing these functions of your job, please contact supervisor so that we may engage in the interactive process with you and find a reasonable accommodation \n\n Work Environment \nPublic retail store setting taking care of our customers; all public areas are climate controlled; some stock rooms may not be climate controlled; some outdoor work if assigned to retrieve shopping carts or while unloading trucks; Frame shop contains glass cutter and heat press; work hours include nights, weekends and early mornings \n\n Applicants in the U.S. must satisfy federal, state, and local legal requirements of the job.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=a62f3807719789f2&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjegg56GveBhmM-ZThwnQ4EMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=c6f7a8758a283ab6&assa=6701",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "CASHIER",
+  "salary": "$16 - $20 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Gawfco Enterprises",
+  "location": "Fremont, CA 94538",
+  "rating": 4,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/company/Gawfco-Enterprises/jobs/Cashier-9c7b5e6d9bb82d7a?fccid=af981a2e365a484f&vjs=3",
+  "id": "9c7b5e6d9bb82d7a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:07.101Z",
+  "description": "CIRCLE K , CONVINIENT STORE , KRISPY CRUNCHY CHICKEN\nJob Types: Full-time, Part-time\nPay: $16.00 - $20.00 per hour\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Fremont, CA 94538: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Outdoor Supply Hardware - Princeton - Full and Part Time Cashiers and Sales",
+  "salary": "From $17 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Central Network Retail Group, LLC",
+  "location": "San Jose, CA 95118",
+  "rating": 2.6,
+  "reviewsCount": 29,
+  "url": "https://www.indeed.com/rc/clk?jk=76aa1a9d00425c21&fccid=846153dbb2ff75ff&vjs=3",
+  "id": "76aa1a9d00425c21",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:08.096Z",
+  "description": "\n Looking for a part time job to earn some extra money - help pay for school - or just get paid for having fun working in your neighborhood hardware store. And get the best employee discount in the business!\n  Our Outdoor Supply Hardware in Princeton is looking for positive, energetic people who love to connect with customers and enhance their experience. We want you to enjoy what you do and use your innate expertise and teamwork to create a can-do atmosphere. Come in and talk to us about opportunities available here.\n  Our current need is for Full and Part Time Cashiers - part time sales - work where you love to shop\n  Have fun, make some money, and build a career with OSH - pay starts at $17\n \n  Apply through our website: outdoorsupplyhardware.com\n  These jobs are hourly positions and eligible for overtime. There are no guarantees for career progression. This does not mean that you will not be considered for other store positions or opportunities. Outdoor Supply Hardware's culture is to promote from within and consideration will be given to internal candidates with experience.\n  Outdoor Supply Hardware complies with all applicable equal employment laws, including the Americans with Disabilities Act. Qualified individuals with a disability may request reasonable accommodation from the company.\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier- DoubleTree San Jose",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Hilton",
+  "location": "2050 Gateway Place, San Jose, CA 95110",
+  "rating": 4,
+  "reviewsCount": 15234,
+  "url": "https://www.indeed.com/rc/clk?jk=29d20b82c1530724&fccid=6f47211b0637a52d&vjs=3",
+  "id": "29d20b82c1530724",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:08.888Z",
+  "description": "\n A Food and Beverage Cashier is responsible for totaling and processing guest food and beverage purchases in the hotel's continuing effort to deliver outstanding guest service and financial profitability.\n  \n  \n What will I be doing?\n  \n  As a Food and Beverage Cashier, you would be responsible for totaling and processing guest food and beverage purchases in the hotel's continuing effort to deliver outstanding guest service and financial profitability. Specifically, you would be responsible for performing the following tasks to the highest standards:\n  \n  \n  Greet and acknowledge guests upon check-out from dining outlet \n  Accurately total, process and collect payments from guests to include, but not limited to, using the point-of-sale system, handling money, processing credit and debit cards, making change and processing gift certificates and cards \n  Ascertain guest satisfaction and work to resolve any guest issues or concerns, enlisting the assistance of a supervisor, if necessary \n  Respond to guest inquiries and requests in a timely, friendly and efficient manner\n \n  \n  What are we looking for?\n  \n  Since being founded in 1919, Hilton has been a leader in the hospitality industry. Today, Hilton remains a beacon of innovation, quality, and success. This continued leadership is the result of our Team Members staying true to our Vision, Mission, and Values. Specifically, we look for demonstration of these Values:\n  \n \n  Hospitality - We're passionate about delivering exceptional guest experiences. \n  Integrity - We do the right thing, all the time. \n  Leadership - We're leaders in our industry and in our communities. \n  Teamwork - We're team players in everything we do. \n  Ownership - We're the owners of our actions and decisions. \n  Now - We operate with a sense of urgency and discipline \n \n  In addition, we look for the demonstration of the following key attributes:\n  \n \n  Quality \n  Productivity \n  Dependability \n  Customer Focus \n  Adaptability \n \n What will it be like to work for Hilton?\n  \n  Hilton is the leading global hospitality company, spanning the lodging sector from luxurious full-service hotels and resorts to extended-stay suites and mid-priced hotels. For nearly a century, Hilton has offered business and leisure travelers the finest in accommodations, service, amenities and value. Hilton is dedicated to continuing its tradition of providing exceptional guest experiences across its global brands. Our vision \"to fill the earth with the light and warmth of hospitality\" unites us as a team to create remarkable hospitality experiences around the world every day. And, our amazing Team Members are at the heart of it all!\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=29d20b82c1530724&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgVFSqsLLRN1tHPX6_SlOcvIv02HSGSZoWequxOEmCHqw&vjfrom=serp&astse=40a500c81f529a8e&assa=8756",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Ace Hardware | Cashiers and Sales Associates",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Chase Ace Hardware",
+  "location": "Sunnyvale, CA 94087",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=3e07799f2c2bc24a&fccid=eb02cd063553a819&vjs=3",
+  "id": "3e07799f2c2bc24a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:09.008Z",
+  "description": " \n Do you enjoy people and excel in customer service? \n Do you love being part of a community? \n Join our rapidly expanding team of energetic, knowledgeable and passionate people. \n\n We are looking for vibrant and personable cashiers and sales team members to join us in promoting a friendly and convenient shopping experience within our locally owned and operated retail stores. \n\n Experience in retail or cashiering is appreciated but we are willing to train the right person. Part-time or full-time. Bottom line – is we are looking for folks with a great work ethic, strong customer service skills and a willingness to learn. We want you to grow with us! \n\n We are a family-owned and locally operated company with 5 Ace Hardware locations throughout the bay area. We have a passion for delivering friendly, convenient, and helpful service to every customer, every time. \n\n From our competitive compensation, benefits packages, a respectful team, and a relaxed work environment, we are confident you will find us a rewarding and enjoyable place to work. \n\n To apply, please respond with your resume and a summary of your experience and interests.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=3e07799f2c2bc24a&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXigObKsj5t6AnVek0dUNt6E5Z_dA0xndw9ylAW4Hz2CAQ&vjfrom=serp&astse=c25617a2714177fa&assa=8796",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier/Customer Service Associate",
+  "salary": "From $18 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Marukai Corporation",
+  "location": "Cupertino, CA 95014",
+  "rating": 3.1,
+  "reviewsCount": 46,
+  "url": "https://www.indeed.com/company/Marukai-Corporation/jobs/Cashier-Customer-Service-Associate-ab4f2bb651307d14?fccid=f30f97d666826b26&vjs=3",
+  "id": "ab4f2bb651307d14",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:09.191Z",
+  "description": "We are looking for energetic people who are able to work in a fast paced environment as a cashier. Our team members are responsible for executing a wide variety of tasks, such as checking and bagging customer's groceries. We are looking for part time and seasonal workers.\nResponsibilities:\n\n Open & close assigned cash registers\n\n\n Work various shifts, days or nights as assigned by Store Manager in accordance with the Company’s business needs\n\n\n Scan merchandise purchased\n\n\n Process purchases quickly and efficiently\n\n\n Providing great customer service, including greeting and responding to questions to all customers and staff\n\n\n Maintain cleanliness of work area, storage area, and selling floor\n\n\n Ensure a safe and secure work environment\n\nJob Types: Full-time, Part-time\nPay: From $18.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n Day shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nExperience:\n\n Customer Service: 1 year (Preferred)\n Cashiering: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Lead Cashier",
+  "salary": "$17.25 - $20.25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Crossroads Trading Co. Inc.",
+  "location": "San Jose, CA 95123",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=7266e128a201d9c0&fccid=612c5d88ebcb8eb7&vjs=3",
+  "id": "7266e128a201d9c0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:10.123Z",
+  "description": "\n “Creative, friendly!” “Fun, Collaborative!” “Great Work Environment!” That’s how our employees have described working for Crossroads, a popular buy-sell-trade retailer with stores throughout the country. Do you LOVE fashion and want to work for a company that gives you the opportunity to express your creativity and also provides opportunities for growth? That’s what it means to be a Crossroads team member.\n  \n  \n Benefits/Perks \n \n  Medical, Dental, Vision and 401k Benefits for FT employees \n  Vacation and holiday pay for FT employees \n  Sick pay \n  Competitive wage \n   Flexible work schedule \n  Significant discount on all merchandise, including designer consignment pieces \n  A professionally developed buyer training program \n \n  \n Job SummaryCrossroads Trading, a popular resale shop with stores throughout the country, is looking for full-time and part-time Lead Cashiers. Are you fashion-obsessed, great with customers, and excel at using a Point-of-Sale (POS) system? If you've said “Yes, Yes, Yes”, then we'd love to hear from you! We are looking for someone with operational management skills and the ability to deliver a superior customer experience. \n  \n  \n Responsibilities\n  \n  Working at the Point of Sale (POS) counter and handling all sales-related tasks, including operating POS software, counting cash, making change and providing customers trade cards for the clothing they’ve sold. \n   Assisting customers on the sales floor, in the dressing room, at the register and buy counter. \n   Processing merchandise so it is ready for the sales floor. \n  Helping merchandise the store by creating window and interior displays. \n   Keeping the store clean and presentable. \n  Assisting with store security, which includes checking bags and monitoring the dressing rooms and other parts of the store. \n  Being a role model and leading by example. \n \n  \n Qualifications\n  \n  Minimum 6 months experience in the retail industry \n  Experience using a POS \n  Excellent customer service and communication skills \n  Mastery of sales floor support \n  Ability to multitask and problem-solve \n  Experience with store open/close processes and employee training is a plus but not required. \n \n  \n Company OverviewAt Crossroads, we want you to show up as your authentic self; this means bringing all of the characteristics that make you you. We celebrate and embrace the differences of all of our employees and want you to feel that you belong, starting from day one. This is not a commitment we take lightly and it means we must regularly work and reflect on our company culture, values, and beliefs in order to identify ways to create a diverse, equitable, and inclusive workplace. If you want to help us continue to lead the sustainable, pre-loved fashion industry as we’ve done for 30 years, we would love to hear from you!\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$16.00 - $16.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Ross Dress For Less",
+  "location": "Cupertino, CA",
+  "rating": 3.4,
+  "reviewsCount": 15687,
+  "url": "https://www.indeed.com/company/Ross-Dress-For-Less/jobs/Cashier-Customer-Service-ceecb96f0090242f?fccid=b36c94d1cb5b3ddc&vjs=3",
+  "id": "ceecb96f0090242f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:10.038Z",
+  "description": "Opening Cashiers working directly with customers.\nJob Type: Part-time\nPay: $16.00 - $16.50 per hour\nShift:\n\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Customer Service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Seasonal Cashier Associate",
+  "salary": "$16.20 an hour",
+  "jobType": [
+    "Part-time",
+    "Seasonal"
+  ],
+  "company": "Burlington Stores",
+  "location": "San Jose, CA 95129",
+  "rating": 3.2,
+  "reviewsCount": 11840,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CJm4vJz7SDlL3lGccjaB2wU5huGLb-8XfJ0aGDrrd1pHK6w7Bb23FcixGc9BBH0kVEOUqlkPG79VLfWlmZEcAvCbZZ8FyqBWQRHSogMv6ysYzCc7e1aaUEWCzzIu5FVJdawuWW4xHCMsaZ3uDgY6PyTcdj6LmQ3smGKaF3P-IIdLJkbKbNIHo0Om7mfdj08XWV-A5OU5WCKBjtgs8SbJoqM3y9eCFK2wWU1Xpg5382cwjUP6EG9pBpCk2PgqSywDLEOGjG0E5EGxiiCvWbqa9ExajVZy11bG3zA6MsMas9PJzAYNjmInGXSSlBm7OpiCuE0dvebmnhZa-VupmNTAm6M-j8EWGGhzJuQzrmKT_hWieeL8o4KEA96zVGiS2TNWvfqNquuimtBI8lCVQBAr3t_EDMPNlZnn9-VHgFO9tBAHIuiT5RY10P4JJGanEKWo75c0T4NblgGVjaW8HWAtTk5lO4kC0mLZCdUgRqpXDq-jNs56A9NTKl5Sy3ciAzGzR8jqmoihw5Waw_gVtbd9ETy2BmgqGkCnTFHojVZvcpXFRfKABb_h3xyiaBSiaLTpb87dJPRlRKW1jI3iMqqybbJAF-0F_Yiak=&xkcb=SoCw-_M3WvPPmEwiwR0KbzkdCdPP&p=2&fvj=0&vjs=3",
+  "id": "4257f25efe59d4e4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:10.897Z",
+  "description": "\n LOCATION 1600 Saratoga Ave San Jose CA US 95129 \n Overview \n If you want an exciting job with one of the largest off-price retail stores in the nation, join the Burlington Stores, Inc. team as a Cashier! Are you a people person with an outgoing and friendly demeanor? Can you think on your feet in a fast-paced and demanding environment? Do you enjoy the satisfaction of positively impacting someone’s day? If so, this may be the right role for you! \n Cashiers are at the heart of Burlington’s success! As the last person our customers interact with in stores, you’re tasked with the great responsibility of creating a lasting and positive memory of their Burlington shopping experience. By always maintaining a positive and professional attitude, and working to deliver excellent customer service that addresses all the customer’s needs while getting them through the check-out process quickly and easily, our cashiers are key in helping us provide a world-class shopping experience to our customers. \n Responsibilities: \n \n  Deliver excellent customer service with a positive, professional attitude \n  Accurately and efficiently ring on register \n  Process layaways, returns, and exchanges \n  Perform other tasks as assigned by manager from time-to-time \n \n Candidates must be able to work a flexible schedule; including nights, weekends and holidays as required. \n If you… \n …are excited to deliver great values to customers every day; \n …take a sense of pride and ownership in helping drive positive results for a team; \n …are committed to treating colleagues and customers with respect; \n …believe in the power of diversity and inclusion; \n …want to participate in initiatives that positively impact the world around you; \n Come join our team. You’re going to like it here! \n You will enjoy a competitive wage, flexible hours, and an associate discount. Part-time associates, based on hours worked, may be eligible for Burlington’s benefits package which includes dental and vision coverage, and including life insurance. Part-time associates may also be eligible for paid time off, paid holidays and a 401(k) plan. \n We are a rapidly growing brand, and provide a variety of training and development opportunities so our associates can grow with us. Our store teams work hard and have fun together! Burlington associates make a difference in the lives of customers, colleagues, and the communities where we live and work every day. Burlington Stores, Inc. is an equal opportunity employer committed to workplace diversity. \n Location US-CA-San Jose \n Posting Number 2022-185884 \n Address 1600 Saratoga Ave \n Zip Code 95129 \n Workplace Type On-Site \n Position Type Seasonal Part-Time \n Posted Date 2 months ago (10/3/2022 1:47 PM) \n Career Site Category Store Associate \n Position Category Store Associate \n Evergreen Yes \n Min USD $16.20/Hour\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=4257f25efe59d4e4&from=vj&pos=bottom&mvj=0&spon=1&adid=403012978&ad=-6NYlbfkN0CJm4vJz7SDlL3lGccjaB2wU5huGLb-8XfJ0aGDrrd1pHK6w7Bb23FcixGc9BBH0kVEOUqlkPG79VLfWlmZEcAvCbZZ8FyqBWQRHSogMv6ysealZYrI1plt0zd4ei7eZsKh8w0mhDBkQlv96JvN1aY7DaJBaAborX9k7SuMgEUHkdWsbBl8nIC_F7YvJ-_o18anbIJnjRhXImfiRUFAxQ1Lynpdx8Dt6LjSq55iqXgOhwVqES6ewM0LLDWmwJK7q4DrNkgXtSR6iyKSHla75cTKFWFPPBi07UikSK-kA4nGDh7AXMsoFMiBQqg4s-afDXlcDuvdUVjGuyw0MkjFYuSOyT01A0oaORGBHqhlDD667FSnOhDLEIZTcN4PY58PnHI0vGgL0fjqZg%3D%3D&sjdu=Zku6eJFgtULdwPOT05RzghntDMcpvNCbB8W5MhiFvubTYFFqGNO20NWk-gN54qXyG4UA7Buay_Ww1Y47iNqL1g&vjfrom=serp&astse=667963e2060d1bf2&assa=8929",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Multi-Purpose Clerk - Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "The Save Mart Companies",
+  "location": "San Jose, CA 95122",
+  "rating": 3.6,
+  "reviewsCount": 779,
+  "url": "https://www.indeed.com/rc/clk?jk=93d04a1b45c77f68&fccid=e6661c471fa7de35&vjs=3",
+  "id": "93d04a1b45c77f68",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:11.650Z",
+  "description": "\n Multi-Purpose Clerk - Cashier - 1972 Tully Road, San Jose, CA 95122 USA \n \n The Multi-Purpose Clerk may be assigned to one of several departments within the store – to include Center Store, Produce, Meat/Seafood, Bakery/Deli, or Janitorial. The Multi-Purpose Clerk is responsible for promoting sales within assigned department, answering our customers’ questions, responding to customer requests for products, and accurately placing special orders. The Multi-Purpose Clerk practices safe food handling procedures, maintaining clean work area, orderly and free from safety hazards. The Clerk receives, inspects, and logs products for accuracy of shipment and quality as well as stocks, rotates, and merchandises product to maintain freshness and department appeal. \n Key Responsibilities and Accountabilities: \n The Multi-Purpose Clerk may be assigned to any of the following assignments/departments: \n \n   Center Store/Front End – Operate the checkstand according to company policy and procedures, memorize PLU codes and keep up to date with new products; order, receive, unload, stock and rotate product onto shelves and cases in all areas of center store operations; merchandise product and perform Point-Of-Sale (POS) and inventory activities \n \n \n   Produce - Receive, inspect, and log products for accuracy of shipment and quality; trim, wash, and wrap produce according to company policy; stock, rotate, and merchandise product to maintain freshness and department appeal; maintain floral area both inside and outside of store; keep all areas and equipment of the department clean\n  \n \n   Meat/Seafood - Receive, inspect, and log products for accuracy of shipment and quality; weigh, wrap/package and label products for display; stock, rotate and merchandise product to maintain freshness and department appeal; provide customer service at the seafood counter; take special orders for items such as custom cuts of meat or holiday items; may operate equipment such as slicers and wrappers; keep all areas and equipment of the department clean \n \n \n   Bakery/Deli - Receive, inspect, and log products for accuracy of shipment and quality; prepare, weigh, package, and label products for display; stock, rotate, and merchandise baked goods and deli products to maintain freshness and department appeal; take special orders for items such as cakes and party trays; may operate equipment such as ovens, proofers, slicers, and mixers; keep all areas and equipment of the department clean\n  \n \n   Janitorial - Maintain cleanliness and sanitation throughout the store; sweep and mop sales floor, front end, back rooms, and refrigerated areas; clean restrooms, break room, office areas, shelving and cases, front end equipment, shopping carts, and vending machines; clean front of store and parking lot, and empty trash; may operate janitorial equipment such as scrubbers and buffers\n  \n \n   Pharmacy - Operate the pharmacy register according to company policy and procedures and keep up to date with new products; take prescriptions from customers for the pharmacist to process and handle completed orders for customers at the register; maintain cleanliness and sanitation throughout the department; must maintain confidentiality at all times\n  \n Duties Included in all departments: \n \n   Sweep and mop sales floor, front end, back rooms, and refrigerated areas\n  \n \n   May operate forklift if authorized and certified\n  \n \n   May operate baler if authorized\n  \n \n   Perform other duties as assigned\n \n  \n \n Requirements (Knowledge, Skills and Abilities):\n \n   Must be at least 18 years of age\n   Excellent customer service and communication (verbal and written) skills \n   Ability to work with a sense of urgency and self-motivation \n   Capability to be proactive, initiative, enthusiastic, and flexible on the job\n \n  Education: High School Diploma (or G.E.D.) or additional job experience\n  Experience: Six months of related experience\n  Other: Must be available to work a variety of required retail hours; must be at least 18 years of age\n  Physical: Requires standing and other physical movements on a frequent basis; requires lifting up to 40 lbs. without assistance\n  Competencies:\n \n   Customer Connection\n   Quality/Quantity of Work\n   Personal/Interpersonal Skills\n \n  \n Some of our awesome benefits include: benefits package options which include Health, Dental, Vision, Life, 401K, flexible schedule options, Foodie Friday events (great eats and games!) throughout the year, Employee Connection (earn fun and valuable prizes!), Life Long Learning – Educational opportunities, Employee Association (discounted and free tuition options, contests, and support services). \n The Save Mart Companies is an Equal Opportunity Employer, and we welcome resumes from individuals who will contribute to our diverse workforce.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=93d04a1b45c77f68&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXg6lb5yB-q9s9280oxY1yRRl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=414846954f02eb0a&assa=1353",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Sales associate/Receptionist/Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Midas IYER",
+  "location": "San Jose, CA 95111",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=49e5b361a503285c&fccid=084653b09ebd6118&vjs=3",
+  "id": "49e5b361a503285c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:11.710Z",
+  "description": "\n Midas is a national chain Automotive repair facility. At our concord location we are looking for a Cashier/receptionist/sales associate.\n  Duties include:\n  \n \n  check-in and check-out customers.\n  communicate with mechanics and customers\n  Explain services to customers.\n \n  qualifications:\n  \n \n  High school or equivalent\n  Some amount of relevant experience\n  good comfort level with Personal computers\n  Excellent communication skills\n \n  Experience: Some form of Sales/customer support experience desired\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "From $16.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "99 Ranch Market",
+  "location": "San Jose, CA 95131",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/99-Ranch-Market---Beaverton/jobs/Cashier-Customer-Service-6c85eb9ef5b1e649?fccid=885ae2207e7a489c&vjs=3",
+  "id": "6c85eb9ef5b1e649",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:12.496Z",
+  "description": "99 Ranch Market is the largest Asian supermarket chain in the United States, with over 60 store locations across 10 states and more to come! We are passionate and honored to shape the Asian Supermarket culture within the grocery industry. \"For 100, we try harder\" is our commitment to always provide the best products and services to the communities we serve. With our new expansion strategy and efforts in our cross-generational transition to continue growing our footprint across the country, we welcome YOU to join and grow alongside our family!\nJob Description: \n\n Proactively greet customers, and answer their questions in a professional manner\n Identify product items properly\n Scan customer orders accurately and efficiently\n Follow all cash handling procedures and complete the process accurately and efficiently\n Bag items properly\n Answers customer inquiries by phone or in person with appropriate etiquettes\n Conducts customer returns and exchanges in compliance with the company policies\n Properly handles customer suggestions and complaints for customer retention\n Review, create and apply new batches. Update prices in the system. Make various sizes of price tags, and ensure price tags and signage are correctly labeled\n Process online orders according to company procedures\n Maintains clean, organized work areas, and comply with internal procedures\n Perform other duties as for business needs\n\nMinimum Requirement: \n\n Previous front end customer service experience preferred\n Knowledge of cashier registers, POS devices, online orders platforms, and computers\n Excellent communication skills and willingness to help with customer requests\n Available to work on weekends and holidays or rotating schedules\n\nSkills Requirement: \n\n Good customer service skills\n Good time management skills\n Good attention to details\n\nPhysical Demands: \n\n Standing for extended periods is commonly required\n Repetitively ring up items of 0 -5 lbs\n Make repetitive finger and wrist movement\n Good manual dexterity for the use of processing equipment such as cutter or labeling\n Ability to lift 30 lbs or more with appropriate equipment\n\nEmployment Type:  Full-time and Part-time\nCompany Benefit: (*only for full-time employees)\n\n Employee discount\n Flexible schedule\n Health insurance\n Dental insurance*\n Vision insurance*\n Life insurance*\n 401(k) matching*\n Paid vacation*\n\nDisclaimer: \nTawa Group dba 99 Ranch Market, is an equal opportunity employer committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws.\nJob Types: Full-time, Part-time\nPay: From $16.50 per hour\nBenefits:\n\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nApplication Question(s):\n\n What's your desired pay rate\n Are you at least 18 years of age?\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Customer Service: 1 year (Preferred)\n\nLanguage:\n\n Chinese (Preferred)\n Spanish (Preferred)\n Vietnamese (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Azimian Hardware, Inc.",
+  "location": "San Jose, CA 95125",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=e840fabb20832874&fccid=682858c775e4b631&vjs=3",
+  "id": "e840fabb20832874",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:13.125Z",
+  "description": "General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation of Forest Hill Ace Hardware. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. Face and dust front end. \n Perform all other duties as assigned. \n Cash handling experience is necessary. \n Education/Training \n\n High School or GED equivalent. \n\n Experience \n\n Cashier experience preferred. Customer service experience preferred. \n\n Physical Demands \n\n Standing, walking, lifting (up to 25lbs) and climbing.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Retail Cashier Hiring Event",
+  "salary": "$19 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Zara, USA INC.",
+  "location": "Santa Clara, CA 95050",
+  "rating": 3.7,
+  "reviewsCount": 7175,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Btxs39KmTzjw_u_hUXcyTcLpNeUj18C2Nw5A7DCW0FWNZuScfYJz7ToxMs1TigifFRHEm47FBtWA9dhI5K-z3VcTELMPmcbs-dA89Ja3bRR8Kxi_xjDcqE-G1s7E9DJbihRcVm3QFf6tHiY8qxLtPBbUg-eUAOk3eMftNc48fgRpunz8xIN5-KNPjvwjXrXU3hG0pgXiTqNK4ReraBeFBBNdZtFAeM7cwIep7rSdXzgN5w-kK4lC0uWfBC2Ngd0ZA2W2QYedGaKt8byxzyEsAdHjxJWagvm90nxEru0WqeMSz_up6sq9Jjt1pe5-Sw9nqvcogDVBCsOwvUWTX_bpHG5nVOdvFr7jWXFSAnGJTpDIOzyRkvhblSUMmomPhkjjCqkgkT1m3Mlj5b4ej6OYtAhqnNiMa8gBVTI5mUiyf0HAhVKkWM-E1Ob6hw45IWzvax3K00KrCRT9O662oQCB45mJRPqrmg6BM85DzmwPuaGsS7NVkG8J_Ai0D-9I_TzQeooPFKjxRK2PzIZPIjoOUjeApTm3VXPEIwCAD4vkKkBt9TfLUFFDDIPOee6_9mLzZOcYZWhMpMrvkFMwoyi453qONq8OGm44YrU_-BM1_frODDIB6O6ozbeLVqBSlI8hiHBudTbwNd-g7nZ2hIIDnxo_FuYcQVRUjHnJ15lczTFLKvk-NkrtdagqjxKJLuf3OE_0KcY85Zob5w2bp8A3W8WXCDfsjPZvcC6ZJD_T-W80FDkjxjryLg2QGHuUUKChztnri1eehFKA==&xkcb=SoA8-_M3WvPPJY0YIh0FbzkdCdPP&p=14&fvj=0&vjs=3",
+  "id": "57cf44f4cfe6a992",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:16.510Z",
+  "description": "\n About us Zara offers the latest fashion trends for women, men and children. An international brand with stores in the main cities of the world and online. Our business model is centered in our customers, constantly adapting to their needs. We love what we do. Teamwork, passion, curiosity, diversity, sustainability, creativity and humility are our daily motivation. Does it sound like you? Maybe you are a Zara person. \n How we imagine you \n You are passionate, curious, motivated and dynamic, with something different to contribute. You are a multitasker, creative, unstoppable and proactive. You love fashion and celebrate self-expression. You shine in a fast-paced environment, where you can be yourself around talented people like you! Having previous retail experience is a plus, but what we care most about is that you want to learn and grow with us. At Inditex you will find more than a job. \n What we expect from you \n \n  From day one you'll work on a team and have your own voice. You’ll develop your skills and be given responsibilities. You’ll have all the tools at your fingertips to make a difference. As a Sales Assistant, part of your responsibilities will be:\n   \n  \n   Deliver a high level of customer service\n   Support the cash desk and delivery teams\n   Understand the latest fashion trends\n   Replenish the shop floor\n   Adhere to all the health&safety and security procedures\n   Support other store functions when needed\n  \n  \n What we offer \n In addition to a competitive salary, you will also receive 25% discount to buy the latest trends in any of our brands and a variety benefit package where you can find a wide range of discounts. Our internal talent is our greatest asset and we are proud of offering internal promotion programs where you will find opportunities to grow, e-learning and training programs as well as social projects to get involved and contribute to a better society, and much more! \n Zara USA, Inc. is an Equal Opportunity Employer.  All qualified applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender, gender identity, gender expression, disability, age, citizenship status, veteran status or any other characteristic protected by applicable federal, state or local laws.  JOIN US NOW!  EOE/DFW \n Job requirements \n  \n \n  Are you at least 18 years of age or older? \n \n \n What to prepare \n  \n \n  Share your resume \n  State Issued Photo ID \n  Secondary ID \n \n \n Preferred dress code \n  Casual (come as you are, but please be presentable) \n Perks and benefits \n  \n \n  Company swag \n \n \n What is a hiring event? \n  Think of it like a job fair, but for one company and more personal. Hiring events are a great way for employers to fill multiple roles quickly. Hiring is a human process, and they would like to meet you to see if you’re a fit!\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$17 - $18 an hour",
+  "jobType": null,
+  "company": "CREAM Cupertino",
+  "location": "Cupertino, CA 95014",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=0aa3e447b3626a81&fccid=3ca40b15ac37f434&vjs=3",
+  "id": "0aa3e447b3626a81",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:16.756Z",
+  "description": "\n R&F Frozen Cream Inc in Cupertino, CA is looking for one cashier to join our team. We are located on 19501 Stevens Creek Blvd. Our ideal candidate is attentive, motivated, and reliable.\n  Responsibilities\n \n   *Greet customers entering and leaving the business *Maintain a clean and tidy work area *Accurately process all cash and credit payments *Provide exceptional customer service\n \n \n  Qualifications\n \n   *Proven working experience as a cashier or in customer service *Basic mathematical skills *Strong attention to detail *Ability to listen and communicate effectively *We are looking forward to receiving your application. Thank you. \n  \n Available shifts and compensation: Available shifts on Sundays and Saturdays. Compensation is $17.00 - $18.00/hour.\n  About CREAM Cupertino : CREAM Cupertino is looking for an individual to join our team. Our ideal candidate is self-driven, motivated and trustworthy.\n  By applying to this job, you agree to receive periodic text messages from this employer and Homebase about your pending job application. Opt out anytime. Msg & data rates may apply.  Powered by Homebase. Free employee scheduling, time clock and hiring tools.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=0aa3e447b3626a81&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjNou_3dso7E9kTHAp9hLk82Lr7DfU83qy6ilMSvPFMEw&vjfrom=serp&astse=47b15fa4df224ea2&assa=6631",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier",
+  "salary": "From $17 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Walmart Neighborhood Market #3123",
+  "location": "Santa Clara, CA 95054",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?cmp=Walmart-Neighborhood-Market-%233123&ti=Cashier&jk=9383be849475431d&fccid=8ab29856773ff76c&vjs=3",
+  "id": "9383be849475431d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:18.428Z",
+  "description": "Work with customers to assist with their purchases. Working on the register.\nJob Type: Part-time\nPay: From $17.00 per hour\nBenefits:\n\n 401(k) matching\n Employee discount\n Health insurance\n Paid time off\n\nShift:\n\n 8 hour shift\n\nAbility to commute/relocate:\n\n Santa Clara, CA 95054: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Front End Cashier Assistant",
+  "salary": "From $19.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Costco Wholesale",
+  "location": "Mountain View, CA 94043",
+  "rating": 4.1,
+  "reviewsCount": 14385,
+  "url": "https://www.indeed.com/company/Costco-Wholesale/jobs/Front-End-Cashier-Assistant-2d13739b0ac73d30?fccid=9b77e2b0ccfb3838&vjs=3",
+  "id": "2d13739b0ac73d30",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:20.796Z",
+  "description": "Front end Assistant help cashier package orders, run items back to the floor, pull carts from the lot, help out in other areas of the store as necessary. We are a fast paced busy environment.\nJob Type: Part-time\nPay: From $19.50 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n Day shift\n Evening shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Weekend availability\n\nAbility to commute/relocate:\n\n Mountain View, CA 94043: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Customer service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Cashier PT, Valley Fair - Williams Sonoma",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Williams Sonoma",
+  "location": "Santa Clara, CA 95050",
+  "rating": 3.4,
+  "reviewsCount": 3191,
+  "url": "https://www.indeed.com/rc/clk?jk=6aa436536a92beed&fccid=cdd85c4d445cce0f&vjs=3",
+  "id": "6aa436536a92beed",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:21.025Z",
+  "description": "O\n\n\n \n  \n   \n    \n     ur Company F\n      \n      \n    \n   \n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6aa436536a92beed&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXh44ZLlgXzhHd2D0PoU-HRMQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=76ee29306273ed19&assa=839",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Seasonal Cashier/Stock Associate/ Sales Associate",
+  "salary": "$18 - $19 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Total Wine & More",
+  "location": "San Jose, CA 95129",
+  "rating": 3.2,
+  "reviewsCount": 896,
+  "url": "https://www.indeed.com/company/Total-Wine-&-More/jobs/Seasonal-Cashier-Stock-Associate-93e900972dc076f2?fccid=eeb4d7a9b77e24e5&vjs=3",
+  "id": "93e900972dc076f2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:21.131Z",
+  "description": "Cashier / Stock / Sales Team Member\nStores San Jose, CAApplyDescription\nAbout the role\nAs a Retail Team Member, you play an essential role in the customer service experience by providing customers with fast and friendly service. You will build relationships with customers, process transactions, maintain floor merchandise and inventory standards, answer questions, and ensure customers leave feeling positive about their visit. Both part-time and full-time positions may rotate between working as a cashier, a sales specialist or merchandiser/stock associate. You will report to the store management team.\nJoin us to become an industry expert in a fun and thriving retail company!\nYou will\n\n Provide customer service by greeting and establishing a relationship with customers while informing them of our products and services.\n Perform cashier functions and follow minor policy while completing customer transactions\n Participate in wine, spirits, and beer training to learn how you can provide customers with recommendations and connect them to the right products\n Replenish and maintain inventory and store visual presentation, including home spots, end caps, and platforms in preparation for product delivery\n Maintain store safety and cleanliness standards on the sales floor, stock room, lockers, kitchen, bathroom, etc.\n\nWhat we're looking for\n\n 21 years of age or older\n Ability to work a flexible schedule as business requires, which may also depend on your preference for part-time or full-time hours\n Experience using technology applicable to the position and access information necessary to complete daily responsibilities\n 1-year retail sales associate, cashier/cash handling, merchandiser, or inventory specialist experience preferred, to include greeting customers, stocking, merchandising, managing inventory, or replenishment\n Strong interpersonal skills with a positive and engaging attitude\n Value collaboration and acting as a team player\n Desire to develop retail service skills and knowledge of product and services\n WSE, Sommelier, or other industry certification preferred\n\nPhysical Requirements (with or without accommodations)\n\n Walk, bend down repeatedly, and be on feet for 8-10 hours a day\n Climb ladders and lift 50 lbs. overhead and repeatedly\n\nWe offer\n\n Paid Time Off (PTO)\n Generous store discounts\n Health care plans (medical, prescription, dental, vision)\n 401(k), HSA, FSA, Pre-tax commuter benefits\n Disability and life insurance coverage\n Paid parental leave\n Pet insurance\n Critical illness and accident insurance\n Discounted home and auto insurance\n College tuition assistance\n Career development, industry knowledge, and wine, spirits, and beer education\n Consumer classes\n & More!\n\nGrow with us!\nTotal Wine & More is the country’s largest independent retailer of fine wine, beer and spirits, and we continue to grow our footprint year over year. Total Wine offers exciting and unique career opportunities across the country and in our corporate office. Our strength is our people. We have a commitment to training and career growth, all in an environment that values new ideas and teamwork. If you share our entrepreneurial spirit and a passion for providing best-in-class customer experience, take a moment to apply or learn more at www.TotalWine.com/About-us/Careers!\nTotal Wine & More considers several factors when establishing compensation. Estimated salaries determined by third parties have not been validated by Total Wine & More.\nTotal Wine & More is an equal opportunity employer and all qualified applicants will receive consideration for employment without discrimination based on race, color, religion, national origin, sex, sexual orientation, age, marital status, veteran status, disability, or any other characteristic protected by applicable law. Total Wine & More makes reasonable accommodations during all aspects of the employment process, including during the interview process. Total Wine & More is a Drug Free Workplace.\nThe information provided above indicates the general nature and level of work required of the position and is not a comprehensive list of all responsibilities or qualifications. Benefits list is only a highlight of some of the benefits offered to team members; eligibility for certain benefits apply.\nPay range: $18 - $19/hr\nWork Remotely\n\n No\n\nJob Types: Full-time, Part-time\nPay: $18.00 - $19.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Jose, CA 95129: Reliably commute or planning to relocate before starting work (Preferred)\n\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Automotive Service Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Mathew Zaheri Enterprises",
+  "location": "Newark, CA 94560",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Mathew-Zaheri-Enterprises/jobs/Automotive-Service-Cashier-e85116a18d6726f8?fccid=ff0a48aae329844e&vjs=3",
+  "id": "e85116a18d6726f8",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:21.584Z",
+  "description": "Responsibilities:\n\n Answer phone calls, with the ability to communicate clearly and courteously\n Identify and direct customers to the appropriate service advisor\n Greet visitors and understand purpose of visit to help direct them as needed\n Scheduling appointments\n Completing transactions for open service repair orders\n Plus more\n\nQualifications:\n\n *PREVIOUS DEALERSHIP EXPERIENCE A PLUS*\n Prior experience with customer service preferred\n Ability to work well in a team and fast paced environment\n Great organization skills\n Comfortable communicating on the phone\n Valid Drivers License\n Ability to work 40hrs/week\n\nBenefits:\n\n Competitive pay\n Medical, Dental, & Vision Benefits\n 401K\n Vacation time\n\nJob Type: Full-time\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Every weekend\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Pharmacy Cashier/Technician",
+  "salary": "From $17.50 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "CVS Health / CVS Pharmacy",
+  "location": "Mountain View, CA 94041",
+  "rating": 3.3,
+  "reviewsCount": 40799,
+  "url": "https://www.indeed.com/company/CVS-Health/jobs/Pharmacy-Cashier-Technician-e2fb00780a0826e3?fccid=be3b11aa573faee7&vjs=3",
+  "id": "e2fb00780a0826e3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:21.807Z",
+  "description": "Cashier/Customer Service Looking for good customer service, reliable, eager to learn more and able to work in a fast paced environment\nJob Type: Part-time\nPay: From $17.50 per hour\nSchedule:\n\n 4 hour shift\n Evening shift\n Morning shift\n Rotating weekends\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Customer Service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Front Desk Receptionist/Cashier",
+  "salary": "$18 - $20 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Envision Honda of Milpitas",
+  "location": "Milpitas, CA 95035",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Envision-Motors-Chrysler-Dodge-Jeep-Ram/jobs/Front-Desk-Receptionist-Cashier-036350936c9a9ca6?fccid=5b84d59702fcf4c3&vjs=3",
+  "id": "036350936c9a9ca6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:22.531Z",
+  "description": "Envision Honda of Milpitas is looking for Front Desk Receptionists to join our team. We are hiring immediately and offering a great chance to gain experience and learn the innerworkings of an automotive dealership with state-of-the-art facilities!\nWHAT WE HAVE TO OFFER\n\n Competitive hourly pay\n Unlimited growth opportunity\n Referral bonus\n 401k with company match\n Vacation/sick time and paid holidays\n Health insurance/benefits\n Company discounts on vehicle purchases\n Company events - cook outs, recognition dinners\n Fortune 500 company, ranked among the \"World's Most Admired Companies\" by Fortune Magazine\n Consistently recognized by Automotive News as among the \"Best Dealerships to Work For\"\n\nJOB DUTIES\n\n Answers dealership group phones\n Greets and receives customers\n Cash handling\n Helps customers make appointments\n Directs customers to the correct department, notifies the appropriate person that a customer is waiting\n Communicates with callers and visitors in a professional, friendly, and efficient manner\n Scans documents into dealer system\n Assigned administrative duties as needed\n\nREQUIREMENTS\n\n Punctual\n No experience is required as we are willing to train\n Passes the drug test and background check\n Hard working & great attitude\n\nAPPLY WITH US, WE ARE HIRING IMMEDIATELY!\nIf you are ready for a rewarding career with competitive compensation and benefits, and opportunities to excel and advance, consider joining Envision Motors Group. Our interview process typically includes an in-person interviews, background check, driving record review and a drug screen. Be a part of the best customer experience team in the automotive industry. Apply with us today!\nJob Type: Full-time\nPay: $18.00 - $20.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Life insurance\n Paid time off\n Referral program\n Vision insurance\n\nSchedule:\n\n 10 hour shift\n 8 hour shift\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Milpitas, CA 95035: Reliably commute or planning to relocate before starting work (Preferred)\n\nApplication Question(s):\n\n When are you able to start?\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Customer Service Rep/Cashier",
+  "salary": "$17 - $19 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Zanotto's Fruitdale Station Market",
+  "location": "Zanotto's Fruitdale Station Market in San Jose, CA 95126",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Zanotto's-Fruitdale-Station-Market/jobs/Customer-Service-Representative-Cashier-8f664eee10d7b3c5?fccid=6e488029cf2e43e9&vjs=3",
+  "id": "8f664eee10d7b3c5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:22.635Z",
+  "description": "Zanotto's Fruitdale Station Market is looking to hire friendly, responsible, and hard-working individuals for our Front End team!\nJob Duties include, but aren't limited to:\nchecking/bagging, outstanding customer service, handling cash drawer, light store cleaning, facing/stocking shelves, answering phone calls\nCustomer Service experience is required\nCustomer Service in Retail/Grocery Experience not necessary, but definitely a plus.\nOpportunity for part-time and/or full-time.\nOppurtunity for growth and in-store promotion, based on experience/job performance.\nThis job is what you make it! There are many skills to learn and apply to many future job fields/careers.\nMust be available to work weekends/holidays. Open availability and flexible schedule definitely a plus.\nJob Type: Part-time\nPay: $17.00 - $19.00 per hour\nShift:\n\n 4 hour shift\n Day shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n San Jose, CA 95126: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Holiday Cashier Support Associate (Valley Fair)",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "OAK+FORT",
+  "location": "San Jose, CA",
+  "rating": 3.7,
+  "reviewsCount": 89,
+  "url": "https://www.indeed.com/rc/clk?jk=98e952b606c4507e&fccid=044a31a40a4df9ef&vjs=3",
+  "id": "98e952b606c4507e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:22.844Z",
+  "description": "\n Since our inception in 2010, OAK + FORT has curated collections that reflect our design philosophies. OAK + FORT is a belief that fashion should be uncomplicated and thoughtfully designed. We are not distracted or fettered by trends. We will continue to provide attainable luxury to like-minded individuals.\n  This is a unique opportunity and ideal for an individual who is interested in working in a creative, high-paced environment.\n  The ideal candidate will have the ability to clearly express ideas both verbally and in writing, to build constructive and effective relationships with the store team, and to display professionalism consistently. Please note that this is for the upcoming holiday season.\n  Sales Generation\n \n   Provide exceptional client experience by executing OAK+FORT Sales Culture\n   Build and manage client relationships through client database recording\n   Be a brand ambassador by keeping up with new arrivals, product knowledge, and wearing current merchandise\n   Drive sales through OAK+FORT eCommerce purchases and social media platforms\n   Maximize sales during special events and customer services\n   Process cash desk operations with engagement, efficiency, and accuracy\n \n  Staff Development\n \n   Build our team by welcoming and supporting onboarding of new employees\n   Build and maintain relationships with store team, peers, and relevant partners\n \n  Store Functionality\n \n   Facilitate and participate in cash desk organization standards\n   Ensure the right quantity of stock and cash supplies are in the right place at the right time\n   Maintain proper presentation of merchandise in accordance with corporate directives\n   Acquire customer information to build OAK+FORT’s client database\n   Efficiently and accurately support with shipping and receiving of supplies\n   Support in other operational areas of the business as needed\n   Support cleanliness and maintenance of physical store to create a safe and comfortable shopping experience\n   Adhere to loss prevention policies to prevent external and internal theft\n \n  \n uafuBZFlIJ\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+},
+{
+  "positionName": "Retail Merchandise Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "O'Reilly Auto Parts",
+  "location": "Mountain View, CA 94040",
+  "rating": 3.4,
+  "reviewsCount": 8710,
+  "url": "https://www.indeed.com/rc/clk?jk=56bf100b5f29a180&fccid=02271e0599fbad1c&vjs=3",
+  "id": "56bf100b5f29a180",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:39:23.782Z",
+  "description": "\n O'Reilly is now hiring Retail Merchandise Specialists who are responsible for keeping the sales floor area well stocked, organized, and clean. They are also responsible for stocking merchandise according to company planograms or displays, completing sales preparation, and greeting customers on the sales floor. This may require occasional delivery of parts/products to professional customers. \n Essential Job Functions : \n \n  Greet customers on sales floor, assist them in location of merchandise or direct them to a parts specialist if hard parts are needed. \n \n \n  Keep merchandise on display floor fronted, full, and clean on a daily basis. \n \n \n  Make all out-front price changes. \n \n \n  Make sure all \"sale\" signs are in place, sales flyer rack is stocked, maintain sufficient quantities of sale merchandise on display. \n \n \n  Work with manager to complete store To Do List and Team Weekly tasks \n \n \n  Check in, price, and put up stock. \n \n \n  May occasionally fill in as a cashier, when business dictates. \n \n \n  Be available to work a flexible work schedule \n \n Qualifications: \n \n  Take pride in delivering excellent customer service \n \n \n  Thrive in a busy, fast-paced retail environment \n \n \n  A good aptitude for dealing with number sequences \n \n \n  Must be at least 18 years old and possess a good driving record and valid driver's license \n \n O'Reilly takes pride in our company culture, so team members should also hold our culture values as true to their own. O'Reilly values are centered on Commitment, Dedication, Teamwork, Safety/Wellness, Enthusiasm, Expense Control, Honesty, Professionalism, Respect, Hard Work, and a Win-Win Attitude. Above all is Excellent Customer Service, which is the core of O'Reilly and the most important responsibility of our team members. \n  \n Benefits \n \n All full time team members are eligible for a benefits package that is designed to offer convenience and security to our team members and their families. Programs, resources and benefit eligibility varies based on employment status, average hours worked, location and length of service.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=56bf100b5f29a180&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXg-b7tFsT8XOyiMHgKPATA2wsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=aa338a279015165a&assa=3214",
+  "title": "Retail Cashier-San Jose, California12-04-2022 12_38"
+}]

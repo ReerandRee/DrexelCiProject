@@ -1,0 +1,918 @@
+[{
+  "positionName": "Customer Service/ Cashier",
+  "salary": "$12.80 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Raw Life Farms",
+  "location": "Glendale, AZ",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ahtcje9T9OcN0ovA3H_sj0LwLoqydGBasaDs4zXvAjGG2Wulx9sk2_0Joq_q-LFd8c8CDD9poY4CnTma8vHVgUns9l-0nQ6PTfqcN-BYeYPoXascPptkdMJdxZTaEPDsbgqtUT4twn8sX_Pf7p5UFPz3LxSu5ViwTjXfyLDlOxw0Jq_by2y7nuRKnGXfHsBF5yqxmbwR9dSqdbk2B9Cb0DCoYS-iRZT6cS3Bem7uCKi62dS0GreXR5BMeJrRKvUcQg22ZrRmbNQ4HdtDtHgYNflwFOvr2xT19TIEKI87rxcog1egooUE0segx9vMfT_RkiLi65Qz2uxDZBrXzqzh_BhwCaZn6QTtu6XyqiWMJtpE4pVNTnaI3MMxZAi3whP12MIl8-bh2VGAJ1nf8y5dSgAJIX1jY9vqA8m7eQGmJbFRlE59g6AM2Zj9m9vAvq8ye8gwmrDG3G2oOMXAPJqyVG9MXEWVJm8HqE49tBOdX2QjnJxhy1u9NAKMqHYfLaggy5jSQtZIz56oaEN7PPysH_9xr4HF2Ahs8iBYSgYF7e0n1olg6Q9-8Jy1Moqhj0FB3q_WLwMkCymft_PMvkKcAf&xkcb=SoDP-_M3WvOM7lWbBB0LbzkdCdPP&p=0&fvj=0&vjs=3",
+  "id": "91b05eba5cdf9b34",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:28.837Z",
+  "description": "We need help assistant customers and check them out, we are a kiosk located inside the Mall next to the Apple Store. It’s super fun interacting with customers and teaching benefits of the local bee products. Minimum wage plus tips",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=91b05eba5cdf9b34&from=vj&pos=bottom&mvj=0&spon=1&adid=402041794&ad=-6NYlbfkN0Ahtcje9T9OcN0ovA3H_sj0LwLoqydGBasaDs4zXvAjGG2Wulx9sk2_0Joq_q-LFd8c8CDD9poY4CnTma8vHVgUns9l-0nQ6PTfqcN-BYeYPoXascPptkdMvcFP5w2S6YPKl2jeVxm9htlfD1ff4sl-vxMdWO7UfBtqV-fkPSoVBQbifRBVMFGsYHCsUdA8k3g5I5Duke53nK7lx0M2YYqdZcY-xD4B3DZN7LNRYKY-oWB5-YY8BFdF2LDoCDUC6noXW9x4DGCm1docMqWpgJzRbkSVgGg5KdXnBkzx9rnYrB--WKm1Mf9XuInzSZs4gxGfEjpjMLO4kNiJtjuUtgammFakb3dOnaKsYHAfxqSr2_TEsOpFaOf8QWR_gMwkwzk%3D&sjdu=ueiNpZ6gejoDy0Nlhn_SOFxpV3F5kJgE4VMrHXF6KNtVBHXKVuSV_s2BMHPqj22tnSeHPETtMrYKIf5fpX4ASSk5fmc3fA0AJSTFxSbvMGMYAw51vVTIROLC-_Rz3ZKO&vjfrom=serp&astse=76a71c1e19323196&assa=7626",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier/Sales Associate",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "fastmarket",
+  "location": "Phoenix, AZ 85022",
+  "rating": 2.5,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/rc/clk?jk=cbd4cb943f98aaa9&fccid=4b30a663f4602edb&vjs=3",
+  "id": "cbd4cb943f98aaa9",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:30.285Z",
+  "description": "\n Overview: \n \n   $500 Sign On Bonus After 500 Hours Worked.\n \n \n \n   The Sales Associate is responsible for providing exceptional, fast pace customer service to our customers!\n  Responsibilities: \n \n  Greets customers in a friendly manner as they enter the store. Provides fast and efficient service. Thanks the customer.\n   Rings customer sales using an electronic cash register. Receives money, gives correct change. Refunds cash for returned merchandise and/or exchanges merchandise.\n   Assist with shift change by counting money in cash drawer at the beginning and end of a shift.\n   Uses special equipment to process specialty products, such as money orders, credit card purchases, checks and lottery sales and redemption's.\n   Check identification for restricted sales.\n   Checks and replenishes stock on food service supplies such as cups, lids condiments, napkins, straws, and stirrers.\n   Cleans and sanitizes all equipment used for service or stocking food service products using the three sink method.\n   Cleans all areas, using proper cleaning procedures and materials, including (but not limited to) counter tops, microwaves, shelves, floors, windows, cooler doors, food service equipment, restrooms, and parking lots.\n   Cleans and empties trash containers.\n   Stock shelves and cooler, rotates and front faces stock. Removes all damages and out of code merchandise from the shelves. Price merchandise according to the price book.\n   Check in vendor deliveries as needed using company guidelines.\n   Complete bad merchandise form.\n   Assumes other duties and responsibilities as assigned to accommodate store operational needs.\n  Qualifications: \n \n  18 years of age or older for CT, MI, NC, SC,TX, AZ, and CO/ 21 years of age for all other states\n   Ability to read, write, speak, and understand English\n   Basic math skills (addition, subtraction, division, and multiplication)\n   Ability to lift 10 lbs frequently and up to 50 lbs occasionally\n   Must pass a pre-employment drug screen and will be subject to a criminal history background check\n \n\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "Karsten's Ace Hardware",
+  "location": "Phoenix, AZ 85028",
+  "rating": 3.7,
+  "reviewsCount": 6644,
+  "url": "https://www.indeed.com/rc/clk?jk=c5b004acba4d84fc&fccid=d58be9e5bb7e408d&vjs=3",
+  "id": "c5b004acba4d84fc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:31.138Z",
+  "description": "Notice to Applicant about this Employer: You are applying for a job with an independently owned cooperative member of Ace Hardware Corporation, who operates this Ace Hardware store, not Ace Hardware Corporation. The independent store owner alone is responsible for and independently makes all decisions concerning employment related matters, including hiring, firing, discipline, supervision, staffing and scheduling. Ace Hardware Corporation will not receive a copy of any applications submitted for this position, and will have no control over interviews and/or hiring decisions, does not control and is not responsible for the employment policies and practices of the independent store owner. If hired, the independent store owner will be your only employer. Ace Hardware Corporation is not the employer for this position. The Ace Hardware trademarks, logos and designs are owned by Ace Hardware Corporation and used by independent store owners under a license from Ace Hardware Corporation. \n\n General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Clear customer checkout lines quickly and efficiently. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Continually build product knowledge base and possess the ability to assist customers with store layout and product location. \n Assist in pricing, stocking, marking and bagging of merchandise. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Adhere to any Store Support Center program or promotion that may require implementation at the cash registers. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. Face and dust front end. \n Assist with keeping impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure fresh ads are stocked in shopping carts at all times. \n Ensure forms and supplies are stocked at all times. \n Assist with decorating the front end according to the Store Support Center program. \n Call for cart pickups and retrieve carts when necessary. \n Inform management when merchandise returns need to be put away. \n Perform all other duties as assigned. \n Education/Training \nHigh School or GED equivalent. \n\n Experience \nCashier experience preferred. Customer service experience preferred. \n\n Physical Demands \nStanding, walking, lifting (up to 25lbs) and climbing.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Retail Cashier, Camelback Ranch",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Delaware North",
+  "location": "Phoenix, AZ 85037",
+  "rating": 3.7,
+  "reviewsCount": 2643,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CT2xX8NRzQAkc8Ae3-QEv0uZkBdcnnO5nQWnWHEoOjGSTTICAn7GimCIsLUVGsd0lFm9Zms6PVX0bWOFY6E3KgGzf5InTzPXeq6dyjkffnCsVFXES1FQH6tkuwCoVJ8q7QN3I9ojNeJY-6_1ltuqNbMPY3UNJknjhT-YvSsPP_3UTu-S_i77p59NtgD47JHyIvus660aGdY-1EuAh_OPtUqsPi90kQThAUKaGpr4GoYtxhV1dxesEpj9PSQ7CzfvQ8fIQ30ZgO6QUbEar-LIbQV73xOsHnSBpWxQ3PAxqQ-l8TyFRsONcf8KYpuCWFS_nV4eyG9U_A8Ay2bziOv6ICvuSRX4AN5d695xk2VYYCRSa_IRApJTu3tuMB_HYRdhbpOH_QDoiEsocId4usBcNyzNG0JScDpYfKS9YDIceXEwjngpdcqDpdzibNdM1UgPZaMAY54Ge1INFoBzkqS7N7pqJhu70qG_jK8HuhFSDvU6dJ7dG4WN_4NiJI-s8rh3EV6cDItzK_r0ApgAClm5MXv7m97QgmIurd7JlPLB6b_2G7GR_WeafcNwO29mKJ4kK-MwVgMv3cwIwWXercpZ2vm7iicN5Kr5qClLUJMHhHEVBqUSmbp3oCxzcGL92A_CP4juPpnPpxiigGB0jf6GC6qGzKpLyvBZ3rmoyKnEKACdGCM-ujGiHaS3xWTZCYRdTvcVu3GRKdnuOCKWM6JSXLGeQdeQmTzvdcYM-JWCG-RdfUh3XaBRzzDet-qCx2o_vuRPrFSG7dH7Gt0RtId_SkgAnhLDgM8O70hlqWneGQuRbWmNIivcvWTZAY1gZ5OCOuf878SeydTnFJwG0H6EZPKRj_uudDS5n0jlu8mYroc-FvQhfgn30hvsCBc2sQksSt3TRbiKhpSRUQMSngplRuytY0Tgpe7-_Gwx03rqfteHx2R6eiXyU_LGAxviZUkSdMkfBci7am7OJNGYQI99mx6yj0sqx7rLYTTMV5Isa-Rp6iHyCOc0Qge4K2ks7EPGVYpSf7FdSskCwsCycuMQ1OZOMqqclOy1lf9XEYCzyd9od-viHGAXXpbuxVXcD4qqJapeOJ7jhompN4Wb4Q1tL6Hh_5GTwzZ_iuoLlR-c3ZRsvNW6dMfStVxmadAu1vKoIokudX5TPv2vW8LTUy7kh2_80BL0Re6IAcMoMezlLYnhe6adfqSsOcbA2HKuUsqUFVO5fp4eJeM-hxzmzf34HwDueI3tFf61gpBpOkv3QVwbYttomO0rPCxbffFOgS9PDdeua1YqKCPFMnGahcC4ckYejmrsaEQOGSPWxQddZg8fge60RHrjcMz4shMNSZNYk=&xkcb=SoCZ-_M3WvOM7l2bBB0PbzkdCdPP&p=8&fvj=0&vjs=3",
+  "id": "93c226b02d217d86",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:31.255Z",
+  "description": "\n The Opportunity\n \n   Delaware North Sportservice is hiring part-time Retail Cashiers to join our team at Camelback Ranch - Glendale in Phoenix, Arizona. The Spring Training home of the Chicago White Sox and Los Angeles Dodgers.\n \n \n \n   Pay: $15 / Hour\n \n \n \n   As a Retail Cashier, you'll be responsible for providing excellent guest service and managing all transactions accurately and efficiently.\n \n \n   At Delaware North, we care about our associates’ professional and personal wellbeing. We have a comprehensive benefits program designed to give our associates the comfort, safety, and stability they need to deliver exceptional service to our guests. All associates are eligible for benefits including weekly pay, employee assistance program, training and development, employee discounts, and flexible work schedules. Medical, dental, and vision insurance, 401(k) with company match, paid vacation and holidays, and tuition reimbursement are available for eligible associates.\n \n  Responsibilities\n \n   Greets and acknowledges guests, answers their questions and assists them whenever possible.\n   Processes sale with appropriate point of sale system, accepts payment, counts change and bags merchandise.\n   Maintains records related to sales.\n   Routinely stocks merchandise and faces items on shelves.\n   Verifies amount of bank at beginning and the end of each shift.\n   Maintains a clean and organized store or stand.\n   Maintains orderly back-stock and knows where goods are to be found.\n   Completes all related close-out paperwork.\n   Performs other duties as assigned.\n \n  Qualifications\n \n   Previous experience in retail or customer service environment preferred.\n   Good communication skills; ability to communicate with guests and co-workers.\n   Ability to handle multiple tasks simultaneously in fast-paced environment.\n   Ability to work independently and as a team member.\n   Basic math skills; ability to accurately handle money and count change.\n   Capable of following job guidelines and supervisors' instructions.\n \n  Physical Requirements\n \n   Ability to lift and carry up to 25 lbs.\n   Ability to stand for entire length of shift.\n   Ability to walk up and down stairs frequently.\n   Bending, reaching, climbing on step stool.\n   Visual acuity sufficient to see and distinguish merchandise and operate point-of-sale system.\n   Majority of time spent in indoor, climate-controlled environment of retail store\n   May also be exposed to partially sheltered outdoor environment subject to climate fluctuations.\n \n  Who We Are\n  At Delaware North, you’ll love where you work, who you work with, and how your day unfolds. Whether it’s in sporting venues, casinos, airports, national parks, iconic hotels, or premier restaurants, there’s no telling where your career can ultimately take you. We empower you to do great work in a company with 100 years of success, stability and growth. If you have drive and enjoy the thrill of making things happen - share our vision and grow with us.\n  Delaware North Companies, Incorporated and its subsidiaries consider applicants for all positions without regard to race, color, religion, creed, gender, national origin, age, disability, marital or veteran status, sexual orientation, or any other legally protected status. Delaware North is an equal opportunity employer.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=93c226b02d217d86&from=vj&pos=bottom&mvj=0&spon=1&adid=382649653&ad=-6NYlbfkN0CT2xX8NRzQAkc8Ae3-QEv0uZkBdcnnO5nQWnWHEoOjGSTTICAn7GimCIsLUVGsd0lFm9Zms6PVX0bWOFY6E3KgGzf5InTzPXeq6dyjkffnCsVFXES1FQH62AJI_zXo1mf2V4wMW8XNa2J9PPT5nHs0Qljtp0aUGI5FhVpR4ZgDw1Sp1dPyjvi7kgHBv0oY__a2_Z90f1zBJmeGfnKrgH50s8XY1b7tDhAoW-tinZlBVPO4-FV1Ygb7vdp56-cxMEcQb4JG_qrGg74XvqISkDj4wF0bRFX4_TcKYAQNJeGsDeRP-4MKpFv_YUmFazD0QW6HI7CuLh1gMiCe97TZm-Iz8iZDwdUGzt9C_jvd7REc2CdtqTpDpXoUdo7vmwOiySg%3D&sjdu=9nrDNPdV1DghkDNnC2WJlW1nrk21-asFvjSk9jx-s_PHaXIAT2v-p-wnanFDRebEgduX8P_F3eDj-kzBmdHQzDwSbRjEc-ADuc7y-PjDKMidthUd6upH_0j6eew24LZtQUORY5bMKj0kKJMSo35Iae8lwJ1YAl2LkWY-x-8YST6ppm6pIaD3x3dU_6C7Xu8hJSSWsIMZJfjT4Jr0l4jPmV_2Ruj08AnvMDGeOZry83fOzgrXlEUrOCd8dBv-YTJ-inVv5ucNCPpMEP6JdY0OyYaXWKcoKyAP05krjbiWftoiYLatUKEBcHBmRib2Pp1Wtp5qg_ogcYdLRB-sKDvSD8FpvwY0a4YOAndRsDVoommO6Xtca0KZwnD_Cb1Mz9ezCxwrIPRjjeoKMVAfQp6FRuXwG7uXW2BzNUvBdXgN_l-pWVShsd4EFo_7TfT_wSR907o5U_h2LIuln_6aLa1XI-Rs3Jk67Fzw7jooP7Jv4tbBm66sgADDfcAZXywCeElCz8i0fvgoXIzp0pDFaPKtCs-7skD_WCzv-6JftOqoWro-6DkYnuKitjDXzOrnGarSEG8vaGRn7m2r7HXwTuPB3JppniJUaj5pf_YebmKnwCB_Vijm5r5CprYy8-0hHPvJp7kdtTHoGsWagM_FUYalzA&vjfrom=serp&astse=faa2ad069fb41b1f&assa=13",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Early Morning Cashier (3:30am-1:30pm)",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "The Grove Inc",
+  "location": "Phoenix, AZ 85034",
+  "rating": 4.4,
+  "reviewsCount": 8,
+  "url": "https://www.indeed.com/company/The-Grove-Inc/jobs/Early-Morning-Cashier-4907dd00b00a7e43?fccid=01a31349e3e8a690&vjs=3",
+  "id": "4907dd00b00a7e43",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:31.853Z",
+  "description": "Are you looking for a place to work where your hard work will be noticed and appreciated?\nAre you looking for Managers who cares about their employees?\nAre you looking for a company where people matter?\nWe want you to join our FAMILY!\nWe are looking for Cashiers/ Stockers/ Cooks for our Early Morning Shifts! The shift is from 3:30 am until 11:30 am. If you are interested, responsible, dependable and self-motivated, please apply today!\nTGI CULTURE\nThe Grove, Inc. (TGI) company’s culture is one of teamwork, trust, and inclusion. Our values circle back to people – taking care of our guests, teammates, and business partners. We guide our team to do excellent work, provide unrivaled customer service, and take care of not only our guests and partners, but our planet and each other. Through open lines of communication, easy access to top level management, and true team collaboration, employees will learn, grow, and excel within the industry and beyond.\nWe are opening 5 locations at the Phoenix Sky Harbor Airport! We need everything!! Managers, Supervisors, Cooks, Cashiers, and Servers!\nResponsibilities: \n\n Customer interaction\n Cashiering\n Food preparation\n Cleaning/sanitizing work areas\n Stocking and rotating product\n\nQualifications: \n\n Must be at least 18 years of age upon hire date\n Must be eligible to work in the United States\n Must have a source of reliable transportation\n Ability to handle all equipment, pans, pots, navigating shelving both high and low\n Reading, writing, and basic math and verbal communication skills required\n Works in hot, noisy, and fast paced environment\n Mobility required during shifts\n Must work well under pressure\n Must be able to respond to changes or edits to orders quickly and efficiently\n Must be able to obtain an airport SIDA Badge\n Available Sunday - Saturday including Holiday's\n\nApply today!!\nJob Types: Full-time, Part-time\nPay: From $16.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Food provided\n Health insurance\n Paid time off\n Paid training\n Vision insurance\n\nRestaurant type:\n\n Quick service & fast food restaurant\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n Morning shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nApplication Question(s):\n\n Are you able to work at 3:30 am, be on time, dependable, responsible, and with a smile?\n\nShift availability:\n\n Day Shift (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "J ET. ALL, INC.",
+  "location": "Phoenix, AZ 85044",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=8c7fe9bb5b02f4ed&fccid=85351af61deec01e&vjs=3",
+  "id": "8c7fe9bb5b02f4ed",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:32.058Z",
+  "description": "General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation of Ace Hardware Scottsdale. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Clear customer checkout lines quickly and efficiently. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Continually build product knowledge base and possess the ability to assist customers with store layout and product location. \n Assist in pricing, stocking, marking and bagging of merchandise. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors, neat and clean at all times. Face and dust front end. \n Assist with keeping impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure forms and supplies are stocked at all times. \n Assist with decorating the front end. \n Call for cart pickups when necessary. \n Inform management when merchandise returns need to be put away. \n Perform all other duties as assigned. \n Experience \nCashier experience preferred, but not required. Customer service experience preferred but not required. \n\n Physical Demands \nStanding, walking, lifting (up to 40lbs) and climbing.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "WinCo Foods",
+  "location": "5850 W Bell Rd, Glendale, AZ 85308",
+  "rating": 3.4,
+  "reviewsCount": 2279,
+  "url": "https://www.indeed.com/rc/clk?jk=cba59cbce93bae3c&fccid=a685e0eb853c5e29&vjs=3",
+  "id": "cba59cbce93bae3c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:33.472Z",
+  "description": "\n About Us: \n \n   Join our Winning Team today and start your ownership journey!\n \n \n \n   WinCo Foods is a rapidly growing family of over 135 grocery stores, complete with our own distribution centers and transportation network. We’re proud to operate across 10 states west of the Rockies with more than 20,000 employee owners.\n \n \n \n   At WinCo Foods we act like owners – because we are! We believe, as the Low Price Grocery Leader, that we make the lives of the communities where we operate better by giving them the best possible prices to feed their families and by focusing on the success, well-being and diversity of our employee owners.\n \n \n \n   Currently, WinCo is the third largest Employee-Owned company in the United States. \n  WinCo has more than 500 millionaire employee-owners in our Employee Stock Ownership Plan (ESOP). Once eligible, you can start your journey to ownership with an annual gift of stock equaling 20% of what you make each year. \n  (ESOP available at most locations and subject to vesting)\n \n \n   \n \n \n  WinCo Foods offers the very best benefits in the industry, with \n  low cost, high quality medical benefits with rates as low as $40 a month, enrollment in our ESOP after 6 months, career advancement opportunities, paid vacation and sick leave, competitive wages, tuition reimbursement, employee assistance, discount program – and even voluntary benefits like Pet Insurance!\n  Overview: \n \n   Job Summary\n \n \n   Consistently provides friendly, courteous customer service to internal and external customers by processing customer orders in an efficient, accurate, safe and courteous manner at a two aisle check stand, a multi station self-check-out lane, or customer service desk as assigned. Performs other related work.\n \n \n \n   Typical Duties and Responsibilities\n \n \n   Seeks opportunities to welcome, engage, serve and thank customers. Maintains an atmosphere of friendly, enthusiastic customer service with an emphasis of taking care of the customer.\n   Maintains an atmosphere of enthusiastic customer awareness with an emphasis on fast, friendly customer service.\n   Operates check stand equipment such as a cash register, scanner and scale to process customer orders using two aisles to check customers.\n   Engages in suggestive selling and other sales techniques.\n   Processes monetary transactions (i.e., giving and receiving change, etc.) including cash, checks, gift certificates, travelers checks, food stamps, processing coupons, and refunds.\n   Maintains knowledge of current product location, monitors UPC codes and ensures proper pricing.\n   Maintains clean, neat and properly stocked check stand and ensures safe and secure work area.\n   Stocks, prices and rotates merchandise.\n   May be assigned to a multi station self-check-out lane as needed.\n   May be assigned to the customer service counter as needed.\n   Performs other duties as assigned or needed.\n \n  Requirements\n \n   Ability to:\n \n \n   Consistently provide friendly, courteous service to internal and external customers.\n   Work varied shifts between 5:00 am and 1:00 am in a 24/7 operation; including night, weekends and holidays.\n  \n   \n     Perform friendly, courteous, tactful relations with customers and co-workers with composure.\n   \n   Communicate (hearing and speech) to perform customer relation skills.\n   Complete written forms.\n   Conduct visual inspection, read information on merchandise, etc.\n   Lift and maneuver objects of varying dimensions and weights up to 20 lbs. frequently and perform repetitious work accurately.\n   Lift up to 50 lbs. occasionally.\n   Operate check stand equipment such as cash registers, scanners, and scales.\n   Stand for long periods of time, walk rapidly, bend, stoop, twist, and turn frequently for long periods of time.\n  \n   \n     Must be 16 years of age or older.\n   \n  \n   \n     Manual dexterity and good hand/eye coordination.\n   \n   Learn and memorize a considerable amount of information including PLU codes, location of products, check stand and keyboard procedures and company policies.\n   Ensure accuracy in recording sales and handling monetary transactions with mental alertness and basic math skills (add, subtract, multiply and divide).\n   Climb and balance on ladders when stocking shelves.\n   Use blades for box cutting.\n   Work in a cooler and freezer.\n   Use household cleaners to maintain work area (i.e., waxes, glass cleaner, etc.).\n   Work in varying weather conditions for performance of outdoor duties.\n   Perform primary duties efficiently and accurately.\n \n \n   Additional Requirements:\n \n \n   Food Handlers Certification (Per State Laws).\n \n \n   Machines and Equipment Operated:\n \n \n   Fork lift, electric and manual pallet jacks, hand truck, garbage and card board compactor.\n   Box knife\n \n \n   For minors hired, hours may differ as well as machines and equipment operated.\n \n \n \n   The above statements are intended to describe the general nature of work performed by the employees assigned to this job. All employees must comply with Company policies and applicable laws. The responsibilities, duties and qualifications required of personnel may vary.\n \n  \n  EEO/Inclusivity: \n \n   As WinCo Foods continues to grow, our diversity—from our variety of perspectives and wide range of experiences—is essential to our strategy and success. We are committed to continue to cultivate and celebrate an inclusive environment in which all employees are valued and respected regardless of their race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Head Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Sprouts Farmers Market",
+  "location": "Laveen, AZ 85339",
+  "rating": 3,
+  "reviewsCount": 4558,
+  "url": "https://www.indeed.com/rc/clk?jk=51dd166bfc425482&fccid=95d1741fa7ecafec&vjs=3",
+  "id": "51dd166bfc425482",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:34.995Z",
+  "description": "\n Job Introduction: \n \n   Do you enjoy leading others by providing an exemplary example and serving as a mentor? Does overseeing a fast paced team in a fast paced environment sound exciting? Do you have a passion for delivering an extraordinary customer service experience while working in a friendly environment? If the thought of helping people make healthy choices in one of the fastest growing retailers is up your alley – then we need YOU to join our winning team at Sprouts Farmers Market as a Head Cashier!\n  Overview of Responsibilities: \n \n   At Sprouts Farmers Market, the Head Cashier is responsible for the supervision of a team of cashiers and assistance with operational issues. \n \n \n  Ensure excellent customer service through proactively visiting registers and providing direction/support to Cashiers and Courtesy Clerks\n   Assist in potential customer assistance issues at the register\n   Assign store sweeps, monitor/maintain cash register supply levels and maintain cleanliness standards in the restrooms and parking lots\n   Maintain visibility of the exit doors for security and loss prevention issues\n   Schedule and oversee proper execution of appropriate meal and rest breaks in compliance with company policy and state requirements\n   Assist in the hiring and training of new Cashiers and taking necessary steps for disciplinary actions\n   If you are someone who thrives in a fast-paced environment then we want to hear from you!\n  Qualifications: \n \n   To be a Head Cashier at Sprouts Farmers Markets you must:\n \n \n \n   Be at least 18 years of age; possess a high school diploma or GED, and 1-2 years of recent cashiering experience supplemented with leadership training.\n   Be dependable and reliable having the ability to work a flexible schedule that changes as the business changes; including nights, weekends and holidays.\n   Have and show an outgoing and friendly behavior, a positive attitude and the ability to interact with our customers, representing as a role model in behaviors.\n   Ability to operate front end equipment; register, calculator, scanner.\n   Have good communication skills; the ability to take direction/constructive criticism and participate in a team environment\n   Be able to perform repetitious activities, and have the ability to multi-task, prioritize and stay organized.\n   Must lift/carry product horizontally/vertically weighing up to 30 lbs., from 36” to 24”, for a distance up to 3 feet for up to 50 hours without mechanical assistance.\n   Must use both hands to move grocery carts horizontally requiring a force up to 35 lbs., for a distance up to 4 feet for up to 50 hours.\n   Requires strong attention to detail and proficiency with numbers; proficient in cash handling and mathematical skills; ability to read, write and count.\n  Benefits: In addition to a rewarding career, Sprouts offers a comprehensive program to help support you and your family. These programs include: - Competitive pay - Opportunities for career growth - 15% discount for you and one other family member in your household on all purchases made at Sprouts - Flexible schedule - Employee Assistance Program (EAP) Eligibility requirements may apply for the following benefits: - 401(K) Retirement savings plan with a generous company match - Minimum essential coverage medical plans - Voluntary coverage such as short-term disability, hospital indemnity, accident, and critical illness - Competitive vacation and sick time programs Get Paid Every Day! Sprouts Farmers Market offers DailyPay - if you’re hired as an eligible employee, you’ll be able to transfer the money you’ve already earned at no extra cost, and get it the next business day, for free. We offer DailyPay so you don’t have to wait for payday to access the money you’ve already worked for. With DailyPay, you can see how much you’ve made every day and you can transfer your money any time before payday. You can learn more by visiting dailypay.com. Why Sprouts: \n \n   Grow with us!\n \n \n   If you have a passion for inspiring people and a flair for fresh food, consider applying for a job at Sprouts! With a focus on customer service, our neighborhood grocery stores offer high-quality, farm fresh produce, natural meats, plenty of scoop-your-own bulk goods and much more in a fun, friendly, old-fashioned farmer’s market setting. Come grow your career in healthy living with a fast-paced, rapidly growing company and teams that pride themselves on empowering others along their journey.\n \n \n \n   The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work. This is not an exhaustive list of all duties, responsibilities, and requirements. Sprouts’ management reserves the right to amend and change duties, responsibilities, and requirements to meet business and organizational needs as necessary.\n \n \n \n   California Residents: We collect information in accordance with California law, please see \n  here\n   for more information.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "AJ's Fine Foods Cashier - Pima & Pinnacle Peak",
+  "salary": null,
+  "jobType": null,
+  "company": "Bashas' Supermarkets",
+  "location": "Scottsdale, AZ",
+  "rating": 3.6,
+  "reviewsCount": 504,
+  "url": "https://www.indeed.com/rc/clk?jk=4c86a8883fbbe318&fccid=cb08f8340e56c0cf&vjs=3",
+  "id": "4c86a8883fbbe318",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:36.960Z",
+  "description": "\n Job Description  Providing superior customer service, the cashier/clerk processes customer orders in an efficient, accurate, safe and courteous manner and stocks general department shelves, including grocery, non-foods, HBC, frozen food, liquor, dairy and frozen shelves, refrigerated merchandisers and displays. \n \n  Job Responsibilities \n   \"• Maintaining a positive and friendly attitude towards customers and fellow team members. \n   \n  \n   Engaging with customers through smiles and greetings, offering product information, providing selling suggestions and always giving a genuine thank you. \n   Focusing on providing fast and friendly customer service. \n   Accurately processing cash register transactions, inputting product costs, giving back change, processing checks, debit and credit cards, EBTs, WIC checks, refunds, product coupons and gift certificates. \n   Understanding the importance of and monitoring product pricing, signage, and placement and the use of product shelf tags and accompanying UPC codes. \n   Keeping clean, neat, and orderly check stands and work areas. \n   Ordering and stocking general department (grocery, dairy, frozen food, liquor, HBC and non-foods) products, rotating them as necessary to ensure quality and safety. \n   Helping maintain merchandise displays, including end-caps, floor displays and aisle displays. \n   Bags or packages customer purchases according to established company policies and procedures; properly bag groceries using proper weight distribution, product type for a total weight of 7 to 15 lbs. per bag (6 to 8 items) to optimize bag capacity and reduce environmental waste. \n   Greets all customers and provide them with prompt and courteous service, assistance, and finalize the transaction by handing the customer their receipt, thanking them and asking if they need any further assistance. \n  \n \n Performs other duties as needed or assigned by management. Must be at least 18-years old. \n Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time. This description reflects management’s assignment of essential functions; it does not proscribe or restrict the tasks that may be assigned. This job description is subject to change at any time \n Employer provides reasonable accommodations to a qualified employee that does not impose an undue hardship on the employer.  \" \n \n  Job Qualification \n   \"• With both customers and team members, remain helpful, tactful and courteous at all times. \n   \n  \n   Work quickly and efficiently, sometimes with little direction, to accomplish assigned duties. \n   Add, subtract, divide, multiply and perform other basic business math calculations. \n   Learn to use check stand register, scales, scanners and debit/credit terminals. \n   Learn to use UPC codes, store signage, and pertinent company policies and learn and memorize produce codes, plu and rdm codes, product department assignments and locations. \n   Read UPC codes, product labels, checks, shelf signage, register forms, and posted company policies/procedures. \n   Memorize locations of products sold within the store. \n   Be dexterous enough with hands and fingers so as to be able to use necessary equipment. \n   Openly and professionally communicate through body language, facial expressions and speech. \n   Listen to and understand verbal and non-verbal communication of customers and fellow members. \n   Stand for long periods of time, bend and twist, and frequently lift and/or maneuver merchandise and supplies. \n   As a cashier lift up to 30 lbs. and maneuver 50 lbs. and as a clerk lift 50 lbs. and maneuver 100 lbs. \n   Work in walk-in coolers and/or freezers. \n  \"\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=4c86a8883fbbe318&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhW1_ruyL1jo1iR2s4pDxVcl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=c0a553a60283d891&assa=6017",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashiers",
+  "salary": "$13.50 - $14.50 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "The Buffalo Spot",
+  "location": "Phoenix, AZ 85023",
+  "rating": 3,
+  "reviewsCount": 53,
+  "url": "https://www.indeed.com/rc/clk?jk=9c212f3b0489040f&fccid=0c8c83f55809dea1&vjs=3",
+  "id": "9c212f3b0489040f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:37.562Z",
+  "description": "\n We are always keeping an eye out for applicants who are friendly, enthusiastic, and who genuinely enjoy serving guests. To be successful in this role, you should have previous experience in a customer service position and good knowledge of how a POS operates.. You should also be available to take evening and weekend shifts along with day shifts.\n  We also offer many other great benefits such as:\n \n   Flexible schedule\n   Employee Discount\n   Leadership opportunities to gain real-world management experience to help you reach your professional goals.\n   Competitive pay\n \n  We ask you to:\n \n   Smile\n   Create and Maintain Eye Contact\n   Make Emotional Connections with Guests\n   Honors and encourages others to follow the visions and values of the restaurant\n   Ability to multitask quickly, yet thoroughly\n   Have the ability to communicate effectively in English\n   Be at least 16 years of age\n   Be willing and able to work a flexible schedule\n   Have the ability to lift and carry 10-55 lbs.\n   Have a valid driver's license or reliable transportation\n \n  Applicants will also be expected to be able to work on their feet for several hours at a time and lift potentially heavy objects when necessary. Prior experience is preferred, but not necessary.\n  Requirements and Responsibilities:\n \n   Consistency and Reliability\n   Cheerful and Positive Attitude\n   Values Teamwork\n   Loves Serving and Helping Others\n \n  About The Buffalo Spot\n  The Buffalo Spot 320 W Bell Road, Suite 104 Phoenix, AZ. 85023 We are a quick food restaurant serving the Central West side of Phoenix. We make chicken and lots of it. We are a small and friendly place to work. Give us a try. \n Pay: $13.50 - $14.50 / hour\n  Benefits:\n \n   Employee discount\n   Paid training\n \n  Job types: Full-time, Part-time\n  Education: No education required\n  Work location: On-site\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Seasonal Cashier Associate",
+  "salary": "$12.80 an hour",
+  "jobType": [
+    "Part-time",
+    "Seasonal"
+  ],
+  "company": "Burlington Stores",
+  "location": "Phoenix, AZ 85018",
+  "rating": 3.2,
+  "reviewsCount": 11840,
+  "url": "https://www.indeed.com/rc/clk?jk=6bbc65c20b733739&fccid=aa2fd58d0ae65364&vjs=3",
+  "id": "6bbc65c20b733739",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:38.062Z",
+  "description": "\n LOCATION 4525 E. Thomas Rd Phoenix AZ US 85018 \n Overview \n If you want an exciting job with one of the largest off-price retail stores in the nation, join the Burlington Stores, Inc. team as a Cashier! Are you a people person with an outgoing and friendly demeanor? Can you think on your feet in a fast-paced and demanding environment? Do you enjoy the satisfaction of positively impacting someone’s day? If so, this may be the right role for you! \n Cashiers are at the heart of Burlington’s success! As the last person our customers interact with in stores, you’re tasked with the great responsibility of creating a lasting and positive memory of their Burlington shopping experience. By always maintaining a positive and professional attitude, and working to deliver excellent customer service that addresses all the customer’s needs while getting them through the check-out process quickly and easily, our cashiers are key in helping us provide a world-class shopping experience to our customers. \n Responsibilities: \n \n  Deliver excellent customer service with a positive, professional attitude \n  Accurately and efficiently ring on register \n  Process layaways, returns, and exchanges \n  Perform other tasks as assigned by manager from time-to-time \n \n Candidates must be able to work a flexible schedule; including nights, weekends and holidays as required. \n If you… \n …are excited to deliver great values to customers every day; \n …take a sense of pride and ownership in helping drive positive results for a team; \n …are committed to treating colleagues and customers with respect; \n …believe in the power of diversity and inclusion; \n …want to participate in initiatives that positively impact the world around you; \n Come join our team. You’re going to like it here! \n You will enjoy a competitive wage, flexible hours, and an associate discount. Part-time associates, based on hours worked, may be eligible for Burlington’s benefits package which includes dental and vision coverage, and including life insurance. Part-time associates may also be eligible for paid time off, paid holidays and a 401(k) plan. \n We are a rapidly growing brand, and provide a variety of training and development opportunities so our associates can grow with us. Our store teams work hard and have fun together! Burlington associates make a difference in the lives of customers, colleagues, and the communities where we live and work every day. Burlington Stores, Inc. is an equal opportunity employer committed to workplace diversity. \n Location US-AZ-Phoenix \n Posting Number 2022-186263 \n Address 4525 E. Thomas Rd \n Shopping Center Arcadia Crossing \n Zip Code 85018 \n Workplace Type On-Site \n Position Type Seasonal Part-Time \n Posted Date 2 months ago (10/3/2022 1:47 PM) \n Career Site Category Store Associate \n Position Category Store Associate \n Evergreen Yes \n Min USD $12.80/Hour\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6bbc65c20b733739&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhzZJZd-zYth1LeLPNP-NbMnUUKYs5yKqp3Fg7KgmoxhA&vjfrom=serp&astse=00533db17dface5f&assa=7555",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Front End Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Los Altos Ranch | Cardenas Markets LLC",
+  "location": "Phoenix, AZ 85006",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=a1f3b1c70e05c0d0&fccid=6bad29362c209139&vjs=3",
+  "id": "a1f3b1c70e05c0d0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:38.399Z",
+  "description": "\n Thank you for your interest in joining Cardenas Markets! We are more than just a grocery store; every one of our customers is part of the Cardenas Family, and we are committed to making our customers shopping experience enjoyable and unique! \n Our warm, friendly, and knowledgeable Team Members will bring families and communities together by providing our customers great food, products, and service at a superior value in a clean and safe environment. \n Job Duties & Responsibilities: \n \n  Greet and interact with customers to address questions or concerns in a friendly, service-oriented manner.\n   Work in a fun, fast-paced team environment.\n   Utilize POS and credit card system; handle cash and maintain balanced cash drawers.\n   Complete beginning and end-of-shift procedures.\n   Scan items, bag groceries, and process applicable coupons and discounts. \n  Provide flexibility by helping in any area in order to support store needs. \n \n Essential Abilities: \n \n  Friendly and People Oriented\n   Positive Attitude\n   Team Player\n   Ability to Multi-task\n   Quickly Adapt to Changes\n   Work with Sense of Urgency\n   Quality Focused\n   Strong Organizational Skills\n   Work in Fast-paced Environment\n   Attention to Detail \n \n Qualifications: \n \n  Cash-handling experience desirable \n  Customer Service background desirable \n \n  Brand: Los Altos Ranch \n  Address: 1602 Roosevelt Street Phoenix, AZ - 85006 \n  Property Description: Store 503 - Los Altos \n  Property Number: 503\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=a1f3b1c70e05c0d0&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj6RP2JHqIPWt8Mx_6pBc8AwsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=b985513e4dc77d21&assa=8178",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Sprouts Farmers Market",
+  "location": "Peoria, AZ 85381",
+  "rating": 3,
+  "reviewsCount": 4558,
+  "url": "https://www.indeed.com/rc/clk?jk=368d621ef2190ddc&fccid=95d1741fa7ecafec&vjs=3",
+  "id": "368d621ef2190ddc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:38.762Z",
+  "description": "\n Job Introduction:\n \n  Do you enjoy meeting and talking to new people? Does being the face of a company excite you? Do you have a passion for delivering an extraordinary customer service experience while working in a fast paced and friendly environment? If the thought of helping people make healthy choices in one of the fastest growing retailers is up your alley – then we need YOU to join our winning team at Sprouts Farmers Market as a Cashier! Overview of Responsibilities: \n  As a Cashier at Sprouts Farmers Market, you are the face of the company while you process each customer’s order quickly, accurately, and efficiently while ensuring complete customer satisfaction through prompt and friendly service. As a Cashier, Sprouts Farmers Market looks to you to accurately handle customer cash, credit/debit payments, and change, and assist customers by providing information and resolving their complaints. Following all front end procedures, assisting with stocking shelves, facing and dusting as needed are all a part of the day for a Sprouts Farmers Market Cashier. A Cashier maintains knowledge of weekly ad items, gives customers direction of product location throughout the store, is familiar with events and seminars going on or coming up, and maintains excellent communication with front end manager and Head Cashier at all times. A Cashier is expected to ensure that checkout areas are properly maintained in a clean and orderly condition at all times, and execute all other related duties as assigned.\n \n   #li-dni\n  Qualifications: \n  To be a Cashier at Sprouts Farmers Market you must:\n \n   Be at least 18 years of age and have a high school diploma or equivalent, and 1-2 years of recent cashiering experience.\n   Have and show an outgoing and friendly behavior, a positive attitude and the ability to interact with our customers.\n   Ability to operate front end equipment; register, calculator, scanner.\n   Be dependable and reliable having the ability to work a flexible schedule that changes as the business changes; including nights, weekends and holidays. \n  Have good communication skills; the ability to take direction/constructive criticism and participate in a team environment\n   Be able to perform repetitious activities, and have the ability to multi-task, prioritize and stay organized.\n   Must lift/carry product horizontally/vertically weighing up to 30 lbs., from 36” to 24”, for a distance up to 3 feet for up to 50 hours without mechanical assistance. \n  Must use both hands to move grocery carts horizontally requiring a force up to 35 lbs., for a distance up to 4 feet for up to 50 hours. \n  Requires strong attention to detail and proficiency with numbers; proficient in cash handling and mathematical skills; ability to read, write and count.\n  Benefits: In addition to a rewarding career, Sprouts offers a comprehensive program to help support you and your family. These programs include: - Competitive pay - Sick time plan that you can use to support you or your immediate families health - Opportunities for career growth - 15% discount for you and one other family member in your household on all purchases made at Sprouts - Flexible schedules - Employee Assistance Program (EAP) Eligibility requirements may apply for the following benefits: - 401(K) Retirement savings plan with a generous company match - Affordable benefit coverage, including medical, dental vision - Paid parental leave for both mothers and fathers - Pre-tax Flexible Spending Accounts for healthcare and dependent care - Company paid life insurance and short-term disability coverage Get Paid Every Day! Sprouts Farmers Market offers DailyPay - if you’re hired as an eligible employee, you’ll be able to transfer the money you’ve already earned at no extra cost, and get it the next business day, for free. We offer DailyPay so you don’t have to wait for payday to access the money you’ve already worked for. With DailyPay, you can see how much you’ve made every day and you can transfer your money any time before payday. You can learn more by visiting dailypay.com. Why Sprouts: \n \n   Grow with us!\n \n \n   If you have a passion for inspiring people and a flair for fresh food, consider applying for a job at Sprouts! With a focus on customer service, our neighborhood grocery stores offer high-quality, farm fresh produce, natural meats, plenty of scoop-your-own bulk goods and much more in a fun, friendly, old-fashioned farmer’s market setting. Come grow your career in healthy living with a fast-paced, rapidly growing company and teams that pride themselves on empowering others along their journey.\n \n \n \n   The above statements are intended to describe the general nature and level of the work being performed by people assigned to this work. This is not an exhaustive list of all duties, responsibilities, and requirements. Sprouts’ management reserves the right to amend and change duties, responsibilities, and requirements to meet business and organizational needs as necessary.\n \n \n \n   California Residents: We collect information in accordance with California law, please see \n  here\n   for more information.\n \n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Pilot Company",
+  "location": "Phoenix, AZ 85043",
+  "rating": 3.2,
+  "reviewsCount": 3463,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DmKMpCOCjeNN6FirsbYWR6yanqVvHtiGSw69GrqJrBf-ohiJLRN6KIJPLkhMr-KoTigZ0TenEkmuF48H1ylARYPdPSax8_Ve5gXxH8xoWaht1FVVb5Tn0x_WdWvOpDbikXz0EYfsfBjiZ_WkOxgk1-VcFS7nH624WR_Eo5Kie44cSvWAAqOMFdvXi7RQ6B0S37eJr7zSTadKIhc12dz4ZG3ixrhOUJkRJzRyqwn0GQptg_zkh5tTuvHfIvfcwowYUuM8jWirh8MN0wfRu-dPru6sFQeqyDQfYY-bXYPSL_JW635w9fWnhQte7vxiY7sW0yli_PY3NoY45s257CnC17af95sm234k3UdVQvzdiiN20o5hUShOUUBjZuVd9tLYcM6zFmIa-bNU1BykwdZ0RhFF3mHgqOsDXfk5OKLS371ITkC92o9mMc7ZDGABMJAzCAQrrZqDxy-dQmB0Lri8Qrotula4qCdwvpEcJ146TqHzRlt2hjTV6llZibQur2Aug=&xkcb=SoB7-_M3WvOM7lWbBB0KbzkdCdPP&p=1&fvj=0&vjs=3",
+  "id": "6e2615a4e1c60866",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:40.563Z",
+  "description": "\n Company Description\n  Pilot Flying J is the 10th largest privately held company in North America with more than 28,000 team members. As the industry-leading network of travel centers, we have 750+ retail and fueling locations in 44 states and six Canadian provinces. Our energy and logistics division is a top supplier of fuel, employing one of the largest tanker fleets and providing critical services to oil operations in our nation's busiest basins. Pilot Company supports a growing portfolio of brands with expertise in supply chain and retail operations, logistics and transportation, technology and digital innovation, construction, maintenance, human resources, finance, sales and marketing.\n \n  Founded in 1958, we are proud to be family owned and consider our team members to be part of the family. Our founding values, people-first culture and commitment to giving back remains true to us today. Whether we are serving guests, a fellow team member, or a trucking company, we are dedicated fueling people and keeping North America moving.\n \n  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. \n  \n Pilot Flying J is part of the Pilot Company family of brands that keeps North America's drivers moving, including E-Z Trip, Mr. Fuel, One9 Fuel Stop, Pride, StaMart and Xpress Fuel.\n \n \n\n Job Description\n  \n \n   Provide guests fast, friendly, and clean service\n   Maintain inventory\n   Operate cash registers\n   Maintain the overall appearance and cleanliness of the restaurant\n   Provide excellent guest service\n \n \n  At Pilot Flying J, we fuel more than tanks – we fuel people. From our team members to our guests, we strive to make everyone’s journey better. As the largest travel center network and leading supplier of fuel, being part of the Pilot Flying J family means you are essential to keeping North America’s drivers moving.  What makes our travel centers a great place to work and shop? It starts with friendly people, a focus on teamwork and service, and a commitment to a safe and clean experience. Working together, we proudly provide the fuel, food and amenities that millions of travelers rely on to reach their destination. As a growth company, we are always looking for more incredible people to join our team. You bring the skills, drive to work hard and a friendly team spirit, and we’ll provide the training, benefits and opportunity to fuel your future. We hope your next career stop is with us! Join our team and start your journey with Pilot Flying J. NONE\n \n \n\n Qualifications\n  Required Qualifications\n \n   Incredible guest service skills and ability to maintain a guest focused culture\n   Ability to complete accurate sales transactions\n   Ability to use computers, telephones, and other equipment as needed\n   Ability to work as part of a team\n \n  Preferred Qualifications\n \n   Experience in a similar position\n   Ability to work a flexible schedule of nights, days, weekends, and holidays\n \n  Additional Information\n  Top Company Benefits:\n \n   Fuel Discount\n   Weekly Pay\n   Free meal and beverages daily\n   $10/week health plans\n   Paid time off\n   Tuition Assistance\n   Wellness Program\n   Professional development\n   401(k) retirement savings plan\n   Paid parental leave\n   Adoption Assistance\n   Flexible Schedule\n   Full and Part Time positions available\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6e2615a4e1c60866&from=vj&pos=bottom&mvj=0&spon=1&adid=402902710&ad=-6NYlbfkN0DmKMpCOCjeNN6FirsbYWR6yanqVvHtiGSw69GrqJrBf-ohiJLRN6KIJPLkhMr-KoTigZ0TenEkmuF48H1ylARYPdPSax8_Ve5gXxH8xoWaht1FVVb5Tn0xZwpDymUeoPEhmLsDt1xsfbEg8ZH9SBVSNF_oco0tZRSWhDhq5lKSrDyBeOlomzXXbXYjzR4f4V4ET3RiI8zvFSszIBPNjD3lkJFUrEiKNXv2qbNN8pyVRqdww-H3iAi0HVVw1SUo24fRRXug4ttCZFRxyVFrdRE-dlEU6JSfeDTrZOI8IW_LgPjJZnizGQvAS4i9SjZgrzuGKrquxY4T-8Lnw8LKzqCb6fJsv2QIUIHDAQWDH20LNg%3D%3D&sjdu=MEvlGseK1kdQEje15qlIOH-N481WKKPaaCOYTv3Jum_M4Jf0kmOzzHF-Xw-f4WCOC7R6XtpeEWJbRMoyCrjImr-pbjTZerNJYIp9-N4c7ys&vjfrom=serp&astse=645e8a3c8e8517a7&assa=9955",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier / Stock / Sales Team Member - Desert Ridge",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Total Wine & More",
+  "location": "Phoenix, AZ 85003",
+  "rating": 3.2,
+  "reviewsCount": 896,
+  "url": "https://www.indeed.com/rc/clk?jk=ed90bf740be8e78e&fccid=eeb4d7a9b77e24e5&vjs=3",
+  "id": "ed90bf740be8e78e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:44.250Z",
+  "description": "\n About the role \n As a Retail Team Member, you play an essential role in the customer service experience by providing customers with fast and friendly service. You will build relationships with customers, process transactions, maintain floor merchandise and inventory standards, answer questions, and ensure customers leave feeling positive about their visit. Both part-time and full-time positions may rotate between working as a cashier, a sales specialist or merchandiser/stock associate. You will report to the store management team.\n  Join us to become an industry expert in a fun and thriving retail company!\n  You will\n \n   Provide customer service by greeting and establishing a relationship with customers while informing them of our products and services.\n   Perform cashier functions and follow minor policy while completing customer transactions\n   Participate in wine, spirits, and beer training to learn how you can provide customers with recommendations and connect them to the right products\n   Replenish and maintain inventory and store visual presentation, including home spots, end caps, and platforms in preparation for product delivery\n   Maintain store safety and cleanliness standards on the sales floor, stock room, lockers, kitchen, bathroom, etc.\n \n  What we're looking for\n \n   21 years of age or older\n   Ability to work a flexible schedule as business requires, which may also depend on your preference for part-time or full-time hours\n   Experience using technology applicable to the position and access information necessary to complete daily responsibilities\n   1-year retail sales associate, cashier/cash handling, merchandiser, or inventory specialist experience preferred, to include greeting customers, stocking, merchandising, managing inventory, or replenishment\n   Strong interpersonal skills with a positive and engaging attitude\n   Value collaboration and acting as a team player\n   Desire to develop retail service skills and knowledge of product and services\n   WSE, Sommelier, or other industry certification preferred\n \n  Physical Requirements (with or without accommodations)\n \n   Walk, bend down repeatedly, and be on feet for 8-10 hours a day\n   Climb ladders and lift 50 lbs. overhead and repeatedly\n \n  We offer\n \n   Paid Time Off (PTO)\n   Generous store discounts\n   Health care plans (medical, prescription, dental, vision)\n   401(k), HSA, FSA, Pre-tax commuter benefits\n   Disability and life insurance coverage\n   Paid parental leave\n   Pet insurance\n   Critical illness and accident insurance\n   Discounted home and auto insurance\n   College tuition assistance\n   Career development, industry knowledge, and wine, spirits, and beer education\n   Consumer classes\n   & More!\n \n  Grow with us!\n  Total Wine & More is the country’s largest independent retailer of fine wine, beer and spirits, and we continue to grow our footprint year over year. Total Wine offers exciting and unique career opportunities across the country and in our corporate office. Our strength is our people. We have a commitment to training and career growth, all in an environment that values new ideas and teamwork. If you share our entrepreneurial spirit and a passion for providing best-in-class customer experience, take a moment to apply or learn more at www.TotalWine.com/About-us/Careers!\n  Total Wine & More considers several factors when establishing compensation. Estimated salaries determined by third parties have not been validated by Total Wine & More.\n  Total Wine & More is an equal opportunity employer and all qualified applicants will receive consideration for employment without discrimination based on race, color, religion, national origin, sex, sexual orientation, age, marital status, veteran status, disability, or any other characteristic protected by applicable law. Total Wine & More makes reasonable accommodations during all aspects of the employment process, including during the interview process. Total Wine & More is a Drug Free Workplace.\n  The information provided above indicates the general nature and level of work required of the position and is not a comprehensive list of all responsibilities or qualifications. Benefits list is only a highlight of some of the benefits offered to team members; eligibility for certain benefits apply.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=ed90bf740be8e78e&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXisOhj5a8le7qY1gSiP_Es7GQFsFDP3gSdjjHZnj9ZEfg&vjfrom=serp&astse=4380423f2b46e5bc&assa=4066",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Retail Sales Associate/Cashier",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Bargain Bros Discount Store",
+  "location": "Phoenix, AZ 85053",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Bargain-Bros-Discount-Store/jobs/Retail-Sales-Associate-Cashier-d6fc150f6e36da6c?fccid=563f429846d919e9&vjs=3",
+  "id": "d6fc150f6e36da6c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:45.367Z",
+  "description": "Currently trying to fill Weekday Shifts from 10AM to 7PM (Doesn't have to be an all day shift, Can be partial day)\nOpening for a small family owned discount retail store.\nWe sell new products found at big box stores for a discounted price.\nPosition Responsibilities\n\n Assisting customers in a face to face environment.\n Checking out customers using a POS system\n Helping customers semi-heavy items into vehicle\n Regularly listing store products on Facebook Marketplace, Offerup, Letgo, etc. & Responding to messages from customers on these platforms\n Assembling various home good items including; bikes, cube organizers, small tables, chairs, etc.\n Assist w/ unloading truckload of merchandise, once to twice per month\n Assist w/ stocking and arranging items after unloading truck\n\nRequirements: \n\n Must pass drug test & background check\n Must be able to pick up items weighing up to 50 pounds unassisted with dolly.\n Decent interpersonal skills\n Retail experience with cash transaction preferred not mandatory.\n\nJob Types: Full-time, Part-time\nPay: $15.00 per hour\nBenefits:\n\n Flexible schedule\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n Weekends only\n\nAbility to commute/relocate:\n\n Phoenix, AZ 85053: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$12.80 - $15.00 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Safeway/Albertsons",
+  "location": "Phoenix, AZ 85048",
+  "rating": 3.2,
+  "reviewsCount": 55,
+  "url": "https://www.indeed.com/rc/clk?cmp=Safeway%2FAlbertsons&ti=Cashier&jk=08a59d75c78df0c7&fccid=ef5c55c2bcc3c2ad&vjs=3",
+  "id": "08a59d75c78df0c7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:46.762Z",
+  "description": "Front End Operations\n\n Cashiering\n Bagging\n Customer Service\n Money Handling\n\nJob Type: Part-time\nPay: $12.80 - $15.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Employee discount\n\nShift:\n\n Day shift\n Evening shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Phoenix, AZ 85048: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Lead Cashier",
+  "salary": "$12.80 - $21.00 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Daily Jam",
+  "location": "Tempe, AZ 85281",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Daily-Jam/jobs/Lead-Cashier-ed1c0c60f0f450a0?fccid=72b46032dbb05086&vjs=3",
+  "id": "ed1c0c60f0f450a0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:47.628Z",
+  "description": "We're looking for a Lead Cashier to oversee the daily operations of our busy store. The Lead Cashier will be required to supervise the store staff, maintain office supplies and handle inventory along with completing financial reports. We're seeking candidates who are highly detailed and well organized so that our store can continue to operate smoothly. A successful candidate will enjoy continual professional development opportunities and a competitive wage with shared tips daily.\nResponsibilities:\n\n Approve credit card purchases, using the computer or hand swiping.\n Assist customers who are having difficulties with the credit card machines.\n Follow standard check in and out procedures.\n Be able to operate a cash register, including coin, bill payment, and promotion operation.\n Be able to communicate with customers and management regarding concerns and issues.\n Help keep an organized work station.\n\nJob Types: Full-time, Part-time\nPay: $12.80 - $21.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nShift:\n\n Day shift\n Morning shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Tempe, AZ 85281: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$12.80 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Full Circle Autowash",
+  "location": "Chandler, AZ 85224",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D0ZqxdZg2TwcIemQ4yr89eGinLCR7bn2QHXosobzuZIDuUBzu8CdkTubaT9mlfCbCyBn2jwUJ4Oq7jR9k_6rmX-WYTqLPrs46Y_ccr75E23uIvHr7PpzInUuLGOUQEIsi2NhIiJnHtbOKqcGPeWIamZXXhySJG4-jRdnERh9hPlRaecrw8IIFPqlIdbDF7bPsdFpxLB9FNpgweaNqac6uIJop5TEqOUAA5J8U9vv_Tex-Bd6Wj3_e70vwK16_KZBQQYF4hbnxGzUNV9SopzzPHSajSHev7SDckHyafLQgJRWmI_INhcu7uh5e6DjNh7qmEhu4V5zEAFg7Z_2ImHL3fE68X-usaTmFudJHOMbXO_-B3pCzWwqfqAJP8oekOt5xe_7aFv7QQe7ry_x7DwXEoZsLc-SIb4YBghLQWFZyapLV7J9rphfchm_ebOj8G08o4iK-eL-L1GbeLyMh1ACENkXVAo9TYOKwEVd35685LNZRt3LJgq63mya9NB8Fl9UA=&xkcb=SoD8-_M3WvOK4eQdwR0IbzkdCdPP&p=11&fvj=1&vjs=3",
+  "id": "c6c93c3ad95e9436",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:48.745Z",
+  "description": "Full Circle Autowash is hiring for our Chandler location. Must have a good attitude and love to work directly with our customers. Weekly payroll and weekly commission.\nJob Type: Part-time\nPay: $12.80 per hour\nShift:\n\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:To keep our cashiers safe we have installed clear plastic barriers.\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Customer Service: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Convenience Store Cashier (Full-Time / Part-Time)",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Super Star Car Wash",
+  "location": "Phoenix, AZ 85041",
+  "rating": 3.4,
+  "reviewsCount": 62,
+  "url": "https://www.indeed.com/rc/clk?jk=80fa207b7c47b72b&fccid=b5ab9af63c86f120&vjs=3",
+  "id": "80fa207b7c47b72b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:49.557Z",
+  "description": "\n Super Star Car Wash is a leader in providing car wash, detail, and lubrication services to customers in Arizona and California. Our mission is to provide fast, high quality, professional service in a friendly atmosphere, along with a smile while creating a reward team member environment.\n  Position Summary:\n  A Customer Service Representative obtains payment for goods by scanning items, itemizing and totaling customer's purchases. \n Essential Duties/Tasks/Responsibilities:\n  (These responsibilities must be able to be performed with or without reasonable accommodation)\n \n   Itemizes and totals purchases by recording prices, departments, taxable and nontaxable items; operating a cash register.\n   Enters price changes by referring to price sheets and special sale bulletins.\n   Discounts purchases by redeeming coupons.\n   Collects payments by accepting cash, check, or charge payments from customers; making change for cash customers.\n   Verifies credit acceptance by reviewing and recording driver's license number; operating credit card authorization system.\n   Balances cash drawer by counting cash at beginning and end of work shift.\n   Provides pricing information by answering questions.\n   Maintains checkout operations by following policies and procedures; reporting needed changes.\n   Maintains safe and clean working environment by complying with procedures, rules, and regulations.\n   Contributes to team effort by accomplishing related results as needed.\n   Other duties as assigned\n \n  Minimum Job Requirements:\n \n   Previous cashiering experience\n   High School Diploma, GED\n   Must be at least 19 years old; 21 and older to work overnight\n \n  Knowledge, Skills and Abilities Required:\n \n   High Level of Integrity\n   High Energy Level\n   Dependability\n   Productivity\n   Customer Service\n   General Math Skills\n   Professionalism\n   Attention to Detail\n   Basic Safety\n   RF Gun\n   POS Processing\n \n  Requires the ability to interact with others, interpret spoken messages and utilize reason to resolve complex problems. Requires keyboarding, hearing and talking, frequent standing and walking, and frequent bending at the waist, twisting of the upper body, kneeling, being mobile on uneven surfaces, squeezing and crouching. Requires frequent lifting and carrying of 1-10 pounds (occasional up to 45#).\n  This position description is not intended to be and should not be construed as an all-inclusive list of responsibilities, skills or working conditions associated with this position. While this description is intended to accurately reflect the position's activities and requirements, management reserves the right to modify, add or remove duties as necessary. Super Star Car Wash is an Equal Opportunity Employer.\n  \n  Brand: Super Star Car Wash \n  Address: 1905 W. Baseline Road Phoenix, AZ - 85041 \n  Property Description: 19th Avenue \n  Property Number: 19TH\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Crew Member/Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Blimpie | Kahala Management",
+  "location": "Phoenix, AZ 85053",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=60b49366d53ad12e&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "60b49366d53ad12e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:50.137Z",
+  "description": "\n Crew Member/Cashier\n \n  Duties and Responsibilities\n \n   Greet guests in a friendly way and make a great first impression of the store\n   Take and prepare orders according to brand standards (may vary by location)\n   Perform cashier duties and reconcile cash\n   Adhere to safety guidelines\n   Put away stock as assigned\n   Set-up and break-down service areas\n   Ensure 100% customer satisfaction\n   Maintain clean and sanitized work and public areas\n   Prep in advance in an organized and timely manner\n \n \n  Qualifications/Requirements\n \n   Must be at least 16 years old\n   Team player with a high energy, a positive attitude, and great customer service skills\n   Must be able to be punctual and maintain an assigned work schedule\n   Must be able to follow and understand the importance of procedures\n   Regularly required to stand and walk and reach with hands and arms\n   Occasionally required to bend, stoop, kneel, or crouch\n   Must be able to perform cleaning duties (wiping tables and equipment, sweeping, and mopping)\n   Must be able to lift and/or move 10 pounds\n \n  \n  \n  Brand: Blimpie \n  Address: 4267 W Thunderbird Rd Phoenix, AZ - 85053 \n  Property Description: 10022 Blimpie Thunderbird Rd \n  Property Number: 10022\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier (Seasonal)",
+  "salary": null,
+  "jobType": [
+    "Seasonal"
+  ],
+  "company": "Lancer | Elior North America",
+  "location": "Phoenix, AZ 85008",
+  "rating": 3,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/rc/clk?jk=d9785c31c4afef85&fccid=261395cbd1f47893&vjs=3",
+  "id": "d9785c31c4afef85",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:51.338Z",
+  "description": "\n The Cashier is responsible for serving our customers courteously, quickly and efficiently with a sincere, positive, pleasant and enthusiastic manner. Duties of this position include filling orders, receiving money, accurately counting back change and maintaining a clean and organized work station. The ideal candidate will possess basic knowledge of math and handling money and have experience providing superior customer service. This position requires standing, walking, and bending throughout the entire work day and the ability to lift, stack and maneuver objects that may weigh 30 to 50 pounds. Performs other related duties as assigned by management\n \n  Equal Opportunity/Affirmative Action/Minorities/Women/Individual with Disabilities/Protected Veteran Employer\n  \n  Brand: Lancer \n  Address: 455 N Galvin Pkwy Phoenix, AZ - 85008 \n  Property Description: Lancer - Phoenix Zoo \n  Property Number: F4115\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "FT-Head Cashier-Flexible",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Lowe's",
+  "location": "Phoenix, AZ 85041",
+  "rating": 3.5,
+  "reviewsCount": 51116,
+  "url": "https://www.indeed.com/rc/clk?jk=44f732f998f2d92a&fccid=402f23c7b01ca527&vjs=3",
+  "id": "44f732f998f2d92a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:52.642Z",
+  "description": "\n \n  What You Will Do\n   All Lowe’s associates deliver quality customer service while maintaining a store that is clean, safe, and stocked with the products our customers need. As a Head Cashier, this means:\n   \n  \n   Delivering a checkout experience that is quick, professional, and friendly.\n   Ensuring merchandise is accurately scanned and meets the needs of the customer.\n   Engaging in safe work practices and encouraging others to do the same.\n   The Head Cashier is responsible for providing excellent customer service during the checkout process. This associate is likely the last interaction with our customer before leaving the store and needs to ensure the customer is satisfied and encouraged to come back to Lowe’s. Therefore, engaging with customers as well as attention to detail are extremely important in this role. As Head Cashier, he/she provides supervision, coaching, and support to the Customer Service Associate - Front End Team. Depending on the specific work shift, this associate may also help open or close the front-end of the store.\n   Travel Requirements: This role does not require regular travel; however, this role may need to travel on occasion to meetings, trainings, or to support neighboring stores.\n   \n   \n  What We're Looking For\n   \n  \n   Hourly Full Time or Part Time: Generally scheduled 39 to 40 or up to 25 hours per week, respectively; more hours may be required based on the needs of the store.\n   Requires morning, afternoon and evening availability any day of the week.\n   Physical ability to perform tasks that may require prolonged standing, sitting, and other activities necessary to perform job duties.\n   Minimally must be able to lift 10 pounds without assistance; may lift over 10 pounds with or without assistance.\n  \n   \n   What You Need To Succeed\n   \n  Minimum Qualifications\n   \n  \n   6 months of experience using a computer, including inputting, accessing, modifying, or outputting information.\n   6 months experience using common retail technology, such as smart phones and tablets.\n   1 year of retail experience as a cashier.\n   Ability to obtain sales related licensure or registration as may be required by law.\n  \n   \n   Preferred Qualifications\n   \n  \n   1 year of experience identifying and selling products based on customer needs, including credit cards, installations, add-on sales, protection plans, and explaining warranties, product features, and benefits.\n   1 year of experience as a head cashier.\n   6 months experience working in any department at a Lowe's retail store.\n   1 year of supervisory experience in any field, including directing, delegating, evaluating, training, and coaching employees.\n   6 months of retail experience detecting common signs of shoplifting (e.g., merchandise hidden inside of containers, merchandise under carts, price labels switched).\n  \n \n  If the state or local municipality requires a salesperson license for this position, you must either be licensed or pass the requisite licensing exam within sixty (60) days of starting employment in this position.\n  EEO Statement Lowe’s is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=44f732f998f2d92a&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXifYe_DfWRvhL7yFWLWo0Rt5Z_dA0xndw9ylAW4Hz2CAQ&vjfrom=serp&astse=fa2fa8dd7ce16f9f&assa=895",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Medieval Times Dinner & Tournament",
+  "location": "Scottsdale, AZ 85258",
+  "rating": 3.8,
+  "reviewsCount": 267,
+  "url": "https://www.indeed.com/rc/clk?jk=593a0cc78f8b4b78&fccid=9832bf42a36043e2&vjs=3",
+  "id": "593a0cc78f8b4b78",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:52.928Z",
+  "description": "\n FOR A LIMITED TIME, WE ARE OFFERING A $250 SIGN-ON BONUS AFTER 60 DAYS OF EMPLOYMENT!\n  Medieval Times is looking for CASHIERS who are responsible for maintaining outstanding customer service by processing ticket sales quickly, accurately and efficiently. Cashier safeguards company assets by reconciling retail cash tills. \n  \n  \n ESSENTIAL FUNCTIONS and RESPONSIBILITIES: \n \n  Receives payment for admission ticket sales\n   Issues receipts, refunds, credits or change due to customers\n   Ensures that each guest receives outstanding service by greeting each guest and providing a friendly environment\n   Maintains awareness of all admissions prices and packages as well as all promotions and advertisements\n   Resolves customer complaints and communicate customer requests to management as needed\n   Accurately and efficiently records all cash and media collected\n   Counts money in cash drawers at beginning and end of shift and balances to register sales documents \n  Maintains orderly appearance of work area and supplies stocked\n   Additional duties as assigned\n \n  KNOWLEDGE, SKILLS AND ABILITIES:\n \n   Ability to process information through computer system\n   Ability to count money and make change\n   Ability to deal with unpleasant or discourteous guests on occasion\n   Ability to communicate with Team Members and guests\n   Ability to read, count, and write to accurately complete all documentation\n   Physical ability to stand and/or sit for extended periods\n   Physical ability to lift up to 10 lbs.\n   Ability to work varied hours/days, including nights, weekends and holidays, as needed \n \n EDUCATION AND WORK EXPERIENCE:\n \n   High School diploma or equivalent\n   1-2 cashier, retail, or customer service experience\n  EOE, drug-free environment. \n  Brand: Medieval Times Dinner & Tournament \n  Address: 9051 E. Via de Ventura Scottsdale, AZ - 85258 \n  Property Description: Arizona \n  Property Number: 12\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=593a0cc78f8b4b78&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjK_BM7AIIyin1oq5ArYaihl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=c91f0cc6eeaaa4a5&assa=2583",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Accounts Receivable - Cashier",
+  "salary": "$22 - $25 an hour",
+  "jobType": null,
+  "company": "Vanguard Truck Centers",
+  "location": "Phoenix, AZ 85009",
+  "rating": 3.1,
+  "reviewsCount": 15,
+  "url": "https://www.indeed.com/rc/clk?jk=3fc88f58107acdf3&fccid=919b7fcbe205ae09&vjs=3",
+  "id": "3fc88f58107acdf3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:53.438Z",
+  "description": "\n Mission: To lead the industry in consistently meeting or exceeding our customer's expectations in the pursuit of profitable growth.\n  Values: To protect our integrity first\n  To promote ingenuity and challenge everything\n  To develop people\n  To pursue excellence\n  The Company: Our strength is in our people and team work.\n \n  Vanguard Truck Centers owns and operates full service commercial truck centers in the United States. Our unique footprint allows us to provide a diverse range of products and services across many industries, and across the country.\n  Vanguard Truck Centers is a Successful Company that is Growing and Profitable!\n \n  SUMMARY\n  Records payments to customer accounts and maintains accounts receivable records. Takes appropriate collection action on accounts more than 30 days old. Reconciles and deposits all monies received by the dealership.\n \n  ESSENTIAL DUTIES\n  Essential Duties include the following. Other duties may be assigned.\n  Collects payments via in person or by phone in the form of CCs, Cash, and Checks.\n  Reconciles and deposits service and parts receipts, including charge cards, on a daily basis.\n  Enters finalized cash receipts and updates accounts receivable ledger by customer.\n  Files all cash receipt records, check stubs, and bank receipts.\n  Prepares cash deposits and fills out the cash control sheet daily.\n  Reconciles statements and follows up collections as necessary.\n  Prepares accounts receivable statements monthly.\n  Processes daily credit card deposits.\n  Researches and processes charge backs, returns, and bad checks.\n  Answers accounts receivable phone calls and follows up on inquiries.\n  Updates customers' account information.\n  Maintains a monthly holdback list for the office manager.\n  Cross-trains others for this position as directed by management.\n  Fills in for other administrative positions as needed and directed by management.\n  Assists with related special projects as required.\n  Maintains a professional appearance and neat work area.\n \n  QUALIFICATIONS\n \n  EDUCATION and/or EXPERIENCE\n  Associate's degree (A. A.) or equivalent from two-year college or technical school; or six months to one-year related experience and/or training; or equivalent combination of education and experience.\n  Two to four years related experience and/or training; or equivalent combination of education and experience\n\n",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier (Full-Time)",
+  "salary": "$15.00 - $15.60 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Nordstrom",
+  "location": "Phoenix, AZ 85016",
+  "rating": 3.8,
+  "reviewsCount": 15143,
+  "url": "https://www.indeed.com/company/Nordstrom/jobs/Cashier-876a97aa143ad261?fccid=68ce5c21322a81a4&vjs=3",
+  "id": "876a97aa143ad261",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:53.950Z",
+  "description": "Job offers on the spot! Ability to earn up to an additional 10 dollars per hour!\nJob description\nThis job is a great fit for someone who thrives in a fast-paced environment and is committed to providing outstanding customer service every day.\nA day in the life…\n\n Assist customers with a variety of transactions through a seamless and friendly experience\n Demonstrate expertise in all technologies used in the store environment\n Inspire trust, teamwork and positive team relationships\n Defuse customer situations and provide resolution in a timely and effective manner\n Ensure the security and privacy of customer information through education, compliance and resolution of issues\n Motivate and inspire others to adopt initiatives such as our Nordstrom Rewards program\n The hours and schedule for this position will vary by week depending on business needs\n\nYou own this if you have…\n\n The ability to effectively build relationships with your customers, peers and leadership\n Proficiency in multiple operating systems such as MS Windows, iOS and Android\n Clear, effective communication with strong interpersonal skills\n The ability to prioritize multiple tasks in a fast-paced environment\n Accountability, initiative and a high level of ownership\n The ability to work a flexible schedule based on department needs\n\nThe job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.\nJob Type: Full-time/ Part-Time\nJob Types: Full-time, Part-time\nPay: $15.00 - $15.60 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Weekend availability\n\nCOVID-19 considerations:All employees are required to answer health questions.\nApplication Question(s):\n\n Friday, Saturday, and Sunday availability required due to retail environment. Are you available to work on these days?\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Front Office Cashier",
+  "salary": "$16.00 - $26.91 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "American Furniture Warehouse",
+  "location": "Glendale, AZ",
+  "rating": 3.4,
+  "reviewsCount": 450,
+  "url": "https://www.indeed.com/rc/clk?jk=4bedbbcb2db5e1a8&fccid=cb41a35a2c07c2fa&vjs=3",
+  "id": "4bedbbcb2db5e1a8",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:54.530Z",
+  "description": "\n The Front Office Associate plays a critical customer service role by providing customers with fast, friendly, accurate service. They are responsible for providing excellent customer service, efficiently and accurately completing sales and service transactions at the cash registers, as well as handle customer issues that may arise on the sales floor. \n Starting $18/hour! \n \n Job Requirements \n \n  Able to adhere to the AFW asset protection policies and identify and prevent fraud. \n  Professional Appearance. \n  Knowledge of our company values of accountability, honesty and safety for our employees and customers. \n  Positive attitude with strong inter-personal skills. \n  Coordinate and work effectively with multiple departments to continuously improve processes, maximize efficiency and exceed customer service expectations. \n  Ability to apply technology up to and including ipads, storis, excel and windows. \n \n Qualifications \n \n  Commitment to AFW’s safety policies and procedures and ability to promote awareness. \n  Takes ownership for enhancing the customer experience. \n  Addresses customer complaints and resolves problems as needed. \n  Partners with selling and sales support associates to provide superior customer service (i.e., assist customers, answer phones). \n  Leverages technology in order to facilitate the customer experience. \n  Completes customer transactions accurately and efficiently at point-of-sale. \n  Executes consistent operational and selling processes (i.e., credit application process). \n  Educates customers and employees on our Satisfaction Guaranteed return policy. \n  Assists in resolving basic customer issues. \n  Assists with merchandise support tasks (i.e., maintenance, straightening merchandise). \n  Uses basic internet navigation to access and print information/reports. \n  Basic reading, arithmetic, writing and oral communication skills. \n  Responding to public address system announcements. \n  Identifying and reading reports, tickets and UPC labels. \n  Requires recognizing, identifying and using merchandise and necessary reports. \n \n Physical Requirements \n \n  Long periods of sitting and standing. \n  Concrete Flooring \n  Exposure to fluorescent lighting. \n  Requires constant use of arms, hands, fingers, eyes, legs, and back \n  The Front Office Associate position requires lifting, gripping, bending, kneeling, stooping and moving for 8 hours or more daily. \n  Requires the ability to move around the store and maneuver merchandise when necessary, must be able to stand/walk and regularly requires lifting/handling/carrying material or equipment of moderate weight (8-50 pounds). \n \n Pay Grade A: $16.00-$26.91 \n A pre-employment drug screen and pre-employment background check must be passed upon job offer. \n American Furniture Warehouse provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics.\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=4bedbbcb2db5e1a8&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhozpwiG71PC2X1AUORPGpnl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=4cb53d30739d53fc&assa=4296",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Evening Cashier (2pm until 12 am)",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "The Grove Inc",
+  "location": "Phoenix, AZ 85034",
+  "rating": 4.4,
+  "reviewsCount": 8,
+  "url": "https://www.indeed.com/company/The-Grove-Inc/jobs/Evening-Cashier-e9f535a9fd91902d?fccid=01a31349e3e8a690&vjs=3",
+  "id": "e9f535a9fd91902d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:55.569Z",
+  "description": "Are you looking for a place to work where your hard work will be noticed and appreciated?\nAre you looking for Managers who cares about their employees?\nAre you looking for a company where people matter?\nWe want you to join our FAMILY!\nWe are looking for Cashiers/ Stockers/ Cooks for our Evening Shifts! The shift is from 2pm until 10pm. If you are interested, responsible, dependable and self-motivated, please apply today!\nTGI CULTURE\nThe Grove, Inc. (TGI) company’s culture is one of teamwork, trust, and inclusion. Our values circle back to people – taking care of our guests, teammates, and business partners. We guide our team to do excellent work, provide unrivaled customer service, and take care of not only our guests and partners, but our planet and each other. Through open lines of communication, easy access to top level management, and true team collaboration, employees will learn, grow, and excel within the industry and beyond.\nWe are opening 5 locations at the Phoenix Sky Harbor Airport! We need everything!! Managers, Supervisors, Cooks, Cashiers, Bartenders, and Servers!\nResponsibilities: \n\n Customer interaction\n Cashiering\n Food preparation\n Cleaning/sanitizing work areas\n Stocking and rotating product\n\nQualifications: \n\n Must be at least 18 years of age upon hire date\n Must be eligible to work in the United States\n Must have a source of reliable transportation\n Ability to handle all equipment, pans, pots, navigating shelving both high and low\n Reading, writing, and basic math and verbal communication skills required\n Works in hot, noisy, and fast paced environment\n Mobility required during shifts\n Must work well under pressure\n Must be able to respond to changes or edits to orders quickly and efficiently\n Must be able to obtain an airport SIDA Badge\n\nApply today!! Your pay will be based on position and experience.\nJob Types: Full-time, Part-time\nPay: From $16.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nApplication Question(s):\n\n Do you have dependable transportation; if public is not available are you able to obtain other means that would not causes for issues with your attendance?\n\nShift availability:\n\n Day Shift (Preferred)\n Night Shift (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier North Scottsdale~ Weekly pay!!",
+  "salary": "$13.45 - $15.85 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Fry's Food Stores D3",
+  "location": "Phoenix, AZ 85032",
+  "rating": 3.4,
+  "reviewsCount": 1597,
+  "url": "https://www.indeed.com/company/Fry's-Food-Stores/jobs/Cashier-North-Scottsdale-Weekly-Pay-32af1c871845311c?fccid=f6698aa49b5656c7&vjs=3",
+  "id": "32af1c871845311c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:59.352Z",
+  "description": "Frys are now accepting applications for Cashier. Our primary focus is to create an uplifting customer experience through exceptional service. We are looking for friendly and engaged people who have a passion to serve and Feed the Human Spirit.\nBenefits: \n\n Health, Dental and Vision Insurance\n Tuition Reimbursement\n Career Advancement\n Discount on Groceries\n\nResponsibilities include, but are not limited to: \n\n Grocery Clerk should offer product samples to help customers discover new items or products they inquire about.\n Grocery Clerk will be able to inform customers of Murry Cheese and/or deli specials.\n Measure, prepare and mix ingredients according to recipe, using variety of kitchen utensils and equipment.\n Adequately prepare, package, label and inventory ingredients in merchandise.\n Check product quality to ensure freshness. Review \"sell by\" dates and take appropriate action.\n\n** ALL APPLICANTS MUST BE 18 YEARS OF AGE**\nIf you have any questions about the job, please call our HR Specialist Sarah 760-801-8408\nJob Type: Part-time\nPay: $13.45 - $15.85 per hour\nShift:\n\n 4 hour shift\n 8 hour shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Scottsdale, AZ 85255: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier - ACE Hardware",
+  "salary": "$15 an hour",
+  "jobType": null,
+  "company": "Pauls Ace Hardware Family of Hardware Stores",
+  "location": "Tempe, AZ 85282",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=ccd69855d6f4f3bb&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "ccd69855d6f4f3bb",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:30:59.549Z",
+  "description": "Paul’s Ace Hardware is a growing company servicing our valuable customers since 1956. \n\nCheck us out at: www.paulsacehardware.com \n\n \nPay Range:\n Minimum starting wage $15.00/hour, higher dependent on experience relating to this position. \n\n \nBenefits we offer:\n \n \n Competitive pay \n Learn Life Skills \n Personal Time Off (PTO) \n Paid Holidays \n Medical, Dental, Group Life Insurance** \n 401K Retirement Plan*** \n Paul’s Savings Plan \n Monthly Incentives \n Continuing education and cross-training opportunities \n Promote from within \n We are always looking for management quality individuals for our growing company! \n\n \nExpectations and Responsibilities include, not limited to:\n \n \n Strong, positive customer service \n Participate in generating sales \n Maintaining cleanliness of POS area and assigned areas \n Upholding the retail disciplines of fronting, facing and flossing \n Accountable for cash handling, processing credit/debit cards, coupons, etc. \n Must be able to work days, evenings, weekends and holidays \n May be required to lift at least 10 lbs. and up to 25 lbs. \n \nQualifications:\n \n \n Customer service experience preferred \n Strong verbal communication \n Ability to perform and understand basic mathematical concepts such as addition, subtraction, multiplication, division, percentages, and fractions \n Ability to read instructions, policies, procedures, and complete forms either in writing or using a computer \n High school diploma or equivalent, preferred \n **Full-time status required; 30 or more total hours worked per week \n***Hours and length of service requirement \n\n Drug Free Workplace",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Electronics Associate/Cashier",
+  "salary": "$14 - $24 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Best Deal In Town",
+  "location": "Tempe, AZ 85283",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Best-Deal-In-Town/jobs/Electronic-Associate-Cashier-407a678b1c832188?fccid=a98e15440c318390&vjs=3",
+  "id": "407a678b1c832188",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:03.846Z",
+  "description": "Best Deal in Town, a Tempe-based consumer electronics store, is growing and looking for eager, driven applicants for sales associate positions.\nBest Deal in Town specializes in open box, overstock and refurbished electronics - HDTVs, MacBooks, iPads and more and needs applicants who are well versed in modern electronics and are great with customers. This is for part-time to full-time work, we have many positions that need to be filled.\nWe are looking for people that work hard, are self motivated, take initiative and can be a team player!\nSome of your job roles include:\nWorking directly in sales with customers to create an exciting, fun environment\nUnloading trucks and loading customer vehicles.\nWarehousing of TVs and other stock\nPosting ads online and social media work\nRinging up customers on our POS system\nAssist in setting up TVs, displaying merchandise, cleaning store including bathrooms,\nAble to multi-task on assorted merchandizing and sales responsibilities.\nAlthough not required, bilingual applicants are definitely encouraged.\nWe are a pretty tight-knit group and like to have fun, but we work hard. We want people who are also ready to work hard and to treat other employees, customers and the the company inventory with respect: )\nWhen responding, please understand that a resume is just a start. Please don't only send me your resume with nothing else in the email. Please explain why you think you would be great for this position based on our needs listed above. Tell me a little more about yourself and some of your experience levels in our areas of concern.\nThanks for your interest and we look forward to hearing from you about this opportunity.\nRyan\nJob Type: Full-time\nPay: $14.00 - $24.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "$13 - $16 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Myungrang hotdog mesa",
+  "location": "Mesa, AZ 85202",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Myungrang-hotdog-mesa/jobs/Cashier-Customer-Service-140f524e9c7a701e?fccid=6d973a7fc5729f45&vjs=3",
+  "id": "140f524e9c7a701e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:04.329Z",
+  "description": "We are looking to hire a team mate. Someone who's schedule is flexible.\nJob Type: Part-time\nPay: $13.00 - $16.00 per hour\nShift:\n\n 4 hour shift\n Evening shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n\nAbility to commute/relocate:\n\n Mesa, AZ 85202: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Part time Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "PARADISE VALLEY ACE, LLC",
+  "location": "Phoenix, AZ 85032",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=ace0dbac07538e89&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "ace0dbac07538e89",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:05.047Z",
+  "description": "Notice to Applicant about this Employer: You are applying for a job with an independently owned cooperative member of Ace Hardware Corporation, who operates this Ace Hardware store, not Ace Hardware Corporation. The independent store owner alone is responsible for and independently makes all decisions concerning employment related matters, including hiring, firing, discipline, supervision, staffing and scheduling. Ace Hardware Corporation will not receive a copy of any applications submitted for this position, and will have no control over interviews and/or hiring decisions, does not control and is not responsible for the employment policies and practices of the independent store owner. If hired, the independent store owner will be your only employer. Ace Hardware Corporation is not the employer for this position. The Ace Hardware trademarks, logos and designs are owned by Ace Hardware Corporation and used by independent store owners under a license from Ace Hardware Corporation. \n\n General Summary \nThe Cashier is responsible for register transactions involving the sale and/or return of merchandise. They will also direct customers to areas of the store for help with customer service. \n\n Essential Duties & Responsibilities \nInclude the following. Other duties may be assigned. \n\n Customer Service \n\n \n Project a positive representation. \n Greet customers entering and throughout the store. Thank customers by name, when possible, when they are leaving the store. \n Project a friendly, outgoing demeanor; work well with customers as well as associates. \n Clear customer checkout lines quickly and efficiently. \n Answer and monitor all calls and pages promptly, courteously and effectively. \n Communicate any problem or issue that requires management assistance. \n Continually build product knowledge base and possess the ability to assist customers with store layout and product location. \n Assist in pricing, stocking, marking and bagging of merchandise. \n Register Operations \n\n \n Follow all cash register transaction procedures. \n Responsible for balancing of register drawer. \n Adhere to any Store Support Center program or promotion that may require implementation at the cash registers. \n Participate in store and Cashier meetings. \n Front End Appearance and Upkeep \n\n \n Keep the front end, including checkout areas and entrance doors neat and clean at all times. Face and dust front end. \n Assist with keeping impulse counters stocked and faced, rotate fresh merchandise in as seasons change. \n Ensure fresh ads are stocked in shopping carts at all times. \n Ensure forms and supplies are stocked at all times. \n Assist with decorating the front end according to the Store Support Center program. \n Call for cart pickups when necessary. \n Inform management when merchandise returns need to be put away. \n Perform all other duties as assigned. \n Other Essential Requirements \nGeneral Hardware knowledge is preferred. \n\n Education/Training \n\n High School or GED equivalent. \n\n Experience \n\n Cashier experience preferred. Customer service experience preferred. \n\n Physical Demands \n\n Standing, walking, lifting (up to 25lbs) and climbing. \n\n Must be available nights and weekends. Closed Christmas day and Thanksgiving. Must be available all other days.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Part-Time Cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "RideNow Powersports",
+  "location": "Peoria, AZ 85381",
+  "rating": 3,
+  "reviewsCount": 180,
+  "url": "https://www.indeed.com/rc/clk?jk=6d241281f18af0ed&fccid=eb8fe85903d4f588&vjs=3",
+  "id": "6d241281f18af0ed",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:05.658Z",
+  "description": "\n \n  \n   \n    \n     \n      \n       \n        \n         \n          \n           Are you ready to build your career with the world’s largest motorcycle company? Arrowhead Harley-Davidson is seeking a highly motivated, customer-orientated part-time Cashier to join our team!\n            WHAT WE OFFER\n            Medical/Dental/Vision, 401(K) Savings Plan, PTO, Employee Discounts, Advancement Opportunities, and Employee Referral Program, just to name a few.\n            JOB SUMMARY\n            Receives cash from customers or employees in payment for goods or services by performing the following duties:\n            OBJECTIVES\n            To complete monetary transactions securely and accurately as well as assist customers to ensure they have been helped completely.\n            ESSENTIAL DUTIES AND RESPONSIBILITIES\n           \n             Greets and handles over-the-counter and over-the-phone customers in a friendly manner.\n             Suggests other items to customers to ensure they are being given an opportunity to purchase all items they require.\n             Operate cash register, give change and be responsible for all monies taken in.\n             Write cash receipts\n             Stock and display merchandise as required\n             Complete sales drafts for credit cards and get authorization when necessary.\n             Accept only checks that meet the requirements of the dealership’s policies. Verify funds on checks when asked to do so. Get authorization from a check guarantee service if the store uses one.\n             Assist in handling telephone inquiries when parts phone clerk is unable.\n             Reconcile all receipts to cash each day.\n             Abide by all dealership policies pertaining to the department including general housekeeping.\n             Follow company dress codes and be well-groomed at all times.\n           \n            REQUIREMENTS AND SKILLS\n           \n             Prefer some computer literacy.\n             Prefer interest or experience in the Powersports industry.\n             Prefer cash handling experience. (cashier)\n             Excellent customer service and solid communication skills.\n           \n           \n            EDUCATION AND EXPERIENCE\n           \n             High school diploma or equivalent.\n           \n           \n            PHYSICAL FACTORS/WORKING CONDITIONS\n           \n             Frequently required to stand, walk, and sit.\n             May frequently move up to 30 pounds.\n           \n           \n            ** We are an equal opportunity employer and a drug-free workplace **\n          \n         \n        \n       \n      \n     \n    \n   \n  \n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=6d241281f18af0ed&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgu6b0OAQoNuSIXUrOgQgKgQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=e055a2cde34e00ef&assa=5346",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier for grocery store",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "H Mart",
+  "location": "1919 W Main St, Mesa, AZ 85201",
+  "rating": 3.2,
+  "reviewsCount": 162,
+  "url": "https://www.indeed.com/company/H--Mart/jobs/Cashier-Grocery-Store-fb64096c543241da?fccid=94d3886128fd0051&vjs=3",
+  "id": "fb64096c543241da",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:05.950Z",
+  "description": "Cashier (Grocery Store)\nWe HMART grocery store is looking for a couple full time or part time Associates to work as a cashier. We work with most schedules and are always looking to add hard working and driven individuals to our outstanding team of employees. We work hard, we have fun, and we want you to be a part of it.\nA Cashier will be responsible for\n\n Friendly and professional customer service.\n Quick and accurate cashiering\n Stocking and facing during down times\n Having a good attitude and eagerness to learn and grow.\n\n\n Helping maintain merchandise displays, including end-caps, floor displays and aisle displays\n Understanding the importance of and monitoring product pricing, signage, and placement and the use of product shelf tags and accompanying codes\n\nJob Types: Full-time, Part-time\nPay: From $15.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 8 hour shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:Unvaccinated customers are encouraged to wear mask via signage throughout the store and employees must wear a mask while working.Common surfaces are sanitized frequently.\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "AZ Cashier",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "SummerWinds Nursery",
+  "location": "Phoenix, AZ 85032",
+  "rating": 3.8,
+  "reviewsCount": 16,
+  "url": "https://www.indeed.com/rc/clk?jk=852c6106653aee03&fccid=7ebc6756a80027db&vjs=3",
+  "id": "852c6106653aee03",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:06.751Z",
+  "description": "\n SummerWinds Nursery is looking to hire a full-time Nursery Associate. Do you work well as part of a team and thrive in a fast-paced environment? Are you looking to work with a fun group of people? Would you like a job that offers flexible scheduling? If so, please read on!\n  This full-time position earns a competitive wage starting at $15.00/ hour. We provide excellent benefits, including a 401(k) with a company match, group accident/critical illness plans, career development opportunities, and product discounts. If this sounds like the right customer service opportunity for you, apply today!\n \n  ABOUT SUMMERWINDS NURSERY\n  We are a local retailer of garden and nursery products, serving the community for over 50 years. Our garden centers are operated in the greater Phoenix area of Arizona and in the Bay area of California. With a focus on service, we have been ranked as one of the largest independent retail nursery companies in the nation. Offering a broad selection of premium gardening products as well as a friendly and knowledgeable staff, we appeal to both serious and casual gardeners.\n  The exceptional service we provide would not be possible without our valued employees. We are committed to a team approach. In addition to competitive compensation, we provide flexible scheduling and a fun work environment!\n \n  A DAY IN THE LIFE OF A NURSERY ASSOCIATE\n  As a Nursery Associate, you provide an exceptional shopping experience for each of our customers. Your enthusiasm for gardening helps us to create an inviting atmosphere that makes shopping fun. You provide outstanding customer service to all who come in as you direct them to what they need to make their gardens a success. You also take care of general retail tasks, such as stocking material, watering plants, answering phones, and keeping the area clean. Ensuring that everyone feels at home when in our center, you actively reach out to customers. You answer questions and offer to carry out their purchases. You feel great about the part you play in helping improve the gardens of those in your community!\n  QUALIFICATIONS FOR A PLANT NURSERY RETAIL ASSOCIATE\n \n   Ability to lift 20+ pounds\n   Ability to stand, sit, or walk for long periods of time\n \n \n  Plant knowledge or gardening experience would be a plus. Are you able to work independently as well as with a team? Can you foster an environment that creates learning, growth, and fun? Are you a self-starter? Is being dependable, professional, and a team player at the heart of all you do? If yes, you might just be perfect for this customer service position!\n \n  WORK SCHEDULE\n  This full-time position offers a flexible schedule with no late evenings. At least one weekend shifts is required.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=852c6106653aee03&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhaYs6EyMIZzpnp2fHW0a1JULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=13450b9269f8d461&assa=6587",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Retail Cashier/Customer Service Associate",
+  "salary": "$14.65 - $16.40 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Jacksons Food Stores, Inc.",
+  "location": "Phoenix, AZ 85028",
+  "rating": 3.5,
+  "reviewsCount": 346,
+  "url": "https://www.indeed.com/rc/clk?jk=28800c204de06c77&fccid=1cce8b348b026a60&vjs=3",
+  "id": "28800c204de06c77",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:06.940Z",
+  "description": "In this role, you'll greet customers with a smile and ensure they receive top notch service on every visit. You spend most of your day as a Cashier operating a register, but don’t worry, there are plenty of other things to do, such as cleaning, stocking shelves, receiving deliveries and providing excellent customer service! In addition to competitive pay and bonus potential, store team members receive cool perks and discounts such as $.20 off per gallon of fuel and 15% of most merchandise. \nTake the first step and join the team today! Come on, let’s GO! \n\n What will I get when I join the team? \n\n \n Store bonus opportunities every 2 months! \n Company bonus opportunities every 6 months! \n Opportunities to advance! We promote from within! \n A fun work environment with a family centric environment. \n FT Medical, Vision, and Dental benefits within 60 days. \n 401k match, profit sharing, bonuses, and performance-based raises. \n Same day pay! \n Tuition Reimbursement (up to $5250 a year) and more! \n What will I do as a Retail Cashier/Customer Service Associate? \n\n \nHere are just some of things you will do in this role:\n \n \n Greet every customer with a smile, thanking them for their business, and inviting them back. \n Deliver a fast, friendly, and professional cashier checkout experience. \n Suggest possible purchases to the customer to promote store specials. \n Accurately ring up sales and merchandise, offering our customers available discounts/promotions while following all company policies and applicable laws regarding restricted sales including the sale of alcohol and tobacco. Must be the legal age to sell and stock these products. \n Maintain cleanliness, inside and outside the store. \n Restock shelves, displays, and coolers as needed. \n Clean fast-food area, equipment, and stock as needed. \n Ensure proper sanitation and food handling/prep/storage/disposal procedures are followed. \n Properly label, rotate and stock shelves, coolers, and displays. \n Additional duties as assigned. \n \nWhat we’re looking for:\n \n \n A willingness and passion for delivering exceptional customer service. \n Excellent communication skills with a friendly can-do attitude! \n Flexible availability to support business needs for a 24/7 operation including holidays and weekends. \n Experience leading by example and doing the right thing, always. \n A strong sense of teamwork! We work together to get the job done. \n The ability to think quick on your feet and react to change. \n Must be 21 years old due to alcohol sales and onsite gambling \n \nPhysical Requirements:\n Must be able to stand for an extended period. While performing the duties of this job, frequently required to stand, walk, bend, and twist; reach with hands and arms; climb or balance; stoop, kneel, or crouch; and talk and listen. Must frequently lift and/or move up to 20 pounds and occasionally lift and/or move up to 65 pounds. Work safely in work conditions that include heat, cold, allergen, noise, and fume/chemical/odor from gasoline and cleaning chemicals. \n\n **Must be 21 for this role.",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Retail Cashier",
+  "salary": null,
+  "jobType": null,
+  "company": "DICK'S Sporting Goods",
+  "location": "7014 E Camelback Road, Suite Anc 03, Scottsdale, AZ 85251",
+  "rating": 3.4,
+  "reviewsCount": 7499,
+  "url": "https://www.indeed.com/rc/clk?jk=8685f93d295fd73e&fccid=55a2bdb0a91b873d&vjs=3",
+  "id": "8685f93d295fd73e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:07.428Z",
+  "description": "\n\n \n  \n   You have a passion for sport, for the community and for customer service. So do we. DICK’S Sporting Goods is seeking people-first teammates to join our team. \n  \n  \n  \n   On our team, everyone plays a critical role providing genuine, helpful, and friendly service to help our athletes perform at their best and enjoy their sport. We are committed to creating an inclusive and diverse workforce, reflecting the communities we serve. \n  \n  If you are ready to make a difference and join the world’s greatest sports team, APPLY TODAY! \n  \n   ABOUT THE ROLE:\n   \n  \n   Our store associates are passionate about creating a hassle-free shopping experience for our customers through their eagerness to help, in-depth product knowledge, high brand and execution standards, and ability to prioritize. They are constantly learning, supporting their team across all departments, and contributing to an overall fun store culture!\n   \n  \n  \n   ROLE RESPONSIBILITIES:\n   \n  \n   Greet everyone and proactively approach customers to support their shopping experience \n   Ensure effective and efficient register ringing & general cash handling \n   Uphold company standards for merchandise presentation of the best brands in sporting goods \n   Promote company programs (i.e., warranty sales, loyalty program, seasonal promotions, etc.) \n   Create an inclusive store environment where everyone (associates & customers) feels welcome, safe, and is treated with respect \n   As business needs arise, other tasks may become necessary to support the team and the store \n  \n \n \n  Qualifications\n  \n   TEAMMATE TRAITS: \n  Our traits set the bar as to what great teammates look like at DICK'S Sporting Goods. They define the behaviors that can drive our business while ensuring a great teammate and athlete experience. Here are the traits we look for in our store teammates: \n  \n   \n    \n     Ensures Accountability\n     \n   \n    \n     Customer-Focus\n     \n   \n    \n     Collaborative\n     \n   \n    \n     Instills Trust\n     \n   \n    \n     Decision-Quality/Decision-Making Abilities\n     \n   \n    \n     Action-Oriented\n     \n  \n  \n   REQUIRED QUALIFICATIONS: \n   \n    \n     \n      Flexible availability - including nights, weekend, and holidays\n      \n    \n     \n      Prior retail sales, cashier, or customer-focused experience preferred\n      \n   \n   \n   \n    All Teammates are required to adhere to all safety policies and procedures.\n   \n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=8685f93d295fd73e&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXi_M0x_edl4Uai0tRO9-HEEGQFsFDP3gSdjjHZnj9ZEfg&vjfrom=serp&astse=24f8a80458fabc24&assa=5643",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "! Front End Cashiers! Paradise Valley",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "HomeGoods",
+  "location": "Phoenix, AZ 85032",
+  "rating": 3.5,
+  "reviewsCount": 4072,
+  "url": "https://www.indeed.com/rc/clk?jk=0fabe2ee27f8f734&fccid=8560c2a313694ce7&vjs=3",
+  "id": "0fabe2ee27f8f734",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:07.630Z",
+  "description": "\n\n Style is never in short supply at our more than 500 HomeGoods stores and we are constantly on a mission to provide the little surprises and extra touches that make a house feel like home. Same with working here. Our environment is ever-changing, yet always encouraging. Every shift is a new opportunity to Discover Different.\n  Posting Notes: HomeGoods Store 0577 || 4555 East Cactus Rd || Phoenix || AZ || 85032\n  Job Summary:  \n Responsible for delivering a highly satisfied customer experience demonstrated by engaging and interacting with all customers, embodying customer experience principals and philosophy, and maintaining a clean and organized store environment. Adheres to all operational, merchandise, and loss prevention standards. May be cross-trained to work in multiple areas of the store in order to support the needs of the business. \n Responsibilities: \n \n  Role models established customer experience practices with internal and external customers \n  Supports and embodies a positive store culture through honesty, integrity, and respect \n  Accurately rings customer purchases/returns and counts change back to customer according to established operating procedures \n  Promotes credit and loyalty programs during customer interactions \n  Maintains and upholds merchandising philosophy and follows established merchandising procedures and standards \n  Accurately processes and prepares merchandise for the sales floor following company procedures and standards \n  Initiates and participates in store recovery as needed throughout the day \n  Maintains all organizational, cleanliness, and recovery standards for the sales floor and participates in the maintenance/cleanliness of the entire store \n  Provides and accepts ongoing recognition and constructive feedback \n  Adheres to all labor laws, policies, and procedures \n  Supports and participates in store shrink reduction goals and programs \n  Participates in safety awareness and maintenance of a risk-free environment \n  Performs other duties as assigned \n \n Requirements: \n \n  Possesses excellent customer service skills \n  Able to work a flexible schedule to support business needs \n  Possesses strong organizational skills with attention to detail \n  Capable of handling multiple tasks at one time \n  Able to respond appropriately to changes in direction or unexpected situations \n  Possesses strong communication skills \n  Capable of lifting heavy objects with or without reasonable accommodation \n  Works effectively with peers and supervisors to accomplish tasks \n  Retail customer experience preferred \n \n At HomeGoods, we embrace the unknown⁠ - with new products, new challenges and new ways to make a house a home. Our products add little, special touches to customers' lives and our people do the same for each other. Everyone supports each other to Discover Different - here and throughout the entire TJX family, which includes TJ Maxx, Marshalls, Sierra, and Homesense.\n  Discover Different means we embrace each other’s differences and unique perspectives. We consider all applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, gender identity and expression, marital or military status. We also provide reasonable accommodations to qualified individuals with disabilities in accordance with the Americans with Disabilities Act and applicable state and local law.\n  Posting Notes: HomeGoods Store 0577 || 4555 East Cactus Rd || Phoenix || AZ || 85032\n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=0fabe2ee27f8f734&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgqCNGPrIfOKEj0m-abgtrBIv02HSGSZoWequxOEmCHqw&vjfrom=serp&astse=313ba2f9b41e3261&assa=7160",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Seasonal Cashier",
+  "salary": "$16.50 an hour",
+  "jobType": [
+    "Seasonal"
+  ],
+  "company": "ALDI",
+  "location": "Peoria, AZ",
+  "rating": 3.3,
+  "reviewsCount": 10306,
+  "url": "https://www.indeed.com/rc/clk?jk=09e62e26eb51c394&fccid=419801c05606d650&vjs=3",
+  "id": "09e62e26eb51c394",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:08.535Z",
+  "description": "\n Our store employees are the face of the ALDI shopping experience. Their hard work makes it possible to uphold our company philosophy, providing quality products at the best possible price. Their smiles and pleasant demeanors keep customers coming back time and time again. Our store employees work many roles - from store associate to cashier to stocker - while providing excellent customer service. As a store employee, you're also responsible for merchandising product, monitoring inventory and keeping the store looking its best. It's an opportunity to get more out of your career and grow in an exciting environment. \n  Position Type: Part-Time  Starting Wage: $16.50 per hour \n  Duties and Responsibilities: Must be able to perform duties with or without reasonable accommodation. \n \n  Adheres to the company’s customer satisfaction guidelines and demonstrates appropriate interactions with customers and co-workers\n  Assists customers with problems or concerns, and contacts store management as appropriate regarding customers with problems or concerns\n  Provides feedback to store management on all products, including recommending new items to carry, products that should be discontinued, inventory losses, scanning errors, and general issues that could impact productivity\n  Supports store management in providing a safe environment for fellow employees, customers, and vendors by identifying and rectifying hazards and/or equipment in need of maintenance\n  Assists store management in achieving store payroll and total loss goals\n  Adheres to inventory procedures and product handling guidelines\n  Adheres to cash policies and procedures to minimize losses\n  Complies with all other established company policies and procedures\n  Processes customer purchases, performs general cleaning duties, and returns misplaced items to shelves\n  Collaborates with team members and communicates relevant information to direct leader\n  Upholds the security and confidentiality of documents and data within area of responsibility\n  Other duties as assigned\n  \n  Education and Experience: \n \n  High School Diploma or equivalent preferred\n  Prior work experience in a retail environment preferred\n  A combination of education and experience providing equivalent knowledge\n  \n  Job Qualifications:  Knowledge/Skills/Abilities \n \n  You must be 18 years of age or older to be employed for this role at ALDI\n  Provides prompt and courteous customer service\n  Ability to operate a cash register efficiently and accurately\n  Ability to perform general cleaning duties to company standards\n  Ability to interpret and apply company policies and procedures\n  Excellent verbal and written communication skills\n  Gives attention to detail and follows instructions\n  Ability to work both independently and within a team environment\n  Effective time management; maximizes productivity\n  Knowledge of products and services of the company\n  Meets any state and local requirements for handling and selling alcoholic beverages\n  \n  Physical Demands: \n \n  Regularly required to sit, stand, bend, reach, push, pull, lift, carry, and walk about the store\n \n  ALDI offers competitive wages and benefits, including:\n  \n  401(k) Plan \n  Company 401(k) Matching Contributions \n  Employee Assistance Program (EAP) \n  PerkSpot National Employee Discount Program\n  \n In addition, eligible employees are offered:\n  \n  Medical, Prescription, Dental & Vision Insurance \n  Generous Vacation Time & 7 Paid Holidays \n  Up to 6 Weeks Paid Parental Leave at 100% of pay \n  Up to 2 Weeks Paid Caregiver Leave at 100% of pay \n  Short and Long-Term Disability Insurance \n  Life, Dependent Life and AD&D Insurance \n  Voluntary Term Life Insurance\n \n  ALDI is committed to equal opportunity for all employees and applicants. As a proud Equal Opportunity Employer (EOE), we do not discriminate based on race, color, national origin, ancestry, citizenship status, religion, sex, sexual stereotyping, sexual orientation, gender, gender identity, gender expression, age, marital status, mental or physical disability, medical condition, genetic information, military or veteran status, pregnancy (which includes pregnancy, childbirth, and medical conditions related to pregnancy, childbirth, or breastfeeding), or any other protected characteristic. Employment may be contingent upon ALDI's receipt of an acceptable and job-related drug test, motor vehicle report, and/or reference check, as applicable and permissible by law.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=09e62e26eb51c394&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjGEcSz6UG1rLAdSiPjKvq6Iv02HSGSZoWequxOEmCHqw&vjfrom=serp&astse=e7f34590ddbc78e8&assa=8219",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Seasonal Retail Cashier & Sales Floor Support - Desert Ridge Marketplace Rack",
+  "salary": null,
+  "jobType": [
+    "Seasonal"
+  ],
+  "company": "Nordstrom",
+  "location": "Phoenix, AZ",
+  "rating": 3.8,
+  "reviewsCount": 15143,
+  "url": "https://www.indeed.com/rc/clk?jk=72e7d0de9281d3d8&fccid=68ce5c21322a81a4&vjs=3",
+  "id": "72e7d0de9281d3d8",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:09.638Z",
+  "description": "\n Job Description\n  This job is a great fit for someone who is customer obsessed and loves to solve problems.\n \n  A day in the life…\n \n   Assist customers with a variety of transactions through a seamless and friendly experience\n   Demonstrate expertise in all technologies used in the store environment\n   Inspire trust, teamwork and positive team relationships\n   Defuse customer situations and provide resolution in a timely and effective manner\n   Ensure the security and privacy of customer information through education, compliance and resolution of issues\n   Motivate and inspire others to adopt initiatives such as our Nordstrom Rewards program\n   The hours and schedule for this position will vary by week depending on business needs\n \n \n  You own this if you have…\n \n   The ability to effectively build relationships with your customers, peers and leadership\n   Proficiency in multiple operating systems such as MS Windows, iOS and Android\n   Clear, effective communication with strong interpersonal skills\n   The ability to prioritize multiple tasks in a fast paced environment\n   Accountability, initiative and a high level of ownership\n   The ability to work a flexible schedule based on department needs\n \n \n  We’ve got you covered…\n \n  Our employees are our most important asset and that’s reflected in our benefits. Nordstrom is proud to offer a variety of benefits to support employees and their families, including:\n \n   Medical/Vision, Dental, Retirement and Paid Time Away\n   Life Insurance and Disability\n   Merchandise Discount and EAP Resources\n \n \n  A few more important points...\n \n  The job posting highlights the most critical responsibilities and requirements of the job. It’s not all-inclusive. There may be additional duties, responsibilities and qualifications for this job.\n \n  Nordstrom will consider qualified applicants with criminal histories in a manner consistent with all legal requirements.\n \n  Applicants with disabilities who require assistance or accommodation should contact the nearest Nordstrom location, which can be identified at www.nordstrom.com.\n \n  © 2022 Nordstrom, Inc\n \n  Current Nordstrom employees: To apply, log into Workday, click the Careers button and then click Find Jobs.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=72e7d0de9281d3d8&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjGXffiplP-ocspCqtNTU_xl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=9d42272aa704929f&assa=9401",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Walmart",
+  "location": "Chandler, AZ 85226",
+  "rating": 3.4,
+  "reviewsCount": 237442,
+  "url": "https://www.indeed.com/company/Walmart/jobs/Cashier-8e52145a12beebc4?fccid=822bc5d9a49270ea&vjs=3",
+  "id": "8e52145a12beebc4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:09.768Z",
+  "description": "We are looking for a Cashier to manage all transactions with customers accurately and efficiently. Cashier responsibilities include receiving payments and issuing receipts, keeping track of all cash and credit transactions. Ultimately, you’ll ensure all transactions run smoothly and will help us maximize customer satisfaction.\nResponsibilities\n\n Manage transactions with customers using cash registers\n Scan goods and ensure pricing is accurate\n Collect payments whether in cash or credit\n Issue receipts, refunds or change\n Redeem stamps and coupons\n Resolve customer complaints, guide them and provide relevant information\n Greet customers when entering or leaving the store\n Maintain clean and tidy checkout areas\n Handle merchandise returns and exchanges\n\nJob Types: Full-time, Part-time\nPay: $15.00 per hour\nBenefits:\n\n 401(k)\n Dental insurance\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier/Customer Service",
+  "salary": "From $15.45 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Albertsons",
+  "location": "Chandler, AZ 85226",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Albertsons-Phoenix/jobs/Cashier-Customer-Service-fbbaeed71b9338df?fccid=c7dee9d32681fff1&vjs=3",
+  "id": "fbbaeed71b9338df",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:09.987Z",
+  "description": "As a cashier/customer service clerk, you will be responsible for providing excellent customer service first and foremost. Some of your duties will be scanning and bagging customer orders in an efficient manner. As a customer service clerk, you will be resolving customer issues, issuing money orders, performing refunds, answering customer concerns, stocking general merchandise product, and performing a variety of functions at a time. You must be able to problem solve and multi task.\nMust be available to work afternoons/evenings/weekends\nMust be at least 18 years of age.\nCustomer Service Experience required\nJob Type: Part-time\nPay: From $15.45 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nWeekly day range:\n\n Weekend availability\n\nExperience:\n\n Customer Service: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Finance Cashier (Account Clerk III)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "City of Phoenix",
+  "location": "Phoenix, AZ 85003",
+  "rating": 4.2,
+  "reviewsCount": 275,
+  "url": "https://www.indeed.com/rc/clk?jk=e001b29abeaebeaa&fccid=2d3940a60e8f8f02&vjs=3",
+  "id": "e001b29abeaebeaa",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:10.451Z",
+  "description": "\n\n \n  \n   \n    \n     Phoenix is the 5th largest city in the country, serving as Arizona's center of government, commerce, and culture. It is emerging in the new economy with strength in high technology, manufacturing, bioscience research and advanced business services. Phoenix is a young, progressive city, brimming with sports and cultural attractions, distinctive restaurants, fascinating museums, diverse residential options, and endless outdoor opportunities. \n     The Treasury and Debt Management Division, Banking & Cashiering section is looking to fill their Finance Cashier (Account Clerk III) position. The primary responsibility is to provide cashiering services related to the receipt, deposit, recording, and custody of the City funds for various City of Phoenix departments. These duties require the accurate and efficient handling of cash, balancing and preparing multiple deposits daily, and processing invoices, remittances and other paperwork associated with payments. Additionally, the Finance Cashier will serve as a backup in providing over the phone customer service for Notice of Violation (NOV) parking ticket citations. \n     Essential Cashiering Duties: \n     \n      Respond to over-the-counter inquiries and assist walk-in customers with City payments; \n      Maintain security of area by properly accessing the City's point-of-sale system (iNovah), ensuring all negotiable items are locked up at night and follow cash handling procedures during work hours; \n      Balance and close innovate workstation at the end of shift and notify Accountant I or Accountant II of any discrepancies with exceptions; \n      Provide customer service over the phone for Notice of Violation (parking tickets) and other city of Phoenix Payments; \n      Empty curb deposit boxes daily; pick up, sort, and distribute all mail received. \n      Process and safeguard credit cards. \n     \n     This position interacts with other areas in the Division/Organization. The majority of work assignments come from external customers and some interaction with other Finance divisions and departments, such as the Accounts Division for unidentified accounts receivable payments and refunds; the Tax Division and various departments for City of Phoenix payments; and the Police Department, Municipal Court, Public Works (badging), and IT Department, Parks, Aviation, and Police regarding NOV parking tickets. \n     The Finance Cashier reports directly to the Accountant II. The scheduled hours for this position are 8:15 A.M to 5:15 P.M., Monday through Friday, with specific days of the month for vacation/time-off. \n    \n   \n  \n \n \n  \n   IDEAL CANDIDATE \n    \n    \n    \n     \n      Knowledge of banking policies and procedures. \n      Ability to direct, review, and supervise the work of others. \n      Ability to work in a heavy customer service environment. \n      Provide excellent communication skills.\n      \n    \n   \n  \n \n \n  \n   SALARY\n   \n     \n    \n      \n     \n     $17.41 (minimum) - $25.35 (maximum) hourly / $36,212.80 - $52,728.00 annually. Candidates may be hired up to $52,728.00 depending upon qualifications. \n    \n   \n  \n \n \n  \n    BENEFITS\n   \n     \n    \n      \n     \n     A comprehensive benefits package is offered which includes traditional pension with employer and employee contributions; choice of medical HMO, PPO, or HSA/HDHP plan; wellness incentive of up to $720 annually; dental; vision; life insurance; long-term disability; 401(a) and 457 plans; medical enrollment includes a monthly $150 City contribution to a Post-Employment Health Plan; bus/light rail pass; tuition reimbursement program; paid time off includes 12.5 paid holidays, 12 vacation days, and 15 sick days and personal leave days. Additionally, effective 10/1/2022, Paid Parental Leave is now offered to eligible employees up to 480 hours (12 weeks) of paid leave for the birth, adoption or foster care placement of a child during a 12-month period.\n      For more details, visit: Unit 003 Benefits\n      Pension Information \n    \n   \n  \n \n \n  \n    MINIMUM QUALIFICATIONS \n    \n    \n    \n     \n      Three years of bookkeeping and clerical accounting experience, \n      Including experience in preparing financial reports, \n      Supplemented by courses in bookkeeping and accounting \n      Other combinations of experience and education that meet the minimum requirements may be substituted. \n      The City job description can be found here. \n      All finalists for positions are subject to a criminal background check applicable to the department or position. \n      For information regarding pre-screening and driving positions, click here.\n      \n    \n   \n  \n \n \n  \n   PREFERRED QUALIFICATIONS\n   \n     \n    \n      \n     \n     The minimum qualifications listed above, plus:\n      \n      Fluent in Spanish including speaking, reading, and writing. \n      Two or more years of expereince with customer service face to face and over the phone. \n      One or more years of experience with point-of-sale system. \n      One or more years of cash handling experience. \n      Experience working with computerized accounting systems such as Customer Care & Billing (CC&B). \n      Experience working with software such as SAP. \n      Experience in reconciling receivable and payable statements. \n      Experience reviewing reports, logs, and audit of payment records. \n      Experience in performing highly detailed data entry in a fast-paced environment and maintaining/auditing records. \n      Proficiency in Microsoft Excel and Word.\n      \n    \n   \n  \n \n \n  \n   RECRUITMENT DATES\n   \n     \n    \n      \n     \n     Recruitment closes December 12, 2022. All materials must be received by 11:59 p.m. on this date.\n      This is a position-based recruitment and generates a one time use only list. Once interviews are conducted and candidates are selected, this job posting will be considered closed and candidates will no longer be in consideration for the position applied for. This posting will not result in any ongoing eligibility list. \n    \n   \n  \n \n \n  \n    HOW TO APPLY\n   \n     \n    \n      \n     \n     Apply online by completing the required information and attaching, as one document, your cover letter and resume. Please include your experience as it relates to the qualifications stated above. Only the highest qualified may be posted to the eligible to hire list. The results of the resume screening process will be sent to your primary email address. \n    \n   \n  \n \n \n  \n    WE ARE HERE TO HELP \n    \n    \n    \n     \n      Job interviews may be held by video or audio conference. \n      If you are in need of computer resources, click here for free options. \n      Arizona at Work has frequent classes to help with resume writing, interviewing skills, and general career guidance. Click here for more information. \n      Explore other Employment Opportunities with the City of Phoenix. \n      Subscribe to receive e-mail notifications about new employment opportunities. \n      If you need assistance applying for this job, please contact our HR Connection Center at (602) 495-5700.\n      \n    \n   \n  \n \n \n  \n   REFERENCE\n   \n     \n    \n      \n     \n     Account Clerk III, JC:01330, ID# 47637, 11/28/22, USM, DB, Benefits:007.\n      City of Phoenix employees commit to Work Smart, Spend Wisely, Be Kind.\n      City of Phoenix is an equal opportunity employer. AmeriCorps, Peace Corps, and other national service alumni who meet the required qualifications are encouraged to apply.\n    \n   \n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=e001b29abeaebeaa&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgkbtj3CVCKu98cHE13PT-y5Z_dA0xndw9ylAW4Hz2CAQ&vjfrom=serp&astse=708d9b1e15f5e730&assa=9655",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Marriott International, Inc",
+  "location": "Scottsdale, AZ 85254",
+  "rating": 4.1,
+  "reviewsCount": 22920,
+  "url": "https://www.indeed.com/rc/clk?jk=7824e55cbf689b23&fccid=0b6c496064ecd79a&vjs=3",
+  "id": "7824e55cbf689b23",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:11.942Z",
+  "description": "\n Additional Information Food and Beverage\n  \n Job Number 22205963\n  \n Job Category Food and Beverage & Culinary\n  \n Location Kierland Villas WS, 15620 North Clubgate Dr, Scottsdale, Arizona, United States\n  \n Schedule Full-Time\n  \n Located Remotely? N\n  \n Relocation? N\n  \n Position Type Non-Management\n \n   \n  JOB SUMMARY\n   \n  \n  Process all payment methods in accordance with Accounting procedures and policies. Follow property control audit standards and cash handling procedures (e.g., blind drops). Obtain assigned bank and ensure accuracy of contracted monies, obtaining change required for expected business level, and keeping bank secure at all times. Count bank at end of shift, complete designated cashier reports, resolve any discrepancies, drop off receipts, and secure bank. Transport bank to/from assigned workstation. Set up and organize cashier workstation with designated supplies, forms, and resource materials; and maintain cleanliness of workstation at all times. Complete opening duties including setting up necessary supplies and tools, including bank, and ensuring everything is in working order.\n   \n  \n  Follow all company and safety and security policies and procedures; and report accidents, injuries, and unsafe work conditions to manager. Ensure uniform and personal appearance are clean and professional, maintain confidentiality of proprietary information, and protect company assets. Welcome and acknowledge all guests according to company standards, anticipate and address guests’ service needs, and thank guests with genuine appreciation. Speak with others using clear and professional language, and answer telephones using appropriate etiquette. Develop and maintain positive working relationships with others, and support team to reach common goals. Ensure adherence to quality expectations and standards. Enter and locate work-related information using computers and/or point of sale systems. Stand, sit, or walk for an extended period of time. Move, lift, carry, push, pull, and place objects weighing less than or equal to 10 pounds without assistance. Perform other reasonable job duties as requested by Supervisors.\n    \n \n \n Marriott International is an equal opportunity employer. We believe in hiring a diverse workforce and sustaining an inclusive, people-first culture. We are committed to non-discrimination on any protected basis, such as disability and veteran status, or any other basis covered under applicable law.\n  \n  At Westin, we are committed to empowering the well-being of our guests by providing a refreshing environment, thoughtful amenities, and revitalizing programming to help ensure that they leave feeling better than when they arrived. We recognize that travel can be disruptive to our guests’ well-being, and we’re energized to assist as partners in helping them maintain control and soaring above it all while on the road. Everything we do is designed to help guests be at their best, and they appreciate our supportive attitude, anticipatory service and extensive knowledge on how to best assist them throughout their stay. We are looking for dynamic people who are excited to join the team and ready to jump into any situation to give a helping hand. If you’re someone who has is positive, adaptable and intuitive, and has a genuine interest in the well-being of others around you, we invite you to discover how at Westin, together we can rise.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=7824e55cbf689b23&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjE9WQ3yhopHNcC-TiXshQyULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=5e9dac66f5cabf26&assa=1554",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier",
+  "salary": "$14 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Cobblestone Auto Spa",
+  "location": "Tempe, AZ",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ahtcje9T9OcN0ovA3H_sj0LwLoqydGBasaDs4zXvAjGG2Wulx9sk2_0Joq_q-LFd8Setw2trce4UECR80p86XIfRma-hIkxWcWDMKIRyh9t_zEu6SUAHiUUcudne0DvFlc4C_E3I1mBnaE1vtfVuOicNGoVn6KFLcJCRFrrfPOdsvP7uDpuaW3NASU1AQlFhyWzTN7uqT0P8IvM7NFEi3ASsZe8YZHTQ4CAAyg2j_MabyrKe93oieG9ECN1HI5Ey_BC84AQ0yc-xHhpZP0cmD1MkfYVWRGbZezzUFVOVVWdR4M6p0CkdW_XswEJxG3VYzxfjXtSVQPZzVxZPbfvvS_JJNH_rqZve46Y34rTX9UdveRKufkCdDwjs7BSaPUQ1iZe3F5mCTDTfpEXBz7Y_hYd6PMptXCpGC_Y2hqc-x-UMVgMujdakrY8Udj3MaSqXO6q4DGi9TA7ghCpXcAhpOVl_Z0HyGfD5kyROWu7S93stqOqaFIRpSyqad6ifeNXiBXTqnyjjsvbnqF60ZEQTQmgAyWClG7yxEM-Sd7-uT_lHTpJWJnmEOKuUsjQtS7OunsV5t4OktoB9NUP8Oj0ceP&xkcb=SoCq-_M3WvOK4fQdwR0LbzkdCdPP&p=1&fvj=0&vjs=3",
+  "id": "124fb478a8983869",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:12.454Z",
+  "description": "***$200 Sign on Bonus***Restrictions apply \n\n Excellent Customer Service is what we live for at Cobblestone and if you are as obsessed as we are with providing the best customer experience possible each and every interaction then we want YOU on our convenience store team! \n\n Due to alcohol and tobacco regulations you must be 18 years of age, or older, to be considered for this position. (If you are under 18 years of age please see our ad for Car Wash Team Member). \n\n \nKey job responsibilities include:\n Provide prompt, courteous, top-of-the-line customer service to each and every guest. \nAccurately ring up and process all types of store transactions for company products and services. \nProcess cash payments and correctly count back change. \nMaintain a clean and pleasant store environment. \nPerform additional duties as assigned by Management. \n\n \nAn ideal candidate will possess:\n Previous experience in customer service preferably in a retail/sales environment. \nPrevious experience operating a cash register/POS system and handling money. \n\nFlexible schedule: including days, afternoons/evenings, weekends, and holidays. \nA outgoing, energetic personality with the desire to work in a team centered environment. \nAbility to bend, twist, and stand for long periods of time, to perform normal job duties. \nAbility to effectively communicate and follow directions. \nWillingness to follow company dress code and operational guidelines. \nWhat's in it for you? \n\n Work with a team that is focused on the Customer experience. \nPay is competitive. (Hourly based on position and background.) \nBenefits. (Based on full/part-time status). \nPay incentives for Top Performers. \nOpportunity for advancement. We LOVE to promote our Superstar Employees! \nFlexible scheduling. \nHave fun while you work! \nClassroom and on the job training provided. \n\nCobblestone operates locations in: Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Goodyear, Surprise, Cave Creek, and Glendale.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=124fb478a8983869&from=vj&pos=bottom&mvj=0&spon=1&adid=402041794&ad=-6NYlbfkN0Ahtcje9T9OcN0ovA3H_sj0LwLoqydGBasaDs4zXvAjGG2Wulx9sk2_0Joq_q-LFd8Setw2trce4UECR80p86XIfRma-hIkxWcWDMKIRyh9t_zEu6SUAHiUPwEQOkLwM2QgQt4IcMdDg6G_s6Dhy_rrw5-8L3zs5otBrVGjxSMfnZsQia2apWIZL5cNq2xkRydDzYu_KB1SljPTARMbxc4iU-YIMwy_rfUBZ3R91NqkZo8oegc5nEuqLoZiaCudaynUlzejoIBqzxAU0msSzrJ0vlhRc9aNW_j0m4J-lK-QqQU0b600_DdPA93Zymt1zRgxsCjOBkYjNUM4kI8o22uvh_JBBnqiwhbgRH7UVT4P8RRU9r_lPfZ7MX0u_XDft6w%3D&sjdu=ueiNpZ6gejoDy0Nlhn_SOJiOL6BmNS9Pk8VexV2rkJMBW8UwUNPrNYY9wIFXXjC4GDIaTh_fDzXvYkR6V37rhSk5fmc3fA0AJSTFxSbvMGMYAw51vVTIROLC-_Rz3ZKO&vjfrom=serp&astse=1bb804d29c7e69fe&assa=1880",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Bi-lingual Automotive Cashier",
+  "salary": "$17 - $19 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "U Pull & Pay",
+  "location": "Phoenix, AZ 85009",
+  "rating": 3,
+  "reviewsCount": 63,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Dxy5Fcw-v5rEbdiu2WfPMwmF3pZyUdOeGo5lPQQQPcrSxILcB26hxqOUnemajQFONKCaV4Rjfau8qjEg35p7ohQiTDLw87Xwsb9SXZXB63NhP_An32nbm1rZNXhupxJ5EB1JciG35VVLoBeqyEQP0CB4sUrA3pizL1qFUqjfs2CXnsOdpO7l6V2_aNF2Dt3pnnZ9xEC7k-_nvGs86Q4i1ShjTZEJsFsAGMSn0XMr_C5i_nfpf6NguA23SMW0PxHvsiHqjVZCD1jKXMNacgXrFzct8WXGEXBTCtd47WVncvp8yGX735SDVXLrkuTOSSXfoAYLaypL7_IkmJ2_mtnLOUN9lna4zYzrOkBShKjEM7wlrwVaqKqBi4YKqzlzyQD5K3DsQIAFHsp8aZv9quQjlZo5vTr1gQjNQJjNPhlEqwzPoiuTeEZ1A3jy_AxytJ8AgUlN2irdY1IuJe6IkvbP4oZxeUJTNV2CFYk74gxpNI99K0ky2QMKE4F_xL7mJGgzGV0Q99RALHAQ==&xkcb=SoAE-_M3WvOM7kWbBB0LbzkdCdPP&p=9&fvj=1&vjs=3",
+  "id": "4214627795c99ecf",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:12.953Z",
+  "description": "Stop by for open interviews on Tuesday, December 13th from 10am-4pm. \nPAY-RATE STARTING AT $17, MONTHLY BONUS POTENTIAL, ALL 1ST SHIFT HOURS, FUEL INCENTIVE WEEKLY.\nWE REQUIRE BACKGROUND CHECK AND ONLY 4 PANEL DRUG SCREENING TO BE HIRED\nProvide exceptional customer servicePerform various retail responsibilitiesUtilize computer program to help customers locate carsMaintain a positive and professional attitude in a team environmentProperly follow company and OSHA safety proceduresAttend safety meetings and participate in safety programGeneral labor duties that may include but not limited to sweeping, shoveling and general clean-up of any area and/or equipment throughout the yardWilling to cross-train in other positions and assist other employees as neededFollow company dress code policy, maintaining a well groomed, neat appearanceOther duties as assigned by your manager\nQualifications:\nHigh School diploma or equivalent preferredSpanish speaking is a plusPrior retail, cashier experience preferredMust be willing to work weekends and overtime as neededPhysically able to stand for long periods of time and lift up to 50 lbsAbility to work in a fast-paced, non-stop environment while providing excellent customer serviceFlexible to work overtime, off-hours, weekends, and holidays in an industrial environment which includes being outdoors in all weather conditionsAble to take direction and work on a teamMust be able to read, write, and speak in the English languageMust be comfortable using a computer\nWe offer a competitive compensation and benefit package including paid training and time off, bonus program, medical, dental, vision, a 401(k) plan and other great benefits.\nJob Type: Full-time\nPay: $17.00 - $19.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Paid time off\n Vision insurance\n\nShift:\n\n 8 hour shift\n Day shift\n\nWeekly day range:\n\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nLanguage:\n\n Spanish and English (Preferred)\n Spanish (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier - 38th St and Bell Rd",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Cobblestone Auto Spa",
+  "location": "Phoenix, AZ",
+  "rating": 3.3,
+  "reviewsCount": 112,
+  "url": "https://www.indeed.com/rc/clk?jk=9339fb2fd2b905a0&fccid=9d179ae420b3f193&vjs=3",
+  "id": "9339fb2fd2b905a0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:29.999Z",
+  "description": "\n ***$200 Sign on Bonus***Restrictions apply\n  Excellent Customer Service is what we live for at Cobblestone and if you are as obsessed as we are with providing the best customer experience possible each and every interaction then we want YOU on our convenience store team!\n  Due to alcohol and tobacco regulations you must be 18 years of age, or older, to be considered for this position. (If you are under 18 years of age please see our ad for Car Wash Team Member).\n  Key job responsibilities include:\n \n   Provide prompt, courteous, top-of-the-line customer service to each and every guest. \n  Accurately ring up and process all types of store transactions for company products and services. \n  Process cash payments and correctly count back change. \n  Maintain a clean and pleasant store environment.\n   Perform additional duties as assigned by Management.\n \n  An ideal candidate will possess:\n \n   Previous experience in customer service preferably in a retail/sales environment. \n  Previous experience operating a cash register/POS system and handling money.\n   Flexible schedule: including days, afternoons/evenings, weekends, and holidays.\n   A outgoing, energetic personality with the desire to work in a team centered environment.\n   Ability to bend, twist, and stand for long periods of time, to perform normal job duties.\n   Ability to effectively communicate and follow directions. \n  Willingness to follow company dress code and operational guidelines. \n \n What's in it for you?\n \n   Work with a team that is focused on the Customer experience. \n  Pay is competitive. (Hourly based on position and background.)\n   Benefits. (Based on full/part-time status).\n   Pay incentives for Top Performers. \n  Opportunity for advancement. We LOVE to promote our Superstar Employees!\n   Flexible scheduling. \n  Have fun while you work! \n  Classroom and on the job training provided.\n \n  Cobblestone operates locations in: Phoenix, Scottsdale, Tempe, Mesa, Chandler, Gilbert, Goodyear, Surprise, Cave Creek, and Glendale.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=9339fb2fd2b905a0&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjdiV-OYaYEbiA1dixQVBmUwsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=2a16f7035e7e6010&assa=9828",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Retail cashier",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "DSW-Designer Shoe Warehouse",
+  "location": "Tempe, AZ 85281",
+  "rating": 3.3,
+  "reviewsCount": 646,
+  "url": "https://www.indeed.com/company/DSW--Designer-Shoe-Warehouse/jobs/Retail-Cashier-107dabd2a88b4114?fccid=242b2b4faa95b35a&vjs=3",
+  "id": "107dabd2a88b4114",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:30.344Z",
+  "description": "We are looking for a Cashier to manage all transactions with customers accurately and efficiently. Cashier responsibilities include receiving payments and issuing receipts, gift-wrapping packages and keeping track of all cash and credit transactions. To be successful in this role, you should have previous experience in a customer service position and good knowledge of how cash registers operate. You should be available to take evening and weekend shifts occasionally. Ultimately, you’ll ensure all transactions run smoothly and will help us maximize customer satisfaction.\nResponsibilities\n\n Manage transactions with customers using cash registers\n Scan goods and ensure pricing is accurate\n Collect payments whether in cash or credit\n Issue receipts, refunds, change or tickets\n Redeem stamps and coupons\n Cross-sell products and introduce new ones\n Resolve customer complaints, guide them and provide relevant information\n Greet customers when entering or leaving the store\n Maintain clean and tidy checkout areas\n Track transactions on balance sheets and report any discrepancies\n Bag, box or gift-wrap packages\n Handle merchandise returns and exchanges\n\nSkills\n\n Work experience as a retail cashier or in a similar role in sales\n Basic PC knowledge\n Familiarity with electronic equipment, like cash register and POS\n Good math skills\n Strong communication and time management skills\n Customer satisfaction-oriented\n High school degree\n\nJob Type: Part-time\nBenefits:\n\n Paid time off\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier/Sales Associate",
+  "salary": "$14 - $15 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "The Carioca Company",
+  "location": "Phoenix, AZ 85034",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/The-Carioca-Company/jobs/Cashier-Sales-Associate-9351a0ab44afc2ae?fccid=eca7db8ccf35ff99&vjs=3",
+  "id": "9351a0ab44afc2ae",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:30.626Z",
+  "description": "Cashiers needed for Shell Station\n2nd Shift weekends and 3rd shift full-time\nMust be available weekends, holidays and flexible with hours\nExperience is a plus.\nIf interested apply in person at the location below.\n1515 E BUCKEYE RD.\nPHOENIX, AZ 85034\nJob Types: Full-time, Part-time\nPay: $14.00 - $15.00 per hour\nShift:\n\n 8 hour shift\n Day shift\n Evening shift\n Night shift\n Overnight shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nEducation:\n\n High school or equivalent (Preferred)\n\nExperience:\n\n Cashiering: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+},
+{
+  "positionName": "Cashier Part Time",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Lowe's",
+  "location": "Chandler, AZ 85226",
+  "rating": 3.5,
+  "reviewsCount": 51116,
+  "url": "https://www.indeed.com/rc/clk?jk=3073ac1a0fc94724&fccid=402f23c7b01ca527&vjs=3",
+  "id": "3073ac1a0fc94724",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:31:30.829Z",
+  "description": "\n Life. Career. Build it Together Here. \n  \n  At Lowe’s, we’ve always been more than a home improvement store. For thousands of Lowe’s associates, we’re the beginning of all types of careers that help improve the lives of our customers and our associates themselves. From seasonal jobs to seasoned vets, we have roles that can support your needs and aspirations. Whether you want a part-time position or a place where you can plant yourself and build your career, we have a team of associates ready to work together. Our teams’ commitment to each other extends to the community as well. We believe in investing in projects, providing hands-on support, and giving millions of dollars annually to our local neighborhoods. We believe life and career are equally important at Lowe’s.\n  \n  Whether you’re providing a quick, friendly checkout experience, helping our customers get the best value for their money, or assisting with payment or exchanges, it’s your job as a Cashier Part-Time associate to ensure every customer exits on a high note. And you could be that final nudge of encouragement that a customer needs to transform a great project idea into reality.\n  \n  You will also:\n  \n \n  Answer customer questions and provide a professional experience for customers.\n  Scan and bag items accurately and efficiently.\n  Manage a cash register, payments, and exchanges.\n \n  We are immediately hiring for Cashier Part-Time associates, and bilingual applicants are encouraged to apply.\n  \n  \n What’s in It for You?\n  \n Advantages\n  Beyond the chance to make a difference for customers and teammates, each day will offer new opportunities to learn, grow, and celebrate wins together with your Lowe’s team. Cashiers on our retail teams also gain:\n  \n \n  A 10% discount on everything at Lowe’s.\n  Access to training and tuition reimbursement programs for trade certifications, college education, and more.\n  A talented and supportive team of associates who will welcome you like family.\n  Access to comprehensive physical, mental, and financial benefits *.\n \n  \n  Your Day at Lowe’s\n  \n Responsibilities\n  \n \n  Deliver excellent customer service at the register.\n  Showcase great customer service.\n  Engage with customers and provide guidance during checkout.\n  Maintain a clean and safe store.\n \n  \n  Who We’re Looking for:\n  \n Minimum qualifications include:\n  \n \n  You have 6 months experience using a computer, including inputting, accessing, modifying, or outputting information.\n  You have 6 months experience using common retail technology, such as smart phones and tablets.\n  You can obtain sales related licensure or registration as may be required by law.\n \n  Preferred qualifications include:\n  \n \n  You’ve worked for other retailers, restaurants, in hospitality or other industries and are looking for a new career in retail at Lowe’s.\n  You have 6 months experience as a cashier, salesperson, or retail associate. \n  You have 6 months experience identifying and selling products based on customer needs, including credit cards, installations, add-on sales, and explaining warranties, product features, and benefits.\n  You’re customer-focused and goal-oriented.\n  If you join the Lowe’s team, bring any of the above and a winning smile. We’ll train and support you with everything else you need to be successful on the job.\n  \n  \n Bilingual, Military, and Veteran applicants are strongly encouraged to apply.\n  \n  Benefits offerings change each year, and eligibility varies. For the most up-to-date breakdown of what’s available to you, visit MyLowesBenefits.com.\n  \n  Lowe’s is committed to keeping our associates safe during this global pandemic. Consistent with CDC Guidance, we now require all associates to wear face masks while working indoors, regardless of vaccination status, and we have implemented measures to promote social distancing. We will continue to monitor the situation closely and update the mask policy when necessary.\n  EEO Statement Lowe's is an equal opportunity employer and administers all personnel practices without regard to race, color, religious creed, sex, gender, age, ancestry, national origin, mental or physical disability or medical condition, sexual orientation, gender identity or expression, marital status, military or veteran status, genetic information, or any other category protected under federal, state, or local law.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=3073ac1a0fc94724&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXio5DfBYNZw8JPT5jxGfQ6PIv02HSGSZoWequxOEmCHqw&vjfrom=serp&astse=7e405c5cdc3127f6&assa=109",
+  "title": "Retail Cashier-Phoenix, Arizona12-04-2022 12_30"
+}]

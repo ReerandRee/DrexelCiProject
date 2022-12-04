@@ -1,0 +1,893 @@
+[{
+  "positionName": "Production",
+  "salary": null,
+  "jobType": null,
+  "company": "PizzaHut,LLC",
+  "location": "San Jose, CA 95110",
+  "rating": 3.5,
+  "reviewsCount": 34138,
+  "url": "https://www.indeed.com/rc/clk?jk=29216f96bb765844&fccid=88df21fa0b5d07c4&vjs=3",
+  "id": "29216f96bb765844",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:46.223Z",
+  "description": "Working at Pizza Hut® is about making hungry people happy. It’s about being independent and having fun, making new friends and earning extra cash. As a Pizza Hut team member, you can be the smiling face behind the counter that greets and serves the customers or a cook who makes things happen in the kitchen. Working with us will give you the financial rewards and flexibility to suit your lifestyle. You’ll learn new things, get recognized for your efforts and learn skills that last a lifetime. \nWhat are we looking for? The good news is that your training will teach you everything you need to know to succeed on the job. But there are a few skills you should have from the get-go: \n\n \n You’re a fun and friendly person who values customers and takes absolute pride in everything you do. Communication skills are key – you’re not going to be able to text message customers back and forth. In other words, you should be comfortable talking to strangers. \n You’ve got a positive attitude and understand the need to be on time, all the time. With loads of energy, you understand that work is easier – and more fun – with some teamwork. \n And you’re at least 16 years old (Applicable Locations). Keep in mind, this is just basic information. You’ll find out more after you apply. \n We’ve got great jobs for people just starting out in the workforce, looking for a flexible second job or staying in the workforce after retirement. If you want a fun, flexible job with an innovative company, look no further than Pizza Hut. Apply today!",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "From $25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "So Delicious Management",
+  "location": "Menlo Park, CA 94025",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/So-Delicious-Management/jobs/Server-2a841d867137ed97?fccid=34ba0f390fa6e239&vjs=3",
+  "id": "2a841d867137ed97",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:47.449Z",
+  "description": "So delicious is searching for a dynamic and service oriented individual for Server position in a great environment Monday thru Friday for Breakfast and lunch.\nPossibility of extra hours for some evenings and weekends for special events as they occur. Duties include but not limited to handling cash and credit cards, serving food and beverages to customers, cleaning tables and counters, resettings tables, greeting customers on arrival and departure, issuing a bill for service rendered, and collecting cash departure, issuing a bill for service rendered and collecting cash or card from customers.Qualifications - the ability to stand and work for at least eight hours, time flexibility, knowledge of food and beverage being served, familiarity with food safety and hygiene, knowledge of using Aloha POS system and numerical skills. Must speak English and able to describe menu options with ease.\nWe are seeking a friendly and professional individual who enjoys interacting with people, customers and co-workers alike\nGreat schedule, Great Pay!, beautiful setting.\nJob Type: Full-time\nPay: From $25.00 per hour\nBenefits:\n\n 401(k) matching\n\nSchedule:\n\n 8 hour shift\n Monday to Friday\n\nSupplemental pay types:\n\n Tips\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "WAITER/WAITRESS (FULL-TIME)",
+  "salary": "$18.50 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Morrison Living",
+  "location": "437 Webster St, Palo Alto, CA 94301",
+  "rating": 3,
+  "reviewsCount": 35,
+  "url": "https://www.indeed.com/rc/clk?jk=cb390d6be8d92683&fccid=fe05c30528a801a2&vjs=3",
+  "id": "cb390d6be8d92683",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:47.624Z",
+  "description": "\n \n  Morrison Living \n  \n   We are hiring immediately for a full-time WAITER/WAITRESS position.\n    Location: Webster House - 437 Webster Place, Palo Alto, CA 94301. Note: online applications accepted only.\n    Schedule: Full-time schedule. Monday through Friday, 11:00am - 7:30pm. More details upon interview.\n    Requirement: Previous food service experience is preferred.  \n    \n     Internal Employee Referral Bonus Available\n    \n    Starting Pay: $18.50 per hour\n  \n   \n  Positions at this location require proof of COVID-19 vaccination, boosters, and/or regular COVID testing. Where permitted by law, applicants who are offered a position for this location may be asked about their vaccination status, which must meet minimum business requirements. All religious, medical, or other legally recognized exemptions regarding vaccination status will be considered.\n   \n  We Make Applying Easy! Want to apply to this job via text messaging? Text JOB to 75000 and search requisition ID number 1133813.\n   The advertised program is an AI recruiting assistant that helps you apply to jobs with Compass Group. Message frequency varies. Message and data rates may apply. Text STOP to opt out or HELP for help. Terms and conditions: http://olivia.paradox.ai/moSkg\n   \n  Diversity of thought and inclusion for all is what drives our success - we invite you to start your journey with us today!\n   It’s rewarding to be the best part of someone’s day. No matter what your dreams are for the future, Morrison Living will help you get there. As the nation’s leading provider of inspired dining, wellness, environmental, and hospitality services to senior living communities across the country, everything we do means more when it’s served with care. We believe that the best way to provide meaningful, genuine experiences for residents is to train, develop, and recognize our greatest asset—our people. Joining our team means you’re taking a step towards a rewarding career with opportunities to help you grow personally and professionally. Are you ready to be the best part of someone’s day?\n  \n   \n    \n      Job Summary\n    \n    \n       Summary: Takes food and beverage orders and efficiently delivers items to dining room guests.   Essential Duties and Responsibilities: \n     \n      Promptly and warmly greet guests in the dining room; takes food and beverages in an efficient manner, following established steps of service. \n      Delivers food promptly and professionally; maintains safe food handling and sanitation standards. Follows up periodically to assist with any additional needs or requests. \n      Demonstrates complete understanding of menu items and ingredients. Advises guests on appropriate combinations of food and drinks when requested; accommodates reasonable requests and notes preferences. As needed, demonstrates knowledge of specialized diets and allergens. \n      Communicates directly with back-of-the-house staff to ensure that orders are delivered correctly and special requests are accommodated. \n      Exhibits exceptional communications skills and demonstrates ability to get along well with others. Remains flexible and patient when communicating with guests and staff. \n      Collects tickets and follow proper cash-handling procedures. \n      Promotes a clean, safe and neat environment for guests. \n      Maintains a high level of sensitivity and confidentiality regarding personal or medical information that is shared. \n      Promptly addresses complaints or issues; relays relevant information or complaints directly to supervisor. \n      Ensures that the dining room is properly set up prior to and after the service period; keeps area clean and neat while meeting established sanitation standards. \n      Operates a variety of equipment, including fire extinguishers, telephones, iced tea/soda machines, soup wells and coffee machines. \n      Works with staff of other departments to perform job duties during special events and functions. \n      Performs other duties as assigned. \n     \n    \n   \n  \n  Associates at Morrison Living are offered many fantastic benefits.\n   Both full-time and part-time positions offer the following benefits to associates:\n  \n    Retirement Plan\n    Associate Shopping Program\n    Health and Wellness Programs\n    Discount Marketplace\n    Identity Theft Protection\n    Pet Insurance\n    Voluntary Benefits, including Critical Illness Insurance, Accident Insurance, Hospital Indemnity Insurance, Legal Services, and Choice Auto and Home Program\n  \n   In addition, full-time positions also offer the following benefits to associates:\n  \n    Medical\n    Dental\n    Vision\n    Life Insurance/AD\n    Disability Insurance\n    Commuter Benefits\n    Employee Assistance Program\n    Flexible Spending Accounts (FSAs)\n  \n  \n   About Compass Group: Achieving leadership in the foodservice industry\n   Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.\n   Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. *Los Angeles applicants: Compass Group will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box ordinance).\n  \n   Req ID: 1133813\n   [[req_classification]]\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=cb390d6be8d92683&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj9UofBBXUCYxLtWeJmSpQAULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=96bde26fdd3a6553&assa=7195",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Food Runner/Server Assistant",
+  "salary": "$15.25 an hour",
+  "jobType": null,
+  "company": "Massimo's Restaurant",
+  "location": "Fremont, CA 94538",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=6a87f4d33ee67fbe&fccid=eedbfa817037e137&vjs=3",
+  "id": "6a87f4d33ee67fbe",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:48.146Z",
+  "description": "In this job the employee will be expediting food in the kitchen handling all our take-out orders and also bringing prepared meals to the guests in our restaurant and bags of take out meats to our lobby for our hosts to give to guests. This employee will also help servers in bussing tables when needed. Employee will receive $15.25 per hour plus a generous portion of the tip share. We need this person to work Tuesdays from 4:00 pm to 8:30 pm. Fridays and Saturdays from 4:00pm to 9:00pm and on all busy restaurant holidays (Valentine's Day, Mother's Day, Father's Day, Thanksgiving, Christmas Eve, New Year's Eve) and Wednesdays and Thursdays when needed. \n\n Requirements/Responsibilities \nPerson will expedite both Take Out and Dining Room orders and assist servers. Some serving or bussing experience is preferred. We will train this person on our procedures and knowledge of our menus. \n\n Special Instructions \n\n Please do not send any emails, resumes, or call. \nWe are making it really easy to apply for this position. \n\n Simply submit a ZippyApp application package which may include the Common Employment Application, Resume, and a Cover Letter. In your Cover Letter, please write a short paragraph describing yourself and why you would make a great addition to our team. \n\n ZippyApp is the Common Employment Application for online and mobile that allows you to apply for jobs with one click, and is being accepted at a growing number of businesses each day.",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Denny's | Our Team",
+  "location": "Morgan Hill, CA 95037",
+  "rating": 3.5,
+  "reviewsCount": 9724,
+  "url": "https://www.indeed.com/rc/clk?jk=5a2bd771da90b2f7&fccid=acc9fcb512cec504&vjs=3",
+  "id": "5a2bd771da90b2f7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:48.542Z",
+  "description": "\n Server\n \n  Accountability \n Reporting to the General Manager and Restaurant Manager, the Server greets, seats, and services guests in a friendly and courteous manner, takes and delivers orders, suggestively sells, receives payment, and assists other service personnel as needed to provide total guest satisfaction. Responds to and addresses guests concerns in a timely and courteous manner. Exhibits Dennys Guiding Principles when interacting with others. \n \n  \n Key Business Areas \n A Key Business Area is an area of performance in which the Server must be successful to meet their accountabilities. Successful results in Dennys Key Business Areas are supported by the following behaviors or actions: \n 1. Consistently exhibits Dennys Vision, Mission, and Guiding Principles \n 2. Demonstrates a sense of urgency when serving guests; meets service cycle timing standards \n 3. Greets guests immediately upon arrival and acknowledges them at departure \n 4. Assists with guests seating utilizing proper arrival order and rotation procedures; assists with any special needs \n 5. Suggestively sells and achieves guest check average targets \n 6. Accurately enters orders on point of sale system\n  7. Prepares beverage orders as well as some appetizers, salads, and desserts \n 8. Checks prepared orders for completeness and presentation \n 9. Delivers food and beverage orders timely and in accordance with standards \n 10. Attends to guest during the entire dining experience in a prompt and courteous manner \n 11. Demonstrates knowledge of station and floor breakdowns \n 12. Possesses strong product and menu knowledge \n 13. Uses proper telephone etiquette; assists with to go orders \n 14. Pre-busses tables in a timely manner; clears, cleans, and presets tables promptly upon guests departure \n 15. Addresses complaints and requests promptly in a courteous manner and notifies the supervisor of any issues \n 16. Demonstrates safe cash handling procedures in accordance with policy and accurately completes cash, credit card, and discount transactions \n 17. Willingly assists others without being asked \n 18. Maintains cleanliness and organization of dining room and service area \n 19. Completes all required side-work, including deep cleaning assignments \n 20. Provides prompt and courteous service and is cordial to all team members and guests \n 21. Adheres to Dennys Brand Standards and internal policies and procedures \n \n  \n Essential Functions \n Ability to lift and carry supplies and equipment up to 30 lbs \n Ability to raise a tray weighing up to 25 lbs to shoulder height \n Able to bend, stoop, reach, wipe, lift, and grab \n Must have sufficient mobility to move and operate in work area \n Must be able to stand and walk throughout a 4 to 8 hour shift \n Must be able to hear well in a loud environment to respond to employee and guest needs \n Must meet any state, county, or municipal regulation pertaining to health risk concerns about food handling \n Must be able to observe and differentiate between monetary denominations \n Must be able to serve all Dennys menu products \n Must be able to operate point of sale system\n  Must be able to work around potentially hazardous chemicals \n \n  \n Position Qualifications \n Must be able to communicate effectively in English both orally and in writing \n Must be able to pass all required tests and training requirements for the position \n Must be able to work in a team environment \n Meets Dennys uniform and grooming standards and maintains them throughout the shift \n Must be able to work a flexible schedule, including holidays, nights, and weekends \n Possesses excellent guest service skills \n Possesses basic math skills (add, subtract, multiply, and divide) \n Must be dependable and able to learn basic tasks and follow instructions \n Places a value on diversity and shows respect for others \n Minimum age requirement of 21 in restaurants that free pour alcoholic beverages \n \n  \n Dennys Guiding Principles \n 1. Guests First \n Theyre more than just customers or consumers. They are our guests and we invite them into our homes with open arms. They are the very reason why we are in business and the center of everything we do. \n \n  \n 2. Embrace Openness \n Open means so much more than just being open for business 24/7. It means being open to all people, appetites and budgets. It says we are open-minded and open to new ideas. Honest, warm and inviting. Open is the way we think and act every hour of every day. \n \n  \n 3. Proud of Our Heritage \n We are the classic American diner and proud of everything that means. Since 1953, we have served quality food and healthy portions at a fair price. No matter where we are, our light is always on inviting guests around the world to a place where everyone is welcome. \n \n  \n 4. Hungry to Win \n At Dennys, we are constantly looking ahead. We are always moving, striving for more, hungry for greatness. We are open to fresh, innovative thinking. We believe we will succeed through teamwork, accountability and pushing the boundaries of ourselves and our Brand.\n \n  5. The Power of We \n Our Dennys family is our most important asset. We trust, support and respect each other and work together for the greater good. We recognize the contributions of all and empower each and every one of us to achieve great things. Together, we will celebrate our successes and have fun doing it. \n \n  \n This job description is intended to describe the general nature and level of work being performed by the employees assigned to this position. It is not intended to be an exhaustive list of all duties, responsibilities or tasks which may be required to be performed in this position. \n \n  \n Denny's may amend, change, or modify the responsibilities and duties of this position to meet business needs as necessary. \n \n  \n This job description does not constitute a contract for employment and may be changed at the discretion of Denny's with or without notice.\n  \n  Brand: Denny's \n  Address: 875 Cochrane Rd Morgan Hill, CA - 95037 \n  Property Description: 8544 - WCD - Dennys \n  Property Number: 8544\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server (Full-Time)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Four Seasons",
+  "location": "Silicon Valley, CA",
+  "rating": 4.2,
+  "reviewsCount": 2279,
+  "url": "https://www.indeed.com/rc/clk?jk=018e28145365db61&fccid=9474516a9efc22f2&vjs=3",
+  "id": "018e28145365db61",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:49.267Z",
+  "description": "\n BASIC PURPOSE : As a Server/Barista, you will curate the customer’s experience by sharing your knowledge and enthusiasm in a genuine way. You will drive the food and coffee culture and assist in the daily operations of the café lobby lounge and restaurant bar. \n \n ESSENTIAL FUNCTIONS : \n \n Offer guests an enjoyable and expertly served food and coffee experience conforming to Four Seasons standards of excellence, quality, professionalism and friendliness. Offer quick, correct, precise and friendly service that is respectful and accommodating of the guest's requests of selections and timeliness of service. Prepare and serve hot and/or cold specialty coffees and various beverages. Prepare and serve a selection of coffees from the menu while ensuring proper pouring according to established Four Seasons Standards. Describe coffee items to guests and/or suggest products that might be appealing by explaining the product details and preparation descriptions. Describe the selection of food & beverage menu items to guests by offering interesting, and vivid descriptions of the each item’s, origin, taste, and preparation methods; communicate guest orders including any special needs or requests to the kitchen using the hotel’s point-of-sales system; coordinate food timings; check completed kitchen orders with the guest’s original order; transport items to the guest table in a timely manner to ensure proper food quality. Confirm guest orders including any special needs or requests from the lounge server using the hotel’s point-of-sales system; check completed orders with the guest’s original order. Anticipate guest needs, ascertain satisfaction, and offer suggestions, and respond urgently and appropriately to guest concerns and requests. Properly and accurately close guest checks; process cash and credit card payments; properly settle voided checks or complimentary items. Assist in all service aspects in the provision of Four Seasons Standards of service at all times Clean and sanitize work station daily. Check temperatures of freezers, refrigerators and/or heating equipment to ensure proper functioning. Stock necessary products for the successful operation of the outlet. Stock customer stations with paper products of beverage preparation items. Weight, grind and pack coffee beans as needed. Complete all side work. Inform the manager or assistant of all customer complaints and makes appropriate efforts to correct the problem. Conduct oneself in a professional manner at all times to reflect the high standards of Four Seasons Hotels. Maintain a good working relationship with other employees. Respond properly in any hotel emergency or safety situation. \n \n NON-ESSENTIAL FUNCTIONS : \n \n Take guest reservations. Plate and prepare food items. \n Assist with bar inventory \n Four Seasons is an Equal Opportunity, Affirmative Action employer. Minorities, women, veterans, and individuals with disabilities are encouraged to apply.\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=018e28145365db61&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiSahmzqhMw3ME_kMdyzjLU2Lr7DfU83qy6ilMSvPFMEw&vjfrom=serp&astse=68a237961c8f5044&assa=8980",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server/Waitstaff",
+  "salary": "From $16.40 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Holiday by Atria - Warburton Place",
+  "location": "Santa Clara, CA 95050",
+  "rating": 3.1,
+  "reviewsCount": 1793,
+  "url": "https://www.indeed.com/rc/clk?jk=226e74ae5428a3af&fccid=4bbb888c31718643&vjs=3",
+  "id": "226e74ae5428a3af",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:49.544Z",
+  "description": "\n Overview: \n  No experience needed! Apply today.\n \n  Holiday by Atria has immediate openings for Waitstaff employees. As a part of our culinary team, you’ll make our residents feel like they’re dining in a restaurant – while you start a career with exceptional advancement opportunities, competitive pay, true work-life balance, and great benefits*, including:\n \n   Paid holidays and PTO\n   Health / Dental / Vision / Life Insurance\n   401(k) employer match\n   Tuition reimbursement\n \n  We provide all the training you’ll need, so no experience is required. To join the team at Holiday by Atria, apply now.\n \n \n   Eligibility may vary depending on full-time/part-time status and location\n  Responsibilities: \n \n  Enhancing the lives of older adults by providing services with patience and a friendly smile\n   Promoting a restaurant style dining atmosphere and high level of customer service \n  Setting and clearing tables, taking food and beverage orders and serving residents in a hospitable manner \n  Understanding and reviewing daily menu and dining schedule with residents\n   Embracing teamwork and collaboration among all staff\n  Qualifications: \n \n  Loves people\n   Listens well\n   Works cooperatively\n   Solves problems\n   Comfortable with technology \n  Is ethical, honest, dependable and open-minded\n   Must have or be willing to get a COVID-19 vaccine, subject to legal requirements.\n \n  Atria is an equal opportunity employer committed to providing equal employment opportunities without regard to race, color, religion, sex (including pregnancy), sexual orientation, age, national origin, disability, genetic information, veteran status, or any other classification protected by applicable law. Atria will not tolerate harassment or discrimination based on any of these protected classifications. Salary: Starting at $16.40 / hour\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Gyu-Kaku Japanese BBQ",
+  "location": "San Jose, CA 95110",
+  "rating": 3.3,
+  "reviewsCount": 256,
+  "url": "https://www.indeed.com/rc/clk?jk=fef690e8772a186a&fccid=c2ef93b6ef6f5a95&vjs=3",
+  "id": "fef690e8772a186a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:50.029Z",
+  "description": "\n Title: Server\n  \n Employment Type: Hourly\n  \n  \n Our new Gyu-Kaku Restaurant in Downtown San Jose is NOW HIRING SERVERS!!\n  \n Come join an exceptional team! \n  \n Job Description: The Server serves food and drinks following established guidelines, procedures, and policies as prescribed by company standards. He or she interacts with guests and staff in a cordial, efficient, and professional manner and helps with seating guests, clearing and setting tables, preparing to go orders, side work, and cleaning duties.\n  \n  The ideal candidate for this position has a high school diploma or high school equivalency diploma and at least one year of experience in a restaurant setting. He or she can work a flexible schedule that includes days, nights, weekends, and holidays. Good written and speaking communication skills, good time management skills, and professional dress, speech, and behavior are all required for this position.\n  \n  \n Responsibilities: \n \n  Greets all customers in a warm, sincere and helpful manner \n  Takes orders and serves meals and beverages promptly and courteously \n  Operates the complete POS system and other required software \n  Ensures that work areas are clean and that equipment, tools, and supplies are properly stored \n  Follows safety and sanitation rules and practices \n  Helps bus and set tables and performs side-work and cleaning duties as needed \n \n Qualifications: \n \n  One year of relevant experience preferred \n  Helpful attitude and friendly demeanor \n  Able to work days, evenings, weekends, and holidays \n \n Benefits: \n \n  Employee Discounts \n  Employee Recognition Program \n  Opportunity for growth within the company\n \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Pizzeria Delfina - Palo Alto",
+  "location": "Palo Alto, CA",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=5fcdf07c9e437b0d&fccid=6283e6986be59224&vjs=3",
+  "id": "5fcdf07c9e437b0d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:51.429Z",
+  "description": "Busy pizzeria located in downtown Palo Alto seeks experienced servers to join our amazing team! We serve Neapolitan-inspired pizza and seasonal antipasti in a bustling, hospitality-focused atmosphere. The daily-changing menu features all house made products produced with locally farm-sourced ingredients. Candidates must have prior experience in a fast paced, detail-oriented restaurant. Must have a working knowledge of sustainable food and beverage practices; be detail-oriented, highly organized and able to think quickly on your feet, as this positions assist with all aspects of service and relies heavily on thoughtful communication. A flexible schedule, strong work ethic, and a willingness to learn are required. Compensation includes an hourly wage plus tips, referral bonuses, dining discounts, and excellent opportunities for professional advancement within a growing local restaurant group. \n\n More detail about Pizzeria Delfina - Palo Alto part of Delfina Restaurant Group",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=5fcdf07c9e437b0d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhLYTcISXCKTggH5109HxMKQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=d309acf432dbcc4d&assa=1067",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Bar Waiter/cocktail Server",
+  "salary": "$1,350 a week",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Viking Cruises",
+  "location": "United States",
+  "rating": 3.4,
+  "reviewsCount": 270,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bb2a78pffrXn_BWEw5f13--r0-gMZlSjiJMxqPz46kh4YGJgz4uQ1gPcuNE_XMkEz3dRIiTh_kIbiZRQYgqiq_JSfFchyCyfthHCyGzwLvZkTjAsx3eZJUr-HG3FbrgSQgqoP1IochNA_FitrMR4TEVvpNml2ZtHcRq2uuuoKDTYmsr-ZGEW3fpCPPwf0yIP8wCvDm4403tC83HsQXjxur_X2AIhX26zgAKeKm6b7r-U7_YMSLHpy_OMqMQ2mdoPwfpA8BJBC0wVK1Q3jBIrIapHqS7kEYuR-bhEKWNAnlqTErIvL3IdzMqd1EDo0MD_dFsgfMexPURJ9JoOyYZ8ofXmJUM0eSXc7zkp7xEBqPQVwAmZ2kaP8wbqLGjfIEAzozebYc1-wobi_IVQXhUs6ZjxUQTQMkQQf1s8785s-aQxQX1rDyj8s9qft8NrYz4BX0en3t2xv2Jy1jFDJ_R_rzx5d4ZpfJYyi0OY5mCUxgqZZOYthWZXjOLQwrfa_h5MrpESazIjplBvWB2N9OIsr2&xkcb=SoD8-_M3WvC3aOg0Rb0HbzkdCdPP&p=9&fvj=1&vjs=3",
+  "id": "8e8554cbb65827d0",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:51.526Z",
+  "description": "PURPOSE OF POSITION\nTo ensure a friendly and professional service at the bar, lounge and the sundeck to the fullest satisfaction of our guests and in accordance with Viking Standards and Operating Procedures.\nYOUR RESPONSIBILITIES\n· Operation of bar procedures according to company SOP standards (e.g. menus, decoration, appearance)\n· Organization and execution of F&B related ship functions and special events\n· Preparing and serving drinks in accordance with company standards\n· Preparation and set up of Café Lunch in the lounge in co-operation with the Executive Chef and Maître D’Hotel / F&B Manager, and the Bar Manager\n· Ensuring highest level of cleanliness within bar, pantry, lounge, sundeck in accordance with HACCP standards\n· Cost control for bar in accordance with the budget\n· Correct handling of all products, materials and equipment (glasses, cutleries, and stock items etc.)\n· Assistance and rotation in the restaurant to work as Chef de Rang, as required by the operational needs and upon instructions from the supervisors\n· Establishing of weekly stock order in cooperation with Maître D’Hotel\n· Conduction of stock and inventory according to company procedures\n· Daily consumption report\n· Preparation of opening and closing ships at start and end of season\n· Correct storage of stock; establishing of par levels\n· Active participation on onboard training programs\n· Luggage duty on embarkation and disembarkation day, and participation in loadings\n· Participate in the departmental “Daily Reunion”\n· Ability to effectively deal with internal & external customers, some of whom will require high levels of patience, tact and diplomacy to defuse anger, collect accurate information and resolve conflicts\n· Correct use of wait order system (WOS) on the MXP as per company instructions\nJob Type: Full-time\nPay: $1,350.00 per week\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Referral program\n Vision insurance\n\nRestaurant type:\n\n Bar\n Casual dining restaurant\n Fine dining restaurant\n Upscale casual restaurant\n\nShift:\n\n 10 hour shift\n 12 hour shift\n Day shift\n Evening shift\n Morning shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n\nApplication Question(s):\n\n Are you willing and able to work on a ship for 6-8 weeks at a time?\n Do you have any visible tattoos or piercings on your face, neck, hands or arms?\n\nEducation:\n\n High school or equivalent (Required)\n\nExperience:\n\n Fine Dining Restaurant/Bar: 5 years (Required)\n\nLanguage:\n\n English (Required)\n\nShift availability:\n\n Day Shift (Required)\n Night Shift (Required)\n\nWillingness to travel:\n\n 100% (Required)\n\nWork Location: On the road",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "$200 - $270 a day",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Din Tai Fung",
+  "location": "Santa Clara, CA 95050",
+  "rating": 3.4,
+  "reviewsCount": 276,
+  "url": "https://www.indeed.com/rc/clk?jk=77e2c4d6f2eeea05&fccid=919259d4149d2dac&vjs=3",
+  "id": "77e2c4d6f2eeea05",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:51.773Z",
+  "description": "DIN TAI FUNG RESTAURANTS\nLOCATION: 2855 Stevens Creek Blvd, Santa Clara, CA 95050 (Westfield Valley Fair)\nPAY RATE FOR SERVER:  $200.00 - $270.00 average per shift\n\n Flexible Work Schedule (Opening / Closing Shifts, Weekday / Weekend Shifts)\n In-Depth Training Program On All Essential Job Functions\n Hiring Multiple Positions\n Urgently Hiring\n Job Type: Part-time\n\nBENEFITS FOR SERVER: \n\n Competitive Pay & Benefits\n Din Tai Fung provides 80% employer contribution for individuals and 50% employer contribution for eligible dependents toward medical insurance plans for all eligible employees.\n 401k Plan with company match\n\n\n Employee Meal Discounts\n Opportunities for growth; we love promoting from within!\n\nJOB PURPOSE:  Servers are responsible for directly servicing assigned tables while assisting with Runner and Busser functions. Servers are responsible for taking food and beverage orders while providing personalized, exemplary service for their assigned tables.\nJOB REQUIREMENTS FOR SERVER: We are searching for friendly, energetic, highly motivated people who will thrive in a fast-paced, team-oriented environment.\n\n Minimum of 6 months of experience as a Server in a full-service or comparable restaurant\n Ability to stand for long periods of time\n Positive and Professional Attitude\n\nNote:  **The starting pay rate for all Front of House employees at Din Tai Fung (Westfield Valley Fair) is the local minimum + Tips.\nThis job description in no way states or implies that these are the only duties to be performed by the employee occupying the position. Employees will be required to perform any other job-related duties assigned by their supervisor.Din Tai Fung is an Equal Employment Opportunity Employer – M/F/D/V\nApplicant must be 18 years of age or older and able to provide documentation to work in the United States legally\nJob Type: Part-time\nPay: $200.00 - $270.00 per day",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Bistro Server Courtyard by Marriott Morgan Hill",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Courtyard Morgan Hill",
+  "location": "Morgan Hill, CA 95037",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=9fa48d263445f118&fccid=5f7fd69aa0446e56&vjs=3",
+  "id": "9fa48d263445f118",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:51.721Z",
+  "description": "Highgate Hotels:\n Highgate is a leading real estate investment and hospitality management company widely recognized as an innovator in the industry. Highgate is the dominant player in major U.S. gateway cities including New York, Boston, Miami, San Francisco and Honolulu, with a growing Caribbean and Latin America footprint. The hospitality forward company provides expert guidance through all stages of the property cycle, from planning and development through recapitalization or disposition. Highgate has a proven record of developing its diverse portfolio of bespoke lifestyle hotel brands, legacy brands, and independent hotels and resorts with contemporary programming and digital acumen. The company utilizes industry-leading revenue management tools that efficiently identify and predict evolving market dynamics to drive outperformance and maximize asset value. With an executive team consisting of some of the most experienced hotel management leaders, the company is a trusted partner for top ownership groups and major hotel brands. Highgate maintains corporate offices in New York, Chicago, Dallas, London, Miami, and Seattle. www.highgate.com. \n\n \nLocation:\n Courtyard Morgan Hill \n\n 18610 Madrone Parkway \nMorgan Hill, CA 95037 \n\n \nOverview:\n The Bistro Attendant is responsible for providing the highest quality of service possible to guests in an efficient and courteous manner specifically within the Bistro located in the hotel lobby. \n\n \nResponsibilities:\n Approach all encounters with guests and employees in an attentive friendly courteous and service oriented manner. \n\n Maintain regular attendance in compliance with Highgate standards. \n\n Maintain high standards of personal appearance and grooming which include wearing the proper uniform and name tag when working. \n\n Service guests with all food and beverage requirements in a warm friendly courteous and professional manner. \n\n Clear clean and reset tables as needed. \n\n Prepare set up and break down stations ensuring prep station is stocked with supplies. \n\n Accommodate any special requests made by a guest or offer appropriate alternatives. \n\n Be familiar with the operation of the P.O.S. system. \n\n Greet and seat guests at appropriate tables in a timely manner. \n\n Ensure quality control of menus with regard to cleanliness and appearance. \n\n Ability to answer the telephone according to standards. \n\n Have a complete knowledge of standards of service for receiving a room service order. \n\n Have a thorough knowledge of menus. \n\n Carry out cashiering functions including closing checks and end of shift paperwork. \n\n Perform opening and closing procedures and side work duties according to station rotation assignment. \n\n Ensure that tables and side stands are kept stocked tidy and clean. \n\n Breakdown trays of soiled dishes and linen in the dish room according to established standards. \n\n Ensure overall guest satisfaction \n\n \nQualifications:\n High School diploma or equivalent and/or experience in a hotel or a related field preferred. \n\n Must be able to convey information and ideas clearly. \n\n Must be able to evaluate and select among alternative courses of action quickly and accurately. \n\n Must work well in stressful high pressure situations. \n\n Must be effective at listening to understanding and clarifying the concerns and issues raised by co-workers and guests. \n\n Must be able to work with and understand financial information and data and basic arithmetic functions. \n\n Must maintain composure and objectivity under pressure.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=9fa48d263445f118&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjBJM1ZnsfT1di6apVq6WnFl8EZNoFLzyHkpvcd7-Y9bg&vjfrom=serp&astse=350bec3cff2f0a93&assa=1515",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "TGI Fridays",
+  "location": "Union City, CA 94587",
+  "rating": 3.6,
+  "reviewsCount": 5815,
+  "url": "https://www.indeed.com/rc/clk?jk=18c959072d76131c&fccid=458b1d07e29f4a04&vjs=3",
+  "id": "18c959072d76131c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:57.687Z",
+  "description": "\n A TGI Fridays Server possesses a passion for service, is knowledgeable of menu items, and is prepared to proactively customize the dining experience to the Guests expectations.\n  Key Responsibilities:\n \n   Greets Guests with a genuine smile, builds rapport, and ensures an enjoyable, quality dining experience.\n   Looks for visual and verbal cues to identify the experience the Guest wants and customize the service to meet those expectations.\n   Promptly and accurately takes food and beverage requests from Guests.\n   Ensures expedient service of food and beverages to the Guest.\n   Frequently checks up on the Guests and uses visual cues to provide silent service as appropriate.\n   Learn TGIF menu and beverages, expertly recommends and upsells on items.\n   ID all Guests ordering alcoholic beverages who appear to be 40 years old or younger.\n   Follows all Fridays Service Style Standards.\n   Accurately rings all orders into the POS system while simultaneously interacting with Guests when applicable.\n   Practices conversational ordering by mentioning current promotional features.\n \n  MEASURES OF SUCCESS\n \n   Guest experience\n   Exercising standards of Responsible Service of Alcohol\n   Consistently fulfill the Key Responsibilities and Accountabilities above\n   Service Strength Code rating meets/exceeds company standards\n   Guest satisfaction scores\n   Meeting all key metrics outlined on the myPerformance scorecard\n \n  QUALIFICATION REQUIREMENTS\n \n   Must be able to deliver plates and food and clear tables\n   Must be able to lift up to 30 lbs.\n   Must be able to hear well amongst loud background noise\n   Must be dressed neatly and well groomed in company approved uniform at all times\n   Must be able to operate P.O.S. system, make change correctly and make credit card transactions accurately\n   Must be able to calmly respond to angry Guests and notify a Manager\n   Must be able to read and write notes to hearing impaired Guests\n   Must be able to read menus to sight-impaired Guests\n   Must be able to verbalize menu items clearly to Guests while taking their orders or responding to their request\n   Must be able to read and write\n   Must be able to stand and walk during entire shift\n   Must be able to reach, bend, stoop and wipe counters/tables\n \n \n  DISCLAIMER: THE CONTENT WITHIN THIS DOCUMENT REPRESENTS THE ROLE OF A TGI FRIDAYS INC. EMPLOYEE. FRANCHISEES MAY INCLUDE DIFFERENT OR ADDITIONAL REQUIREMENTS. PLEASE VERIFY ACTUAL REQUIREMENTS DURING THE INTERVIEW.\n  \n  Brand: TGI Fridays \n  Address: 31900 Dyer St Union City, CA - 94587 \n  Property Description: UNION CITY, CA \n  Property Number: 60674\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server Assistant/Busser",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Texas Roadhouse | Ultra Steak, Inc.",
+  "location": "Union City, CA 94587",
+  "rating": 3.8,
+  "reviewsCount": 8575,
+  "url": "https://www.indeed.com/rc/clk?jk=f694c7d8dcd0aa83&fccid=8c0af510e7060543&vjs=3",
+  "id": "f694c7d8dcd0aa83",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:58.833Z",
+  "description": "\n Texas Roadhouse, an awesome combination of casual dining and a full-service restaurant, likes to serve great food and treat customers well. Join our fun, family-like atmosphere. \n  \n  We know you are interested in working with tons of people in a fun environment, and you have come to the right place. Here is an idea of what to expect.\n  \n  \n Job Responsibilities \n \n  Assist guests in whatever they need.\n   Assist servers in whatever they need.\n   Clear and clean tables within 30-45 seconds.\n   Keep service area cleaned and stocked.\n   Exhibit teamwork.\n   Work with Updater to execute quick table turns.\n   Run food.\n   Recognize a first-time guest and tell the story.\"\n   Have FUN and smile.\n \n  Here's What We Can Offer You \n \n  Flexible scheduling full and part time\n   Casual Dress (jeans and t-shirts)\n   Benefits available\n   30% discount when you dine as a guest\n   Advancement opportunities\n \n  We are Proud to be an Equal Opportunity Employer. \n  Brand: Texas Roadhouse \n  Address: 32115 Union Landing Boulvard Union City, CA - 94587 \n  Property Description: 2000-7001 - Union Landing Blvd - Union City, CA \n  Property Number: 7001\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server-FT/PT Available /Weekend & Holiday Availability",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Benihana",
+  "location": "Cupertino, CA 95014",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AOewRhVeYsigvx_NW6hrjrbUR2hY58wwsnfCwtz6K71nISOOwk1Q-X5NoidyoXLPbqV_pa2aivczDwTeJS_aNTnehhxET_Zc5g6f9S-mYRR5wXm0guM1OfiY10DPDSuwxvryAUjQoPGuz8Ln7IDL4zJFjh6pxzwxP5FIIHQsOODMXRN1DC0Cclz5TvOMBoLI4cO6QllxzblB1tnZ-gNcfAz7Rk_guhX_cXeTwtTrVF-4oWwZyZEnvm0zuJ9JNnzA1Gfcxvwddteg-82mBZzeS80nxBh9-wj1NO7eoetYyU23KtprK2SJzG2iId5HreS-JsfRBNgiVZflPfbspfoSe4JusvvjGtmZhpva-w3h97HX6_3mC9Kxy3T19jDX7zUtsEIwlUO6Hnk-6fgEE7BSQWIQ-bDIAyAF97XoAtJ-rKjUvjydw4EXtlMCswkSdW0ASUEskNTdqWm4TSv3OZYBFUx5v4DGKtgd1NcyqgYu3vVUbUJNzwLyUz9hDpm0HuFPZOYd1guXxuKfXSCCTQDWVrFjgYdWSBFHg=&xkcb=SoBj-_M3WvC1ba0YMh0CbzkdCdPP&p=13&fvj=1&vjs=3",
+  "id": "2aa34ad359c63443",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:01.538Z",
+  "description": "At Benihana, your hard work is more than just a job, it’s a career opportunity. It's a building block to a successful future in the world of business and hospitality.\nOur people are our secret sauce __to our success and mission of Creating Great Guest Memories. We are always looking for individuals who have what it takes to grow with us and share in our success.\nJob Summary: Responsible for interacting with our guests and ensuring they have an excellent dining experience. Responsible for positive guest interactions while serving guests in a friendly, timely manner.\nQualifications: · Previous experience in the restaurant or hospitality industry preferred.· Basic understanding of beer, wine, spirits and sake preferred.· Where applicable, holds a state and/or local food handlers card.· Ability to walk, sit and stand for long periods of time.· Must be 18 years of age or older or in accordance of state law.· High School diploma or GED preferred. Equivalent combination of education/experience will be considered.· Must be eligible to work in the United States.·* Must be able to work different shifts, including holidays, nights and weekends. Must be able to work overtime as required.*\nHere are some of the sizzling benefits of working for us: Fun working environment:  You will work in a caring environment where you are highly valued and will have the opportunity to continue to develop and grow.Free shift meals:  We believe in coming together as a family and want you to be able to enjoy a great meal. We provide all of our employees a free shift meal, every day.Benefits are important:  We know how important it is to take care of yourself and your family. We offer a full benefits suite that includes 401K, and Medical, Vision and Dental for you and your family.Competitive Pay:  Along with a competitive paycheck, you will have an opportunity to be well rewarded. This position is eligible for tips!\nWe are an Equal Opportunity Employer. Please note this is not the full job description.\nLocation: 10123 North Wolfe Road, Cupertino, California 95014\nJob Types: Full-time, Part-time",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server Assistant",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Boiling Point | Boiling Point Group",
+  "location": "San Jose, CA 95131",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=7b4aa3c27c27e279&fccid=566e9d1b08780e7d&vjs=3",
+  "id": "7b4aa3c27c27e279",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:02.745Z",
+  "description": "\n Server Assistant\n  Boiling Point is a growing Taiwanese Hot Soup specialty restaurant with locations in the US, Canada, and China. At Boiling Point, we are a team that believes in \"Honesty, Reliability, Integrity, and Care\" as our core business model with a mission to bring great food to a wide audience. We believe in ensuring that every customer receives the best quality food and the most authentic Taiwanese food dining experience possible.\n  We are looking to expand and are in need of candidates with a positive, motivated attitude that would love to grow with the company. We would love for you to join us and be part of the Boiling Point family!\n  Purpose/ Summary:\n  To serve and provide exceptional service and hospitality to every customer in the restaurant while participating in team work ensuring absolute customer satisfaction. Server assistants are responsible for assisting both the front of the house and back of the house staff with needs as requested to satisfy customer and store requirements.\n  Duties & Responsibilities:\n \n   Ensuring cleanliness in dining area including but not limited to removing dishes from tables and taking them to the kitchen for cleaning, refilling sauces, and cleaning sauce containers as needed\n   Set up tables in preparation for the next customer\n   Assist in preparation of food items in the kitchen as needed\n   Will also be responsible for general housekeeping duties of the restrooms\n   Stock service areas with supplies\n   Maintain personal health and sanitation standards\n   Must be knowledgeable of all safety codes per BP's guidelines\n   Ensure compliance with BP’s code of ethics, integrity and conduct\n \n \n  Minimum Qualifications: \n \n  1 year of food retail experience in a fast paced environment, specifically as a busboy or food runner\n   Friendly attitude with excellent customer service skills\n   Able to multitask and work in a team environment\n   Must be able to work flexible schedules\n   High School diploma preferred\n   All candidates are subject to a background check and employment verification process\n \n  Physical demands:\n \n   Ability to continuously stand or walk\n   Ability to bend and lift frequently\n   Ability to lift up to 10lbs frequently and 50lbs occasionally\n   Ability to squat occasionally\n \n  Work environment:\n \n   Work will be conducted in a kitchen and restaurant environment\n   May encounter temperatures ranging from 32 degrees to 425 degrees around equipment\n   May occasionally walk on slippery surfaces\n   Noise level in the work environment is frequently loud\n \n  \n  \n  Brand: Boiling Point \n  Address: 1698 Hostetter Rd San Jose, CA - 95131 \n  Property Description: SJ - San Jose \n  Property Number: SJ\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "$11.60 - $14.40 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Courtyard Redwood City | OTO Development",
+  "location": "Redwood City, CA 94063",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=6f50244b382fa4dc&fccid=3d34cb7a5bd437da&vjs=3",
+  "id": "6f50244b382fa4dc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:03.718Z",
+  "description": "\n National Base Salary Rate: $11.60 - $14.40/hour\n  *Rate depends upon state/market*\n \n  OTO Development is pleased to announce a wonderful opportunity for a Server.\n \n  What will you be doing most days?\n \n   Adhere to all sanitation, safety, and alcohol service protocol\n   Consistently hold a friendly, relaxing, and courteousness demeanor that makes guests feel comfortable to ensure satisfaction\n   Transmit orders to bar and kitchen by recording guests' choices and gives knowledgeable recommendations as necessary\n   Keep the kitchen staff informed on times, updates, or any changes that need to be made to guests orders\n   Serve orders by picking up and delivering guests' choices from the kitchen/bar and deliver accompaniments and condiments as needed\n   Issue bills & collects payment; including room charges, credit card payments, or cash payments with the correct change returned\n   Assist other servers as needed\n \n \n  What are the requirements for this position?\n \n   You are a professional, motivated, and driven individual\n   You enjoy working with all types of people from all walks of life\n   You have the ability to multi-task and work in a fast-paced environment\n   You are familiar with taking orders from guests, serving food, clean-up and routine side-work, special event set up/service, and assistance with food preparation\n   You must be able to work nights and weekends\n   You are able stand and be one your feet for long periods of time and can lift and maneuver heavy trays\n \n \n  Physical Requirements for this Position\n  This is a physically demanding position. You must be comfortable standing, sitting, walking, bending, lifting, and squatting for extended periods of time.\n \n  About OTO\n  OTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\n \n  About OTO\n  OTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\n \n  OTO provides competitive pay and benefit programs, including medical insurance options, dental and vison insurance, 401k with company match, company provided life insurance, tuition assistance, paid time off, paid holiday time, travel discounts, and more.\n  \n  Brand: Courtyard Redwood City \n  Address: 600 Bair Island Road Redwood City, CA - 94063 \n  Property Description: CA0891D Courtyard Redwood City \n  Property Number: CA0891D\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Boiling Point | Boiling Point Group",
+  "location": "San Jose, CA 95131",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=21ed2e86c4e19d7b&fccid=566e9d1b08780e7d&vjs=3",
+  "id": "21ed2e86c4e19d7b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:04.741Z",
+  "description": "\n Server\n  Boiling Point is a growing Taiwanese Hot Soup specialty restaurant with locations in the US, Canada, and China. At Boiling Point, we are a team that believes in \"Honesty, Reliability, Integrity, and Care\" as our core business model with a mission to bring great food to a wide audience. We believe in ensuring that every customer receives the best quality food and the most authentic Taiwanese food dining experience possible.\n  We are looking to expand and are in need of candidates with a positive, motivated attitude that would love to grow with the company. We would love for you to join us and be part of the Boiling Point family!\n  Purpose/ Summary:\n  To serve and provide exceptional service and hospitality to every customer in the restaurant while participating in team work ensuring absolute customer satisfaction. Servers are responsible for positive customer interactions while serving in a friendly and efficient manner. Thoroughly knowledgeable in all aspects of BP’s menu and prices and can make recommendations.\n  Duties & Responsibilities:\n \n   Greet incoming customers immediately whenever possible\n   Has thorough knowledge of food and beverage menu and make suggestions to customers\n   Take orders and serve food and/or beverage to customers\n   Cashiering duties including preparing checks and processing payment through POS system\n   Ensuring cleanliness in dining area including but not limited to removing dishes from tables and taking them to the kitchen for cleaning, refilling sauces, and cleaning sauce containers as needed\n   Set up tables in preparation for the next customer\n   Will also be responsible for general housekeeping duties of the restrooms\n   Stock service areas with supplies when needed\n   Maintain personal health and sanitation standards\n   Must be knowledgeable of all safety codes per BP's guidelines\n   Ensure compliance with BP’s code of ethics, integrity and conduct\n \n \n  Minimum Qualifications: \n \n  1 year of food retail experience in a fast paced environment, specifically as a server\n   Friendly attitude with excellent customer service skills\n   Able to multitask and work in a team environment\n   Must be able to work flexible schedules\n   High School diploma preferred\n   All candidates are subject to a background check and employment verification process\n \n  Physical demands:\n \n   Ability to continuously stand or walk\n   Ability to bend and lift frequently\n   Ability to lift up to 10lbs frequently and 50lbs occasionally\n   Ability to squat occasionally\n \n  Work environment:\n \n   Work will be conducted in a kitchen and restaurant environment\n   May encounter temperatures ranging from 32 degrees to 425 degrees around equipment\n   May occasionally walk on slippery surfaces\n   Noise level in the work environment is frequently loud\n  \n  Brand: Boiling Point \n  Address: 1698 Hostetter Rd San Jose, CA - 95131 \n  Property Description: SJ - San Jose \n  Property Number: SJ\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "$11.60 - $14.40 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Hyatt Centric Mountain View/Silicon Valley | OTO Development",
+  "location": "Mountain View, CA 94040",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=5727ddb4e62b3f4d&fccid=dab215d9702c32ba&vjs=3",
+  "id": "5727ddb4e62b3f4d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:06.081Z",
+  "description": "\n ** The hourly rate for the Server at the Hyatt Centric Mountain View is $17.10 per hour plus tips **\n  National Base Salary Rate: $11.60 - $14.40/hour\n  *Rate depends upon state/market*\n \n  OTO Development is pleased to announce a wonderful opportunity for a Server.\n \n  What will you be doing most days?\n \n   Adhere to all sanitation, safety, and alcohol service protocol\n   Consistently hold a friendly, relaxing, and courteousness demeanor that makes guests feel comfortable to ensure satisfaction\n   Transmit orders to bar and kitchen by recording guests' choices and gives knowledgeable recommendations as necessary\n   Keep the kitchen staff informed on times, updates, or any changes that need to be made to guests orders\n   Serve orders by picking up and delivering guests' choices from the kitchen/bar and deliver accompaniments and condiments as needed\n   Issue bills & collects payment; including room charges, credit card payments, or cash payments with the correct change returned\n   Assist other servers as needed\n \n \n  What are the requirements for this position?\n \n   You are a professional, motivated, and driven individual\n   You enjoy working with all types of people from all walks of life\n   You have the ability to multi-task and work in a fast-paced environment\n   You are familiar with taking orders from guests, serving food, clean-up and routine side-work, special event set up/service, and assistance with food preparation\n   You must be able to work nights and weekends\n   You are able stand and be one your feet for long periods of time and can lift and maneuver heavy trays\n \n \n  Physical Requirements for this Position\n  This is a physically demanding position. You must be comfortable standing, sitting, walking, bending, lifting, and squatting for extended periods of time.\n \n  About OTO\n  OTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\n \n  About OTO\n  OTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\n \n  OTO provides competitive pay and benefit programs, including medical insurance options, dental and vison insurance, 401k with company match, company provided life insurance, tuition assistance, paid time off, paid holiday time, travel discounts, and more.\n  \n  Brand: Hyatt Centric Mountain View/Silicon Valley \n  Address: 409 San Antonio Rd Mountain View, CA - 94040 \n  Property Description: CA0835D Hyatt Centric Mountain View/Silicon Valley \n  Property Number: CA0835D\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Hilton Garden Inn Palo Alto | OTO Development",
+  "location": "Palo Alto, CA 94306",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=2b4ce3672073edfa&fccid=bf90b00d4193d085&vjs=3",
+  "id": "2b4ce3672073edfa",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:06.223Z",
+  "description": "\n\n OTO Development is pleased to announce a wonderful opportunity for a Server.\n \n  What will you be doing most days?\n \n   Adhere to all sanitation, safety, and alcohol service protocol\n   Consistently hold a friendly, relaxing, and courteousness demeanor that makes guests feel comfortable to ensure satisfaction\n   Transmit orders to bar and kitchen by recording guests' choices and gives knowledgeable recommendations as necessary\n   Keep the kitchen staff informed on times, updates, or any changes that need to be made to guests orders\n   Serve orders by picking up and delivering guests' choices from the kitchen/bar and deliver accompaniments and condiments as needed\n   Issue bills & collects payment; including room charges, credit card payments, or cash payments with the correct change returned\n   Assist other servers as needed\n \n \n  What are the requirements for this position?\n \n   You are a professional, motivated, and driven individual\n   You enjoy working with all types of people from all walks of life\n   You have the ability to multi-task and work in a fast-paced environment\n   You are familiar with taking orders from guests, serving food, clean-up and routine side-work, special event set up/service, and assistance with food preparation\n   You must be able to work nights and weekends\n   You are able stand and be one your feet for long periods of time and can lift and maneuver heavy trays\n \n \n  Physical Requirements for this Position\n  This is a physically demanding position. You must be comfortable standing, sitting, walking, bending, lifting, and squatting for extended periods of time.\n \n  About OTO\n  OTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\n \n  About OTO\n  OTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\n \n  OTO provides competitive pay and benefit programs, including medical insurance options, dental and vison insurance, 401k with company match, company provided life insurance, tuition assistance, paid time off, paid holiday time, travel discounts, and more.\n  \n  Brand: Hilton Garden Inn Palo Alto \n  Address: 4216 El Camino Real Palo Alto, CA - 94306 \n  Property Description: CA0771D Hilton Garden Inn Palo Alto \n  Property Number: CA0771D\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Sizzler | Our Team",
+  "location": "San Jose, CA 95121",
+  "rating": 3.6,
+  "reviewsCount": 518,
+  "url": "https://www.indeed.com/rc/clk?jk=19e621268536e64e&fccid=f7d4941a54537bc3&vjs=3",
+  "id": "19e621268536e64e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:07.124Z",
+  "description": "\n Server\n \n  SUMMARY\n \n  Provides guest satisfaction by greeting and serving the guest in a courteous manner. Facilitates guest satisfaction by providing an extraordinary experience for all guests. Assist all departments as business dictates.\n \n  ESSENTIAL DUTIES AND RESPONSIBILITIES\n \n   Greet and assist all guests as they enter the restaurant; thank guests as they leave.\n   Maintain the organization and cleanliness of the dining room.\n   Serve guests food and drinks.\n   Assist in food preparations when needed.\n   Bus tables and maintain dining room cleanliness and sanitation.\n   Maintains the organization and cleanliness of the restaurant.\n   You can and will be assigned to other and/ or multiple departments, besides your primary job code\n   From time to time you may be directed to work on special projects or assist with other work necessary or important to the operations of the Company.\n   Sizzler may alter or change your job duties, reassign or transfer job responsibilities or assign you additional job responsibilities in other positions.\n \n \n  CORE COMPETENCY REQUIREMENTS\n \n   \"Here to Help Mentality: Will assist different departments and team mates, other than primary job code, as needed.\n   Guest Service: Manages difficult or emotional guest situations; Responds promptly to guest needs; Responds to requests for service and assistance; Identify and resolve problems in a timely manner.\n   Communication: Speaks clearly and persuasively in positive or negative situations; Listens and gets clarification; Responds well to questions; Able to read and interpret written information.\n   Team Work: Balances team and individual responsibilities; Welcomes feedback; Contributes to building a positive team spirit; Supports everyones efforts to succeed.\n   Planning and Organization: Able to prioritize and plan work activities. Use time efficiently.\n   Diversity & Ethics: Promotes a harassment-free environment; Treats everyone with respect; Works ethically and with integrity; Upholds organizational values.\n   Organizational Support: Follows policies and procedures; Completes administrative tasks correctly and on time.\n   Professionalism: Reacts well under pressure; Accepts responsibility for own actions; Complies with Grooming & Appearance requirements.\n   Quality and Quantity of Work: Demonstrates accuracy and thoroughness; applies feedback to improve performance; meets productivity standards and strives to improve productivity; completes work in a timely manner; monitors own work to ensure quality.\n   Safety & Security: Observes safety and security procedures; reports potentially unsafe conditions; Maintains a safe work environment; Uses equipment, materials and chemicals properly.\n   Adaptability: Adapts to changes in the work environment; able to deal with frequent change, delays or unexpected events.\n   Attendance/Punctuality: Is consistent at work and on time; ensures work responsibility are covered when absent; attends all restaurant meetings.\n   Dependability: Follows instructions; responds to management directions; takes responsibility for own actions.\n   Food Safety and Sanitation: Will be certified in accordance with local jurisdiction requirements\n \n \n  QUALIFICATIONS\n  Education and/or Experience\n \n   High School Diploma/GED or 1-3 Months related experience and/or training or equivalent combinations of education and experience is required.\n   Current California Food Handlers Card.\n \n  Language / Mathematical Skills\n \n   Ability to read and interpret financial and written information.\n   Ability to speak and understand English both written and verbally.\n \n  Reasoning Ability\n \n   Ability to apply common sense understanding to carry out detailed written or oral instructions.\n \n \n  PHYSICAL DEMANDS\n  While performing the duties of this job the employee is regularly required to stand, use hands, talk and hear. The employee is occasionally required to stoop, kneel or crouch. The employee must frequently be able to lift, pull and push up to 50 pounds.\n \n  WORK ENVIRONMENT\n  While performing the duties of this job the employee is regularly exposed to machinery with moving mechanical parts, sharp objects and open flames. The employee can sometimes be exposed to wet, humid, cold or hot conditions. The noise level is the work environment is usually moderate.\n \n  Performs miscellaneous job-related duties as assigned.\n  \n  Brand: Sizzler \n  Address: 2910 Aborn Square San Jose, CA - 95121 \n  Property Description: 425B - Sizzler \n  Property Number: 425B\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Applebee's | Apple American Group",
+  "location": "Fremont, CA 94538",
+  "rating": 3.5,
+  "reviewsCount": 17833,
+  "url": "https://www.indeed.com/rc/clk?jk=eb3723a368bff8d1&fccid=8d06e6fe8a035d32&vjs=3",
+  "id": "eb3723a368bff8d1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:07.793Z",
+  "description": "\n Fun. Flexibility. Growth.\n  Are you looking for a fun and exciting environment, flexible work schedule, or an opportunity for growth? Blending all of these together is the difference between a good job and a great career. At Applebee's you will discover a balance between work life and personal life, as well amazing benefits for your health, future, family and happiness.\n  As an Applebee's Server, you will be our guests first and last impression. You will need to be friendly, make recommendations, and anticipate the needs of the guest. You will work hard, but have a great time doing it!\n  You must be at least 18 years old, be able to effectively communicate with others, and committed to making an impact.\n  We offer flexible work schedules, healthcare benefits, meal discounts, and a great career path.\n  The health, safety and well-being of our employees is our top priority.\n  Physical Standards: Must have mobility for long periods of up to four (4) hours in length. Must be able to safely reach, bend, stoop and frequently lift up to 25 pounds. Transports plates, glasses, and baskets to and from dining room, service bar, and the kitchen about 30 times per shift. Must be able to speak clearly and listen attentively to employees and dining room staff. Ability to wear protective hand coverings through entire shift. Ability to work with disinfectant cleaning supplies throughout entire shift. Ability to wear protective face coverings and/or masks through entire shift. Ability to frequently wash hands with disinfecting soap throughout shift.\n  For a copy of Flynn Restaurant Groups Workplace Privacy Notice, please visit http://www.flynnrestaurantgroup.com/workplace-privacy-notice/. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.\n  \n  Brand: Applebee's \n  Address: 39139 Farwell Dr Fremont, CA - 94537 \n  Property Description: 2154 - Farwell Drive - Fremont, CA \n  Property Number: 2U23\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Four Points San Jose Airport | Crestline Hotels and Resorts",
+  "location": "San Jose, CA 95112",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=d48b233fae1c0b4f&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "d48b233fae1c0b4f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:08.781Z",
+  "description": "\n Overview:\n  The Restaurant Server will take food and beverage orders, retrieve and serve alcoholic, non-alcoholic beverages and food orders to guest tables according Hotel specifications, courteously and efficiently. He/she will collect payments and assist in the maintenance of the Restaurant area and equipment.\n \n  Key Duties & Responsibilities: \n \n  Check with customers to ensure that they are enjoying their meals and take action to correct any problems.\n   Collect payments from customers.\n   Write patrons' food orders on order slips, memorize orders, or enter orders into computers for transmittal to kitchen staff.\n   Prepare checks that itemize and total meal costs and sales taxes.\n   Take orders from patrons for food or beverages.\n   Check patrons' identification to ensure that they meet minimum age requirements for consumption of alcoholic beverages.\n   Serve food or beverages to patrons, and prepare or serve specialty dishes at tables as required.\n   Present menus to patrons and answer questions about menu items, making recommendations upon request.\n   Clean tables or counters after patrons have finished dining.\n   Prepare hot, cold, and mixed drinks for patrons, and chill bottles of wine.\n   Roll silverware, set up food stations or set up dining areas to prepare for the next shift or for large parties.\n   Inform customers of daily specials.\n   Stock service areas with supplies such as coffee, food, tableware, and linens.\n   Explain how various menu items are prepared, describing ingredients and cooking methods.\n   Prepare tables for meals, including setting up items such as linens, silverware, and glassware.\n   Remove dishes and glasses from tables or counters, take them to kitchen for cleaning.\n   Assist host or hostess by answering phones to take reservations or to-go orders, and by greeting, seating, and thanking guests.\n   Perform cleaning duties, such as sweeping and mopping floors, vacuuming carpet, tidying up server station, taking out trash, or checking and cleaning bathroom.\n   Bring wine selections to tables with appropriate glasses, and pour the wines for customers.\n   Perform food preparation duties such as preparing salads, appetizers, and cold dishes, portioning desserts, and brewing coffee.\n   Escort customers to their tables.\n   Garnish and decorate dishes in preparation for serving.\n   Fill salt, pepper, sugar, cream, condiment, and napkin containers.\n   Describe and recommend wines to customers.\n   Provide guests with information about local areas, including giving directions.\n \n \n  Education and Experience:\n \n   High School Graduate or General Education Degree (GED): or Work Equivalent.\n   Must have good understanding of the English language and previous guest/customer relations experience.\n   Certification of previous training in liquor, wine and food service preferred.\n   Must be TIPS, CARE (or equivalent) certified, or become certified by first day on the job.\n   Ability to input and access information in the property management system/computers/point of sales system.\n \n \n  Crestline Hotels & Resorts is an Equal Opportunity Employer/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, sexual orientation, gender, identity, or disability status.\n  \n  Brand: Four Points San Jose Airport \n  Address: 1471 North 4th Street San Jose, CA - 95112 \n  Property Description: Four Points San Jose Airport \n  Property Number: 170\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Hilton Garden Inn San Jose | InnVentures",
+  "location": "101 E Gish Rd, San Jose, CA 95112",
+  "rating": 3.4,
+  "reviewsCount": 50,
+  "url": "https://www.indeed.com/rc/clk?jk=d4454d429641af75&fccid=67a58a418056af88&vjs=3",
+  "id": "d4454d429641af75",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:09.643Z",
+  "description": "\n Looking for an amazing AM server to join our Food & Beverage team!\n  OUR STORY:\n  If you are looking for a career where you feel supported, then apply now! InnVentures has a reputation for offering a compassionate, caring and fun workplace. Our culture is sustained by service-oriented employees who care about each other, our guests and the communities where we live. We currently manage 40+ Marriott, Hilton, Hyatt and IHG brand hotels in 10 states.\n \n  We only have 3 rules at InnVentures. (We can teach you the rest!) \n Rule #1 Do everything you can for the customer!\n  Rule #2 Bring a good attitude to work with you every day and take pride in your work!\n  Rule #3 Have FUN!\n  \n WHY WORK AT ONE OF OUR HOTELS?\n \n   Fun, team-oriented environment\n   Full-time and part-time positions available to meet your needs\n   Great opportunities for growth\n   Community Involvement\n   Discounted hotel stays\n   Recognition and awards\n   Paid time off\n \n \n  BENEFITS:\n  We offer eligible employees a number of benefits to enhance their health and well-being:\n \n   Group insurance, including medical, dental, vision and company-paid life insurance\n   Paid time off including vacation days, sick leave and holidays\n   Company-matched 401(k) plan \n  Voluntary benefits including short term disability, accident, life and critical illness\n   Life enrichment benefits including hotel benefits, leadership development program and more!\n \n \n  JOB OVERVIEW - RESTAURANT SERVER:\n  Apply your passion for food and your attentive personality to create memorable guest experiences! As a Server, your role is to ensure our guests enjoy a quality dining experience that will allow them to be productive and stay strong when they are away from home. Your ability to deliver an extraordinary food experience combined with hospitable, attentive service is essential to building guest loyalty.\n \n  A TYPICAL DAY:\n \n   Serve restaurant and room service guests attentively and efficiently.\n   Maintain complete knowledge of the menu and be flexible and creative to meet guest requests.\n   Apply problem solving skills to resolve guest issues to their satisfaction.\n   Complete guest orders and accurately collect payments.\n   Assist with quality, cleanliness and organization of the restaurant and kitchen.\n   Assist with inventory, ordering and receiving of all food and beverage items.\n   Support the goals of the hotel through teamwork and collaboration with all departments.\n \n \n  REQUIREMENTS:\n  Previous food handling, fast food or serving experience is required. You must be able to obtain a Food Handlers Permit and some positions require an Alcohol Server's Permit. To be successful in this role, you need strong verbal and written communication skills. You must be able to read, write, type and use basic technology. This job requires you to stand and move around for an entire shift and you also must be able to lift at least 25 pounds. Applicants must be available to work evenings, weekends and holidays.\n \n  POTENTIAL CAREER PATH:\n  Food & Beverage Supervisor Food & Beverage Manager\n \n  InnVentures IVI L.P. is an Equal Opportunity Employer and maintains the policy of recruiting and retaining the best-qualified personnel who demonstrate the ability to perform competently and work well with others. It is the policy of InnVentures to provide equal employment opportunity regardless of race (including traits historically or culturally associated with race, such as hair texture and protective hairstyles), religion (including religious dress and religious grooming), color, age (40 and over), genetic information, disability (mental and physical), medical condition (as defined under state law), national origin (including language use restrictions and possession of a drivers license issued under section 12801.9 of the California Vehicle Code), ancestry, sex (including gender, gender identity, gender expression), sexual orientation, marital status, familial status, parental status, domestic partner status, citizenship status, pregnancy (including perceived pregnancy, childbirth, lactation, or pregnancy-related conditions), military caregiver status, military status, veteran status, or any other status protected by federal, state, or local law. This policy of nondiscrimination is applied to all aspects of the employment relationship. The Company complies with the Americans with Disabilities Act (ADA) and applicable state and local laws in ensuring equal opportunity and employment for qualified persons with disabilities. We also consider qualified applicants with criminal histories, consistent with legal requirements.\n  \n  Brand: Hilton Garden Inn San Jose \n  Address: 101 E Gish Rd San Jose, CA - 95112 \n  Property Description: 3E6 - Hilton Garden Inn - San Jose \n  Property Number: 3E6\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server Assistant",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Vi Living",
+  "location": "Palo Alto, CA 94304",
+  "rating": 4.3,
+  "reviewsCount": 214,
+  "url": "https://www.indeed.com/rc/clk?jk=8a33d7e1cae97ee5&fccid=2d9210c22ee7be2c&vjs=3",
+  "id": "8a33d7e1cae97ee5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:11.534Z",
+  "description": "\n\n Vi is recognized as a Great Place to Work and one of Glassdoor's 100 Best Companies to work for. Learn from the best and accelerate your Server Assistant career with Vi. \n What We Offer: \n \n  Competitive pay \n  Exceptional benefits \n  Generous Paid Time Off - start accruing on day one \n  401k with company match \n  Paid maternity and paternity benefits \n  Award-winning training and development \n  Tuition Reimbursement \n  Luxury work environment \n  Meaningful and rewarding work \n \n Server Assistant \n The enthusiastic team player we seek will assume a variety of dining room tasks, including assisting food servers. Additional responsibilities may include assisting with setting up, decorating and clean-up of special events and private parties.\n  \n \n Requirements\n  \n  \n   Qualified applicants will be friendly and engaging individuals who are highly reliable and present themselves courteously and professionally. \n   Previous restaurant and/or customer service experience is preferred with the ability to use a Point of Sale (POS) system. \n   While a GED/High School diploma is preferred, it is not required for this position. \n  \n  Create your own story. \n  Something inspiring is happening at Vi, a continuing care retirement community. There's real energy and enthusiasm, genuine warmth and approachability. And a deep sense of respect and family that's impossible to ignore-between our residents and our staff and, perhaps more importantly, between our team members. Part of a fulfilling career is not just doing work you love, but doing it alongside (and for) people you admire and grow to love. This is the Vi story. How will your story unfold? \n  Bring life to your career. \n  \n  Equal Opportunity Employer-minorities/females/veterans/individuals with disabilities/sexual orientation/gender identity \n  Keyword Tags: Server Assistant, Senior Living, Healthcare, Nursing Home, Hospice, Assistant Living \n \n Compensation: \n $18.43 - $21.19\n  Location Address\n  620 Sandhill Road, Palo Alto, California 94304\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=8a33d7e1cae97ee5&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXh5vo57ixd6_MO_xDrJ3Bh8psjbKTpre7P5gvPU7rdPPQ&vjfrom=serp&astse=1e69d85832513fc2&assa=1200",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Buca di Beppo Server - CA",
+  "salary": null,
+  "jobType": null,
+  "company": "Buca di Beppo Campbell",
+  "location": "Campbell, CA 95008",
+  "rating": 3.3,
+  "reviewsCount": 816,
+  "url": "https://www.indeed.com/rc/clk?jk=369cbb0e7cbc7d08&fccid=48e3104a16f64333&vjs=3",
+  "id": "369cbb0e7cbc7d08",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:12.939Z",
+  "description": "With locations from New York City to Honolulu, Buca di Beppo restaurants embody the Italian traditions of food, friendship and hospitality. Dishes enjoyed for generations in villages throughout Italy inspire the menu, which features both Northern and Southern Italian favorites. While the food has pleased millions of palates from coast-to-coast, Buca di Beppo is equally famous for its quirky décor and upbeat atmosphere. \n\n At Buca di Beppo, we consider our employees, Family, and we are looking to expand our family with only the most sincere and enthusiastic family members. The quality and integrity of the Buca family is the catalyst for commitment to the service of guests. Buca di Beppo is one of the most vibrant restaurant companies in the country, with the vision to be the first choice for Celebratory Dining. The Buca Mission is to provide every guest with an over the top celebratory experience by delivering vibrant Italian food in an eclectic vintage setting. \n\n The Server contributes to the success of Buca di Beppo by serving the Guests within the restaurant. The Server’s responsibility is to serve Guests in a friendly, sincere manner and to do “whatever it takes” to insure a vital, vibrant, and powerfully flavored Guest dining experience. \n\n ESSENTIAL FUNCTIONS \nReasonable Accommodations Statement \nTo perform this job successfully, an individual must be able to perform each essential duty satisfactorily. Reasonable accommodations may be made to enable qualified individuals with disabilities to perform the essential functions. \n\n Essential Functions Statement(s) \n\n \n Run food – any food that is up whether it is yours or another family member. \n Warmly greet and pitch your Guests in a friendly and sincere manner. \n Effectively merchandise food and beverages in an informative, friendly, and enthusiastic manner. \n Record orders, place accurate orders, and monitor the timing of the dining experience. \n Ensure quality food and beverages for your Guests. \n Upsell and suggestive sell at every opportunity. \n Present accurate bills, collect proper payment, and secure payment until you cash out. \n Pre-bus and reset tables. \n Follow the Ten Points of Difference and Guest Standards of Execution as described in the Server Workbook. \n Anticipate and exceed your Guest’s expectations \n Work as a team and use positive communication skills at every opportunity. \n Clean, stock, and maintain workstation throughout the shift. \n Follow all safety and sanitation policies. \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Customer Service",
+  "salary": null,
+  "jobType": null,
+  "company": "PizzaHut,LLC",
+  "location": "San Jose, CA 95127",
+  "rating": 3.5,
+  "reviewsCount": 34138,
+  "url": "https://www.indeed.com/rc/clk?jk=a00e47393b53e29e&fccid=88df21fa0b5d07c4&vjs=3",
+  "id": "a00e47393b53e29e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:14.678Z",
+  "description": "Working at Pizza Hut® is about making hungry people happy. It’s about being independent and having fun, making new friends and earning extra cash. As a Pizza Hut team member, you can be the smiling face that greets and serves the customers or a cook who make things happen in the kitchen. Working with us will give you the financial rewards and flexibility to suit your lifestyle. You’ll learn new things, get recognized for your efforts and learn skills that last a lifetime. \nThe good news is that your training will teach you everything you need to know to succeed on the job. But there are a few skills you should have from the get-go: \nYou’re a fun and friendly person who values customers and takes absolute pride in everything you do. Communication skills are key – you’re not going to be able to text message customers back and forth. In other words, you should be comfortable talking to strangers. You’ve got attitude - the right kind of course - and understand the need to be on time, all the time. With loads of energy, you understand that work is easier – and more fun – with some teamwork. And you’re at least 16 years old (Applicable locations) \nKeep in mind, this is just basic information. You’ll find out more after you apply. And independently-owned franchised or licensed locations may have different requirements. We’ve got great jobs for people just starting out in the workforce, looking for a flexible second job or staying in the workforce after retirement. If you want a fun, flexible job with an innovative company, look no further than Pizza Hut. Apply today!",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Black Bear Diner",
+  "location": "Sunnyvale, CA 94087",
+  "rating": 3.4,
+  "reviewsCount": 592,
+  "url": "https://www.indeed.com/rc/clk?jk=deb2241819c9f06f&fccid=497336d1b7c96087&vjs=3",
+  "id": "deb2241819c9f06f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:18.012Z",
+  "description": "Welcome and greet guests. Make all our guests feel comfortable and let them know you’re there to personally take care of them. \nInform guests of specials and feature items. \nAnswer questions about our food, beverages and other restaurant functions and services. \nTake food and beverage orders from guests, enter orders in our point-of-sale system. \nDeliver food and beverages to guests in a timely matter. \nRun food orders from the pick-up window promptly regardless of which server placed the order. \nPerform side work at the start and end of each shift as assigned. \nMaintain clean service areas. \nMonitor and observe guests dining experience. Ensure guests are satisfied with the food and service. Respond promptly and courteously to any requests. Pre-bus tables frequently. \nPrepare bill and present check to guest at appropriate point in service sequence. \nClean and reset tables promptly. Clean chairs, booths, and surrounding carpet. \nBe ready and willing to assist fellow servers as situations arise. \nThank guests for their visit and invite them to return. \nBe available to fill in as needed to ensure the smooth and efficient operation of the restaurant as directed by the restaurant manager or immediate supervisor. \n\n 6 Months experience preferred. \nMust deliver exceptional service. \nPossess verbal and language skills to understand and communicate with guests. \nMust have a basic knowledge of dining room and service procedures and functions. \nPossess basic math skills, operate a point-of-sale system, and have the ability to handle money. \nBe able to work in a standing position for long periods of time. \nBe able to safely lift and easily maneuver plates of food, as well as supplies weighing up to 10 pounds.",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Take Out Server",
+  "salary": null,
+  "jobType": null,
+  "company": "The Counter Burgers",
+  "location": "San Jose, CA 95128",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=ba1fba911d2cbc53&fccid=eedbfa817037e137&vjs=3",
+  "id": "ba1fba911d2cbc53",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:49.922Z",
+  "description": "We have a busy Take Out counter and looking for people to focus in this area. They manage the counter, take order and ensure accuracy and proper packaging. \n\n If you are looking for server, waiter, wait staff, runner, etc. apply to this job. \n\n Requirements/Responsibilities \n\n \n Prior experience is preferred but not required. We will train the right candidate. \n A warm and outgoing personality with a passion for food and customer service \n Punctual, patient, and mindful \n Working knowledge of and experience with POS is desirable \n Excellent people skills and the ability to remain calm under pressure \n Good team player \n The ability to multi task and work well in a high volume work environment \n Fluent in English and proficiency in other languages is a plus \n Must have valid or be able obtain a food handler card in first 30 days \n Special Instructions \n\n Please do not send any emails, resumes, or call. \nWe are making it really easy to apply for this position. \n\n Simply submit a ZippyApp application package which may include the Common Employment Application, Resume, and a Cover Letter. In your Cover Letter, please write a short paragraph describing yourself and why you would make a great addition to our team. \n\n ZippyApp is the Common Employment Application for online and mobile that allows you to apply for jobs with one click, and is being accepted at a growing number of businesses each day.",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "$15 - $18 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "FD OPCO LLC",
+  "location": "61 Curtner Ave, San Jose, CA 95125",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CnvnrZV6i1JGX1yqycrBVKxG_QbmFGo1hJvaAPDrdCVXFep_DRvpA8E20s5cqZnuuHewIQZ8UtE7NAJY6oCaIg9SfIMksR7I8fcI-xLVvC7bAzrkaZJgYr9VR0kBV1aFgl0sC96ZWyMdI4me1tjVYqaSgeAsL7sQACaYgZV3Cu_ykNf3UugvNe3mDoPJ9Un7t9BZaplCWkQ_l8AJfydVixobhBu7joZWtCSlXBhK2YF-DGTOC4dKUHKrHzaiqiAxYCMcwH9QLHnunwiTWpbEhDJnEOwWbNKXTEC-MeyQQo7KFNQxUbUHdXJ_c319nQ2ZLgVHYVAn7xAzgBm36bdY0VJbFKLN5Eete6V6yDdMSJRrp04VXwNKSS6128c9yatK8cRKH6CstuDuRGQcyrb9Wg2oIYfag4G7g4jnzJ1uOwvlqb4gIqEfmKypIF1-71nJYI238H4sYb2tjVzqFNg7mis6e8qVj2MbGX4diGu756KfLVf70aFjBCH92YIIxl4aY=&xkcb=SoCQ-_M3WvCyuD2bBZ0PbzkdCdPP&p=13&fvj=1&vjs=3",
+  "id": "bca22dc2c6cefe5b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:21.950Z",
+  "description": "Server\nCome join the longest-running backyard BBQ in history! \nFamous Dave's is seeking servers who are passionate about food and are enthusiastic about providing an exceptional dining guest experience. We are looking for highly motivated servers who can bring high energy while thrive in a fast-paced working environment.\nAbout the Role\nWe are looking for servers who pride themselves on providing the perfect guest dining experience! Servers are responsible for providing excellent guest service by engaging the guest, describing food/beverage, taking orders, efficiently delivering food, and accepting payment.\nResponsibilities of this role include but are not limited to:\n\n Create an atmosphere of happiness and a sense of community for our guests\n\n\n Inform guests of specials and/or promotions, answer questions and make suggestions when asked\n\n\n Use up-selling techniques with every guest to enhance the dining experience\n\n\n Address guest concerns and inform the manager\n\n\n Assist in keeping the restaurant clean and safe\n\nBenefits at Famous Dave's \nFamous Dave’s offers its team members the following benefits\n\n Employee meal discounts\n\n\n Career advancement opportunities\n\n\n Flexible work schedules\n\n\n Additionally, full time employees will receive:\n\n\n 401(k)\n\n\n 401(k) matching\n\n\n Dental insurance\n\n\n Employee discount\n\n\n Flexible schedule\n\n\n Health insurance\n\n\n Life insurance\n\n\n Vision insurance\n\nJob Types: Full-time, Part-time\nPay: $15.00 - $18.00 per hour\nBenefits:\n\n Dental insurance\n Flexible schedule\n Health insurance\n Paid time off\n Vision insurance\n\nRestaurant type:\n\n Bar\n Casual dining restaurant\n\nShift:\n\n 8 hour shift\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nApplication Question(s):\n\n Are you 18+ years old?\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server Assistant",
+  "salary": null,
+  "jobType": null,
+  "company": "Graduate Hotels",
+  "location": "Palo Alto, CA 94301",
+  "rating": 3.5,
+  "reviewsCount": 84,
+  "url": "https://www.indeed.com/rc/clk?jk=33dbd8ea686c5637&fccid=a71d37cb88532e27&vjs=3",
+  "id": "33dbd8ea686c5637",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:22.700Z",
+  "description": "Graduate Hotels® is seeking a Server Assistant to join Graduate Palo Alto and its brilliant team of hospitality enthusiasts. \n\n Graduate Hotels creates authentic, spirited spaces that connect travelers, students and locals alike. Through thoughtfully curated design, creative F&B and community-focused events, we create hotels worthy of their communities. \n\n We are a diverse team of experience makers and storytellers. As a Graduate Hotels team member, you are the local insider shaping guest experiences. Our goal is to make every guest feel like a local even if it's their first time in town. In order to help you deliver on that goal, we encourage our team members to embody the same mindset as our guests through Graduate experiences and encouraged community exploration. \n\n Graduate Hotels is proud to be Great Place to Work-Certified™ , proving that our associates feel our commitment to cultivate a culture of inspirational and supportive leadership. \n\n JOB DUTIES AND RESPONSIBILITIES \n\n Greet and welcome our guests \nCheck the service stations and tables to ensure accurate set-up and cleanliness \nAssist the restaurant dining services (if necessary), when and where appropriate \nPerform all necessary sidework , setup, and breakdown of the bar \nFollow uniform and grooming specifications \n\n Clean and change trash cans, fill and clean ice bins, stock beer, wine, juice, and other beverages \nClean shelving, stainless steel, mixers, cups, blenders, and soda guns \nUnpack deliveries, stock bar and change beer kegs \nClean glassware and china in an efficient fashion \nRestock bar during service at request of bar staff \n\n Other duties as assigned \n\n EDUCATION AND EXPERIENCE \n\n 1 year of experience in a similar or supportive role is preferred \nFood Handler and Alcohol Awareness Certification (if applicable) \n\n Able to prioritize multiple tasks in a dynamic environment \n\n KNOWLEDGE, SKILLS AND ABILITIES \n\n Able to work flexible hours and shifts \nAbility to communicate effectively verbally \n\n Team player \nAbility to multi-task \n\n About Graduate Hotels® \n\n Graduate Hotels is a hand-crafted collection of hotels that reside in dynamic university-anchored towns across the country. Each hotel pays homage to the heritage of its unique town through cultural nods to the local community. Launched in 2014, there are 3 5 hotels across the U.S. and U.K . Graduate Hotels is owned by Adventurous Journeys (AJ) Capital Partners, a vertically integrated real estate developer, owner and operator. For more information on Graduate Hotels, please visit www.graduatehotels.com . \n\n \n \n Graduate Hotels is an Equal Opportunity Employer. \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=33dbd8ea686c5637&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj6jseNF7isQGr6qHFFqco5XEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=804d8f432208bce0&assa=1611",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "From $16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Bill's Cafe",
+  "location": "Fremont, CA 94538",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Silicon-Valley-Hospitality-Group/jobs/Server-4cabdbc7acd3896a?fccid=34076a12d0dbdde4&vjs=3",
+  "id": "4cabdbc7acd3896a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:23.698Z",
+  "description": "Our restaurant is in search of an energetic and friendly server to join our growing team. The ideal candidate will have a strong understanding of customer service, possess the ability to support a fast-paced environment and be comfortable working with food. A successful candidate will be able to effectively communicate with customers and enjoy working at an organization dedicated to satisfying all of its customers' needs while maintaining catering and customer service standards.\nResponsibilities:\n\n Check customers' identification cards.\n Follow specific rules for preparing and serving alcoholic beverages.\n Prepare cold food items.\n Take and relay food orders from customers.\n Learn the ingredients of various dishes, how to mix them, and how to serve them properly.\n Learn the ingredients of various alcoholic beverages, how to mix them, and how to serve them properly.\n\nJob Types: Full-time, Part-time\nPay: From $16.00 per hour\nBenefits:\n\n Dental insurance\n Employee discount\n Flexible schedule\n Food provided\n Health insurance\n Paid sick time\n Paid time off\n Paid training\n Referral program\n Vision insurance\n\nRestaurant type:\n\n Casual dining restaurant\n\nShift:\n\n Day shift\n Morning shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Fremont, CA 94538: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Food Server",
+  "salary": "$20 - $24 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Odori Sushi and Teppanyaki",
+  "location": "Palo Alto, CA 94306",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Odori-Sushi-&-Teppanyaki/jobs/Food-Server-04b813b78182b73a?fccid=ccba6bd850a900c1&vjs=3",
+  "id": "04b813b78182b73a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:25.375Z",
+  "description": "Responsibilities\n\n Take customer orders in a professional manner\n Memorize the menu for on-demand recitation\n Suggest additional menu items, such as desserts and drinks, when appropriate\n Oversee customer orders and dietary needs with cooking staff\n Ensure that each table is fully stocked with napkins, condiments, and other supplies\n Deliver food and drinks to customer tables\n Answer customer questions regarding service, food preparation, and/or other related concerns\n Clean tables after each customer is finished/ prepare tables for new customers\n Bill customers and collect payment\n\nQualifications\n\n Great organization skills and attention to detail\n Ability to provide friendly customer service in a fast-paced environment\n Ability to lift up to 25 lbs\n Willingness to work weekends, evenings and holidays as required\n Capable of working well under pressure\n Able to learn quickly on the job\n\nJob Types: Full-time, Part-time\nPay: $20.00 - $24.00 per hour\nShift:\n\n 10 hour shift\n 12 hour shift\n 8 hour shift\n Day shift\n Evening shift\n Morning shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "$16 - $24 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time",
+    "Temporary"
+  ],
+  "company": "TianFuXiang Hot Pot",
+  "location": "Cupertino, CA 95014",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/TianFuXiang-Hot-Pot/jobs/Server-a7028b327e3864a9?fccid=1d91d894d7b356e0&vjs=3",
+  "id": "a7028b327e3864a9",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:26.497Z",
+  "description": "Server\nSalary\n$16.4 - $ 26 an hour\nPlus tips around $45 per hour\nJob Type\nFull-time\nPart-time\nThe Server provides table service to restaurant patrons by taking orders for food and beverages, delivering orders to the table, and ensuring that patrons have a pleasant dining experience.\nRequirements\n\n Excellent interpersonal and customer service skills\n Hardworking, professional dedication, strong interpersonal communication skills, and strong teamwork spirit\n Well-organized with ability to take and place food and beverage orders accurately\n Ability to operate point-of-sale systems\n Obtain the California Food Handler Certificate\n\nBenefits\n\n Provides employees discounts to dine at all TianFuXiang locations\n Provides medical insurance to qualified full-time employees\n Provides Birthday gift and celebration\n\nResponsibilities\n\n Ensure that all guests are greeted in a timely, friendly, and professional manner\n Ensure the table is clean and that utensils, napkins, and other needs have been provided and anticipate guest's needs prior to them asking\n Maintain in-depth menu knowledge to answer questions and make order suggestions and ensure customers are able to navigate the menu system\n Deliver food, beverages, condiments and other as requested by customers\n Ensures that food is prepared correctly and to customers satisfaction; returns incorrect or improperly cooked orders to kitchen\n Provide relevant and exceptional service to customers to ensure their satisfaction\n Be a team player, assisting co-workers whenever needed to ensure customer satisfaction.\n Prepares customers checks and collects payments.\n Assists with other restaurant tasks such as cleaning the dining area and preparing silverware and condiments.\n Performs other related duties as assigned.\n\nEducation / Qualifications\n\n California Food Handler Certificate\n Previous server experience is preferred\n Fluent in English. Mandarin and/or Spanish is a plus\n\nPhysical Requirements\n\n Ability to lift, carry, deliver and/or serve items weighing up to 20-40 pounds throughout an eight-hour shift\n Ability to balance serving tray when transferring for food order\n Ability to stand and walk continually throughout an eight-hour shift\n Ability to bend, stoop and reach for products and items\n Ability to work to various temperature environment, for example low temperature in the refrigerator and high temperature in the cooking area\n Ability to work in loud areas, for example, loud noise from the dishwasher machine\n Visual acuity to see restaurant menus, take customer orders, review customer bills and smoothly navigate dining room, kitchen and other facility areas\n Ability to attend work as scheduled, working various schedules and shifts throughout normal business hours\n\nJob Types: Full-time, Part-time, Temporary\nPay: $16.00 - $24.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n\nShift:\n\n 8 hour shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server/Bartender",
+  "salary": "$16 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Ambrose Butchery",
+  "location": "Fremont, CA 94536",
+  "rating": 3,
+  "reviewsCount": 2,
+  "url": "https://www.indeed.com/company/Ambrose-Butchery/jobs/Server-Bartender-c2039257034dc95d?fccid=633e304bf2c84d56&vjs=3",
+  "id": "c2039257034dc95d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:27.301Z",
+  "description": "We are looking for an enthusiastic server/bartender to provide an excellent guest drinking experience. Servers will be able to create classic and innovative drinks exceeding customers’ needs and expectations. Compensation includes hourly and tips.\nResponsibilities\n\n Prepare alcohol or non-alcohol beverages for bar and restaurant patrons\n Interact with customers, take orders and serve food and drinks\n Assess customers’ needs and preferences and make recommendations\n Mix ingredients to prepare cocktails\n Check customers’ identification and confirm it meets legal drinking age\n Restock and replenish bar inventory and supplies\n Stay guest focused and nurture an excellent guest experience\n Comply with all food and beverage regulations\n\nSkills\n\n Resume and proven working experience as a server/bartender\n Excellent knowledge of in mixing, garnishing and serving drinks\n Computer literacy\n Positive attitude and excellent communication skills\n Ability to keep the bar organized, stocked and clean\n Relevant training certificate\n\nJob Types: Full-time, Part-time\nPay: $16.00 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Evening shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Cocktail Server",
+  "salary": null,
+  "jobType": null,
+  "company": "JIUBA CORP",
+  "location": "Santa Clara, CA",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=d16fd20816e00498&fccid=4c1bf3d9d478d3b7&vjs=3",
+  "id": "d16fd20816e00498",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:27.473Z",
+  "description": "\n Fine Dining Cocktail Waitress Job Description \n  Fine Dining Servers are waiters and waitresses in upscale restaurants. Patrons at these places expect a high level of service because of the prices they are paying for the eating experience. Fine Dining Cocktail Waitress work to provide exceptional levels of customer satisfaction. Hours for Fine Dining Cocktail Waitress vary according to when the establishment is open, and evening and weekend schedules are common. Like any waiter or waitress, Fine Dining Cocktail Waitress should expect to spend a great deal of time on their feet. They also need to be coordinated and sufficiently strong to move seamlessly around the area and carry items without incident. We are looking for an energetic, attentive Cocktail Waitress who is committed to providing a high-quality dining experience to our customers. The Cocktail Waitress’ responsibilities include speaking with customers, taking drink and food orders, making recommendations, processing payments, and ensuring that customers’ needs are met, and they have an excellent time. You should be a skilled multi-tasker with a passion for customer satisfaction and knowledge of wines, beer, and cocktails. To succeed as a Cocktail Waitress, you should be friendly, proactive, and efficient. Cocktail Waitresses should also be passionate about the food and drinks they serve and creating a fun, enjoyable experience for every customer.\n  \n  \n  Fine Dining Cocktail Waitress Duties and Responsibilities \n  To accomplish their goal of providing diners with an outstanding experience, Fine Dining Cocktail Waitress take on a variety of duties. Based on our analysis of several job postings, these are some of the most common Cocktail Waitress duties. \n  Learning the Menu \n  Fine Dining Cocktail Waitress must be experts on a restaurant’s offerings. When patrons inquire about food choices, Cocktail Waitress should be able to explain ingredients, preparation techniques and available substitutions. They know about daily specials or seasonal offerings not on the menu and convey information about these additional choices to the dining party. Cocktail Waitress also may offer suggestions to enhance the experience, such as which wine pairs well with a given entrée. \n  Handling Orders \n  Fine Dining Cocktail Waitress take food and beverage orders from customers, deliver written requests to the kitchen for preparation, carry items to the table in the proper order, help the bus staff as needed with the removal of finished plates, refill drinks and collect payment when the meal is over. \n  Providing Customer Service \n  Whether a food item isn’t up to satisfaction, a guest drops his fork and needs another one or the air conditioning is too cold, Fine Dining Cocktail Waitress rectify the problem. \n  Following Procedures \n  Upscale restaurants often have strict guidelines to keep operations flowing and service consistent. Cocktail Waitress are aware of these instructions and act accordingly. They also pay close attention to safety measures so that food does not inadvertently become contaminated or someone gets burned by a hot plate. \n  Training Others \n  Seasoned Fine Dining Cocktail Waitress often assume the responsibility of getting new hires up to speed.\n  \n  \n  Other Important Responsibilities: \n  Interacting with customers by taking their orders, making recommendations, providing them with accurate bills, serving them food and drinks, processing payments, and supplying them with whatever they need in a timely manner. \n  Handling multiple tables and tasks in an efficient manner. \n  Cleaning and clearing tables. \n  Assisting with opening and closing duties, such as preparing ingredients and restocking items, such as straws, napkins, etc. \n  Learning about food and beverages, such as wine, beer, and cocktails. \n  Taking inventory of supplies and ingredients. \n  Checking identification to ensure customers are the proper age to purchase alcoholic beverages. \n  Standing, walking, and carrying heavy trays of food and drinks. \n  Cocktail Waitress Requirements: \n  High School Diploma or equivalent. \n  Experience may be preferred, especially if serving beverages in a fine dining establishment. \n  Ability to walk, stand, and carry heavy trays. \n  A friendly, attentive attitude. \n  Knowledge of cocktails, beer, wine, and food. \n  Must be the minimum age to serve alcohol. \n  A passion for providing customers with high-quality service. \n  Compliance with all local, state, and federal liquor laws. \n  Willingness to work at peak hours, which may include evenings, holidays, and weekends.\n  \n  \n  Fine Dining Cocktail Waitress Skills \n  Good Fine Dining Cocktail Waitress embrace their role. They know their appearance, attitude and actions play a large part in creating a pleasant atmosphere. Thus, hiring managers search for candidates with these capabilities: \n  Looking well-groomed and neatly dressed consistently to reflect positively on the employer \n  Paying attention to detail, such as placing orders exactly to customer specifications \n  Listening carefully to determine the desires of patrons and act accordingly, such as figuring out the right level of pinkness for a steak. Maintaining politeness and positivity, especially when dealing with rude or disgruntled patrons. Multitasking in order to serve the needs of various diners at the same time \n  Interacting sufficiently with customers to build goodwill and attend to their needs, but also being sensitive about giving people their space\n  \n  \n  Fine Dining Cocktail Waitress Education and Training \n  Though no formal education is required, most Fine Dining Cocktail Waitress possess at least a high school diploma. A culinary or college degree, however, can impress hiring managers at upscale restaurants and increase the chance of landing a position. Employers also look at experience, so Cocktail Waitress sometimes work at less prestigious restaurants first in order to build their resumes. All Fine Dining Cocktail Waitress can expect plenty of on-the-job training to ensure they know exactly what to do to best represent the restaurant and provide a quality experience for diners.\n  \n  \n  Fine Dining Server Salary\n\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Bartender/Server",
+  "salary": "$17 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Spring Hill Suites by Marriott Belmont Redwood Shores",
+  "location": "Belmont, CA 94002",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Spring-Hill-Suites-by-Marriott-Belmont-Redwood-Shores/jobs/Bartender-Server-f8ff017b3a77c135?fccid=8e0d004e066a179e&vjs=3",
+  "id": "f8ff017b3a77c135",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:29.059Z",
+  "description": "OTO Development is pleased to announce a wonderful opportunity for a Bartender.\nWhat will you be doing most days?\n\n Greet customers in a timely manner\n Prepare a large amount alcohol and non-alcoholic beverages\n Interact positively with customers, take orders, and serve a variety of snacks and drinks\n Assess customers’ needs and preferences while making knowledgeable recommendations\n Check customers’ identification and confirm it meets legal drinking age\n Comply with all food and beverage regulations\n Operate cash registers, collect payments from customers, and return change\n Manage bar operation; including ordering and maintaining liquor and bar supplies\n\nWhat are the requirements for this position?\n\n You must be a minimum of 21 years of age in order to serve alcoholic beverages\n You have in-depth knowledge of alcohol and craft cocktail bars and possess strong mixology skills\n You can be on your feet for up to eight hours\n You can communicate effectively with guests and other associates\n You must be able to work a varied schedule that may include evenings, nights, and weekends.\n\nPhysical Requirements for this Position\nThis is a physically demanding position. You must be comfortable standing, sitting, walking, lifting, and squatting for extended periods of time.\nTravel Requirements\nThis position would require little to no travel.\nAbout OTO\nOTO Development (OTO) is a one of the fastest growing hotel management companies in the lodging industry. As an industry leader, OTO develops, owns, and operates award-winning select-service hotels in key markets across the U.S. with brand partners: Marriott, Hilton & Hyatt. For six years, OTO has ranked on INC. 5000's list of Fastest Growing Private Companies and in 2018 was certified as a high-trust, high-performance workplace by the independent analysts at Great Place to Work Institute. We would love for you to join our team!\nOTO provides competitive pay and benefit programs, including medical insurance options, dental and vison insurance, 401k with company match, company provided life insurance, tuition assistance, paid time off, paid holiday time, travel discounts, and more.\nJob Type: Full-time\nPay: $17.00 per hour\nShift:\n\n 8 hour shift\n Night shift\n\nWeekly day range:\n\n Every weekend\n Weekend availability\n\nAbility to commute/relocate:\n\n Belmont, CA 94002: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Food and Beverage Associate",
+  "salary": "$18.50 an hour",
+  "jobType": [
+    "Part-time",
+    "Temporary"
+  ],
+  "company": "California's Great America",
+  "location": "Santa Clara, CA 95054",
+  "rating": 3.6,
+  "reviewsCount": 285,
+  "url": "https://www.indeed.com/company/California's-Great-America/jobs/Food-Beverage-Associate-32fcb2038c7d7db4?fccid=424d4afe7478082b&vjs=3",
+  "id": "32fcb2038c7d7db4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:29.840Z",
+  "description": "Join the FUN and schedule an interview:  https://scheduleCGA.as.me/interview\nDon't miss out and attend last two hiring events for the 2022 Season!\nGroup Interviews: \n\n Saturday 12/3 - 10:45am-3:30pm\n Wednesday 12/7 - 2:45pm-5:15pm\n\nPlease apply online at: https://jobs.cedarfair.com/californias-great-america/jobs/14896?lang=en-us\nCalifornia's Great America is the Bay Area's backyard amusement park. It has always been a great place to visit and an even better place to work! If you are looking for a fun job and an opportunity to meet people from all over the Bay Area, then California's Great America is the place for you. We are looking for out-going, friendly, and enthusiastic people to provide guest services in a wide variety of exciting positions.\nCalifornia's Great America Associates enjoy:\n\n Seasonal and Part-Time opportunities\n Free admission and parking\n Employee discount on merchandise and food\n Earn free tickets for friends and family\n Flexible scheduling\n Advancement opportunities\n\nJob Description: \n\n Prepare food for distrubution to guests\n Take and distrubute food orders\n Conducts sale transaction on a cash register, cash handling\n Clean and sanitize assigned location, equipment, and utensils\n Adhere to safety procedures and follow instructions\n Other duties may be assigned\n Develop resume-building skills to help achieve your career goals\n Work in a welcoming and diverse environment\n Gain knowledge through training programs and work experience\n\nQualifications: \n\n Must be at least 16 years of age\n Ability to pass a mandatory (or random) drug test, per Company policy, unless prohibited by state or provincial law\n Must be able to work days, evenings, weekends, and holidays to meet business need\n\nJoin the FUN and schedule an interview:  https://scheduleCGA.as.me/interview\nJob Types: Part-time, Temporary\nPay: $18.50 per hour\nBenefits:\n\n Employee discount\n\nShift:\n\n Day shift\n Night shift\n\nWeekly day range:\n\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": null,
+  "jobType": null,
+  "company": "The Cheesecake Factory",
+  "location": "Santa Clara, CA 95050",
+  "rating": 3.8,
+  "reviewsCount": 5783,
+  "url": "https://www.indeed.com/rc/clk?jk=07c3fe7d0efc03b3&fccid=bbbd83274f4eef08&vjs=3",
+  "id": "07c3fe7d0efc03b3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:30.543Z",
+  "description": "\n Overview:\n \n   As a server, you’ll wow our guests with outstanding service and hospitality. Whether guests are celebrating a special occasion or just spending time with family and friends, our servers go the extra mile to make it memorable. You’ll help with menu selections, quickly refill beverages and ensure food arrives on time, always delivering warm and friendly interactions. Our busy restaurants mean consistent hours, flexible schedules and the opportunity to make a great income – as well as a lot of friends and memories along the way!\n \n  What we're looking for:\n \n   Excellent communication, hospitality, interpersonal and math skills\n   Skilled at reading the table and can anticipate your guests’ needs\n   Team player; you’re always willing to give and ask for help\n   Able to lift up to 35 lbs., and continuously bend, reach and twist; you’re constantly on the move!\n   At least six months experience as a server in a full-service restaurant (if you have less experience, consider Cashier or Barista / Baker)\n   Must be at least 18 years old\n \n  What we offer:\n \n   Flexible scheduling\n   Hospitality training\n   Health benefits including medical, dental and vision (after 25 hours/week average)\n   Paid time off (after 25 hours/week average)\n   Discounted shift meals\n   25% discount for your party when dining in as a guest\n   Work this week access 50% of your pay at no cost\n   Career growth opportunities\n \n \n  Our Safety Commitment:\n \n   The health and wellbeing of our staff, managers and guests is always our top priority. We follow all COVID-19 guidance from the CDC and local health departments.\n \n \n  Who we are:\n \n   Since 1978, we’ve been known for our legendary cheesecakes, upscale casual hospitality and fresh-from-scratch menu, but we’re most proud of being named to the Fortune 100 Best Companies to Work For® list since 2014. With 45,000 staff members across more than 300 restaurants – including The Cheesecake Factory, North Italia, Grand Lux Cafe, Social Monk and Fox Restaurant concepts – our people-centered culture offers something for everyone.\n \n \n \n   We are an equal opportunity employer. We are committed to creating an inclusive and welcoming workplace for all. We welcome applicants from a wide variety of identities, ideas, perspectives and experiences and encourage people from underrepresented backgrounds to apply. The Cheesecake Factory offers reasonable accommodations to job applicants with disabilities.\n \n \n \n   #SoCheesecake #LifeAtCheesecake\n \n \n  Compensation Range ..\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Private Events Server",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "1440 Multiversity",
+  "location": "Scotts Valley, CA",
+  "rating": 3.9,
+  "reviewsCount": 14,
+  "url": "https://www.indeed.com/rc/clk?jk=bb1e0d7c688d03d5&fccid=b96a15e4e281fd70&vjs=3",
+  "id": "bb1e0d7c688d03d5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:30.741Z",
+  "description": "Reports to: Banquet Manager - ProductionPosition - Private Event Server - On CallDivision: Food & BeverageFLSA: Nonexempt*Position Summary*\nReporting to the Banquet & Production Manager, the Private Event Server (the \"PES\") position will set the tone for 1440 Multiversity's private event food and beverage service by passionately modeling the organization's \"deep hospitality\" values of warm, relaxed, attentive, timely, and professional service that creates outstanding dining experiences for all guests. The PES role is responsible for setting, servicing and execution of all daylong coffee break service, evening beer and wine service, and all private receptions, dinners, and culinary events. This multi-faceted banquet/coffee break/server role is vital to the well-being of our program attendees, along with the uniquely creative campus-wide food and beverage offerings, educational classes and events.\nAccountabilities\n\n Deliver exceptional customer service for private events, breaks and evening gatherings consistently\n Prepare private event spaces and break areas for a variety of food and beverage related events\n Set, serve specialty coffees, fresh cold pressed juices, food items and select beer and wine\n Refresh all food and beverage service offerings throughout the day\n Experience working in a self-directed manner to provide attentive service for coffee breaks, beer and\n\nwine service stations and private culinary events such as multi-course dinners and tastings\n\n Working knowledge with banquet operations, event set-up and large event service expectations\n\n\n Ability to read Event Orders, anticipate guests' needs and provide timely and efficient service\n Follow fiduciary payment processing policies and procedures with 100% accuracy\n Ability to learn point of sale systems - previous experience a plus, but not required\n Ensure all guest service area and displays are clean, tidy, and organized\n Ensure guest seating and service areas are sanitized and always free from previous guest use\n Clean, sanitize, and maintain all utensils, equipment, furniture, and work areas to high standards\n Ability to work collaboratively with others for the benefit of the entire team\n Open and outgoing communication style with an emphasis on exceeding organizational goals\n Assist in requisition ordering, taking deliveries and stocking various outlets\n Ability to conduct and maintain consumption and inventory counts of guest products and supplies\n Willingness to cross-train in all food and beverage operations as needed\n Possesses skills and ability to deliver fine dining service and etiquette based on high standards\n Work well in a small team and individual settings under pressure and time constraints in waves\n Prepares event space for dining - clothing tables, setting tables, folding napkins, polishing glassware\n\nand place settings, placing decorations, establishing mise en place with extra items, etc.\n\n Ability to pace the dining experience - keep the culinary staff informed of meal progression and timing\n Provide an upscale dining experience - remove unused table settings, clear with each course, pre-bus\n\ntable without disrupting conversation, replenish utensils, refilling beverages, etc.\n\n Provide special attention to dining needs - transmit orders efficiently to culinary staff, inform others of special dietary needs and fulfill guest preferences with yes mindset\n Ability to retain menu knowledge and provide ingredient details/information to guests\n Ensure event details are correct on menus, signs, and other postings - check for accuracy\n Set-up and break down equipment and/or supplies for assigned work events, breaks and bars\n Ability to follow instructions as outlined in program briefs and event orders\n Attend pre-event or shift stand-up meeting to positively reinforce 1440 workplace culture\n Ensure cleanliness of storage, service, and dining areas, including but not limited to removal of dirty\n\ndishes and trash, mopping, cleaning glass, wiping tables, etc.\n\n Assist in cleaning, storage, and inventory of all dishes, glassware, and flatware used in food and\n\nbeverage outlets following the proper steps of service to ensure inventory is clean and stored properly\n\n Must be able and willing to learn different departments on campus for lateral support\n Efficiently and effectively resolve guest concerns and refer major concerns to proper personnel\n Must be able to follow safety, sanitation, and emergency procedures\n Must be able to check temperatures of freezers and refrigerators as well as heating equipment to\n\nensure proper functioning and safety\n\n Willingness to learn, adopt and consistently follow 1440's sequence of service standards sequence of\n\nservice for this position.\n\n Support all areas of the dining experience including but not limited to food running, serving, clearing dishware and trays from guests, breakdown station and cleaning process.\n Actively participate in plate-up to increase food knowledge when speaking to guests.\n Share ideas and solutions to improve food and beverage operations to enhance the guest experience\n Must be willing to learn and independently use the point-of-sale system in various outlets\n Other duties as assigned\n\nAAP/EEO Statement1440 Multiversity provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. In addition to federal law requirements, 1440 Multiversity complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\n1440 Multiversity expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of 1440 Multiversity's employees to perform their job duties may result in discipline up to and including discharge.\nJob Type: Full-time",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=bb1e0d7c688d03d5&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiqC5ngic7PFXsqnTURtSlhpsjbKTpre7P5gvPU7rdPPQ&vjfrom=serp&astse=c27c97334b51ad5c&assa=568",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server Assistant",
+  "salary": "$24.90 - $27.30 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Red Robin",
+  "location": "San Jose, CA 95130",
+  "rating": 3.5,
+  "reviewsCount": 5388,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CDQrFfXXp-8jB4TXLNRnwIXBkCOV7KfqfxY40XLoHMATUxbGyvnh3RfUdSntaiO8B3HlnGfz-o3karifCBw2nb5BW4XdIbEs4FEbizOUIwL2NbUt9zf1-79gqmvHEq2N7bV7NGye-I-U1cPQMHMwSP7chVP0-XduXScYZmvJQAEO7W1_YKk0fbSWU3KF75qNDk_uQxwxqhNGHoyZi3buHV96Fg-yAGbM7v-JTe_bIl6o-l9elbEeLbMNBRZMAnJNipW-93aaxT6XK9MZ4xoc92cwSRfmhjxw8w0E_XRGnJ92lEzBthM7r9oQ0aXMmGabYWeIlo42yZjrwVO6znqa0rF8NgzpfX3rG_J0ONEW08ALSMm-xiZWTQDtUYr1Y-E8Basw6OBRJLaO4-aRUh2DuZIzULl89OxZ3pPwOI2fr2gnEFfrcIPm_a-qbdzXkGsbIvCTUAHeFLN2DX93qrnkMMoOQWndtAmNxt2_VZbgZkOxYF_h8gnEtmqyrTQyc7aUYg_5YWVvFT2Btfb7rkwbhHKaqZa23fL3c_wb6rWdT3rDgHfGSWvml6dJpUCh61MBLEKByfs-wz6d6D2eb1iBdGzEjLYHs5070FaXUVQMrnYA==&xkcb=SoCf-_M3WvCyuA2bBZ0LbzkdCdPP&p=0&fvj=0&vjs=3",
+  "id": "c034bf62f7b9b64c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:32.113Z",
+  "description": "\n Pay reflects our current average PRE TAX earning range (base wage plus tips) and is not a guarantee.\n  Red Robin has always been committed to keeping our Team Members safe, but were taking extra measures to ensure that ALL Team Members can take the time they need to be well. Health Benefit Options (insurance) are available no matter how many hours you work each week. \n We have immediate opportunities available to join our team for anyone who is at least seventeen years old. (In New Hampshire, however, you must be at least 18 years old).\n  As a Team Member at Red Robin, youll enjoy:\n \n   Medical, Dental, and Vision benefits for ALL team members\n   EXCELLENT Opportunities to grow with us - over 40% of our Managers were hourly Team Members\n   Multiple opportunities for raises in your first year, and continued opportunities beyond\n   Flexible work schedule\n   Referral bonuses for bringing new members to our team\n   Eligible for 401(k) retirement plan (if qualified)\n   50% discount on Red Robin food and 25% for your family\n \n  Red Robin isn't your typical burger restaurant. Since the doors opened at our first location in Seattle in 1969, weve always been a team filled with unbridled energy, magnetic personalities, and a passion for having fun!\n  Now Hiring / Immediate Opportunities for Full Time and Part Time:\n \n   SERVICE PARTNER (SERVER ASSISTANT)\n \n  You will enhance our Guest experience by ensuring excellent presentation and quality before food is delivered. By joining in this team service role, you will support our Front of House / Service Team by delivering food and drinks to the Guests and assisting servers with table maintenance. This is a great starting point for future growth in our restaurants!\n  Our mission is clear: Make it fresh. Make it fun. Make it memorable. And above all, make 'em smile. Become a part of our team today!\n  Red Robin International, Inc & our independent franchisees each hire their own employees and establish their own terms and conditions of employment, which may differ from those described. We are an Equal Opportunity & E-Verify Employer who values having a diverse team in all we do. \n Red Robin is a full service restaurant concept that has growth opportunities in a casual dining restaurnat environment. #SourcingPro #22uv #rr259servicepartner #date113022\n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server - Santa Clara Chili's",
+  "salary": null,
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Chili's",
+  "location": "Santa Clara, CA 95051",
+  "rating": 3.6,
+  "reviewsCount": 11410,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B7ehb6fAhaot8A9lH1JW4TvxQf7kJuyypm5z5-jBjyYPAOXtyEi_qOb_z0_R6EjphEITrTDkK7HlAzh2s-2_SJc_9Opn-_iGZALNdwNvmG0R_owYuUdbo3fwkJAwkQVf4HziS_LPg9fbgThP-r4JlSgqou9evCH131_b3AS8PH_3FWv3zkFgHYxQOWN2M_TA6bNcD01yGd5934Qbb3xmLqMljoUmzfwdzHrcOpxZ5110O4ftCS1--J_I548okxcKR12M98BVbX0zWSKzNU8-rREUDyH7hIb0dJBLktRWu6zvwrmktuwBhiQlkMwfBAfbCnphmCJwTE0HdO1-0Mld372RrHvvfZqlLiOUVx_0gVZbbgmmaBhJB__LtOEZynsjnl3Ug8hoKo0htu1EzK-gjtfkjKOOLiH6s185sIgjdoo8_TEfsYc6Y5nwX6X7zUGpNH3gCcRGJyEFJd-fYOmDgEk0Xfy0oOUiNlCaA34N6spSgzsblSRhPT9V9ADbJpvDnK3PbH7TN-NRKk6EaT3HMwIpRAVE9MzVNRVa59WiXwKpWWYWMu8y0B&xkcb=SoA5-_M3WvC1SAWJcB0NbzkdCdPP&p=6&fvj=0&vjs=3",
+  "id": "59498cbefafb1ee3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:34.705Z",
+  "description": "\n Role Overview\n  \n \n   Our Servers don't just provide our Guests with amazing food and drinks. They deliver hospitality and service that is absolutely Chili's! If you take pride in providing great service and love making people feel special, then we want to hear from you!\n   \n  \n   Fast hiring process \n   Flexible part-time or full-time schedule \n   Growth opportunities \n   Great team atmosphere and culture \n  \n \n  \n Responsibilities\n  \n \n  \n   Provide hospitable and customized service to each of our Guests \n   Learn our menu to explain offerings to Guests \n   Perform opening and closing duties \n   Partner with other Team Members to ensure Guest satisfaction \n   Must be available to work some weekends, weekdays, and holidays as needed \n  \n \n  \n About Us\n  \n \n   Chili's was born in Dallas, Texas in 1975. Since then, we've boldly claimed our place in the casual dining industry as the place to go for Big Mouth burgers, house smoked ribs, full on fajitas, and hand shaken margaritas! With a legacy deeply rooted in service, hospitality, and giving back, we are committed to delivering the best experience to every Guest, every day.\n   \n \n  \n About You\n  \n \n  \n   Great attitude and approach to Guests and Team Members \n   Thinks and acts quickly in a fast-paced, high-volume environment \n   Provides a customized experience for every Guest \n   Prior experience a plus\n  \n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=59498cbefafb1ee3&from=vj&pos=bottom&mvj=0&spon=1&adid=381684057&ad=-6NYlbfkN0B7ehb6fAhaot8A9lH1JW4TvxQf7kJuyypm5z5-jBjyYPAOXtyEi_qOb_z0_R6EjphEITrTDkK7HlAzh2s-2_SJc_9Opn-_iGZALNdwNvmG0R_owYuUdbo3-FqRQHLmWTqP6Yk7JsZ7B5Lno1xE1dN2jmJb0FnOh2SbqkI5N99pHDqVT5Y1b4GUjIGfkC_NWEg5Fs5WH2ayXZUcErwbtcJ38GzEK-5509Z9yrp7LLk5XFhNm78cSWywvWrUy38Bt53tw-Ib4UBFbM3m7sunM5I94ilVWpthRA1cmvufstaeYKNV2BVy6TVtAiqvJIhMi_GDbsKy7elxtEq_G9yVDuEmwdRGO9eVBXM7VjK28bexFwOnHQFsXm6T&sjdu=i6xVERweJM_pVUvgf-MzubMKJRqk2_KaRaL3zosoApT7Lo-DD7H0OhN6d92W9CkACMlX7tBKwx3jNe4GnQsdH-cR8E8lC_Db5lz0A6m9TjlTHCxsVnccqA71B3xyK4qH&vjfrom=serp&astse=3e4b84c84ab89339&assa=4078",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server and Bartender",
+  "salary": "$14 - $17 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "BottleTaps",
+  "location": "Pleasanton, CA 94566",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DcwHYqmmdlrGEFn9JNZJuxb7fZXsP0wEP0Bqng2HGs8KEQPK0gDnzzrlsI9vgp5UxKE2gbASE4gEz8vd8jKrLKYe3zFkpgPZ67n8hjusglWfD1G5gn33Yzz1d6ycKiusROb3_d4ZCESTa7AYmqxnD3RXtZr11DJoQGCkth4Xqx0Vf_og0VTNrbbFI790f0cW0d4UYaP_N1Io0rUg_pR1NvjvCbDuUNe4LRrxIibrqJNB8x4s4C1RA1ybrtNW2W6yeo0l6S1SCbbAWuTrw9w9KW0HErmBS283u9jtqqMjksyXxxDO32dusdnwTvH82HFJRgmE6VSr4_qKbpkaskbA7lrLiLquBQCoNulX5ZConEFkRjNay3OxhHlBquZ4IKtgrQPPcwYkR4QO1z9a_-D0HJVX0QbwSPh7K0BioYqfuSegOuwbxo_3wYqRJzrWiLCw1MbSZXdU9ZKhB2ZyNUweJRmeuzYwo5k7_pvLB1oXU5qwWM6jqN9CKNOEGH239FXgpyr7FCTOSC1g==&xkcb=SoB7-_M3WvCw_MQldB0PbzkdCdPP&p=3&fvj=1&vjs=3",
+  "id": "7ca2a6a59156c723",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:36.545Z",
+  "description": "We are looking for reliable, experienced and enthusiastic server and shift manager candidates to join our to join our fun and close knit team. We are looking for someone with a love of beer, wine, food and a passion for ensuring a great customer experience. Best candidates will be able to sell, not just take orders. Should be flexible in schedule including weekend, evening and holiday shifts as needed. Shift managers should also have the ability to bartend, or serve as needed. Extra consideration given for candidates with previous shift lead, cicerone, beer judge and/or social media experience. Must be interested in expanding your beer knowledge. See link below for detailed job description and to apply, or reply to this ad with your resume.\nBottleTaps is the Tri-Valley's Premiere Craft Beer Taproom and Restaurant. BottleTaps is a family owned and operated taproom and bottleshop at the crossroads of Stanley and Bernal in Pleasanton. With 30 beers on tap and over 200 in our bottle cooler, in addition to mead, cider and kombucha, BottleTaps has the best selection in tri-valley. People rave about our food too. #1 Pub/Bar and #14 Restaurant in Pleasanton by Restaurant Guru (https://restaurantguru.com/BottleTaps-Pleasanton) as well as one of the Top 5 Restaurants in Pleasanton by the San Jose Mercury News and Best Sandwiches of the East Bay by Diablo Magazine. Check out our reviews on Google, Facebook and Yelp to see what people are saying.\nJob Types: Full-time, Part-time\nPay: $14.00 - $17.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n Paid training\n\nShift:\n\n Day shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Rotating weekends\n Weekend availability\n\nCOVID-19 considerations:Customers and staff are required to wear masks, all surfaces sanitized regularly, PPE available, social distancing of tables, etc.\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Banquet Server",
+  "salary": null,
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Massimo's Restaurant",
+  "location": "Fremont, CA 94538",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=41623c9c243da9a5&fccid=eedbfa817037e137&vjs=3",
+  "id": "41623c9c243da9a5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:41.478Z",
+  "description": "William Massimo Rinetti founded Massimo’s Italian Restaurant in 1976. Massimo’s opening was the realization of Bill’s lifelong dream of owning and operating a fine dining establishment. A second generation Californian whose grandparents emigrated from Sicily and the Piemonte region of Italy, Bill acquired his appreciation of cooking in the Italian style in the kitchens of his mother and grandmothers. It was there that his dedication to the finest ingredients, careful preparation, and attention to detail were learned. “Never compromise quality” became the hallmark of his restaurant. At Massimo’s, every dish reflected Bill’s dedication to offering his patrons the finest dining experience possible. Delicious food, elegant ambiance, and professional service became a tradition that is carried on today by his son, Bill Jr. \n\n The responsibility of a banquet server is to deliver welcoming service to create an outstanding experience. As a banquet server, the main duty is to be attentive, professional, and most importantly be in communication with lead banquet server at all times. They must perform a variety of tasks, which includes, food handling, keeping glasses filled, and event coordination. They are also responsible the set-up, and break down of events. If needed, banquet servers will arrange table placement for a buffet and set-up and break down a dance floor. Banquet servers will also take orders, if there are multiple meal choices. \n\n Banquet Server / Restaurant Server / Waiter / Waitress / Wait staff is generally offered as a part time restaurant job. \n\n Prior experience as a restaurant server, waiter, waitress, wait staff, host, runner or other foh, front of the house, restaurant part time job highly desirable. \n\n Requirements/Responsibilities \n\n \nBanquet Server Requirements:\n \n \n Must have excellent customer service, patience, and politeness \n Able to communicate in a professional and adequate manner \n Able to speak and understand English \n Team player-Being a team player is necessary \n Basic knowledge of food presentation, preparation, and handling \n Able to carry heavy trays (20-25lbs. at least) \n Able to work in a fast and professional manner \n Banquet Server / Restaurant Server / Waiter / Waitress / Wait staff is generally offered as a part time restaurant job. \n\n Prior experience as a restaurant server, waiter, waitress, wait staff, host, runner or other foh, front of the house, restaurant part time job highly desirable. \n\n Special Instructions \n\n Please do not send any emails, resumes, or call. \nWe are making it really easy to apply for this position. \n\n Simply submit a ZippyApp application package which may include the Common Employment Application, Resume, and a Cover Letter. In your Cover Letter, please write a short paragraph describing yourself and why you would make a great addition to our team. \n\n ZippyApp is the Common Employment Application for online and mobile that allows you to apply for jobs with one click, and is being accepted at a growing number of businesses each day.",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Willard Hicks",
+  "location": "Morgan Hill, CA 95037",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Willard-Hicks-Campbell/jobs/Restaurant-Server-e74f9859e4dd36cb?fccid=a4b787982de5b925&vjs=3",
+  "id": "e74f9859e4dd36cb",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:42.628Z",
+  "description": "We are looking for a competent Restaurant Server to take and deliver orders. You’ll be the face of our restaurant and responsible for our customers’ experiences. Food server responsibilities include ensuring our tables are clean and tidy when guests arrive, presenting menus and serving food and beverages. You need to be quick on your feet (literally and metaphorically) and have a polite and friendly attitude. If you enjoy talking to people and thrive in a fast-paced workplace, we’d like to meet you. Your ultimate goal will be to provide high-quality service that will help us maintain and attract customers. Adhering to Santa Clara County Covid-19 Guidelines.\nResponsibilities\n\n * Prepare restaurant tables with special attention to sanitation and order*\n\n\n * Attend to customers upon entrance*\n\n\n * Present restaurant menus and help customers select food/beverages*\n\n\n Take and serve orders\n Enter orders on POS\n\n\n * Answer questions or make recommendations for complementary products*\n\n\n * Collaborate with other restaurant servers and kitchen/bar staff*\n\n\n * Deal with complaints or problems with a positive attitude*\n\n\n * Issue bills and accept payment*\n\nSkills\n\n * Proven restaurant serving or waitering experience*\n\n\n * Hands-on experience in cashier duties*\n\n\n * Attention to cleanliness and safety*\n\n\n * Patience and customer-oriented approach*\n\n\n * Excellent people skills with a friendly attitude*\n\n\n * Responsible and trustworthy*\n\nJob Type: Part-time\nPay: From $15.00 per hour\nBenefits:\n\n Employee discount\n Flexible schedule\n Paid sick time\n Referral program\n\nRestaurant type:\n\n Casual dining restaurant\n\nShift:\n\n Day shift\n Night shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nCOVID-19 considerations:Mask optional while working. Curbside pick up available and common surfaces are sanitized regularly. Following Santa Clara County Covid-19 protocols.\nExperience:\n\n Restaurant experience: 2 years (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "CATERING ATTENDANT (FULL-TIME & PART-TIME)",
+  "salary": "$20 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Restaurant Associates",
+  "location": "Mountain View, CA 94041",
+  "rating": 3.8,
+  "reviewsCount": 241,
+  "url": "https://www.indeed.com/rc/clk?jk=94fbb0d941b49537&fccid=91aa196c1ad16459&vjs=3",
+  "id": "94fbb0d941b49537",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:43.948Z",
+  "description": "\n \n  Restaurant Associates \n  \n   We have an opening for both full-time and part-time CATERING ATTENDANT positions.\n    Location: TikTok Inc. - 250 Bryant St., Mountain View, CA 94041. Note: online applications accepted only.\n    Schedule: Full-time and Part-time schedules available. Monday through Friday. More details upon interview.\n    Requirement: Previous experience is preferred. \n   Perks: Weekends and holidays off!\n    Starting Pay: $20.00 per hour\n  \n   \n  This position is eligible for an Employee Referral Bonus! If you know someone that would be a great fit for this role, you can refer them to this position and potentially earn an Employee Referral Bonus! Click here to view the step-by-step instructions to refer a friend to this position. \n  \n  If you have a positive attitude and a love for learning, you may be interested in joining our team.\n   Be with the Best! Restaurant Associates, Innovators in culinary, hospitality, and well-being a name that has been synonymous with exciting restaurant concepts and high-quality culinary expertise. Celebrates its diamond anniversary of 75 years while looking forward to a bright future of growth, innovation, excellence, and purpose. R/A headquartered in New York City is the hospitality industry leader for some of the nation's premier museums, performing arts centers, catering and corporate accounts. We pride ourselves on our culinary heritage of \"firsts\", our dedication to quality, our passion for food, and our culture of CARE. If you share our belief in the value of delivering Superior Quality Food, Hospitality Excellence, and being part of a collaborative culture that engages our teams through enthusiasm and excitement around the business. We invite you to learn more about Restaurant Associates’ dynamic select team of professionals. Come share your talents with one of the nations’ fastest-growing, multi-million-dollar organizations – Voted Glassdoor Employee Choice Award Best Places to Work 2021.\n   Learn more about the innovative culture at Restaurant Associates\n   Full time associates at Restaurant Associates are offered many fantastic benefits such as:\n  \n    Medical\n    Dental\n    Vision\n    Flexible Spending Accounts (FSAs)\n    Commuter Benefits\n    Wellness Program\n    Employee Assistance Program\n    Life Insurance for Associates and Eligible Dependents\n    Short Term Disability (STD) and Long Term Disability (LTD)\n    Accidental Death & Dismemberment (AD&D) Insurance\n    Discount Marketplace\n    And other voluntary benefits\n  \n  \n   \n    \n      Job Summary\n    \n    \n       Summary: Delivers and serves food at scheduled functions under the supervision of the catering captain. Ensures the accurate execution of all events during his/her shift. May drive a catering delivery truck. Sets up and serves at functions; cleans event area during and after events; breaks down the setup and leaves the area neat and clean; returns leftover food and equipment to the catering facility in a timely manner.   Essential Duties and Responsibilities: \n     \n      Assembles and delivers all food and supplies for catered functions to their scheduled locations. \n      Logs and maintains food temperatures. \n      Arranges tables and decorations. \n      Arranges buffet tables with food, beverage and service items according to standards. \n      Serve food and beverages to guests. \n      Thoroughly cleans location after event is completed. \n      Returns food and beverages, serving equipment and utensils to catering facility. \n      Distributes and collects customer comment cards for catered functions. \n      Stocks, cleans and maintains catering facility and equipment. \n      Ensures guests receive friendly, courteous service at all times. \n      Maintains in-depth knowledge of complete menu and products on hand. \n      Maintains clean and safe work environment. \n      Follows safety and sanitation policy and procedures at all times. \n      Performs other duties as assigned. \n     \n       Qualifications: \n     \n      Valid driver's license may be required; must possess or able to obtain a valid food handler's permit and/or alcohol servers' permit where required by state law. \n     \n    \n   \n  \n  \n  Associates at Restaurant Associates are offered many fantastic benefits.\n   Both full-time and part-time positions offer the following benefits to associates:\n  \n    Retirement Plan\n    Associate Shopping Program\n    Health and Wellness Programs\n    Discount Marketplace\n    Identity Theft Protection\n    Pet Insurance\n    Voluntary Benefits, including Critical Illness Insurance, Accident Insurance, Hospital Indemnity Insurance, Legal Services, and Choice Auto and Home Program\n  \n   In addition, full-time positions also offer the following benefits to associates:\n  \n    Medical\n    Dental\n    Vision\n    Life Insurance/AD\n    Disability Insurance\n    Commuter Benefits\n    Employee Assistance Program\n    Flexible Spending Accounts (FSAs)\n  \n  \n   About Compass Group: Achieving leadership in the foodservice industry\n   Compass Group is an equal opportunity employer. At Compass, we are committed to treating all Applicants and Associates fairly based on their abilities, achievements, and experience without regard to race, national origin, sex, age, disability, veteran status, sexual orientation, gender identity, or any other classification protected by law.\n   Qualified candidates must be able to perform the essential functions of this position satisfactorily with or without a reasonable accommodation. Disclaimer: this job post is not necessarily an exhaustive list of all essential responsibilities, skills, tasks, or requirements associated with this position. While this is intended to be an accurate reflection of the position posted, the Company reserves the right to modify or change the essential functions of the job based on business necessity. *Los Angeles applicants: Compass Group will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box ordinance).\n   Req ID: 1129800\n   [[req_classification]]\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=94fbb0d941b49537&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiZ7eG9zIHWmXOHa0Y-LQgBXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=537c7bca1e409f0b&assa=3684",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "From $17.10 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Sushi Jin",
+  "location": "Mountain View, CA 94043",
+  "rating": 3.3,
+  "reviewsCount": 4,
+  "url": "https://www.indeed.com/company/Sushi-Jin/jobs/Server-ce17a5535378782f?fccid=52d32d878ab29bd8&vjs=3",
+  "id": "ce17a5535378782f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:45.507Z",
+  "description": "Earn up to $250-$350 per shift!!!\nWe are looking for a competent Restaurant Server to take and deliver orders. You’ll be the face of our restaurant and responsible for our customers’ experiences. Food server responsibilities include ensuring our tables are clean and tidy when guests arrive, presenting menus and serving food and beverages. You need to be quick on your feet (literally and metaphorically) and have a polite and friendly attitude. If you enjoy talking to people and thrive in a fast-paced workplace, we’d like to meet you. Our ultimate goal is to work as a team to provide high quality service that put costumer satisfaction as our first priority and that keeps them returning to our restaurant while attracting new customers.\nResponsibilities:\nPrepare restaurant tables with special attention to sanitation and order\nAttend to customers upon entrancePresent restaurant menus and help customers select food/beveragesTake and serve ordersAnswer questions or make recommendations for complementary productsCollaborate with other restaurant servers and kitchen/bar staffTeamworkCommon senseDeal with complaints or problems with a positive attitudeIssue bills and accept payment\nSkills:\nRestaurant serving or waitering experienceAttention to cleanliness and safetyPatience and customer-oriented approachExcellent people skills with a friendly attitudeResponsible and trustworthyKnows Spanish Chinese(mandarin cantonese) Japanese Korean or any other language is a plus but not required\nJob Types: Part-time\nBenefits:\n\n Employee discount\n Flexible schedule\n\nPhysical Setting:\n\n Casual dining restaurant\n\nJob Types: Full-time, Part-time\nPay: From $17.10 per hour\nBenefits:\n\n Flexible schedule\n\nRestaurant type:\n\n Casual dining restaurant\n Upscale casual restaurant\n\nShift:\n\n Evening shift\n\nWeekly day range:\n\n Weekend availability\n\nAbility to commute/relocate:\n\n Mountain View, CA 94043: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Dining Room Server/ Waiter/Waittress/ Wait Staff",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "IL Fornaio Cucina Italiana",
+  "location": "San Jose, CA 95113",
+  "rating": 4,
+  "reviewsCount": 5,
+  "url": "https://www.indeed.com/rc/clk?jk=c4f757b8d39d193f&fccid=5617cc77be4edee9&vjs=3",
+  "id": "c4f757b8d39d193f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:45.748Z",
+  "description": "\n Il Fornaio Cucina Italiana is hiring knowledgeable, experienced, service-oriented dining room Lunch, Brunch and Dinner Servers. Experience in a full service restaurant is needed. Essential Duties and Responsibilities:\n  \n  \n \n  Ability to make guest recommendations through knowledge of spirits, cocktails, wine, beer and a la carte food service. Serving full menu and bar including wine and specialty cocktails.\n  Communicating orders clearly with the bar staff and kitchen\n  Continuous table maintenance\n  Delivering drinks and food correctly and efficiently\n  Closing out checks and reconciling cash in a timely and correct fashion\n  Adhering to food safety and sanitation guidelines\n  Maintaining a positive teamwork attitude\n  Communicating clearly, professionally and respectfully Monitoring guest satisfaction\n  Being able to lift and/or move up to 50 pounds\n  Having a flexible work schedule including weekend availability\n \n",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Server",
+  "salary": "Up to $15 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "sushizono",
+  "location": "831 W Hamilton Ave, Campbell, CA 95008",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/sushizono/jobs/Server-4155f0a6323d4957?fccid=497215581f61875a&vjs=3",
+  "id": "4155f0a6323d4957",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:46.939Z",
+  "description": "IMMEDIATE PART TIME SERVERS NEEDEDLooking for part time dinner servers from Tuesday - Sunday evenings. Must be friendly, able to multi-task, and hard-working. Experience not necessary, willing to train the right people. Team oriented staff, fun work environment.Compensation- Minimum + tips.\nJob Type: Part-time\nPay: Up to $15.00 per hour\nRestaurant type:\n\n Casual dining restaurant\n\nShift:\n\n Evening shift\n Night shift\n\nWeekly day range:\n\n Weekend availability\n\nCOVID-19 considerations:All customer are required wear a mask, curbside pickup, takeout delivery, sushi bar, dine in and outdoor seating are available.\nExperience:\n\n Restaurant experience: 1 year (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+},
+{
+  "positionName": "Restaurant Server",
+  "salary": null,
+  "jobType": null,
+  "company": "Sonesta",
+  "location": "San Jose, CA",
+  "rating": 3.8,
+  "reviewsCount": 541,
+  "url": "https://www.indeed.com/rc/clk?jk=3ec5d226da3cbc1e&fccid=254390ad70376125&vjs=3",
+  "id": "3ec5d226da3cbc1e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:13:47.798Z",
+  "description": "\n\n \n  Job Description Summary\n \n  The Restaurant Server (RS) is responsible for consistently delivering results that contribute to the mission and overall success of the hotel by accomplishing performance objectives covering the food service venues of the hotel. The Server sets-up, services, and breaks-down the food and beverage areas where they are assigned ensuring a high level of quality, consistency and service.\n \n \n   Job Description\n \n \n   Job Description Summary\n \n \n   The Restaurant Server (RS) is responsible for consistently delivering results that contribute to the mission and overall success of the hotel by accomplishing performance objectives covering the food service venues of the hotel. The Server sets-up, services, and breaks-down the food and beverage areas where they are assigned ensuring a high level of quality, consistency and service. The Server position will also assist in Banquets.\n \n \n \n   Additional Job Description\n \n \n \n   Benefits\n \n \n \n   Sonesta recognizes that benefits play a vital role in helping ensure the health and financial security of employees and their families. We offer a variety of benefits to our employees including:\n \n \n \n   Medical, Dental and Vision Insurance\n   Health Savings Account with Company Match\n   401(k) Retirement Plan with Company Match\n   Paid Vacation and Sick Days\n   Sonesta Hotel Discounts\n   Educational Assistance\n   Paid Parental Leave\n   Company Paid Life Insurance\n   Company Paid Short Term and Long Term Disability Insurance\n   Various Employee Perks and Discounts\n \n \n \n   Upon submitting your application, please ensure you complete a full application in addition to attaching a resume. Incomplete applications received will not be considered.\n \n\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=3ec5d226da3cbc1e&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhxGe5tSDfeRJBFEO3PGaTeGQFsFDP3gSdjjHZnj9ZEfg&vjfrom=serp&astse=3a5633ef598e37af&assa=7681",
+  "title": "Restuarant Server-San Jose, California12-04-2022 13_12"
+}]
