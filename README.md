@@ -7,7 +7,7 @@ The front end of our project is hosted locally on port 3000 [http://localhost:30
 To run the development server:
 
 ```
-cd ./frontend
+cd ./frontend/drexel-ci-project
 npm install
 npm run dev
 
