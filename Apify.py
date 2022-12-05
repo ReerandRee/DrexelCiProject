@@ -1,9 +1,14 @@
 from datetime import datetime
 from apify_client import ApifyClient
-from datetime import datetime
+import json
+
+with open('env.json', 'r') as file:
+	env = json.load(file)
+
+apiKey = env["api_key"]
 
 # Initialize the ApifyClient with your API token
-client = ApifyClient("apify_api_R6A0sqF7uqr01hfDbAtwsMZaZou4D13Y3HbR")
+client = ApifyClient(apiKey)
 
 # jobArray = ["Software Engineer","Computer Science", "Data Science"]
 # cityArray = ["Philadelphia", "New York City", ]
