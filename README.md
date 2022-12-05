@@ -12,3 +12,24 @@ For the program to work, you will need an API key. To protect the key that we at
 }
 ```
 Note: gitignore will ensure that the API key does not get pushed to the master branch by accident
+
+## How to Run
+Run either of the following command in the command line prompt of your choice.
+
+```
+python Apify.py
+```
+
+OR
+
+```
+python apifyUserInput.py
+```
+
+## Potential Errors and Solutions
+
+### Problem: Module Not Found: ApifyClient
+Solution: 
+```
+pip install apify_client
+```
