@@ -27,7 +27,7 @@ def apify_call(csvFile):
     
     # Original Code for scheduling tasks
 
-    client = ApifyClient(os.getenv("API_KEY"))
+    client = ApifyClient(os.getenv("API_KEY_PROD"))
     citynumber = datetime.now().date().day - 1
 
     jobDF = pd.read_csv(csvFile)
@@ -45,7 +45,7 @@ def apify_call(csvFile):
             "position": job,
             "country": "US",
             "location": cities[citynumber],
-            "maxItems": 5,
+            "maxItems": 150,
             "maxConcurrency": 5,
             "extendOutputFunction": """($) => {
                 const result = {};
@@ -82,8 +82,8 @@ def apify_call(csvFile):
                                                 benefits, 
                                                 requirements, 
                                                 description,
-                                                externalApplyLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
-                            (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], i['postedAt'], i['salary'], None, None, i['description'], i['url'])
+                                                indeedLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
+                            (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], None, i['salary'], None, None, i['description'], i['url'])
             )
             conn.commit()
 
