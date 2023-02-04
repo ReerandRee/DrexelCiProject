@@ -23,31 +23,29 @@ try:
 except:
     print("Failed to connect to database. Please try again.")
 
-def LeesCode(csvFile,citynumber):
+def apify_call(csvFile):
     
     # Original Code for scheduling tasks
 
-    client = ApifyClient("apify_api_R6A0sqF7uqr01hfDbAtwsMZaZou4D13Y3HbR")
+    client = ApifyClient(os.getenv("API_KEY"))
+    citynumber = datetime.now().date().day - 1
 
     jobDF = pd.read_csv(csvFile)
     jobDF.dropna(inplace=True)
 
-    jobArray2 = list(jobDF['General Fields'])
-    cityArray2 = list(jobDF['Cities'])
+    jobs = list(jobDF['General Fields'])
+    cities = list(jobDF['Cities'])
 
-    #jobArray = ["Computer Science","Retail Cashier","Doctor","Restuarant Server","Receptionist","Event planner","Writer","Janitor","Construction Worker","Banker"]
-    #cityArray = ["New York, New York","Los Angeles, California","Chicago, Illinois","Houston, Texas","Phoenix, Arizona","Philadelphia, Pennsylvania","San Antonio, Texas","San Diego, California","Dallas, Texas","San Jose, California"]
-
-    for job in jobArray2:
-        print(job, cityArray2[citynumber])
+    for job in jobs:
+        print(job, cities[citynumber])
         now = datetime.now()  # current date and time
         date_time = now.strftime("%m-%d-%Y %H_%M")
-        filename = job + "-" + cityArray2[citynumber] + date_time
+        filename = job + "-" + cities[citynumber] + date_time
         run_input = {
             "position": job,
             "country": "US",
-            "location": cityArray2[citynumber],
-            "maxItems": 50,
+            "location": cities[citynumber],
+            "maxItems": 5,
             "maxConcurrency": 5,
             "extendOutputFunction": """($) => {
                 const result = {};
@@ -72,12 +70,23 @@ def LeesCode(csvFile,citynumber):
 
         for i in jsonOutput:
             # cursor.execute("INSERT INTO demo_jobs (id, company, position, location) VALUES (%s, %s, %s, %s)", (i['id'], i['company'], i['positionName'], i['location']))
-            cursor.execute("INSERT INTO jobs (vendorID, positionName, company, location, searchArea, searchTerm, scrapedAt) VALUES (%s, %s, %s, %s, %s, %s, %s)", 
-            (i['id'],  i['positionName'], i['company'], i['location'] , job, cityArray2[citynumber], i['scrapedAt'])
+            cursor.execute('''INSERT INTO jobs (vendorID, 
+                                                positionName, 
+                                                company, 
+                                                location, 
+                                                searchArea, 
+                                                searchTerm, 
+                                                scrapedAt,  
+                                                postedAt, 
+                                                salary, 
+                                                benefits, 
+                                                requirements, 
+                                                description,
+                                                externalApplyLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
+                            (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], i['postedAt'], i['salary'], None, None, i['description'], i['url'])
             )
-            print("Inserted")
-
             conn.commit()
+
         print(str(len(jsonOutput)) + " jobs inserted.")
 
     cursor.close()
@@ -88,11 +97,11 @@ def LeesCode(csvFile,citynumber):
 
 
 if __name__ == "__main__":
-    start = datetime.now()
-    LeesCode("job.csv",1)
-    end = datetime.now()
-    print((end-start).seconds)
-#     i = 0
+
+    apify_call('job.csv')
+    # schedule.every().day.do(apify_call('job.csv'))
+    # while True:
+    #     schedule.run_pending()
 
 #     schedule.every(1).second.do(LeesCode, "job.csv")
 # # schedule.every().day.do(LeesCode, "job.csv")
