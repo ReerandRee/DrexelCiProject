@@ -41,39 +41,45 @@ def LeesCode(csvFile,citynumber):
     for job in jobArray2:
         print(job, cityArray2[citynumber])
         now = datetime.now()  # current date and time
-    date_time = now.strftime("%m-%d-%Y %H_%M")
-    filename = job + "-" + cityArray2[citynumber] + date_time
-    run_input = {
-        "position": job,
-        "country": "US",
-        "location": cityArray2[citynumber],
-        "maxItems": 50,
-        "maxConcurrency": 5,
-        "extendOutputFunction": """($) => {
-            const result = {};
+        date_time = now.strftime("%m-%d-%Y %H_%M")
+        filename = job + "-" + cityArray2[citynumber] + date_time
+        run_input = {
+            "position": job,
+            "country": "US",
+            "location": cityArray2[citynumber],
+            "maxItems": 50,
+            "maxConcurrency": 5,
+            "extendOutputFunction": """($) => {
+                const result = {};
 
-            """ + f"result.title = \"{filename}\";" + """
+                """ + f"result.title = \"{filename}\";" + """
 
-            return result;
-            }""",
-        "proxyConfiguration": {"useApifyProxy": True},
-    }
-    # print(run_input)
-    # # Run the actor and wait for it to finish
-    run = client.actor("hynekhruska/indeed-scraper").call(run_input=run_input)
+                return result;
+                }""",
+            "proxyConfiguration": {"useApifyProxy": True},
+        }
+        # print(run_input)
+        # # Run the actor and wait for it to finish
+        run = client.actor("hynekhruska/indeed-scraper").call(run_input=run_input)
 
     # Fetch and print actor results from the run's dataset (if there are any)
-    f = open(f"outputschedule/{filename}.txt", "wb")
+    # f = open(f"outputschedule/{filename}.txt", "wb")
     # Download_Items should be deprecated but its still working? and its new replacement isnt working.
-    outputbytes = client.dataset(
-        run["defaultDatasetId"]).download_items(item_format='json')
+        outputbytes = client.dataset(
+            run["defaultDatasetId"]).download_items(item_format='json')
 
-    jsonOutput = json.loads(outputbytes)
+        jsonOutput = json.loads(outputbytes)
 
-    for i in jsonOutput:
-        cursor.execute("INSERT INTO demo_jobs (id, company, position, location) VALUES (%s, %s, %s, %s)", (i['id'], i['company'], i['positionName'], i['location']))
+        for i in jsonOutput:
+            # cursor.execute("INSERT INTO demo_jobs (id, company, position, location) VALUES (%s, %s, %s, %s)", (i['id'], i['company'], i['positionName'], i['location']))
+            cursor.execute("INSERT INTO jobs (vendorID, positionName, company, location, searchArea, searchTerm, scrapedAt) VALUES (%s, %s, %s, %s, %s, %s, %s)", 
+            (i['id'],  i['positionName'], i['company'], i['location'] , job, cityArray2[citynumber], i['scrapedAt'])
+            )
+            print("Inserted")
 
-    conn.commit()
+            conn.commit()
+        print(str(len(jsonOutput)) + " jobs inserted.")
+
     cursor.close()
     conn.close()
 
