@@ -23,12 +23,13 @@ try:
 except:
     print("Failed to connect to database. Please try again.")
 
-def apify_call(csvFile):
+def apify_call(csvFile, citynumber = -1):
     
     # Original Code for scheduling tasks
 
     client = ApifyClient(os.getenv("API_KEY_PROD"))
-    citynumber = datetime.now().date().day - 1
+    if citynumber == -1:
+        citynumber = datetime.now().date().day - 1
 
     jobDF = pd.read_csv(csvFile)
     jobDF.dropna(inplace=True)
@@ -70,21 +71,23 @@ def apify_call(csvFile):
 
         for i in jsonOutput:
             # cursor.execute("INSERT INTO demo_jobs (id, company, position, location) VALUES (%s, %s, %s, %s)", (i['id'], i['company'], i['positionName'], i['location']))
-            cursor.execute('''INSERT INTO jobs (vendorID, 
-                                                positionName, 
-                                                company, 
-                                                location, 
-                                                searchArea, 
-                                                searchTerm, 
-                                                scrapedAt,  
-                                                postedAt, 
-                                                salary, 
-                                                benefits, 
-                                                requirements, 
-                                                description,
-                                                indeedLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
-                            (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], None, i['salary'], None, None, i['description'], i['url'])
-            )
+            try:
+                cursor.execute('''INSERT INTO jobs (vendorID, 
+                                                    positionName, 
+                                                    company, 
+                                                    location, 
+                                                    searchTerm,
+                                                    searchArea,  
+                                                    scrapedAt,  
+                                                    postedAt, 
+                                                    salary, 
+                                                    benefits, 
+                                                    requirements, 
+                                                    description,
+                                                    indeedLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
+                                (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], None, i['salary'], None, None, i['description'], i['url']))
+            except:
+                print("Error inserting job id: " + i['id'])
             conn.commit()
 
         print(str(len(jsonOutput)) + " jobs inserted.")
