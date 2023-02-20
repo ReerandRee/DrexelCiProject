@@ -37,6 +37,9 @@ def apify_call(csvFile, citynumber = -1):
     jobs = list(jobDF['General Fields'])
     cities = list(jobDF['Cities'])
 
+    #MANUAL OVERRIDE
+    # jobs = jobs[23:]
+
     for job in jobs:
         print(job, cities[citynumber])
         now = datetime.now()  # current date and time
@@ -89,6 +92,7 @@ def apify_call(csvFile, citynumber = -1):
             except:
                 print("Error inserting job id: " + i['id'])
             conn.commit()
+
 
         print(str(len(jsonOutput)) + " jobs inserted.")
 
