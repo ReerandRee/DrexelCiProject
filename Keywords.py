@@ -1,11 +1,35 @@
 from keybert import KeyBERT
+import psycopg2 
+import os
+from dotenv import load_dotenv
 
-str = "Euro School of Tennis is looking for Tennis Coaches and Assistant Coaches who are flexible and are willing to teach a wide range of age groups in various environments such as group classes, camps, after-school tennis programs, or private lessons. Compensation is at a flat rate (depending on experience) for after school programs, group classes and camps. Private lessons are awarded by percentage. Tennis Coach Responsibilities: Manage a class of 8 - 16 students (ages 5-10) for after school tennis program and a class of up to 8 students (ages 3 and up) for group clinics. Teach the tennis class using provided lesson plans.  Attend a two-day training/shadowing session to learn more about the program.  Transport tennis equipment to and from class.  Setup the tennis equipment.  Take attendance and sign in and sign out students for class.  Interact/provide feedback to parents and interact with school office staff when needed.  Assistant Tennis Coach Responsibilities:  Willing to lead groups of ages 5 – 10 in after school tennis programs and ages 3 and up for group clinics.  Assist the lead coach in teaching and overall management of the tennis program.  Take attendance and sign in and sign out students for class.  Setup the tennis equipment.  Requirements (Coaches and Assistant Coaches):  Must enjoy working with kids and manage a class in a professional manner.  Must be flexible, reliable, punctual, professional and has an enthusiastic approach.  Must have good communication and interpersonal skills.  Must carry a resilient, positive attitude.  Must be able to work independently and within a small team.  Must have own reliable transportation throughout the East and South Bay and Peninsula.  Willing to do live scan background check prior to working.  Locations: We provide services in multiple areas throughout the San Francisco Bay Area. We make every effort to only assign schools that are within what you determine to be a reasonable commuting distance. Currently, programs are located in Fremont, Los Altos, Menlo Park, San Jose, San Bruno, San Carlos, Milpitas, Castro Valley, Palo Alto, Atherton, Portola Valley, Hayward or San Mateo. Candidates must be readily available and living in the San Francisco Bay Area. Schedule:  Classes are 1 to 1.5-hour length.  Start times for classes can vary anywhere between 1 p.m. and 4 p.m. depending on the school for after school programs, and anytime between 8 a.m. – 9 p.m. for group clinics.  Flexible schedule, work two or more days per week from Monday through Friday.  Candidates need to be local to the US or already have a necessary working VISA to work in the US. Employer do not provide any Visa assistance. All coaches must be vaccinated. Job Types: Part-time Salary: $18.00 - $24.00 per hour Speak with the employer+91 ‪(510) 491-3007‬ Job Type: Part-time Pay: $18.00 - $24.00 per hour Benefits: Flexible schedule Schedule: 4 hour shift Weekend availability Education: High school or equivalent (Preferred) Work Location: One location"
+load_dotenv()
+
+host = os.getenv("DB_HOST")
+db = os.getenv("DB_NAME")
+user = os.getenv("DB_USER")
+password = os.getenv("DB_PASSWORD")
+port = os.getenv("DB_PORT")
+
+try: 
+    conn = psycopg2.connect(dbname=db, user=user, password=password, host=host, port=port)
+    cursor = conn.cursor() 
+except:
+    print("Failed to connect to database. Please try again.")
+
+cursor.execute('''SELECT x.* FROM public.jobs x
+                WHERE searchterm = 'Beauty'
+                limit 100''')
+records = cursor.fetchall()
+
+# Zip it all up into one loooong string
+descriptions = list(zip(*records))[13]
+descStr = ' '.join(descriptions)
 
 kw_model = KeyBERT()
-keywords = kw_model.extract_keywords(str)
+keywords = kw_model.extract_keywords(descStr)
 
-results = kw_model.extract_keywords(str, keyphrase_ngram_range=(1, 2), top_n=15, stop_words=None)
+results = kw_model.extract_keywords(descStr, keyphrase_ngram_range=(1,1), top_n=10, stop_words=None)
 print(results)
 
 keywords = list(zip(*results))[0]
