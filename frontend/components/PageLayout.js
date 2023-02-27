@@ -24,7 +24,10 @@ const PageLayout = ({ children, key }) => {
 							<Link href='/' replace><a>Home</a></Link>
 						</Menu.Item>
 						<Menu.Item key="2" icon={<SearchOutlined />}>
-							<Link href='/CompareCities' replace><a>Compare Cities</a></Link>
+							<Link href='/api/jobsPerCity' replace><a>Jobs Per City Endpoint</a></Link>
+						</Menu.Item>
+						<Menu.Item key="3" icon={<SearchOutlined />}>
+							<Link href='/api/jobCount' replace><a>Job Count by Category Endpoint</a></Link>
 						</Menu.Item>
 					</Menu>
 
