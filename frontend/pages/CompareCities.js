@@ -67,44 +67,40 @@ const comparecities = ({ cities, jobs }) => {
 
 		return (
 			<>
-				<PageLayout>
-					<p>Compare job count of cities</p>
+				<p>Compare job count of cities</p>
 
-					<p>Select Cities:</p>
-					<SelectCity cities={cities} selectedCities={selectedCities} setSelected={setSelectedCities} setSelectedCities={setSelectedCities} />
+				<p>Select Cities:</p>
+				<SelectCity cities={cities} selectedCities={selectedCities} setSelected={setSelectedCities} setSelectedCities={setSelectedCities} />
 
-					{/* <div>
+				{/* <div>
 						<p>test</p>
 						{selectedCities.map((city) => {
 							return (<p>{city}</p>)
 						})}
 					</div> */}
-					<p>Select Job:</p>
-					{/* <SelectBar data={jobs} setSelected={setSelectedJobs} multiple={false} /> */}
-					<SelectBar data={jobTitlesObj} setSelected={setSelectedJobs} multiple={false} />
+				<p>Select Job:</p>
+				{/* <SelectBar data={jobs} setSelected={setSelectedJobs} multiple={false} /> */}
+				<SelectBar data={jobTitlesObj} setSelected={setSelectedJobs} multiple={false} />
 
-					{selectedCities.length > 0 && selectedJobs.length > 0 ? (
-						<div>
+				{selectedCities.length > 0 && selectedJobs.length > 0 ? (
+					<div>
 
-							<p>{selectedJobsData.length > 0 ? JSON.stringify(selectedJobsData) : 'There is no data for that respective city and job'}</p>
-						</div>
-					) : (<></>)}
-
-
+						<p>{selectedJobsData.length > 0 ? JSON.stringify(selectedJobsData) : 'There is no data for that respective city and job'}</p>
+					</div>
+				) : (<></>)}
 
 
 
 
-				</PageLayout>
+
+
 
 			</>
 		)
 	} else {
 		return (
 			<>
-				<PageLayout>
-					<div>loading...</div>
-				</PageLayout>
+				<div>loading...</div>
 			</>
 		)
 	}
