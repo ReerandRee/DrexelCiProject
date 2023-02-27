@@ -1,0 +1,19 @@
+[{
+  "positionName": "Server/Bartender",
+  "salary": "$1,000 - $2,400 a week",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Quarter Acre Restuarant",
+  "location": "Dallas, TX 75206",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D3FxyISklqo-00tu-lMajil8BB4UxPyB382L_KeAFykuqheQf30_VZeWt3BAbyrj5oYUnlYv2h0OPc2WUN4Gpth1MYYuwWAm_r4SWC4_JZ8Yf6eTuF_jef8jhgFg06c6LuUCf8AoCJzgvqPeoeluRdxpyookExqnYbA2Edlstw_HfLfWZsDLu7x0xryWorkaRMi28vnG3UpJcs71y-Sg9smCHwemKYAcnpFpx9ZoHzenTZZ6lKwvmkp5YrvMxuvdvvlAvW1wcvMgiFYzZuX-_U7dMepxuO9ANrnPFuw3fCIOCmai8Nr6BFqxxmx1Fwl_Dde6y1-BZzgjjqHWyNZNOleWG_4SeHPunltyL4cPpY0VXJ22Aj_CdDVumZ7QNlZSsaVS63PpD8H_3XiTY8OTYc9x_IG7DK7G10MHJG8oM0qQwGR3OQiyxgV7VIs6WyNvpyTG3sKjefFSjOI3NtbHkvh_jweIZqqUJ_qTnKk6lhewL0FnQcmdfWoyTU8D43ntE=&xkcb=SoA8-_M3WvC92uWQ1B0KbzkdCdPP&p=0&fvj=1&vjs=3",
+  "id": "d9c055e077dd912d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T18:12:27.263Z",
+  "description": "Quarter Acre Restaurant, from Chef Toby Archibald, is nearing its opening date and is in the process of interviewing for front of house positions. Chef Archibald intends to bring a unique culinary experience to the Dallas upscale dining scene, and we are looking for additional creative minds to join the team.\nPreferred Qualifications:\n· Passion for the culinary business.\n· Pride in guest services.\n· Drive for continual performance growth.\n· Intermediate to advanced knowledge of wine, liquor, and craft cocktails.\n· Minimum 3 years of experience in fine dining.\n· Food Handlers and TABC certification.\n· Availability of 4 – 5 shifts a week.\nPosition Details:\n· Open Tuesday – Saturday.\n· Closed Sunday & Monday.\n· Evening service only from 5pm – 11pm.\n· Paid time off.\n· Estimated $1200 + weekly tips.\n· Growth opportunities.\n· Opening date set for early December.\nJob Types: Full-time, Part-time\nPay: $1,000.00 - $2,400.00 per week\nBenefits:\n\n Employee discount\n Flexible schedule\n Paid time off\n Paid training\n\nRestaurant type:\n\n Bar\n Casual dining restaurant\n Fine dining restaurant\n\nShift:\n\n 10 hour shift\n 8 hour shift\n Evening shift\n\nWeekly day range:\n\n Monday to Friday\n Weekend availability\n\nAbility to commute/relocate:\n\n Dallas, TX 75206: Reliably commute or planning to relocate before starting work (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-Dallas, Texas12-04-2022 13_11"
+}]

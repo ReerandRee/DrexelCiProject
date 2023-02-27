@@ -1,0 +1,37 @@
+[{
+  "positionName": "restuarant hiring server and floor manager",
+  "salary": "$15 - $35 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "Wuish kitchen and bar",
+  "location": "New York, NY 10038",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Wuish-kitchen-and-bar/jobs/Restuarant-Server-Floor-Manager-40fe0dc78b79c3e7?fccid=83c57ec3cac8f3b6&vjs=3",
+  "id": "40fe0dc78b79c3e7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:58:14.501Z",
+  "description": "Modern asian restaurant hiring Server and General manager.\nyou must me energetic, fast, able to go up and down the stairs for several hours running food and clearing tables. Also you must have a flexible schedule to work weekdays, weekends and holidays.\nPlease send us an email with your telephone number or your resume and we will call you right away to schedule an interview.\nJob Types: Full-time, Part-time\nPay: $15.00 - $35.00 per hour\nShift:\n\n Day shift\n Night shift\n\nAbility to commute/relocate:\n\n New York, NY 10038: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Restaurant experience: 1 year (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-New York, New York12-04-2022 12_57"
+},
+{
+  "positionName": "Server, Servers and Serveres",
+  "salary": "$10 - $15 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "fuji hana restuarant",
+  "location": "Brooklyn, NY 11223",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CzKwFLOVS4TXIoK2Tb66rlLhAgbAGjwI-9D5iKpS3RP4Suv2q-LScVe9Sqcw3h86_dyHK-2oE84YANeW8z2WMJ70aA4uHUaFUqe6TeLeBP0BQEOsMQ-lrjjI0LHUpfpZWtcAWQoPCMggZPL82067jRbg7lJgCq6cIjZCi21A18xr9SSdUQucR8dep2Kp3iGJ79aUiY65sguOpLTaPEye1AcxVtIUj-0RC1jRmYbjou5yw0Ehg9MidUd7w562Zoa3u9D805fA5bkylTpriNQYZDNF8MWrtMVZEYIF32ZyWXqdIV97ev9vEUzB7gxp4hlsK9CvBZZ4_nZ82Vx5IcXNz5TfuBRWLZvkyCcK360bbRn9Y6pj6qcQiIIOYg924mFyLNZUqM3aWl0Y0kOtatsffafkhGTRc80y8k3iXuXDk06dzPZTkA-rgi450go9IRL1brnmcwLcDEI1XUksVb_lDsW__o2In0o-UsRFNcW2lKB8njdoVX11DmiEkSfO_OuG9VGVPkJ-wAhWqQLkkJKTzL&xkcb=SoDn-_M3WvBBe0AEkD0KbzkdCdPP&p=1&fvj=1&vjs=3",
+  "id": "34fe1f807e4e69a4",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T17:58:59.064Z",
+  "description": "Looking for a well mannered server to join our dedicated team at Fuji Hana. Fuji Hana opened more than 25 years ago, and has been providing top notch service to our customers in the Kosher food market ever since. We are looking to revamp our in house staff, after covid took away some of our dedicated long time members. Flexible hours, great tips, and friendly management all make working for us a great oppurtunity. We are open Sunday through Thursday from 11am to 10pm, We are closed Friday, We are open on Saturday nights from September to June from one hour after sunset. We are closed on all Jewish Holidays. Compensation is very competitive, and we will do our best to work with the candidate on scheduling. Looking forward to hear from you.\nJob Type: Full-time\nPay: $10.00 - $15.00 per hour\nBenefits:\n\n Flexible schedule\n\nPhysical setting:\n\n Fine dining restaurant\n\nSchedule:\n\n 10 hour shift\n Overtime\n Weekends\n\nSupplemental pay types:\n\n Tips\n\nExperience:\n\n Serving Experience: 1 year (Preferred)\n Restaurant Experience: 1 year (Preferred)\n\nWork Location:\n\n One location\n\nThis Job Is:\n\n A job for which military experienced candidates are encouraged to apply\n Open to applicants under 18 years old, provided it is legally allowed for the job and location\n Open to applicants who do not have a high school diploma/GED\n A good fit for applicants with gaps in their resume, or who have been out of the workforce for the past 6 months or more\n A good job for someone just entering the workforce or returning to the workforce with limited experience and education\n Open to applicants who do not have a college diploma\n\nDuties:\n\n Greeting and seating customers\n Taking orders\n Serving alcohol\n Busing, cleaning, and resetting tables\n Answering phone calls\n Preparing bill and processing payment\n\nDesired Skill(s):\n\n Handling cash accurately\n Processing credit cards\n Basic math calculations without a calculator\n Using a calculator\n Using Point of Sale software\n Making change accurately\n Using a digital cash register\n Operating a variety of equipment, such as fire extinguishers, telephones, iced tea/soda machines, soup wells, and coffee machines\n\nWork Remotely:\n\n No\n\nCOVID-19 Precaution(s):\n\n Personal protective equipment provided or required\n Temperature screenings\n Social distancing guidelines in place\n Sanitizing, disinfecting, or cleaning procedures in place\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Restuarant Server-New York, New York12-04-2022 12_57"
+}]

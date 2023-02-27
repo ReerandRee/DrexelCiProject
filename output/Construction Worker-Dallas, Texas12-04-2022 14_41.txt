@@ -1,0 +1,929 @@
+[{
+  "positionName": "Customer Service Laborer",
+  "salary": "$16 - $20 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time"
+  ],
+  "company": "1-800-GOT-JUNK?",
+  "location": "Dallas, TX 75238",
+  "rating": 3.7,
+  "reviewsCount": 1076,
+  "url": "https://www.indeed.com/rc/clk?jk=3931aaa8efd80e74&fccid=809aaa2c44c4641e&vjs=3",
+  "id": "3931aaa8efd80e74",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:14.645Z",
+  "description": "\n Work outside, stay active, be part of a winning team, and have fun! No experience necessary.\n  \n  Are you looking for a rewarding job with a growing company? Do you have excellent customer service skills and enjoy helping others? At 1-800-GOT-JUNK?, you’ll learn the ins and outs of a successful business, have fun and be given the autonomy and opportunities to drive your career and be great in your own way.\n  \n  \n General Laborers - Field Team Members\n  \n Dallas, Garland\n  \n Full-Time, Part-Time & Flexible Shifts Available (weekday & weekend)\n  \n Pay: $16-$20/hr plus tips to start, with regular pay increases based on experience, responsibilities and performance.\n  \n  We're a fun and fast-paced operation that helps people in our community get rid of unwanted items, responsibly. And, we do it like no one else with our professional, on-time service, clean shiny trucks, and friendly uniformed team.\n  \n  \n Do the following qualities describe you? \n \n  You consistently go above and beyond what is expected of you \n  You’re friendly and personable - you enjoy meeting new people & delivering great customer service \n  You’re in good shape and energetic - not afraid of hard physical work and a challenge \n  You’re dependable and hardworking - you want to be part of a great culture of like-minded, fun people \n  You’re a good communicator, problem solver and very organized \n \n What you’ll be doing as a Field Team Member: \n \n  Customer Service: WOWing every customer with a friendly, positive attitude and exceptional service \n  Truck Operations: Safe driving and loading of 1-800-GOT-JUNK? trucks with a team member (so a valid standard driver’s license is required) \n  Junk Removal: Heavy and light lifting required for removal of \"junk\" from residential and commercial client locations (i.e. couches, chairs, appliances, recyclables, debris, yard, and garage junk) \n  Marketing: Enthusiastically advocate for our brand to all you meet and encounter \n  Sales: Providing estimates to customers that call us for quotes to have items removed and educating them on how we safely dispose of, recycle, and/or donate what we can to keep as much out of landfills as possible - because we all need to care about our planet. \n  Safety: Commitment to the safe and professional navigation and driving of trucks and intelligent and efficient loading & unloading of customers’ belongings. \n  Professional & Uniformed: We always wear uniforms and provide you with what you need (shirts, sweaters, coats, hats, gloves) to represent 1-800-GOT-JUNK? and make a great impression. \n  \n  \n Qualifications: \n \n  21+ years of age (for insurance purposes) \n  A valid standard driver's license and clean driving record (past 3 years) \n  Reliable, hard-working, and a great attitude! \n  Previous customer service, labor, or sales experience an asset (but not required) \n  Able to lift 50lbs repeatedly \n  \n  \n Previous experience in the following is a plus: \n \n  Delivery Driver \n  Non CDL Driver \n  Truck Driver \n  Delivery Driver \n  Construction \n  Moving \n  Demolition \n  General Labor \n  Warehouse worker \n  Service Industry: Grocery stores, Retail, Restaurants, Hotels \n \n Successful applicants will hear from us within 2 business days. We conduct onsite or remote interviews at your earliest convenience and extend job offers within 24-hours of successful interviews. Apply today - we move fast with great people!\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Carpenter Prefabricator (Part-time)",
+  "salary": "$15 - $19 an hour",
+  "jobType": [
+    "Part-time"
+  ],
+  "company": "Tuff Shed",
+  "location": "Hutchins, TX 75141",
+  "rating": 3.1,
+  "reviewsCount": 336,
+  "url": "https://www.indeed.com/rc/clk?jk=7f1cc9d5ff2b4173&fccid=976c1e61e8738e76&vjs=3",
+  "id": "7f1cc9d5ff2b4173",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:14.733Z",
+  "description": "“BUILD” YOUR CAREER WITH TUFF SHED! \n\n Tuff Shed, the industry leader in storage buildings and garages, is currently looking for construction/laborers/builders at our manufacturing facility. No prior construction experience needed. Will train motivated individuals! \n\nCheck it out for yourself: https://youtu.be/-68dUvyeeyA \n\n \n \n Learn the art of cutting, framing, painting, building trusses and finish work! \n Training provided! \n Work indoors everyday – no losing days due to weather! \n All power tools & nail guns supplied! \n Career advancement opportunities! \n Monthly bonus potential! \n On-Demand Access to Your Pay! (restrictions may apply) \n \nDUTIES INCLUDE:\n \n \n Painting \n Cutting lumber or plywood \n Assembling wall sections, trusses, doors \n Any other fabricating and assembly duties associated with the construction of the Tuff Shed storage buildings \n \nSKILLS & EXPERIENCE:\n \n \n We will train all levels of inexperienced and experienced workers as needed \n Ability to regularly lift and/or move up to 50 pounds at least 100 feet \n WHAT’S IN IT FOR YOU? \n\n An opportunity to join a successful company and be part of the growth of the team! We offer competitive salary, paid vacation and sick days, and paid holidays! \n\n \nNEXT STEPS:\n \n \n Click the “apply” button to submit your application \n To learn about Tuff Shed go to: www.Tuffshed/careers.com \n Tuff Shed is an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, national origin, sex, age, disability, sexual orientation, gender identity, genetic information or any other status protected by law or regulation. \nPRD2021",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Driver/ Laborer",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Future Infrastructure, LLC",
+  "location": "Mesquite, TX 75149",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=7388c4247fc2c28e&fccid=3826dcbac1498808&vjs=3",
+  "id": "7388c4247fc2c28e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:14.893Z",
+  "description": "\n\n Responsibilities: \n  \n  Performs general construction work under the direction of Foreman/Supervisor \n  Hand dig holes and trenches with a shovel and other hand tools \n  Position approximately 80% laborer and 20% driving CDL class trucks/hauling equipment \n  Basic knowledge of underground cable locating \n  Ability to operate various types of trucks and equipment \n  Responsible for transporting equipment and materials \n  Install underground telecommunications cabling \n  Flagging traffic, setup safety perimeter using signage, cones, and safety barriers \n  Performs daily walkarounds and alerts mechanics of any defects. \n  Ability to communicate effectively with customers and employees\n \n  \n  \n  Qualifications: \n  \n  Valid driver's license with Class A CDL. \n  Climb into and out of equipment (cars, trucks, backhoes, trenchers, etc) \n  Operate or work around heavy equipment and machinery \n  Knows and obeys all Federal Motor Carrier Safety Administration Rules and Regulations \n  Repetitive motion with hand, wrist, feet, head, and shoulder \n  The ability to work outdoors in a diverse environment \n  Work in congested and remote areas \n  Work while standing or sitting for several hours at a time \n  Must be able to work in small/sometimes confined areas \n  Must be able to work in variable heights/depths \n  Must be able to lift/carry up to 75+ pounds \n  Reach, bend, stoop while performing work \n  Maintain visual and audible contact with other crewman and all moving or stationary persons/vehicles/objects to ensure safe coordination of movement\n \n  \n  \n  Benefits: \n  \n  Our Company offers Medical, Dental, Vision Insurance, 401(K), Life Insurance, Paid Holidays and Paid Vacation\n \n  \n  \n  Physical Demands (All Positions): \n  \n  Must be able to lift and/or move 50 pounds \n  Standing, walking including and primarily on uneven surfaces, turning, stooping, kneeling, crouching, speaking and hearing are required continuously\n \n  \n  \n  Work Environment (All Positions): \n  \n  Employee will be subjected to outside weather conditions \n  Employee could be exposed to wet and/or humid conditions, cold, heat and humidity. \n  The noise level in the work environment can often be loud \n  The employee is frequently exposed to slow- or fast-moving traffic in the work environment\n \n  \n  \n  Operators must be willing to work overtime as dictated by workload volumes. \n  Our company is a drug-free environment. This position requires compliance with the company and Federal Department of Transportation (FMSCA or PHMSA) drug testing policies and procedures for both pre-employment and continuing random.\n  \n  \n  PDS provides competitive market pay, with a comprehensive benefit package that includes: \n  \n  Medical, Dental and Vision insurance \n  401(k) with Generous Company Match \n  Company-paid Disability Insurance \n  Company-paid Life Insurance \n  Paid Holidays \n  Paid Vacation\n \n  \n  \n  EEO Statement: \n  We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.\n  \n  \n  Third Party Agency Notice: \n  Primoris will not accept any unsolicited resumes from any third-party recruiting agencies either domestic or international. Primoris nor its subsidiaries will be responsible for any fees from the use of any unsolicited resumes either through our ATS or via electronic mail systems from any agency representative or agency consultant unless your firm is an approved vendor partner with a current executed agreement.\n  \n  \n  IND1\n\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Labor",
+  "salary": null,
+  "jobType": null,
+  "company": "Gold Medal Pools",
+  "location": "Lewisville, TX 75056",
+  "rating": 3.5,
+  "reviewsCount": 14,
+  "url": "https://www.indeed.com/rc/clk?jk=8253693c71232569&fccid=387ff6c6848d945f&vjs=3",
+  "id": "8253693c71232569",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:15.032Z",
+  "description": "\n \n  General Labor\n   Job Description\n   \n   \n  Who you are:\n   You are a key part of the construction process using hand tools such as saws, drills, shovels, hammers, etc. and, if licensed, heavy machinery to excavate pool sites, build concrete and gunite forms, and ensure plumbing is completed to specifications.\n   \n   \n  Essential Functions:\n  \n \n  Completes assigned projects on time \n  Reports any issues to site management \n  Arrives ready to work for long periods outdoors \n  Properly utilizes hand tools in a safe manner \n  If licensed, properly utilizes heavy machinery in a safe manner \n  Operates pumps or compressors \n  Cleans equipment \n  Maintains construction tools or equipment \n  Signals equipment operators to indicate proper equipment positioning \n  Installs plumbing \n  Positions structural components \n  Directs vehicle traffic \n  Reviews blueprints or specifications to determine work requirements \n  Finishes concrete surfaces \n  Cleans work sites \n  Compacts materials to create level bases \n  Digs holes or trenches \n  Marks reference points on construction materials \n  Assembles temporary equipment or structures \n  Dismantles equipment or temporary structures \n  Loads or unloads materials used in construction \n  Moves construction materials to locations where they are needed \n  Applies sealants or other protective coatings \n  Cleans surfaces in preparation for work activities \n  Removes worn, damaged or outdated materials from work areas \n  Positions construction forms \n  Protects structures or surfaces near work areas to avoid damage \n  Mixes substances or compounds needed for work activities \n  Breaks up rock, asphalt, or concrete \n  Spreads concrete or other aggregate mixtures \n  Operates heavy-duty construction or installation equipment \n  \n \n   \n  Other Responsibilities:\n  \n \n  Inspecting Equipment, Structures, or Material — Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects. \n  Controlling Machines and Processes — Using either control mechanisms or direct physical activity to operate machines or processes. \n  Handling and Moving Objects — Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things. \n  Operating Vehicles, Mechanized Devices, or Equipment — Running, maneuvering, navigating, or driving vehicles or mechanized equipment. \n  Communicating with Supervisors, Peers, or Subordinates — Providing information to supervisors, co-workers, and subordinates. \n  Performing General Physical Activities — Performing physical activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling of materials. \n  \n \n   \n  You are great at:\n  \n \n  Active Listening— Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times \n  Arm-Hand Steadiness — The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position. \n  Control Precision — The ability to adjust the controls of a machine or a vehicle quickly and repeatedly to exact positions. \n  Depth Perception — The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object. \n  Dynamic Strength — The ability to exert muscle force repeatedly or continuously over time. This involves muscular endurance and resistance to muscle fatigue. \n  Extent Flexibility — The ability to bend, stretch, twist, or reach with your body, arms, and/or legs. \n  Far Vision — The ability to see details at a distance. \n  Finger Dexterity — The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects. \n  Manual Dexterity — The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects. \n  Motivation - Self-motivated, self-starter; ability to work independently and as a part of a team \n  Multi-limb Coordination — The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion. \n  Near Vision — The ability to see details at close range (within a few feet of the observer). \n  Oral Comprehension — The ability to listen to and understand information and ideas presented through spoken words and sentences. \n  Oral Expression — The ability to communicate information and ideas in speaking so others will understand. \n  Problem Sensitivity — The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing there is a problem. \n  Rate Control — The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object or scene. \n  Selective Attention — The ability to concentrate on a task over a period of time without being distracted. \n  Speech Clarity — The ability to speak clearly so others can understand you. \n  Speech Recognition — The ability to identify and understand the speech of another person. \n  Stamina — The ability to exert yourself physically over long periods of time without getting winded or out of breath. \n  Static Strength — The ability to exert maximum muscle force to lift, push, pull, or carry objects. \n  Time Management — Managing one's own time and the time of others. \n  Trunk Strength — The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without 'giving out' or fatiguing. \n  \n \n   \n  What you must have:\n  \n \n  No licenses or certifications needed \n  Heavy machinery experience preferred \n  Valid Driver’s License preferred \n  High school diploma or GED preferred \n  Building and Construction — Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures. \n  Public Safety and Security — Knowledge of relevant equipment, policies, procedures, and strategies to promote effective operations for the protection of people and property. \n  Mechanical — Knowledge of machines and tools, including their designs, uses, repair, and maintenance.\n \n  \n \n   \n   \n  Physical Demands:\n  \n \n  Ability to work outdoors in all conditions \n  Ability to lift 25 lbs. \n  Ability to stand for long periods \n  Ability to operate equipment for long periods \n  \n \n   \n  Work Environment/Hours:\n  \n \n  This position works outdoors \n  Hours may change depending on time of year or weather conditions. Generally, 7:00 am – 4:00 pm \n  Some overtime/weekend work may be required \n  \n \n   \n  Primary Work Location:\n  \n \n  Lewisville, TX \n  \n \n   \n  What you will receive:\n  \n \n  The opportunity to work with a fantastic team in a casual but fast-paced environment \n  Competitive salary and bonus opportunity based on performance \n  Competitive benefits package including 401k, medical, dental and vision and paid time off (PTO) \n  Learning culture to grow your skills and knowledge \n  Career growth opportunities\n \n  \n \n   \n   Company management reserves the right to add, delete, or otherwise alter assigned duties at any time. To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The minimum qualifications listed are representative of the knowledge, skills and/or abilities required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required.\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Construction Laborer",
+  "salary": "$40,000 - $90,000 a year",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "The George D, Alan Company",
+  "location": "Grand Prairie, TX 75050",
+  "rating": 1,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/rc/clk?jk=cb9dcd7164908a3c&fccid=47e47a5c956f8cd8&vjs=3",
+  "id": "cb9dcd7164908a3c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:15.610Z",
+  "description": "\n **Construction company looking for workers who are looking for a professional career!\n \n  Contact Eduardo Pacheco (972)786-1822\n  Please Apply Here: https://www.waterproof.pro/careers/\n \n \n  Competitive Pay ($15.00 to start)\n \n  - $40,000 - $90,000+ each year\n \n  Bonus and Overtime EVERY WEEK!\n  Weekly payout\n  Trainings that help you advance with the company.\n \n \n \n  Full Benefits:\n  Medical\n  Dental\n  Vision\n  401K Retirement Plan\n  Life Insurance\n  Vacation Hours\n  Holidays\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Traveling Commercial Concrete Finisher",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "B&B Concrete",
+  "location": "1830 Garden Springs Dr, Dallas, TX 75253",
+  "rating": 3.9,
+  "reviewsCount": 10,
+  "url": "https://www.indeed.com/rc/clk?jk=749e2696e4950976&fccid=b4bfeb5dea9372c4&vjs=3",
+  "id": "749e2696e4950976",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:15.662Z",
+  "description": "\n \n  We are looking to hire a Commercial Concrete Finisher.\n   \n \n \n   General Description:\n   Responsible for performing a variety of carpentry tasks associated with prepping, pouring, placing, and finishing of concrete. Tasks include erecting and setting forms for concrete structures, foundations, buildings, and site work per specifications and drawings. This may include concrete tilt-wall forms, symon forms and/or structural forms for columns, decks, elevator cores, parking garages and other cast-in-place concrete structures.\n \n \n   \n \n \n   Responsibilities:\n \n \n   Ability to read and understand drawings and prints.\n   Build and/or assemble wood or metal forms for the construction of concrete floors, slabs, walls, columns, tilt-walls, elevated concrete slabs, elevator cores, stairways, etc.\n   Set and place forms to proper elevations and locations and may aid in installing reinforcing steel\n   Set and erect forms using a wide variety of materials and forming systems, primarily symon forms\n   Verify the accuracy of structures using a plumb bob, carpenters level, laser and/or digital transit.\n   Erect scaffolding and ladders for assembling structures above ground level\n   Communicate with Foreman, Riding Boss, or Project Manager regarding any problems arising, materials required, or any safety hazards identified\n   Ensure equipment is all in safe working condition\n   May help signal concrete deliverer to position truck to facilitate pouring\n   Responsible for observing and complying with all safety policies and guidelines\n   Assist with placement of concrete as needed\n   Perform other duties as assigned\n \n \n \n   Preferred Qualifications:\n \n \n   Experience in the construction or contracting industry\n   Excellent written and verbal communication skills\n   Strong analytical and critical thinking skills\n   Strong attention to detail\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "HVAC INSULATORS - DALLAS AREA",
+  "salary": null,
+  "jobType": null,
+  "company": "Construction Force, INC",
+  "location": "Dallas, TX 75247",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=203a71b205582b0e&fccid=6d09ee3cac288f91&vjs=3",
+  "id": "203a71b205582b0e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:15.681Z",
+  "description": "\n Now hiring for HVAC (Insulators) in the Dallas Metro area. \n Please apply online at https://constructionforce.clearcompany.com/careers/jobs to be considered for immediate placement. \n Please provide the following information: \n \n  Any license/certifications you hold.\n  \n \n  Availability to start.\n  \n \n  Pay rate requested.\n  \n You can also call the office at 254-412-2532 for further information.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Carpenter Helper",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Brasfield & Gorrie, LLC",
+  "location": "Dallas, TX 75206",
+  "rating": 4.1,
+  "reviewsCount": 190,
+  "url": "https://www.indeed.com/rc/clk?jk=5605892121131452&fccid=6cd9d561b7c97acd&vjs=3",
+  "id": "5605892121131452",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:16.016Z",
+  "description": "\n Responsibilities: \n \n   Brasfield & Gorrie is currently accepting applications for a Carpenter Helper. Below are the main responsibilities for this position.\n \n \n \n   (This description may not include all duties required of this position)\n \n \n   Help carpenters by performing duties of lesser skill.\n   Duties include using, supplying or holding materials or tools, and cleaning work area and equipment.\n   Build rough wooden structures, such as vertical and horizontal concrete forms, gang forms, column forms, scaffolds, or sewer supports, billboard signs, and temporary frame shelters, according to sketches, blueprints, or oral instructions.\n   May assist Carpenters in interior carpentry tasks such as install doors, wall forms, trim work and hardware.\n   Operate hand and power tools as required.\n   Must adhere to safety protocol, and work in a drug-free environment.\n  Education - Skills - Knowledge - Qualifications & Experience: \n \n   1 year Commercial Construction carpentry experience preferred.\n \n \n \n   EOE/Vets/Disabilities\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=5605892121131452&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgiw8XxiwNYTqSMq6yYrT03MIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=f1b273967bfdd048&assa=5807",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Construction Labor Crew Lead Trainee",
+  "salary": "$16 - $26 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Glass Doctor of Weatherford",
+  "location": "Dallas, TX 75006",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=f4f84302690ae9c2&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "f4f84302690ae9c2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:16.504Z",
+  "description": "\n looking for a construction crew lead trainee in the Dallas area. The job will be mostly full time with some flexibility. Need to have some kind of construction experience. Must have basic construction knowledge. Must have own transportation. Pay will be based on experience and tools owned. \n Notice \n  Synergistic International LLC is the franchisor of the Glass Doctor® franchised system. Each Glass Doctor® franchised location is independently-owned and operated by an independent franchisee performing services. As a service to its independent franchisees, Synergistic International LLC lists employment opportunities available throughout the franchised network so those employment opportunities may be conveniently found by interested parties at one central location for brand management purposes only. Synergistic International LLC is NOT the employer seeking help. The only employer is the independent franchisee who has listed its available positions on this website. \n \n  Acknowledgement\n  \n  I acknowledge that each independent Glass Doctor® franchisee hires and determines the terms and conditions of employment for its own employees. Any employment benefits, compensation and employment practices vary by location. Neither Synergistic International LLC (“Franchisor”) nor its affiliates have the power to: (1) hire, fire or modify the employment condition of franchisee’s employees; (2) supervise and control franchisee’s employee work schedule or conditions of employment; (3) determine the rate and method of payment; or (4) accept, review or maintain franchisee employment records. Synergistic International LLC is NOT the employer and/or joint employer for: (i) any of the job opportunities listed on this website; (ii) any of the independent franchisees; and, (iii) any of the employees of the independent franchisees.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Laborer ( SAME DAY PAY/ DAILY LABOR)****",
+  "salary": "$9.50 - $13.00 an hour",
+  "jobType": [
+    "Full-time",
+    "Part-time",
+    "Temporary"
+  ],
+  "company": "HireQuest Direct-Fort Worth",
+  "location": "Arlington, TX",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/HireQuest-Direct--Fort-Worth/jobs/General-Laborer-8081eb9c8e176b1c?fccid=36abcc1c00b08994&vjs=3",
+  "id": "8081eb9c8e176b1c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:17.104Z",
+  "description": "DO YOU WANT TO WORK AS LITTLE OR AS MUCH AS YOU WANT? GET PAID RIGHT AFTER? COME AND GET STARTED ASAP !!!\nJob description\nHiring for\n-warehouse\n-construction\n-janitorial\n-geneal laborers\n(BACKGROUND FRIENDLY)***\nYou need 2 forms of ID\nJob Types: Full-time, Part-time, Temporary\nPay: $9.50 - $13.00 per hour\nSchedule:\n\n 4 hour shift\n 8 hour shift\n Day shift\n Monday to Friday\n Weekend availability\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "CONCRETE FINISHERS (PAVING) - Austin Bridge & Road",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Austin Bridge & Road, LP",
+  "location": "Dallas, TX 75229",
+  "rating": 3.7,
+  "reviewsCount": 64,
+  "url": "https://www.indeed.com/rc/clk?jk=f72e236df0b8d486&fccid=289caf8dd320982d&vjs=3",
+  "id": "f72e236df0b8d486",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:17.361Z",
+  "description": "\n\n Austin Bridge & Road is currently seeking experienced Concrete Finishers for our North Texas Concrete Paving projects. We excel at what we do and are looking for talented construction professionals that want to excel with us.   The Concrete Finisher is responsible for smoothing and finishing surfaces of poured concrete floors, walls, sidewalks to specified textures, using hand tools or power tools, including floats, trowels and screeds. \n  Signals concrete deliverer to position truck to facilitate pouring concrete moves discharge chute of truck to direct concrete into forms. Spreads concrete into inaccessible sections of forms, using rake or shovel. Levels concrete to specified depth and workable consistency, using hand-held screed and floats to bring water to surface and produce soft topping. Smooth and shapes surfaces of freshly poured concrete, using straightedge and float or power screed. Finishes concrete surfaces using power trowel, or wets and rubs concrete with abrasive stone to impart finish. Removes rough or defective spots from concrete surfaces, using grinder or power chisel and hammer, and parches holes with fresh concrete or epoxy compound. Molds expansion joints and edges, using edging tools, Jointers and straightedge. May sprinkle colored stone chips, powdered steel, or coloring powder on concrete to produce prescribed finish\n  \n  \n  Responsibilities \n \n  Perform daily equipment maintenance and inspections \n  Assist paving crew with site preparation and any other activity as needed \n  Participate as a vital team member, contributing towards Austin’s success \n  Attend daily safety meetings \n  Follow safety policies and procedures \n  Work hours adjusted to meet the project’s needs; days, nights and weekends \n  Able to work in adverse weather conditions, hot or cold temperatures \n  Other duties as assigned \n  \n Qualifications \n \n  1+ years of experience operating asphalt equipment \n  Must have a strong commitment to jobsite safety \n  Diligent in demonstrating safe work practices.\n \n  \n  \n  We offer excellent benefits including medical, dental, life and disability insurance, and a matching 401K plan. We are proud to be a 100% Employee Owned Company! To learn more about Austin’s Employee Ownership history, please go to http://www.austin-ind.com/\n  \n  \n  Austin Bridge & Road is an Equal Opportunity Employer.\n  \n  \n  About Austin Bridge and Road\n  \n  \n  A leader in the heavy highway and transportation infrastructure industry for more than 100 years, Austin Bridge & Road has built landmark projects from Arizona to North Carolina, including complex urban highway interchanges, tollways, runways, port facilities, border crossings, automated people mover guide-ways and specialty bridges. Our customers rely on our expertise in construction management on conventionally bid projects and newer procurement methods, including design-build, construction manager at-risk and construction management/general contracting.\n  \n  \n  It is the policy of Austin Bridge & Road, L.P. to assure that applicants are employed and that employees are treated during employment without regards to their race, religion, sex, color or national origin, age, disability, or any other legally protected characteristics or status. Such action shall include: employment, upgrading, demotion, or transfer; recruitment or recruitment advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training, including apprenticeship, pre-apprenticeship, and/or on-the-job training.\n  \n  \n  No Agency Inquiries Please \n  Austin Industries and all operating divisions (Austin Bridge & Road, Austin Commercial, and Austin Industrial) do not accept unsolicited resumes, candidates’ names or summaries from staffing agencies, search firms, or third-party recruiters. Any unsolicited resumes, candidates’ names or summaries submitted to Austin Industries, or any of its employee-owners, become the property of Austin Industries and Austin Industries will not pay a placement fee.\n \n  Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities\n  The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=f72e236df0b8d486&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjUWxVIhOGB_tdt8wVbOs-7-BhdrQogdzP3xc9-PmOQTQ&vjfrom=serp&astse=d76729896e2e4d2f&assa=7229",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Laborer -Primoris Heavy Civil",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Cardinal Contractors Inc",
+  "location": "Dallas, TX",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=dfb6e7afe0669458&fccid=7b8dc8d35981c156&vjs=3",
+  "id": "dfb6e7afe0669458",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:17.550Z",
+  "description": "\n\n Job Description \n  Perform a variety of manual duties, usually working in a utility capacity by transferring from one project to another or from one task to another, where demands require assistance of workmen with varied experience and ability to work without close supervision. \n  General Requirements \n \n  Practice safety rules. \n  Follow verbal and written instructions. \n  Safe use of hand & power tools. \n  Report to and assist immediate supervisor. \n  Perform quality work as determined by project specifications. \n  Accountable for all tools and materials at the end of your shift. \n  Must work well as part of a team. \n \n Functional Requirements \n \n  Measure distance from grade stakes \n  Drive stakes \n  Stretch tight line \n  Grade stacks from lumber for reuse \n  Level earth to fine grade specifications with shovel to assist in pipe laying, and preparing sub grades and other excavations \n  Direct other laborers in dumping concrete into forms \n  Erect shoring and braces and paints pipe joints with sealing compound \n  Assist in setting pumps and setting well-points \n  May assist heavy construction equipment operator in aligning and moving equipment suck as cranes, power shovels and backhoes, verifying grades and signaling operators to adjust machines to conform to grade specifications. \n  Directs truck drivers and scraper operators to dumping positions to maintain grades as directed by Grading Foreman or Dumping Foreman. \n  Work in a concrete paving crew, adding to or removing concrete from in front of concrete finishing machines so that correct grade will be met \n  Occasionally use small power tools \n  May work as lead man in a labor crew \n  Will usually exercise considerable independent judgement to plan work of a routine nature; accepts responsibility for several phases and expedites that work without having to be told or be explained the procedure for performing duties \n  Other related duties as required \n \n Qualification Standards \n \n  Some industrial/construction/ general labor experience. \n  Post-offer drug/alcohol screen and physical evaluation. \n  New Hire Orientation Quiz \n  Applicant/employee must not pose a direct threat to the health or safety of such individual or others in the workplace. \n  Job site safety requirements as required by the client (clean shaven, long sleeves, steel toe boots, etc.). \n  Safety equipment as required by the client (hard hat, safety glasses, gloves, respirator, hearing protection, safety harness with lanyard, etc.). \n \n Physical Requirements \n \n  Must comply with company’s drug and alcohol abuse policy. \n  Must be able to pass physical examination, pre-employment if necessary, and as required by the company. \n  Able to climb and maintain balance on ladders, scaffolding, stairways, etc. \n  Stoop, kneel, crouch, crawl, or work at elevated heights as well as in confined spaces (towers, vessels, excavations, etc.). \n  Able to carry 50 lbs. of tool and/or materials. It is recommended to get assistance to lift items over 50 lbs. Check with your project supervisor or project safety director. \n  Must be able to stand or walk for long periods of time. \n  Must be able to work extended hours on your feet on uneven surfaces (dirt, concrete, asphalt, mud, gravel, etc.) \n  Must be clean shaven and able to work while wearing a respirator and other personal protective equipment, when required. \n \n Work Environment \n \n  Location: industrial construction sites and/or fabrication shop \n  Mobility Barriers to Access Job Site: \n   \n    Uneven ground level \n    Obstructed pathways \n    Work performed at low and/or high elevations \n    Work performed in confined areas \n   \n  Climatic/Environmental Conditions at Job Site: \n   \n    Predominately outdoor climate \n    May be exposed to extreme hot or cold weather \n    Excessive humidity, rain, etc. \n    Various noise levels caused by tools, machinery, equipment, etc. \n    Potential exposure to chemical substances\n   \n \n\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Glazier (Glass) Sales Representative",
+  "salary": "From $60,000 a year",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Claridge Products and Equipment",
+  "location": "Dallas-Fort Worth, TX",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Claridge-Products-and-Equipment/jobs/Glazier-Sales-Representative-3f24f96455407e93?fccid=601734f93a2a7223&vjs=3",
+  "id": "3f24f96455407e93",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:17.603Z",
+  "description": "Since 1947 Claridge has established itself as the standard, providing architects, contractors, and end users around the world with our unrivaled visual display products. We are driven to help clients apply their ideas and bring solutions to light. We continue to expand our capabilities by listening to the customer’s needs and endeavoring to leverage our vast capabilities by creating the best designs and most durable visual display products for our vision-driven clients. We are committed to ensuring successful projects for each of our clients.\nJob Summary: \nThe Glazier Sales Representative – Texas will be responsible for attracting new glazier accounts in Dallas, Houston, San Antonio, Austin, Denver and surrounding areas. The successful salesperson will source new sales opportunities in the writing surface industry and play a key role in increasing income and revenue by managing and negotiating with customers, generating leads, qualifying prospects and managing sales of products and services.\nDuties/Responsibilities: \n· Generate and follow up on leads\n· Build relationships with key glaziers through in-person and remote sales calls\n· Track sales calls and quote/order activity using tools provided by the company\n· Provide customer support when needed\nRequired Skills/Abilities: \n· Proven sales experience\n· Excellent verbal and written communication skills.\n· Proficient in Microsoft Office, Outlook and other basic technology\n· Organized and self-sufficient\n· Ability to travel 50% or more\nEducation and Experience: \n· High school diploma or equivalent required\n· At least five years of related experience required\nCompensation: \n· Base salary plus commission-DOE\nJob Type: Full-time\nPay: From $60,000.00 per year\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Flexible spending account\n Health insurance\n Health savings account\n Life insurance\n Paid time off\n Vision insurance\n\nSchedule:\n\n 8 hour shift\n Monday to Friday\n\nSupplemental pay types:\n\n Commission pay\n\nExperience:\n\n Construction: 1 year (Preferred)\n Glass installation: 1 year (Preferred)\n Customer service: 1 year (Preferred)\n\nWork Location: On the road",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Experienced Gutter Installer",
+  "salary": "$18 - $26 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Brothers That Just Do Gutters - North Dallas",
+  "location": "Richardson, TX 75081",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=c4f29934b68eec87&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "c4f29934b68eec87",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:20.406Z",
+  "description": "\n Are you tired of feeling under appreciated and not having a clear defined career path in your job? Imagine if you could know exactly what you needed to do to receive a pay raise and promotion from day one. At The Brothers that just do Gutters, you \n can! We provide a \n skills ladder training program that clearly defines each worker's career path, expectations, and raise potential.We truly believe in investing in our employees and have created a work culture unlike any other. We also offer huge opportunities for growth.This is an experienced position and the ultimate candidate will have at least 2 years of skilled carpentry and/or exterior construction experience. A positive attitude is a must, as well as the ability to properly, and comfortably interact with clients and other employees. You will be groomed for leadership in the field, to be part of a family, and to grow with an established brand.\n Requirements:\n  \n  2 years experience in skilled carpentry and/or exterior construction \n  Positive attitude \n  Excellent communication skills \n  Ability to work outdoors in all weather conditions/seasons \n  Interest in growing with the company \n  Willingness to work overtime \n  Previous experience specifically related to gutter services/installation, and a passion for all things gutters (like us) is a huge plus! \n \n Compensation: Hourly Position ($20-$26) - Salary commensurate with experience\n Required experience:\n  \n  Construction/Carpentry: 2 years \n  Must be 18 or older \n  Must have a valid drivers license \n \n About The Brothers that just do Gutters:The Brothers that just do Gutters are a full-service rain gutter and gutter guard franchise. We repair, install, and maintain Seamless Gutters, Gutter Guard, Specialty Gutters and many other services. The Brothers currently have other franchise locations in NJ, VA, PA, and FL. We are a performance-based company that focuses on delivering defined career paths to individuals with goals and aspirations and we fully invest in our workers. We believe that it is important to listen and create a comfortable work environment for all. Don’t settle for a fixer-upper career, join us. \n This franchise is independently owned and operated by a franchisee. Your application will go directly to the franchisee, and all hiring decisions will be made by the management of this franchisee. All inquiries about employment at this franchisee should be made directly to the franchisee, and not to Brothers That Just Do Gutters Corporate.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Roof Technician",
+  "salary": "$150 - $200 a day",
+  "jobType": [
+    "Full-time",
+    "Contract"
+  ],
+  "company": "Green Roofing & Construction",
+  "location": "Green Roofing & Construction in Colleyville, TX 76034",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Green-Roofing-&-Construction/jobs/Roof-Technician-0c15c9f993876235?fccid=4880b151e28f6b67&vjs=3",
+  "id": "0c15c9f993876235",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:20.870Z",
+  "description": "We are looking to add to our leak and maintenance department. The candidate must be able to carry up to a 40 foot ladder and climb steep roofs. Roof systems range from flat roofs, apartment roofs, residential roofs, etc. Training available for the right candidate but prior experience will move candidate to the top of the list. Must be able to pass a back ground check and drug test. Tech will be 1099 and day rate pay.\nJob Types: Full-time, Contract\nPay: $150.00 - $200.00 per day\nSchedule:\n\n 10 hour shift\n 8 hour shift\n Monday to Friday\n On call\n Weekend availability\n\nExperience:\n\n Construction: 2 years (Required)\n Roofing: 1 year (Required)\n\nLicense/Certification:\n\n Driver's License (Required)\n\nWillingness to travel:\n\n 25% (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Lead Craftsperson - Drywall Experience",
+  "salary": "$25 - $32 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Ace Handyman Services Collin County",
+  "location": "Allen, TX 75013",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=ee083b8cac995701&fccid=6b30207831956ec2&vjs=3",
+  "id": "ee083b8cac995701",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:21.064Z",
+  "description": "\n Job Benefits: · Monday through Friday work week (8am to 5pm) - No weekend work. · Positive work environment. · Advancement into a well-paying lifelong career. · Locally owned company with the backing of a national brand, Ace Hardware. · Very competitive pay, performance bonuses, and vacation pay · W-2 status with the flexibility of an independent job · Vehicle and tool allowances · Fun, collaborative environment \n We are one of Collin County's top-rated handyman, repair, and remodeling companies. Since 2007, we have provided homes and businesses throughout Allen, Plano, McKinney, and Frisco \n with quality craftsmanship for all of their handyman needs. We are currently seeking highly motivated professional Lead Craftsperson with drywall experience and \n skills in multiple trades. \n Job Responsibilities · Perform all types of quality handyman repairs · Carpentry · Drywall repair · Painting · Tile work \n Qualifications · 3+ years of Carpentry, Drywall, or Handyman experience · Own truck or van and tools · Strong work ethic and professional demeanor · Excellent customer service skills · Collaborative, optimistic, reliable · Knowledgeable in multiple trades \n We pay our employees competitive wages, offer incentives, and the ability to grow with the company. If this sounds like the kind of position you’ve been looking for we want to hear from you. Apply today! \n Ace Handyman Services is a franchise network of Independently Owned and Operated Franchises. Your application will go directly to the franchise owner, and all hiring decisions will be made by the management of that franchise. All inquiries about employment at this franchise should be made directly to the franchise owner, and not to Ace Handyman Services Corporate.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Skilled Laborer/Groundman",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "MasTec Inc",
+  "location": "Mansfield, TX 76063",
+  "rating": 3,
+  "reviewsCount": 57,
+  "url": "https://www.indeed.com/rc/clk?jk=32c11021bbfa53f7&fccid=c23b4c79b853e544&vjs=3",
+  "id": "32c11021bbfa53f7",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:21.269Z",
+  "description": "\n Overview: \n \n   MasTec Communications Group gives you the opportunity to utilize your telecom construction expertise. MasTec Communications Group takes great pride in providing engineering, construction, design, and management solutions that meet the growing telecommunications needs throughout the United States. Join our fast-growing team of professionals and help us provide the highest level of quality service to our customers and communities while maintaining our commitment to safety. Join us in expanding technology for a better community.\n \n \n \n   MasTec is a proud supporter of our U.S. military, veterans, and their families - Thank You for Your Service! Active military, transitioning service members, and veterans are strongly encouraged to apply.\n \n \n \n   Benefits at MasTec Communications Group, we want to be the best place you could ever work! Launching your career with MasTec gives you access to a variety of opportunities in a challenging, rewarding, and innovative global environment. We are committed to providing a work environment that fosters education, training, and certification on the latest technology and processes. Plus, we offer competitive compensation and full benefits. Benefits include:\n \n \n   Health, dental, vision (after 30 days)\n   Stock options and 401(k) with match (after 6 months)\n   Generous Paid Time Off\n \n \n   Incentive programs where opportunities are discovered, and careers are made. MasTec, Inc. is an equal employment opportunity employer. The Company's policy is not to unlawfully discriminate against any applicant or employee on basis of race, color, sex, religion, national origin, age, disability, genetic information, military status, or any other consideration made unlawful by applicable federal, state, or local laws. The Company also prohibits harassment of applicants and employees based on any of these protected categories. It is also MasTec's policy to comply with all applicable state, federal and local laws respecting consideration of unemployment status in making hiring decisions.\n \n \n \n   Job Summary\n \n \n   The Telecommunications Skilled Laborer/Groundman is responsible for preparing the and cleaning construction sites by removing debris and possible hazards, loading, and unloading building materials to be used, operating equipment and machines, and helping craft workers with their duties. This position supports the Construction team and works with personnel within the department.\n  Responsibilities: \n \n  Clean and prepare the construction site for work, remove debris and possible hazards\n   Assist the tradesman to be able to complete their skilled task more effectively.\n   Identify utilities and monitor digging by dig crew to prevent utility hits.\n   Clean and maintain equipment\n   Restock trucks with supplies and ensure crew have the proper tools and supplies to complete the job\n   Perform other duties as required or assigned.\n  Qualifications: \n \n  High School Diploma or equivalent\n   1 or more year of experience\n   Previous experience with flagging\n   A valid Driver’s license with a CDL preferred\n   Precise eye hand coordination\n   Good written and verbal communication skills.\n   Ability to identify and distinguish colors of utility flags and markings on the ground.\n \n \n   #MasTecCommunicationsGroup #MasTecCommunicationsCareers #ByersEngineeringCompany #DecisiveCommunications #MasTecNetworkSolutions #QuadGen #RhinoCableServices #RJCarrollCompany #SEFNCOCommunications #WycoFieldServices #MasTecFamily\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=32c11021bbfa53f7&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXh5DgyCjf9jRIYOHHVWL-stXEqzEHpaMck04qufWYB5sg&vjfrom=serp&astse=f61ed70cf9cc4b68&assa=916",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Laborer/Groundman",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "MasTec Network Solutions",
+  "location": "Mansfield, TX 76063",
+  "rating": 3.4,
+  "reviewsCount": 305,
+  "url": "https://www.indeed.com/rc/clk?jk=382b6802cf337e1a&fccid=848e50795c5da9b5&vjs=3",
+  "id": "382b6802cf337e1a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:21.387Z",
+  "description": "\n Overview: \n \n   At MasTec Communications Group we build for the future. Yours and ours.\n \n \n \n   As a\n   Laborer/Groundman, you will develop new skills, work in a safety-minded environment, and join us in expanding technology for a better community. Join the MasTec family and help us provide the highest level of quality service to our customers and communities while maintaining our commitment to safety!\n \n \n \n   As a \n  Laborer/Groundman, you are responsible for providing general labor for aerial and underground construction projects. You believe in doing the job right. Being the best. And you’re up for the challenge.\n \n \n \n   Financial Security\n \n \n   401(k) with company match\n   Employee Stock Purchase Plan (ESPP)\n   Life insurance\n   Short-term and Long-term disability\n   Red Wing Boot Voucher\n \n \n   Health and Wellness\n \n \n   Medical, dental and vision insurance\n   HSA flexible spending\n   Dependent care flexible spending\n   Employee Assistance Program (EAP)\n \n \n   Work/Life Balance\n \n \n   Paid time off\n   Paid holidays\n   Family and medical leave\n   Bereavement leave\n \n \n   Employee Referral Program\n \n \n \n   Refer someone who delivers excellence just like you and receive a $1,000 incentive for a referral that becomes a permanent hire!\n \n \n \n   We meet your commitment with competitive pay and benefits. If this sounds like you, let’s talk. \n  Build your career with MasTec!\n \n \n \n   MasTec, Inc. is an equal employment opportunity employer. The Company's policy is not to unlawfully discriminate against any applicant or employee on the basis of race, color, sex, religion, national origin, age, disability, genetic information, military status, or any other consideration made unlawful by applicable federal, state, or local laws. The Company also prohibits harassment of applicants and employees based on any of these protected categories. It is also MasTec's policy to comply with all applicable state, federal and local laws respecting consideration of unemployment status in making hiring decisions.\n  Responsibilities: \n \n   Responsibilities and Duties\n \n \n \n   Conduct general labor on construction sites\n   Conduct placement of conduit as directed by Foreman or Supervisor \n  Be involved in map reading and directions \n  Support with trench digging and closing \n  Support with the movement of materials and vehicles as directed by Foreman or Supervisor \n  Conduct maintenance services as directed by Foreman to include: - Cleanup, Wash Vehicles, Landscaping \n  Perform all duties according to prescribed safety procedures and uses appropriate safety equipment.\n   Be involved with vehicle and equipment operations from trucks to other equipment as directed and certified\n   Tow various trailers with flatbed trucks\n \n \n   Conduct Aerial/Underground work as needed and directed and as trained \n  Troubleshoot RF and Fiber line and or equipment issues \n \n \n  Construct and repair underground RF and Fiber service \n  Learn how to read and construct from a design schematic of map \n  Learn all inventory and equipment required for these projects \n  As applicable, learn and be certified on the use of equipment: \n  \n   Line truck \n   Bucket truck \n   Cable Reel equipment \n   Saws and drills \n  \n  Climb poles with climbing equipment safely \n  Move and relocate RF and Fiber service\n   Be familiar with NESC (National Electrical Safety Commission) safety guidelines\n  Qualifications: \n \n   Qualifications and Requirements:\n \n \n   Safety is a part of your day to day\n   You have a track record of completing work with a high level of quality\n   You have a knack for figuring out hard problems and enjoy a hands-on approach to your work\n   You are looking for long term projects\n   You enjoy getting your hands dirty with your team\n \n \n   You have a valid Driver’s License\n   You have a clean driving record \n  You can lift and carry up to 70 lbs \n  Have the ability to read and understand maps, drawings, and diagrams for the project build process \n  Must pass UI Test (urinalysis) \n  Ability to read and understand design schematics and maps \n  Climbing certification or related experience \n  Practical working experience in overhead construction for both RF and Fiber \n  Knowledge of Overhead Bill of Materials \n  City, County, and State clearance code knowledge and related \n  Extensive knowledge of Network architecture and design for both RF and Fiber networks \n  Flagger Certified for field work as needed \n \n \n  Excellent verbal, written, phone, and interpersonal skills\n   Ability to work in a fast-paced high volume work environment\n \n \n   Hard work pays off. See what you’ll get for your effort:\n \n \n \n   #MasTecCommunicationsGroup #MasTecCommunicationsCareers #ByersEngineeringCompany #DecisiveCommunications #MasTecNetworkSolutions #QuadGen #RhinoCableServices #RJCarrollCompany #SEFNCOCommunications #WycoFieldServices #MasTecFamily\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Experienced Concrete Cutter",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Penhall Company",
+  "location": "Dallas, TX",
+  "rating": 3.1,
+  "reviewsCount": 137,
+  "url": "https://www.indeed.com/rc/clk?jk=0ee89cc894eaa8a2&fccid=8ac94623d647e0ec&vjs=3",
+  "id": "0ee89cc894eaa8a2",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:21.971Z",
+  "description": "\n \n  JOB DESCRIPTION \n  Main Purpose: \n   Core drilling, concrete sawing, cutting and removal of concrete \n   Key Relationships: \n   Internal \n   \n   Foreman, Division Manager, Area General Manager, VP \n   Shop Manager/Dispatch, Mechanics, Technicians, Laborers, Administrative Staff \n   \n  External \n   \n   Industry Associations, Customers \n   \n  Specific Role Responsibilities: \n   \n   Must have a minimum of one year core drilling, concrete sawing, cutting and/or removal experience.  \n   Solid experience with concrete sawing, cutting and/or removal  \n   Proficiency in any or all of the following diamond or demolition tools: wall saw, core drill, flat saw, handsaws, ring saws and/or compressor tools.  \n   Strong mechanical abilities  \n   Safety Oriented  \n   Willing to work hard  \n   Dependable & reliable  \n   Work as a team  \n   Career Oriented  \n   Willing to learn  \n   Able to lift & move 45lbs or more  \n   Willing to work in weather conditions that may be adverse (hot/cold/rain)  \n   Mathematical aptitude helpful (willing to train measurements & calculations)  \n  \n  Travel: \n   \n   Possible, to other Regional Locations if necessary\n  \n \n \n\n\n \n  JOB REQUIREMENTS \n  Requirements: \n   \n   Cut, drill, saw, and remove concrete \n   Work at various job sights \n   Work with demolition tools, wall saw core drill, flat saw, handsaw, rig saws, and compressor tools \n   Pass a required pre-employment drug screen & random \n   Pass a pre-employment background \n   Must possess a valid unrestricted driver's license and have a good driving history \n   Ability to work days/nights/weekends or out of town if necessary \n   Required to adhere to all safety rules and regulations \n   Must have reliable transportation \n   Must have steel toe leather work boots \n   \n  Penhall Company is an Equal Opportunity Employer. Penhall Company encourages qualified females, minorities, veterans, disabled persons to apply.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=0ee89cc894eaa8a2&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiPyusLX76aDUu_f6y6778oMIfcMu539kP3i1FMxIq2rA&vjfrom=serp&astse=7e9b417854e471e6&assa=1780",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Skilled Laborer/Groundman",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "MasTec Network Solutions",
+  "location": "Mansfield, TX 76063",
+  "rating": 3.4,
+  "reviewsCount": 305,
+  "url": "https://www.indeed.com/rc/clk?jk=351ad6a4192ce6a3&fccid=848e50795c5da9b5&vjs=3",
+  "id": "351ad6a4192ce6a3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:22.170Z",
+  "description": "\n Overview: \n \n   MasTec Communications Group gives you the opportunity to utilize your telecom construction expertise. MasTec Communications Group takes great pride in providing engineering, construction, design, and management solutions that meet the growing telecommunications needs throughout the United States. Join our fast-growing team of professionals and help us provide the highest level of quality service to our customers and communities while maintaining our commitment to safety. Join us in expanding technology for a better community.\n \n \n \n   MasTec is a proud supporter of our U.S. military, veterans, and their families - Thank You for Your Service! Active military, transitioning service members, and veterans are strongly encouraged to apply.\n \n \n \n   Benefits at MasTec Communications Group, we want to be the best place you could ever work! Launching your career with MasTec gives you access to a variety of opportunities in a challenging, rewarding, and innovative global environment. We are committed to providing a work environment that fosters education, training, and certification on the latest technology and processes. Plus, we offer competitive compensation and full benefits. Benefits include:\n \n \n   Health, dental, vision (after 30 days)\n   Stock options and 401(k) with match (after 6 months)\n   Generous Paid Time Off\n \n \n   Incentive programs where opportunities are discovered, and careers are made. MasTec, Inc. is an equal employment opportunity employer. The Company's policy is not to unlawfully discriminate against any applicant or employee on basis of race, color, sex, religion, national origin, age, disability, genetic information, military status, or any other consideration made unlawful by applicable federal, state, or local laws. The Company also prohibits harassment of applicants and employees based on any of these protected categories. It is also MasTec's policy to comply with all applicable state, federal and local laws respecting consideration of unemployment status in making hiring decisions.\n \n \n \n   Job Summary\n \n \n   The Telecommunications Skilled Laborer/Groundman is responsible for preparing the and cleaning construction sites by removing debris and possible hazards, loading, and unloading building materials to be used, operating equipment and machines, and helping craft workers with their duties. This position supports the Construction team and works with personnel within the department.\n  Responsibilities: \n \n  Clean and prepare the construction site for work, remove debris and possible hazards\n   Assist the tradesman to be able to complete their skilled task more effectively.\n   Identify utilities and monitor digging by dig crew to prevent utility hits.\n   Clean and maintain equipment\n   Restock trucks with supplies and ensure crew have the proper tools and supplies to complete the job\n   Perform other duties as required or assigned.\n  Qualifications: \n \n  High School Diploma or equivalent\n   1 or more year of experience\n   Previous experience with flagging\n   A valid Driver’s license with a CDL preferred\n   Precise eye hand coordination\n   Good written and verbal communication skills.\n   Ability to identify and distinguish colors of utility flags and markings on the ground.\n \n \n   #MasTecCommunicationsGroup #MasTecCommunicationsCareers #ByersEngineeringCompany #DecisiveCommunications #MasTecNetworkSolutions #QuadGen #RhinoCableServices #RJCarrollCompany #SEFNCOCommunications #WycoFieldServices #MasTecFamily\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Construction Crew Leader",
+  "salary": "$71,500 - $84,500 a year",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Willborn",
+  "location": "Dallas, TX",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=fcc95d0c00751fce&fccid=854e510562bab2ae&vjs=3",
+  "id": "fcc95d0c00751fce",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:22.480Z",
+  "description": "\n \n  COMPANY DESCRIPTION\n \n \n   With over 150 years of combined experience, Davidson Oil, Flying Star Transport and Willborn Fuel Systems supply, transport, store and dispense the petroleum products that keep our communities moving. As a second generation family owned business we strive to provide our customers the confidence of an energy supply chain that consistently works without their ongoing concern.\n \n \n \n   COMPANY MISSION\n \n \n   To provide peace of mind through seamless energy\n \n \n \n   COMPANY VISION\n \n \n   Become downstream petroleum's most trusted partner.\n \n \n \n   COMPANY VALUES\n \n \n   All employees are expected to live by, and encourage others to live by, our Principles of Progress (POP)\n \n \n  \n    Peace of Mind\n    Reach for competitive excellence, never stop improving\n    Operate with integrity and good judgment\n    Go forward with a sense of curiosity, adventure and fun\n    Recognize the value of lasting relationships\n    Execute with a sense of teamwork and accountability\n    Serve others selflessly\n    Show professionalism while delivering results\n  \n \n \n \n   JOB PURPOSE\n \n \n   Leading, managing, training, and mentoring the Fuel Systems Construction project crew. A crew leader must prioritize, delegate responsibility, inspect work, keep accurate records, interact with both customers and contractors, and ultimately ensure projects are completed efficiently, accurately, on-time, and on-budget.\n \n \n \n   KEY BEHAVIORAL REQUIREMENTS\n \n \n  \n    Be a charismatic motivator of people. Authoritative when needed. \n    Thrive in a fast paced work environment with frequent change.\n    Be capable of independent decision making while always mitigating business risk.\n    Be an effective communicator with subordinates, supervision, and peers.\n    Be capable of leading highly functional teams and disciplined processes.\n    Have excellent problem-solving skills \n    Be a learner capable of picking up new processes, procedures, and techniques related to fuel systems work. \n    Have excellent follow-up skills to ensure highest levels of customer service and quality craftsmanship.\n  \n \n \n \n   ESSENTIAL RESULTS\n \n \n  \n    Lead highly functional, disciplined construction teams by:\n    Modeling and coaching our company's core values\n    Training, evaluating, and engaging the best employees\n    Never losing sight of the fundamentals that make us successful\n    Managing morale while also managing profitability\n    Using technology as a competitive advantage\n   \n    Ensure safe, quality, efficient, and timely delivery of Willborn projects by:\n    Planning, leading, and inspecting new construction projects.\n    Taking an active role in project management decisions and uses of material and human resources\n    Ensuring highest levels of customer service by service staff\n    Ensuring ongoing maintenance, security, and safety of Willborn equipment, shops, tools, and parts\n    Communicating frequently with service staff on performance toward established operational goals\n    Using accurate & timely record keeping, as well as key performance indicators (KPI's) to create a learning organization that minimizes costly mistakes.\n    \n   Maintain Willborn product and service offerings by:\n    Creating and maintaining lasting relationships with customers, vendors, and contractors\n    Collaborating with internal and external Davidson Oil personnel, with emphasis on the service and parts departments. \n    Staying abreast of new products, laws, regulations, licenses, and certifications. \n    Actively seeking applicable licenses, and certifications\n    Directing Willborn construction projects in a way that builds our brand\n   \n    Help the Construction department meet established revenue, expense, and profit targets by:\n    Keeping score. Creating a culture of continuous improvement. \n    Monitoring bids, budget allocations, expenditures, and other related financial metrics.\n   \n    Demonstrate superior leadership to subordinates and positively influence other teams by:\n    Giving clear direction\n    Inspecting what is expected\n    Striving to work \"one level up\", and requiring the same from subordinates\n    Learning new skills\n    Living and modeling our \"POP Leadership\" skillsets\n   \n    Maintain and increase external and internal customer satisfaction by:\n    Demonstrating a highly developed sense of integrity and commitment to customer satisfaction. \n    Demonstrating a passion for excellence with respect to caring for customers. \n    Having a pleasant, patient, and friendly attitude. \n    Demonstrating strong communication/listening skills. \n    Possessing a strong work ethic and team player mentality.\n   \n    Contribute to the overall goals and success of the company by:\n    Willingly accepting new assignments\n    Completing other tasks and projects as assigned\n    Helping team members\n    Learning new skills\n    Striving to improve team results\n  \n \n \n \n   MINIMUM QUALIFICATIONS\n \n \n  \n    Must be 18 years of age\n    Must have a clean driving record\n    Must be able to pass pre-employment drug & background checks\n    Must have a high school diploma\n    Training and certifications in OSHA Safety, Underground Petroleum Storage Tank Installation, Plumbing, Mechanical, Electrical, and Computer networking also a plus\n    Must have knowledge and ability to operate small to mid-sized construction equipment\n    Must have ability to express ideas concisely and clearly, orally and in writing\n  \n \n \n \n   PHYSICAL REQUIREMENTS & ENVIRONMENTAL CONDITIONS\n \n \n  \n    Exerting up to 100 pounds of force occasionally, and/or up to 50 pounds of force frequently, and/or up to 20 pounds of force constantly to move objects.\n    Required to have visual acuity to operate motor vehicles or equipment and operating machines where the seeing job is at or within arm's reach\n    The worker is subject to outside environmental conditions with no effective protection from the weather and may be subject to both extreme heat and extreme cold.\n  \n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Laborer (Hourly)",
+  "salary": null,
+  "jobType": null,
+  "company": "Holder Construction",
+  "location": "Red Oak, TX",
+  "rating": 3.9,
+  "reviewsCount": 78,
+  "url": "https://www.indeed.com/rc/clk?jk=421b77299d5495ae&fccid=7b2a83c23e8b3e15&vjs=3",
+  "id": "421b77299d5495ae",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:25.571Z",
+  "description": "Job duties/responsibilities include loading/unloading of deliveries, handling / moving jobsite materials, cleaning / preparing workspaces, digging, assisting safety professional, assisting carpenters, as well as a various jobsite operations. \n\n An ideal candidate for this position will possess 1-year of construction experience and an understanding of safety and general constructability knowledge. This position will provide primary support to our field supervision and must demonstrate ownership of assigned tasks, maintain professionalism, and use critical thinking to solve issues. \n\n We are a performance-based company with an excellent career development program which provides our associates a great opportunity to increase role/responsibilities quickly. We offer an excellent compensation and benefits package which includes paid time off, health, life, dental, vision, and a 401(k)-retirement plan. \n\n Please note that Holder Construction Company does not sponsor anyone for immigration benefits or immigration status. \n\n Interested candidates can apply in person between the hours of 7:00 a.m. – 3:00 p.m., Monday through Friday at the following location: \n\n Holder Construction Company \n\n 3441 Railport Parkway \n\n Midlothian, TX 76065 \n\n \nSeth Widner: 678-525-3097 \n\n Holder is committed to the principle of equal opportunity in employment. \n\n Substance Abuse Testing and Background Screening is a condition of employment. \n\n BUILD YOUR CAREER \n\n WHO WE ARE \n\n The best teams trust Holder to deliver their most important work. Our people redefine the construction experience. We lead with integrity. We seek excellence. We care more. \n\n As a strong and stable company since 1960, Holder provides nationwide construction management services on complex projects in the aviation, office, technology, education, hospitality, and interiors markets. Our mission is to provide clients with quality construction services across the country, supported by our offices in Atlanta, Charlotte, Dallas, Denver, Phoenix, San Jose, and Washington DC. At Holder, our most valuable resources are our people, who carry forth our core values, brand, and reputation for performance. \n\n OUR PROMISE TO YOU \n\n We encourage authenticity and encourage support to ensure you can perform at your best \n\n Company culture is based on integrity of leadership, high performance, care and connection, development, and continuous improvement \n\n Organic growth from within the organization \n\n Security and stability of a consistent top 20 ENR contractor \n\n Respectful, trusting, inclusive, and collaborative working environment \n\n We are a performance-based company with an excellent career development program. We offer a top notch compensation and benefits package. More on benefits. \n\n EEO - AAP \n\n Substance abuse testing is a condition of employment.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=421b77299d5495ae&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXge0cV3RJ63SpBNByu5IlEPGQFsFDP3gSdjjHZnj9ZEfg&vjfrom=serp&astse=b4853835f3f59d37&assa=5279",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Laborer",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "DHL | Supply Chain",
+  "location": "1500 Akron Way, Forney, TX 75126",
+  "rating": 3.7,
+  "reviewsCount": 22733,
+  "url": "https://www.indeed.com/rc/clk?jk=d5c1696981ed4f98&fccid=5b8d10630cb111eb&vjs=3",
+  "id": "d5c1696981ed4f98",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:25.582Z",
+  "description": "\n For Santation.\n  Role Purpose:\n \n  Performs tasks that require physical abilities and effort involving minimal specialized skill or prior work experience. Responsible for the accurate storing, shipping, and receiving of product to meet company standards or safety, security, and productivity.\n \n  Key Accountabilities:\n \n \n   Manually load and unload freight in an efficient and safe manner.\n   Provide physical labor to move product to storage areas with proper material handling equipment and efficiently stack and store the merchandise in the appropriate area.\n   Assemble various types of merchandise to be shipped. Sort, recoup, pack, mark, and label materials. Check or count freight for accuracy and/or damage and infestation.\n   Perform duties needed for assembling displays and other specialty value-added services per the customers’ requirements.\n   Participate in physical inventories.\n   Performs general grounds/building maintenance.\n \n \n  Required Education and Experience:\n \n \n   High School Diploma or Equivalent, preferred\n   0 to 12 months experience in a warehouse setting, preferred\n \n \n  Our Organization is an equal opportunity employer.\n  \n  \n  Brand: DHL \n  Address: 1500 Akron Way Forney, TX - 75126 \n  Property Description: 3517 - Forney TX SWRC \n  Property Number: 3517\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Streets/Stormwater Maintenance Worker",
+  "salary": "$14.21 - $17.10 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "City of Garland, TX",
+  "location": "Garland, TX 75040",
+  "rating": 3.3,
+  "reviewsCount": 13,
+  "url": "https://www.indeed.com/rc/clk?jk=e602c265ceafae7d&fccid=806172ce5ab4785f&vjs=3",
+  "id": "e602c265ceafae7d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:25.428Z",
+  "description": "\n Position Summary: \n \n   Responsible for performing semi-skilled or skilled tasks in the repair of streets, alleys, creeks and channels.\n \n \n \n   Target Hiring Range: $14.21/hr - $17.10/hr\n  Essential Job Functions: \n \n   1) Operate 6 yard dump truck.\n   2) Transport materials between job sites.\n   3) Service and maintain vehicle.\n   4) Patch streets and alleys with hot mix.\n   5) Set steel on concrete paving projects.\n   6) Crack seal streets and alleys.\n   7) Clean inlets.\n   8) Clean around job site\n  Minimum Education & Work Experience :  High School Diploma or equivalent  No experience necessary Or an equivalent combination of education and experience sufficient to successfully perform the essential functions of the job. Preferred Knowledge - Abilities & Skills: \n \n   Knowledge, Skills & Abilities:\n \n \n  \n   \n     Knowledge of, experience or training in construction and maintenance of streets and underground drainage systems\n   \n  \n   \n     Knowledge of safety practices and hazards standard to work area\n   \n  \n   \n     Skill to operate various equipment and machinery\n   \n  \n   \n     Ability to understand and implement verbal and written instructions\n   \n  \n   \n     Ability to perform physical labor\n   \n  \n   \n     Ability to comprehend written and oral work assignments and perform work as assigned\n   \n  Licenses & Certifications:  Must have or be able to acquire a valid Texas Class A Commercial Driver’s License with a Tanker Endorsement within six months of hire  Valid Class C Texas driver's license Physical Tasks & Working Conditions: The incumbent works in a field environment including construction sites; outside in extreme heat/ cold, wet weather and noisy conditions. Competencies: Adaptability/Flexibility Communication Customer Service Dependability Personal Organization Productivity Teamwork\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=e602c265ceafae7d&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXj-2xONTfz3mFJx2Z4_L3TGQPTx7ack05kPwIeOSvQquQ&vjfrom=serp&astse=cfac8d92dd2eaf88&assa=5295",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Operator Trainee",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Penhall Company",
+  "location": "Dallas, TX",
+  "rating": 3.1,
+  "reviewsCount": 137,
+  "url": "https://www.indeed.com/rc/clk?jk=7736f155e149cecc&fccid=8ac94623d647e0ec&vjs=3",
+  "id": "7736f155e149cecc",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:25.686Z",
+  "description": "\n \n  JOB DESCRIPTION \n  Main Purpose: \n   Assist experienced Operators with general labor duties while learning core drilling, concrete sawing, cutting and removal of concrete. \n   Key Relationships: \n   Internal \n   \n   Division Manager, Area General Manager, VP \n   Shop Manager/Dispatch, Mechanics, Technicians, Laborers, Administrative Staff \n   \n  External \n   \n   Industry Associations, Customers \n   \n  Specific Role Responsibilities: \n   \n   Cut, saw, lift, core drill concrete \n   Maintain Penhall Company equipment: vehicles, diamond blades, flat saws, core drills, wall saws, jackhammers and small tools. \n   Ensure inspection, general maintenance, security and cleanliness of all company equipment\n  \n \n \n\n\n \n  JOB REQUIREMENTS \n  \n   Experience in labor roles, preferably in construction, demolition, plumbing, etc. \n   Solid mechanical aptitude. \n   Self-motivation, a strong work ethic and willingness to work in challenging conditions (rain, cold, heat, etc.). \n   Ability to lift and be mobile with 45 lbs. or more. \n   Basic mathematical skills. \n   Experience with wall saws, core drills flat saws, handsaws, ring saws and/or compressor tools such as jackhammers preferred. \n   Bobcat, backhoe or related equipment experience preferred. \n   \n  Penhall Company is an Equal Opportunity Employer. Penhall Company encourages qualified females, minorities, veterans, disabled persons to apply.\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=7736f155e149cecc&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXh4uMyIygsUI5wveDuhFpdbkiS-2XS_43VyhyRGICpJaw&vjfrom=serp&astse=df6f7bdd8adf2e6f&assa=5381",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Carpenter",
+  "salary": "Up to $22 an hour",
+  "jobType": null,
+  "company": "MEYER DISTRIBUTING INC",
+  "location": "Arlington, TX 76011",
+  "rating": 3,
+  "reviewsCount": 163,
+  "url": "https://www.indeed.com/rc/clk?jk=aa2c96a428245484&fccid=8f3b5cdc31185b04&vjs=3",
+  "id": "aa2c96a428245484",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:26.609Z",
+  "description": "\n Meyer Distributing is looking for a Carpenter to join our Arlington team.\n  Meyer Distributing is a complete wholesale distributor: automotive, RV/towing, outdoor living, marine, and more. With 85+ locations across the country, Meyer services dealers nationwide. Meyer Logistics is a transportation company that serves as the backbone of Meyer Distributing’s shipping network. Meyer Logistics has a fleet of 500+ top-of-the-line trucks. Meyer Distributing & Logistics are driven to perform – come join our team today!\n  Preferred experience for Carpenter/Framer (construction technician):\n \n   Prefer one year of experience\n   Prefer both metal and wood stud experience\n \n  Pay\n  Up to $22.00 per hour\n  Schedule:\n \n   6am to 3:30pm- Monday through Thursday\n   6am to 2pm- Friday\n \n  License Requirements for Carpenter:\n \n   Must maintain a valid Texas driver license and a good driving record.\n \n  Requirements for Carpenter\n \n   Ability to prioritize tasks\n   Ability to follow directions and protocol procedures\n   Able to work under minimal supervision\n   Good communication ability\n   Think quickly when under pressure\n   Standing or walking for long periods of time\n   Capable of lifting fifty pounds unassisted\n   Ability to operate a variety of equipment\n   Stand in the heat for long periods of time\n   Must be available to travel\n \n  Benefits for Framing Carpenter:\n \n   Medical\n   Vision\n   Dental\n   Disability\n   Life Insurance\n   401K with Company Match\n   Paid Vacation\n   Paid Holidays\n   Personal Days Available\n   20% Employee Discount\n   Casual Dress Code\n   Health Savings Account\n   Tuition Reimbursement Options Available\n \n  Construction Technician duties include but are not limited to:\n \n   Implement preventative maintenance measures\n   Metal studs\n   Framing\n   Drywall\n   Painting\n   Carpentry focused, but might do some other construction work\n   Maintain inventory repair equipment and supplies\n   Complete inspections of offices and warehouses\n   Respond as soon as possible in the event of an emergency, notify appropriate personnel and follow safety protocol\n   Perform other maintenance/construction duties as requested\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "CARPENTER",
+  "salary": "$20 - $25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "The Trade Group Management Llc",
+  "location": "Grapevine, TX 76051",
+  "rating": 3.3,
+  "reviewsCount": 32,
+  "url": "https://www.indeed.com/rc/clk?jk=a5ccdade8a924e0c&fccid=8e0206c3c24d289e&vjs=3",
+  "id": "a5ccdade8a924e0c",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:27.472Z",
+  "description": "Are you passionate about carpentry* and* looking for an opportunity to advance your career? If you are a self-starter with a great attitude and more than 3 years of carpenter experience, we have the perfect job for you!We are seeking a talented CARPENTER to join our rock star woodworking team. You will be doing precise carpentry in regards to elaborate booth construction. This will be a very rewarding and creative job.ABOUT THE TRADE GROUP: \n\n 3.8 Glassdoor rating\n Founded in 1987\n DFW Best and Brightest Companies to Work for 2021\n World Exhibition Stand Awards 2020 Winner\n Exhibitor Magazine's Find It - Top 40 Exhibit Producers 2020 Winner\n\nThe Trade Group is an award winning, full-service event marketing and creative design firm, specializing in trade shows, esports events and activations, corporate events, brand activations, retail merchandising, commercial graphics and experiential solutions. Since 1986, our team of live event, design and engineering experts has helped thousands of clients amplify their brands and successfully navigate a wide range of events and experiences. Clients rely on The Trade Group for: event ideation, creation and production; esports expertise; exhibit design and fabrication; graphic design and production; strategic marketing solutions; technology integration and more.JOB SUMMARY: Constructs, erects, installs, and repairs structures and fixtures of wood, plywood, and aluminum.ESSENTIAL FUNCTIONS: \n\n Studies blueprints, sketches, or plans for information pertaining to type of material required, such as lumber or fiberboard, and dimensions of structure or fixture to be fabricated for Exhibits\n Marks cutting and assembly lines on materials\n Erects framework for structures\n Ability to follow CAD drawings\n Follows established safety rules and regulations and maintain a safe and clean environment\n Effectively works with a team of builders to construct assigned projects from start to completion\n Accurately interprets and works from plans and fabrication drawings\n Ability to use multiple types of equipment, to include a table saw, router, etc.\n Maintain a clean, organized and safe work area\n Comply with all company policies and procedures\n Other duties as assigned\n\nREQUIRED EDUCATION AND EXPERIENCE: \n\n High School Diploma or GED\n Basic hand tool knowledge and chop saw knowledge.\n Ability to follow CAD drawings.\n Ability to work accurately and quickly under company deadlines.\n Cooperative, courteous, flexible and good natured.\n Conscientious, persistent, resourceful, productive and active.\n Must have the ability to exercise considerable judgment and discretion in establishing and maintaining good working relationships and deal with employees in an efficient and professional manner.\n Trade show experience a plus\n Must have reliable transportation.\n Must have attention to detail and accuracy.\n Ability to prioritize and balance tasks and commitment to meeting and exceeding deadlines and goals.\n Valid drivers license.\n\nJob Type: Full-time\nPay: $20.00 - $25.00 per hour\nSchedule:\n\n Day shift\n Monday to Friday\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Form Builders - Austin Bridge & Road",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Austin Bridge & Road, LP",
+  "location": "Dallas, TX 75229",
+  "rating": 3.7,
+  "reviewsCount": 64,
+  "url": "https://www.indeed.com/rc/clk?jk=c5f6e0db682bd2ff&fccid=289caf8dd320982d&vjs=3",
+  "id": "c5f6e0db682bd2ff",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:28.588Z",
+  "description": "\n\n \n  \n   \n    Austin Bridge & Road is currently seeking Form Setters / Builders for projects in North Texas. We excel at what we do and are looking for talented construction professionals that want to excel with us.\n     \n     \n     The form setter / builder is responsible for building and setting forms. \n    \n  \n \n Responsibilities \n \n  \n   \n    \n     Build forms and plan specifications \n     Set forms on line and grade \n     Understand proper safe use of power tools \n     Know and understand finishing tools such as bull float (mop), straight edge, screed, and hand floats \n     Concrete placement and able to finish within the plan specifications \n     Able to follow instructions \n     Assist with concrete placement \n     Assist with concrete finishing \n     Traffic control \n     Install erosion control devices \n     General site clean up \n     Follow safety policies and procedures \n     Work hours adjusted to meet the project’s needs; days, nights and weekends \n     Able to work in adverse weather conditions, hot or cold temperatures \n     Other duties as assigned \n    \n   \n  \n \n Qualifications \n \n  \n   \n    \n     1+ years of experience in construction \n     Must have a strong commitment to jobsite safety \n     Diligent in demonstrating safe work practices.\n    \n     \n     \n     We offer excellent benefits including medical, dental, life and disability insurance, and a matching 401K plan. We are proud to be a 100% Employee Owned Company! To learn more about Austin’s Employee Ownership history, please go to http://www.austin-ind.com/\n     \n     \n     Austin Bridge & Road is an Equal Opportunity Employer.\n     \n     \n     About Austin Bridge and Road\n     \n     \n     A leader in the heavy highway and transportation infrastructure industry for more than 100 years, Austin Bridge & Road has built landmark projects from Arizona to North Carolina, including complex urban highway interchanges, tollways, runways, port facilities, border crossings, automated people mover guide-ways and specialty bridges. Our customers rely on our expertise in construction management on conventionally bid projects and newer procurement methods, including design-build, construction manager at-risk and construction management/general contracting.\n     \n     \n     It is the policy of Austin Bridge & Road, L.P. to assure that applicants are employed and that employees are treated during employment without regards to their race, religion, sex, color or national origin, age, disability, or any other legally protected characteristics or status. Such action shall include: employment, upgrading, demotion, or transfer; recruitment or recruitment advertising; layoff or termination; rates of pay or other forms of compensation; and selection for training, including apprenticeship, pre-apprenticeship, and/or on-the-job training.\n     \n     \n     No Agency Inquiries Please \n     Austin Industries and all operating divisions (Austin Bridge & Road, Austin Commercial, and Austin Industrial) do not accept unsolicited resumes, candidates’ names or summaries from staffing agencies, search firms, or third-party recruiters. Any unsolicited resumes, candidates’ names or summaries submitted to Austin Industries, or any of its employee-owners, become the property of Austin Industries and Austin Industries will not pay a placement fee. \n    \n  \n \n \n Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities\n  The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)\n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=c5f6e0db682bd2ff&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjK5vpgBXfnv5Y-gIGdlUFLVAq81dAHm7GpE1MqdfeWCQ&vjfrom=serp&astse=f09bfaf7860b4cad&assa=8383",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Skilled Labor Recruiter",
+  "salary": "$26 - $28 an hour",
+  "jobType": [
+    "Temporary",
+    "Temp-to-hire"
+  ],
+  "company": "Resource Staffing",
+  "location": "Irving, TX 75038",
+  "rating": 3.7,
+  "reviewsCount": 136,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CsSo11OSEUaFJSzEcXem7AIkk6Dm_N0f1jJN9yVaBxvF4SpA0oXWbS2DZcPZ_jrv2AFHbPvPW2IETWkAo8cMB2xHbP3Nc1c8aW7fwoMfc-N3Otqklm-94exGPx3xKr8YZDRIwJKUoFZcNolM2euqxVszd7S4rlizsYrtE7t5thCA1It3VAW_VhRFjKRIrMP2nLxLcBfYs251Th5NQXEVZnouXPF-cUk6YhIDyr2X-8_WJ7krJztNcGL-vLRRKs4PIo1gp_uZh6f28gCcc_-i4bPVsaf5YxxHapWSaf_MmA5eczQjsKPfd4bm7_ZvFXnh5o8u06QDV3qpf-vudYAY0WW6pnWQ5L8TVExUKdBDYxQg7sbYXs4xz4-0t4exmtXR9dwLmC0UeYBU0Szk7Y8Po5FTvbG0DeyGTH8nsm_0-FKPbAG877yaiYpEjrCAm1UdNOD3ZRDKaYNQ74ddMxZjL4x-MAzYkAv8_jWM_yJOJyKlJ_ULu6gnDwjXZi2jJkwfEBFPMFFzC9DcGT6u-WUSGj9TCCxTyTr9aunTFW3vl93frqrhEf2tsC1qMEkt32AiWMLsiWtKw6VrUekDFm7seTukCtWKN3__UJwsNwxeUGqw==&xkcb=SoCl-_M3WvdNN1QdwR0KbzkdCdPP&p=3&fvj=0&vjs=3",
+  "id": "fb2def5338afcfc3",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:29.288Z",
+  "description": "Skilled Trade Recruiter \n\n Irving, TX \n\n $26-$28/hr. \n\n Temp to Hire \n\n We are currently seeking a reliable and experienced Skilled Trade Recruiter to join a recruiting team for a rapidly growing recruiting department for a well know Project Management company in Irving, TX. In this role, you will deliver exceptional quality work alongside a team of highly skilled professionals including carpenters, foremen and superintendents. To succeed in this position, you will be dedicated, hardworking, and a true team player, with a passion for your skilled trade \n\n \nSkilled Trade Recruiter’s Responsibilities:\n \n \n Proactive recruiting is a requirement. \n Focus on identifying strong diverse talent by designing and executing creative sourcing strategies. \n Collaborate with Hiring Managers to identify internal associates eligible for a transfer or promotion. \n Conduct full life cycle recruiting including telephone and in-person interviews as required. \n Provide detailed information on the company, our business strategy, and department background and job descriptions to candidates and provide feedback \n Ensure processes and procedures promote the best talent; meet internal promotional goals and promote a consistent onboarding process. \n Maintain accurate and well-ordered documentation on candidate searches and hiring manager interactions to ensure company and legal compliance with employment practices. \n Provide insightful analysis of reports and make recommendations for improvements. \n \nSkilled Trade Recruiter’s Qualifications/Skills/Education:\n \n \n Applicants should have at least two years of sourcing or recruiting skilled trade positions. \n General knowledge of employment law and hiring practices required. \n Applicant tracking systems (ATS) \n Fill positions within time to meet targets, within budget and with high customer satisfaction. \n Work independently and be trusted to complete tasks with minimal supervision. \n Willingness to recruit aggressively while adhering to ethical business practices. \n Team player mentality; ability to collaborate with all management levels. \n Adherence to the highest degree of professional standards and strict confidentiality in matters that require discretion. \n Ability to work on and close multiple assignments concurrently and in a timely manner. \n \nBenefits for You:\n \n \n Weekly pay periods \n Direct Deposit \n Eligible to enroll in medical, dental and vision insurance, as well as direct deposit \n Interested candidates should apply. We look forward to speaking with you! \n\n Resource Staffing is an affiliate of The Reserves Network, a family-owned and veteran-founded company. Since 1989, we have been bringing employers and job seekers together in a variety of industries and positions throughout the great state of Texas. \n\n As an equal opportunity employer, we value our employees and foster an environment of respect, integrity, and trust in every aspect of employment. However you identify and whatever your background, we encourage you to apply today. \n\n #DFW",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Landscape Construction Crew Leader/Foreman",
+  "salary": null,
+  "jobType": null,
+  "company": "Southern Botanical",
+  "location": "Dallas, TX",
+  "rating": 3.4,
+  "reviewsCount": 37,
+  "url": "https://www.indeed.com/rc/clk?jk=14b8acb87f347283&fccid=cdbb1db750de114a&vjs=3",
+  "id": "14b8acb87f347283",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:29.566Z",
+  "description": "\n Southern Botanical is looking for a Landscape Construction Crew Leader who is thoroughly familiar with all aspects of landscape construction to include operating equipment, demolition, site and soil prep, grading, planting all materials, interfacing with customers, subcontractors, architects, etc. As a crew leader you will require minimal supervision while directing a crew of two to four employees in a safe manner. Help us continue to be “The Green Standard” in the landscape industry. \n  Responsibilities \n  \n  Ensures that jobs are kept on schedule and on budget \n  Ensures all accidents are properly documented and reported immediately. \n  Ensures that company production standards are met. \n  Train crew as a team and maintain a high level of morale. \n  Work with minimal supervision from Landscape Supervisor but know when to ask for assistance. \n  Properly operate equipment and tools \n  Maintain a safe non-hazardous work environment \n  Complete assigned duties efficiently by working with members of the team \n  Perform duties the SoBo Way \n  \n Requirements \n  \n  Minimum of 3 years of experience in landscape construction. \n  Physical ability to meet work demand in all weather conditions \n  Able to perform all daily preventative maintenance (PM) on company equipment. \n  Able to operate a transit, shoot grades and grade sites. \n  Able to read landscape plans and drawings. \n  Able to layout a job site and order materials. \n  \n Soft Skills \n  \n  Has the leadership capability and demeanor to effectively manage and direct a crew of two to four people \n  \n Why Work at SoBo \n  For more than two decades Southern Botanical “SoBo” has built a reputation for creativity, quality and integrity throughout North Texas and beyond. Behind every signature landscape, you’ll find our total dedication to client satisfaction and the people who help achieve it. We’ve experienced explosive growth as a result and enjoy sharing that success with our employees. \n  \n  National reputation for quality and extraordinary customer service \n  Recognition programs and performance bonuses \n  Continuing education and industry involvement opportunities \n  \n Benefits \n  \n  401K (100% company match up to 4%, after 6 months of employment) \n  Health and Dental Insurance \n  Paid-Time Off \n  Holiday Pay\n \n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Entry Level Gutter Installer",
+  "salary": "$18 - $25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Brothers That Just Do Gutters - Dallas",
+  "location": "Rowlett, TX",
+  "rating": 3.1,
+  "reviewsCount": 20,
+  "url": "https://www.indeed.com/rc/clk?jk=c92ed739aa35db96&fccid=78a2731ca4676c75&vjs=3",
+  "id": "c92ed739aa35db96",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:30.464Z",
+  "description": "\n Job DescriptionAre you tired of feeling under appreciated and not having a clear defined career path in your job? Imagine if you could know exactly what you needed to do to receive a pay raise and promotion from day one. At The Brothers that just do Gutters, you \n can! We provide a \n skills ladder training program that clearly defines each worker's career path, expectations, and raise potential.The Brothers that just do Gutters were voted The Best Place To Work By Dutchess County Chamber of Commerce. We truly believe in investing in our employees and have created a work culture unlike any other. We also offer huge opportunities for growth.This is an apprentice position and experience is not required, but it is a plus. A positive attitude is a must, as well as the ability to properly, and comfortably interact with clients and other employees.\n Requirements:\n  \n  2 years experience in construction is a plus, but not required \n  Positive attitude \n  Excellent communication skills \n  Ability to work outdoors in all weather conditions/seasons \n  Interest in growing with the company \n  Willingness to work overtime \n  Previous experience specifically related to gutter services/installation, and a passion for all things gutters (like us) is a huge plus, but not a requirement! \n \n Compensation:Hourly Position ($18-$25) overtime (Starting salary based on experience)\n Required experience:\n  \n  Must be 18 or older \n  Must have a valid drivers license \n \n About The Brothers that just do Gutters:The Brothers that just do Gutters are a full-service rain gutter and gutter guard franchise. We repair, install, and maintain Seamless Gutters, Gutter Guard, Specialty Gutters and many other services. We are a performance-based company that focuses on delivering defined career paths to individuals with goals and aspirations and we fully invest in our workers. We believe that it is important to listen and create a comfortable work environment for all. Don’t settle for a fixer-upper career, join us. \n This franchise is independently owned and operated by a franchisee. Your application will go directly to the franchisee, and all hiring decisions will be made by the management of this franchisee. All inquiries about employment at this franchisee should be made directly to the franchisee, and not to Brothers That Just Do Gutters Corporate.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Laborer WITH BENEFITS",
+  "salary": "$17 - $19 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Vesta Foundation Solutions",
+  "location": "Dallas, TX",
+  "rating": 4.3,
+  "reviewsCount": 19,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ArXA2YxvbSYdIR9KVHZGf94iRFbvnvK_4MC06MXMdnvcyxXgJPxKdzMi6JwuIVMXzzcCa-fdydeAY2PjSIgB2vNC7ICEuI03R1O831muNLbQ5flL-avskAyoPFct8NNagD48On0-mJ78YRb5SkGA8kvmBLZVFd2Q8T01q51tfQSscG9ANcnbEj1IVZIHxraDEvfZz-s78q9V0xbiJgEBe0lHF7jjTFj5f89fH_5SJ4exvEnk-TeWEzzQuzZREOpzl6QbKmpUxOhL_YzjIkp-dcQaorcztbU5aAwC9K1MvC-WsxCAccwYde5ritVcWQkK16EbHRLbls0eEQAJMr_Y9NkE6SNyF-Gf7Vp3yuzLn21N4T3hUB8M2Hdhq2wIi_TbLl8x6cpU2ltwTvttWxAmYL3oEWBwnUeRX-1RmHDZjQRDRoTek777CM91UUoRSy6ojCu_SZNdDEVoKFfZFpcjTPBinoC3dXR_P6odgn31WphxQtrzx7b2PBNLfCAbAiVlJ5T-hKctI_yA==&xkcb=SoDB-_M3WvdM0t2nrB0KbzkdCdPP&p=13&fvj=1&vjs=3",
+  "id": "21f5c43ed50ad282",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:31.471Z",
+  "description": "Job description\nVesta Foundation Solutions is in search of Crew Members to join our growing Production Team!\nBENEFITS Medical, Dental & Vision\n\n Retirement Plan\n EMPLOYER PAID Life Insurance & Short-Term Disability\n Paid Time Off & Paid Holidays\n Employee Assistance Program\n Employee Referral Program – earn $1,000 for each employee you refer!\n\nTake a walk through an average day…\n\n Typically work Monday – Friday, 7am – 5 pm (hours may vary depending on job site)\n Load materials, tools and equipment on the company truck for each job\n Travel to the customer’s home in the company truck to install the job\n Install each job using company-approved and quality-driven methods\n Maintain safe work environments\n Unload and clean the truck upon return to the company\n Provide a remarkable experience to our customers\n\nWHAT WE PROVIDE YOU\n\n The best tools, materials and training to ensure your success\n A solid pay and benefits package\n A trusting, respectful and fun culture\n A team you can be proud of\n Opportunities for professional growth\n\nWHAT WE NEED FOR THIS ROLE\n\n Construction experience is preferable, but not required\n Unrestricted lifting ability\n A valid driver’s license and safe driving record\n Excellent communication skills\n Regular and punctual attendance at the job locations\n Ability to work overtime if needed\n\nJob Type: Full-time\nPay: $17.00 - $19.00 per hour\nBenefits:\n\n 401(k) matching\n Dental insurance\n Employee assistance program\n Health insurance\n Life insurance\n Paid time off\n Referral program\n Vision insurance\n\nSchedule:\n\n 8 hour shift\n Day shift\n Monday to Friday\n Overtime\n\nSupplemental pay types:\n\n Bonus pay\n\nLicense/Certification:\n\n Driver's License (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Concrete Form Setter",
+  "salary": "$25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "SureCrete",
+  "location": "Dallas, TX 75207",
+  "rating": 4.3,
+  "reviewsCount": 3,
+  "url": "https://www.indeed.com/company/SureCrete/jobs/Concrete-Form-Setter-2d2b0fbffea1a92a?fccid=5ba911a4edef63ba&vjs=3",
+  "id": "2d2b0fbffea1a92a",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:31.784Z",
+  "description": "Apply today, Start this week! Get paid weekly!\nJob description\nSureCrete, LLC is currently seeking a Form Setter for the Blount Island Police Station.\nThe Form Setter will fit together, align, and set to grade metal or wooden form for holding concrete, and set line for slip forms.\nSureCrete, LLC is a rapidly growing, highly diversified construction company, and we constantly seek builders and business people to join our industry-leading team. SureCrete employees are \"built to succeed\" - competitive entrepreneurs with strong character who are energized by working on a team to meet challenges and are willing to take risks after careful planning. There are many compelling reasons why exceptional people should consider a career with our company:\n\n Challenging, complex projects\n Creative and innovative problem solving environment\n Supportive, communicative managers who reward your success\n Opportunities for growth, training, and development\n Flexibility to build what you want, where you want\n\nResponsibilities:\nResponsibilities include but are not limited to: \n\n Measures distance and marks guidelines on working surface to prepare for laying down work\n Uses a variety of power tools, hand tools, and fastening devices to set forms\n May assist with installation of other structures as needed\n\nQualifications:\n\n 3-5 Years Verifiable Experience Preferred\n Must provide verifiable references\n Requires ability to climb and maintain balance on scaffold/ladder\n Must be able to lift up to 50 lbs; may be required to work in adverse weather conditions.\n Requires the ability to comply with all safety policies and procedures; communicate effectively with co-workers and supervisors to ensure projects are completed properly.\n Possess a strong work ethic and desire to learn.\n Requires good manual dexterity; may be standing, bending, kneeling or sitting for long periods.\n Must be able to pass a pre-employment drug screening\n\nJob Type: Full-time\nPay: $25.00 per hour\nSchedule:\n\n 10 hour shift\n 8 hour shift\n\nAbility to commute/relocate:\n\n Jacksonville, FL 32226: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n\n Construction: 2 years (Required)\n\nLicense/Certification:\n\n Driver's License (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Laborer – Track Maintenance - Texas",
+  "salary": "$20 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Loram Maintenance of Way",
+  "location": "Dallas, TX 75201",
+  "rating": 3.1,
+  "reviewsCount": 219,
+  "url": "https://www.indeed.com/rc/clk?jk=0b91c2386e371943&fccid=f7b3128a904ef7db&vjs=3",
+  "id": "0b91c2386e371943",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:31.673Z",
+  "description": "\n \n  Job Title: General Laborer - Rail Maintenance  FLSA Status: Nonexempt  Department: Operations  Reports to: Assistant Manager, Superintendent or Assistant Superintendent \n   GENERAL DESCRIPTION / PURPOSE: \n   The General Laborer – Rail Maintenance (GL) is responsible for safely and efficiently supporting crew members with the operation and maintenance of Loram’s maintenance machines, equipment, and on track vehicles in accordance to guidelines set forth by the FRA, our customers, and Loram’s rules and standard operating practices. \n   New Hire Training Incentive: $1000 at 90 days & $1500 at 6 months (dependent on job performance) \n  PAY: $20.00 PER HOUR + Generous Over-Time \n  Time and a half is paid after 40 hours per week. Typical work hours are 12-14 hours per day and 70-75 hours per week. Hours may be longer or shorter depending on operational needs. Room for advancement: 90% of General Laborers who are employed with the company for 2 years receive a promotion in that time and 50% will have received at least 2 promotions. \n  Loram offers medical insurance, dental insurance, life insurance, 401K with 150% match up to 6%, and many other great benefits! Loram pays for hotel/motel rooms and all work-related travel to and from the job site (flights, buses, etc.). Per diem is not offered. Employees are responsible for all personal expenses including, but not limited to food, phone and laundry. \n \n \n  REQUIRED QUALIFICATIONS: \n  \n    Must be able to travel 100% of the time, including international, using any method of transportation\n    Must be able to perform physically strenuous work outdoors in all types of weather\n    Work will require extended time away from home.\n    Must be available to work irregular hours, including holidays, weekends, days and nights for long periods of time.\n    Can tolerate variable and sometimes extreme physical conditions during visits or inspections of company equipment in a railroad environment\n    Ability to apply high levels of cognitive, analytical, retention and reasoning skills\n    Once a new hire, there is an expectation for a successful completion of Loram’s new hire training class and passing a DOT physical, drug and alcohol screen.\n   \n   PREFERRED QUALIFICATIONS: \n   Experience: 1+ years demonstrated technical skills; mechanical, electrical, hydraulic and/or machine operations. \n   WORKING CONDITIONS: \n  This position is considered a safety sensitive role. The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of the role. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. \n   \n   Can stand, sit, walk, reach, balance, stoop, kneel for long periods of time \n   Ability to lift tools and equipment of 75lbs or greater \n   Can hang onto grab irons or ladders, sometimes for extended periods of time \n   Can see up close, distances, colors and has use of peripheral vision and depth perception \n   \n  If you apply for this position, the beginning stages of communication will be conducted via email. Please check your email regularly.\n   Loram is proud to be an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities. \n   REV 5.11.2021\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=0b91c2386e371943&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiu4jV2uwOh7Isz9Chih1CmULY8luZ3vf8Ryj3D5QnPXg&vjfrom=serp&astse=4ee8d3c6c5252dd6&assa=1301",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Experienced Gutter Installer",
+  "salary": "$20 - $25 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Brothers That Just Do Gutters - Dallas",
+  "location": "Rowlett, TX 75088",
+  "rating": 3.1,
+  "reviewsCount": 20,
+  "url": "https://www.indeed.com/rc/clk?jk=4d10651dc0adea9e&fccid=78a2731ca4676c75&vjs=3",
+  "id": "4d10651dc0adea9e",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:31.871Z",
+  "description": "\n Are you tired of feeling under appreciated and not having a clear defined career path in your job? Imagine if you could know exactly what you needed to do to receive a pay raise and promotion from day one. At The Brothers that just do Gutters, you \n can! We provide a \n skills ladder training program that clearly defines each worker's career path, expectations, and raise potential.We truly believe in investing in our employees and have created a work culture unlike any other. We also offer huge opportunities for growth.This is an experienced position and the ultimate candidate will have at least 2 years of skilled carpentry and/or exterior construction experience. A positive attitude is a must, as well as the ability to properly, and comfortably interact with clients and other employees. You will be groomed for leadership in the field, to be part of a family, and to grow with an established brand.\n Requirements:\n  \n  2 years experience in skilled carpentry and/or exterior construction \n  Positive attitude \n  Excellent communication skills \n  Ability to work outdoors in all weather conditions/seasons \n  Interest in growing with the company \n  Willingness to work overtime \n  Previous experience specifically related to gutter services/installation, and a passion for all things gutters (like us) is a huge plus! \n \n Compensation: Hourly Position ($20-$25) - Salary commensurate with experience\n Required experience:\n  \n  Construction/Carpentry: 2 years \n  Must be 18 or older \n  Must have a valid drivers license \n \n About The Brothers that just do Gutters:The Brothers that just do Gutters are a full-service rain gutter and gutter guard franchise. We repair, install, and maintain Seamless Gutters, Gutter Guard, Specialty Gutters and many other services. The Brothers currently have other franchise locations in NJ, VA, PA, and FL. We are a performance-based company that focuses on delivering defined career paths to individuals with goals and aspirations and we fully invest in our workers. We believe that it is important to listen and create a comfortable work environment for all. Don’t settle for a fixer-upper career, join us. \n This franchise is independently owned and operated by a franchisee. Your application will go directly to the franchisee, and all hiring decisions will be made by the management of this franchisee. All inquiries about employment at this franchisee should be made directly to the franchisee, and not to Brothers That Just Do Gutters Corporate.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Heavy Equipment Operator and Laborer - Substation Construction",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Sentry Electrical Group, Inc.",
+  "location": "Dallas, TX 75019",
+  "rating": 3.5,
+  "reviewsCount": 43,
+  "url": "https://www.indeed.com/rc/clk?jk=0528ce8a23c31480&fccid=648980b84bb325c9&vjs=3",
+  "id": "0528ce8a23c31480",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:33.172Z",
+  "description": "Heavy Equipment Operator and Laborer for: Substation* ELECTRICAL CONSTRUCTION*\nTypes* of equipment we use: * Excavator, Skid Steer, Telehandler, and operation of a Boom Truck is a plus. NCCCO crane cert preferred.\nThis is a travelling role...we have substations all over the US.\nSentry Electrical Group, Inc. has immediate openings for Equipment Operator positions for Electrical Construction projects. Work is predominantly outdoors and in all weather conditions.\nOur immediate need is in Dallas, TX and work will begin 10/24/22.\nJob Responsibilities: \nOperating a skid steer, back hoe, or small excavator in a safe and appropriate manner in accordance with the operator's manual and Sentry Electrical Group, Inc. policies.\nSafely and effectively complete daily, weekly, and annual inspections and basic maintenance/minor repairs on equipment.\nIdentify and avoid potential hazards and obstructions while operating.\nFamiliarity and understanding of the contents and location of the operator’s book.\nClean equipment as scheduled and/or required.\nWill be expected to assist construction crews as required.\nQualifications & Requirements: \nMinimum 3-5 years’ experience operating a digger derrick, pressure digger, bull wheel tensioner and rope rig.\nNCCCO Crane Cert Preferred\nClear understanding of equipment operations safety rules and regulations.\nMust possess strong judgment and decision making capabilities.\nCompensation:  * Depends on Experience + Per Diem for those who qualify.  * Per Diem offered with limitations. * Medical/Dental/Vision/Life Insurances as well as 401k opportunities after 90-day probationary period.\nSchedule:  Length of day may be unpredictable, long hours may be required to accommodate construction schedules. Position requires long-term assignment and travel.\nJob Type: Full-time",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Bathroom Installer \"ACRYLIC\"",
+  "salary": "$60,000 - $80,000 a year",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Unique Bath Design",
+  "location": "Grand Prairie, TX 75050",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/Unique-Bath-Design/jobs/Bathroom-Installer-Acrylic-ad6306ff8ce1fc06?fccid=13fe51e71985fc95&vjs=3",
+  "id": "ad6306ff8ce1fc06",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:33.280Z",
+  "description": "INSTALLATION POSITION AVAILABLE IMMEDIATELY! ACRYLIC!!!\nIf you have installed bathrooms or kitchens for any large chain or big box store and are looking for a new opportunity, please send a confidential resume.\nWe are one of the fastest growing bathroom remodeling organizations in North America. Creating a fresh solution to bath remodeling, we offer a stylish, cost-effective, low-maintenance bath improvement to homeowners, commercial customers and consumers with accessibility needs. We were created to meet the needs of consumers who were dissatisfied with the quality and workmanship available in the marketplace. Standing behind our products, we have developed an unrivaled reputation for quality and workmanship as a manufacturer of acrylic bath and shower solutions and has extended that level of quality into all our products.\nThe leader in acrylic bath systems Retro Bath Makeover of Texas is looking for an Acrylic Bath Installer to work in the Dallas - Fort Worth metroplex market. An ideal candidate will be able to run crews to install high volume of work year-round.\nExperience with one the following is a plus:\n\n Carpentry\n Ceramic tile\n Floor coverings\n Light plumbing\n General remodeling\n\nJob Types: Full-time, Contract\nPay: $61,000.00 - $80,000.00 per year\nJob Type: Full-time\nPay: $60,000.00 - $80,000.00 per year\nBenefits:\n\n Employee discount\n\nSchedule:\n\n Monday to Friday\n Weekend availability\n\nSupplemental pay types:\n\n Commission pay\n Tips\n\nCOVID-19 considerations:You will need to wear a mask during the Bathroom installation.\nExperience:\n\n Construction Experience: 2 years (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Installer Windows",
+  "salary": "$16 - $22 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Avanti Windows & Doors, LLC",
+  "location": "Wylie, TX 75098",
+  "rating": 2.9,
+  "reviewsCount": 28,
+  "url": "https://www.indeed.com/company/Avanti-Windows&Doors/jobs/Installer-Window-b084a0a03eb8a15d?fccid=8e8e922c97f6a618&vjs=3",
+  "id": "b084a0a03eb8a15d",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:33.574Z",
+  "description": "Window Installer *HIRING IMMEDIATELY*\nDon’t have experience installing windows/doors, but are very comfortable hauling a 20-foot trailer on a hitch for a full-sized truck & a hard-working leader ready to learn?\nJob: \nWe are looking for Installer Helpers & Experts on installing windows and door products into newly constructed homes. If you're professional craftsperson who is experienced in installing Windows in new homes, we want to hear from you. We will train the right candidates to become a window and door installers with Avanti window and Doors.\nQualifications and Skills\n\n MUST provide MVR (Type 2 Report; $6) for approval during application/resume consideration period [dps.texas.gov] if interested in driving responsibilities\n Looking for leaders with the ability to listen and advance\n Effectively communicating field issues and areas of improvement\n Be at work on time every day\n Helping and supporting team members\n Always Following company safety guidelines\n General Home Construction experience a plus\n Window experience a plus\n Willing to learn AIM method, on-the-job training from day one\n Ability to use cordless drivers, levels, and nail guns\n Climb high ladders (If you're afraid if heights this might not be a job for you)\n Ability to follow OSHA fall protection procedures\n Ability to lift up to 50 pounds several times per day\n Ability to work in a team environment\n Ability to embrace, improve, and more importantly enjoy the opportunity to grow with a rapidly growing company\n Ability to communicate professionally and manage customer expectations.\n\n*Come be an Avanti Expert!! The more you LEARN, the more you EARN!!!!\nStarting Pay: $16-$18 plus depending on work experience\n*Paid weekly & Paid Holidays*\nJob Type: Full-time\nSalary: $16.00 - $22.00 per hour\nJob Type: Full-time\nPay: $16.00 - $22.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Life insurance\n Paid time off\n Professional development assistance\n Referral program\n Relocation assistance\n Retirement plan\n Vision insurance\n\nSchedule:\n\n 10 hour shift\n 8 hour shift\n Monday to Friday\n\nAbility to commute/relocate:\n\n Wylie, TX 75098: Reliably commute or planning to relocate before starting work (Required)\n\nLicense/Certification:\n\n Driver's License (Preferred)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Construction Laborer",
+  "salary": "$17.50 - $22.00 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Watercentric",
+  "location": "Carrollton, TX 75010",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/company/WaterCentric-LLC/jobs/General-Construction-Laborer-9733cb8ce59b7e35?fccid=9ad77a9848cdef90&vjs=3",
+  "id": "9733cb8ce59b7e35",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:34.308Z",
+  "description": "Our growing company is looking for a reliable and capable general laborer to join our team. You’ll follow the project foreman’s direction to prepare job sites, load and unload material, remove debris, help team members, and do any other tasks to ensure the customer is satisfied with our work. You should love doing something different every day and take pride in a job well done. Want good pay and flexible hours working on a great team? Apply today!\nResponsibilities:\nProvide support to your team through all stages of every project to make sure the job is done efficientlyMake sure to follow all health and safety regulations to ensure you and your crew members don’t suffer any injuriesBe available to help onsite tradespeople and heavy equipment workers as needed, to complete the plumbing, electrical, roofing, and any other aspect of the projectStack and prep all of the tools and building materials that are needed for a project in order to keep everything organizedClean up any tools, trash, and building materials once construction is complete to ensure a clean worksite\nQualifications:\nHigh school diploma or GED preferredCandidates who have experience using construction equipment such as forklift, power tools, and hand tools highly preferredImportant to be able to work independently and with a team, take direction and follow-throughThis work requires physical agility, solid hand-eye coordination, and a good sense of balanceKnowledge of basic engineering and construction laborer methods is preferred, but we will provide training\n\n Must be dependable and have a strong work ethic\n Must be able to lift up to 50lbs\n Must follow OSHA safety guidelines\n MUST be Able to work in a dynamic outdoor environment ( cold, heat, or rain).\n Flexible and able to work overtime and some Saturdays\n Has the ability to foster collaborative communication and facilitates teamwork\n Adaptable and able to learn new skills\n Must possess a VALID drivers license\n Must be self motivated and able to complete tasks without supervision\n Must be have interpersonal skills and to communicate with team members /team lead effectively.\n\nJob Type: Full-time\nPay: $17.50 - $22.00 per hour\nSchedule:\n\n 5x8\n Day shift\n Overtime\n Weekend availability\n\nAbility to commute/relocate:\n\n Carrollton, TX 75010: Reliably commute or planning to relocate before starting work (Required)\n\nLicense/Certification:\n\n Driver's License (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Roadway Worker In Charge (RWIC)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "National Railroad Safety Services, Inc. (NRSS)",
+  "location": "Dallas, TX",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=14cc8fc5449544c5&fccid=5a11417b92fb51a1&vjs=3",
+  "id": "14cc8fc5449544c5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:34.563Z",
+  "description": "\n Job Title: Roadway Worker In Charge (RWIC) Location: Dallas, TX Job Type: Full-Time FLSA Status: Hourly; Non-Exempt Reports To: District Manager Travel: Yes, travel is expected for this position (50% - 85% on average). Supervisory Responsibility: No Compensation: Negotiable, based on skills and experience.\n  Company Profile: National Railroad Safety Services, Inc. (NRSS) is a certified DBE/WBE firm primarily focused on providing safety services to the railroad industry. NRSS is the most trusted name in the railroad industry for providing qualified field safety staff and safety training. To best serve the railroad industry, NRSS provides all of these services in the continental United States, Canada, and Mexico. NRSS has the proven ability and the proven safety record to handle any project. Find the safety you have been missing today!  Job Description: National Railroad Safety Services, Inc. (NRSS) is seeking a Roadway Worker In Charge (RWIC) to support railroad flagging services for Class 1 Railroads, Regional Short Lines, Transit Systems, State DOT's, as well as Railroad Suppliers, Contractors, and Consultants alike.  Required Education: High School Diploma or Equivalent.\n  Required Experience:  Minimum 2 years of experience with a Class 1 Railroad, Regional Short Line, Transit System, State DOT Rail Division, Railroad Supplier, Railroad Contractor, and/or Railroad Consultant; preferably within the Maintenance Of Way (MOW) Department.\n  Key Success Factors:\n \n   Accountability: Accept full responsibility for self and contribution as a team member.\n   Adaptability & Flexibility: Ability to consider a variety of issues that exist in the work place and change from one task to another as necessary.\n   Analytical Thinking: Ability to analyze and synthesize information to understand issues, identify options, and support sound decision making.\n   Attention to Detail: Ability to work in a conscientious, consistent, thorough manner, and attend to details while pursuing quality when accomplishing tasks.\n   Communication: Ability to clearly convey information and ideas through a variety of media to employees/clients in a clear and succinct manner.\n   Customer Service Focus: Ability to provide service excellence to internal and/or external clients.\n   Decision Making: Ability to identify/understand issues, problems, opportunities and take appropriate action based on available facts, constraints, and probable consequences.\n   Initiative: Ability to identify what needs to be done and take action before being asked.\n   Innovativeness: Ability to devise new plans for quality excellence.\n   Knowledge: Ability to navigate various rulebooks and/or regulations and demonstrate mastery.\n   Organization: Ability to maintain materials and/or records in a clean and ordered manner.\n   Planning: Ability to plan and prioritize work load to manage time effectively and accomplish assigned tasks.\n   Stress Tolerance: Ability to maintain stable performance under pressure or opposition (such as time pressure or job ambiguity).\n   Teamwork: Promote cooperation and commitment within a team environment to achieve goals and deliverables.\n   Thoroughness: Ability to ensure that one's work is complete and accurate.\n \n  Job Requirements:\n \n   Proficient computer skills in basic email, phone, and text message applications.\n   Proficient computer skills in Android OS; on tablet & smart phone.\n   Proficient computer skills in Citrix Applications.\n   Strong oral and written communication skills.\n   Strong technical knowledge in Railroad Engineering, Railroad Design, Railroad Construction, and Safety.\n   High level of accuracy and attention to detail; well organized.\n   Demonstrated ability to develop and maintain strong client relationships.\n   Ability to travel for extended periods of time; sometimes month(s) at a time.\n   Ability to successfully complete Federal, Client, and/or Company Specific Training.\n \n  Job Duties:\n \n   Provide jobsite coordination.\n   Provide clear and concise communication with Dispatchers, Train Crews, other Railroad Personnel, and/or Contractor personnel.\n   Provide clear, concise, and thorough job briefings with all personnel on each job site.\n   Enforce all Railroad, State, and Federal Policies.\n   Identify rule violations and resolve in accordance with Railroad, State, and Federal Policies.\n   Enforce Contractor training requirements.\n   Submit daily field reports detailing Contractor and/or Railroad activities.\n   Provide On-Track Safety in accordance with 49 CFR 214 Federal Regulations for Class 1 Railroads, Regional Short Lines, Transit Systems, State DOT Rail Divisions, Railroad Suppliers, Railroad Contractors, and/or Railroad Consultants.\n \n  Work Environment: This job operates in a field environment.\n  Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job.\n \n   Must be able to hear, speak, read, and write clearly in English.\n   Must be able to drive long distances and/or travel by other modes as necessary.\n   Must be able to stand for long periods of time and/or walk on level/uneven ground.\n   Must be able to see up close, distances, colors and have use of peripheral vision and depth perception.\n   Must be able to tolerate extreme heat/cold temperatures.\n   Must be able to tolerate dusty/noisy conditions.\n   Must be able to lift and/or move up to 50 pounds.\n \n  Benefits:\n \n   Medical, Dental, Vision, Life Insurance\n   Short Term, Long Term Disability Insurance\n   Paid Vacation and Holidays\n   401(k) Retirement Plan\n \n  Keywords: Assistant Division Engineer (ADE), Assistant General Manager (AGM), Assistant Roadmaster, Bridge Inspector, Bridge Manager, Bridge Maintainer, Bridge Supervisor, Division Engineer (DE), Employee In Charge (EIC), Flagger, Flagging, Flagman, Flagmen, Flagperson, Foreman, Foremen, General Manager (GM), Maintenance Of Way (MOW), Manager Track Maintenance (MTM), Manager Track Projects (MTP), Rail, Railroad, Railroad Project Manager, Railway, Railway Project Manager, Roadmaster, Roadway Worker, Roadway Worker In Charge (RWIC), Roadway Worker Protection (RWP), Safety, Signal Inspector, Signal Maintainer, Signal Manager, Signal Supervisor, Track Inspector, Track Maintainer, Track Manager, Track Supervisor.  Safety Commitment: All employees of all levels are to remain committed to safety at all times while employed at National Railroad Safety Services, Inc. (NRSS). As such, no job is so important and no service is so urgent that we may not take time to perform all work safely. Simply put, safety is our way of life. By placing safety first, we not only ensure the wellbeing of our employees, customers, and communities, but we hold true our commitment to being the leader in safety throughout the Railroad Industry.  Closing Statement: National Railroad Safety Services, Inc. (NRSS) is an Equal Opportunity/Affirmative Action Employer. Any candidate selected for this position must be able to successfully pass pre-employment/recurrent background checks, drug/alcohol testing, and classroom training.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Commercial Roofing Estimator",
+  "salary": "$70,000 - $90,000 a year",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "CyberCoders",
+  "location": "Richardson, TX 75081",
+  "rating": 3.7,
+  "reviewsCount": 64,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CpFJQzrgRR8WqXWK1qKKEqALWJw739KlKqr2H-MSI4eoBlI4EFrmor2FYZMP3muM1mTJ_SKf0GFKZOy7WyCFKmbyCYG4lL7HgHL8avUbOXaKUZdhOKmn-XsBV5jxAAYl0jsfUvfJNuvJn8GupFn5oQ_ra8YBhElG91De7oFVbw14RDWfcdodeNnu2MIZZ8ycmtrFnUpT5NOW_tK9zk_r8H2j4c9WWWuwIuBIaBW0YhuoYHyHuMLIOfpgwgXlEfkhig6OxGSWWMwtLyDiuiAoymHw7i7aJ9iri2YAr6HSQpH40xr9XBKj_e-4jGRRgSj8bSt-koXgmaxnC89QiJxtl8hrq6RywZpaobeo3iPSyoEI1uAaaT2GJyhvotQ3vNGdLRoJ6ArTCWyVihdC82NZHkxK5qzuQnCjmCN4vNRwCeuqh2oERjDBpw2C77962A8rBly87Bk4y1Af-H6z2Plw4uRrgITYMBlyNsdWbATqcwwkDqjeDGdFLTwNBxqlB4GVirfO2WwfK5XSLAo9XcrIFQn6LCQeLIZn2CQekYRjYNwdK0A2UIFhsGUSHd3hEAaOTZEZ2sWmmLRp5J0n6Urv5XRJ-GCPcWAkaTnr2TQ1M59qYkPnyc05FND5Qr76fXd8zFUpfW8HgX5yRFNWFj13kzahA8S2i9yDW1Inb-h8K7b9MwTTfonNacy9r1A6tmF3dpU8fOOZ_jGOgjQcTuVTXRE9gHKTvCr503pTae2cNVzPJUNywUV7l2lj5y0X2BkaNz_jn6j3DhMMkQA7r3GX0jnn-N7QFo8G8sy4qny5SLlCtp_jD2ua6yWfDl6mcbTF-Bk29oYNXQMI965qj7N0FpZIIax8MKBbyV6hmlmcVaBmjkX07P65-t3VMuCq0zHTybJMz0a05OB3fUn_6pvpJQ6PQ-Ptv5-kNkLyvJOZMZfOvkQO0an_BJM-WLNs5CFA0RNz_yhYcML77pN5PK2hdaMEBnnOPpEfmmmxR9Q7vBqSKAI5HPGR98QQ8F2fOYXMrflF0wZDteWW--dM5C6P8_xgxjUkcZ_jQt971LBMUxgsx7XyYZ9MQm-E07pheSYOQ=&xkcb=SoAw-_M3WvdM0i2nrB0JbzkdCdPP&p=4&fvj=0&vjs=3",
+  "id": "6acf515c672d519f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:34.955Z",
+  "description": "\n Commercial Roofing Estimator \n \n  If you are a Commercial Roofing Estimator with experience, please read on!\n \n  Top Reasons to Work with Us\n \n   We are an award-winning, full-service commercial roofing and sheet metal contractor, specializing in re-roofing, repair, and maintenance of roofs for commercial, retail, corporate complexes, industrial and warehouse projects, school, college, and medical campuses, and landmark, government, and historical buildings. We are certified by all major roofing manufacturers to install their warranted roof systems and provide long-term manufacturer's warranties (20+ years).\n \n  What You Will Be Doing\n \n  Be aware and informed of all new materials or techniques in your field by attending material manufacturer's seminars, trade shows, etc.\n \n  \n \n  Attend pre-bid/tender meetings\n \n  \n \n  Understand and prepare take-offs/estimates for assigned jobs\n \n  \n \n  Identify labor, material, costs, and time requirements by researching proposals, blueprints, and any related documents.\n \n  \n \n  Collect different quotes from subcontractors, vendors, and suppliers.\n \n  \n \n  Develop and submit a cost estimate for projects for review by management.\n \n  \n \n  Stay current on Addendums and drawing revisions before the time of tender\n \n  \n \n  Prepare and submit bid documents for projects to customers\n \n  \n \n  Follow up on bids and update management regarding status\n \n  \n \n  And more\n \n  What You Need for this Position\n \n  Min 5 years of experience \n  Commercial Roofing\n  roofing estimating\n  Construction Cost Estimating\n  Roofing\n  Commercial Construction Estimating\n  Commercial Construction\n \n  What's In It for You\n \n   - $70k - $90k\n   \n  \n   Vacation/PTO\n   Medical\n   Dental\n   Vision\n   Bonus\n   401k\n  \n \n  Benefits\n \n  Vacation/PTO\n  Medical\n  Dental\n  Vision\n  Bonus\n  401k\n \n \n   So, if you are a Commercial Roofing Estimator with experience, please apply today!\n \n \n Applicants must be authorized to work in the U.S.\n  \n CyberCoders, Inc is proud to be an Equal Opportunity Employer \n  \n  All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law. \n  \n  \n Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Laborer 19/hr. - Irving",
+  "salary": "$19 an hour",
+  "jobType": [
+    "Contract"
+  ],
+  "company": "Aerotek",
+  "location": "Irving, TX 75014",
+  "rating": 3.7,
+  "reviewsCount": 12087,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ChYVx_I3yfZ_JDY3EFoivtqvi_stwnZ_kRt8Dowt_l_d1ydueao4NEjoTwCq0_t1xBT0gcn6E0Ekyz6NWFp_VMrAiu8YuW7xITzpNYTVOzzgE4CSDyhSTxt9VynAz8LX_T44BstDaGdW1d6jcKGlVECZyKiIdIW5AS0oCE8vPFooMcojDvuBOlVSJZpwseu7qHrPMU4du4Yr3IvgKPWgLf-mJtE0IQCZCdKGPy9XzLcaWCLyeR2U3QAzkO_iQ_aVA3ZcMPabeUa_19ZIDSICSKHJ7OjzQQQOZyCS8yt3fFa3BkC7AGSLHIMQmmSiFc7a84VOyZeSProu_O8Ga9NRSZAueJiAOyL7El9gGP0-6mEjctbTjEmdWCd-7-JU0cL2OOaqcX1nFiSb-0nh_xzWQjTFLfNafkUzpbbwvmbrCOwILn1UMO3VgE51Jv0xgtNNWYHxhnujw6r3QWzb_KoDmMCnAomgLeEXBO80YaOTAtzXEmngNErVALV_V0KO_Hn45ezlqSPaaiwuyG-SpYrQZSSXQ34hbVxFSIjq8iGLVeKmnyrn9DMYhF6D_PokpvPVmG7PIuKY6xuvJp3wl9qEk6-3yIThLclgxienrzZr4Ciasvq5oP473gdLEKbppIzlIduRivfMeRaNXp3tnLqFaBMD8Uj52SuK8_JoRIAtcVkSBmtKE9Ee81icVmB7dNVFrnSPLzhZ1MNXaTRs7gsrSFaYAdUt3yQL6xqjCeMYyc8SOz4hPsP6k47ndMhllolG-4XUsdgy5o-E2GjtW2iD_Dq-hMvvr3hyvLj-sxdyTPo-ugGSzlCziTs_2uai1NhoCdIj-EW4t_g9lLsMM1lSJypO5YKT6xFB0nLx1sNJu17PAQdu5V5w70vK9MtXbyG_lU-s3D1n6_3BZAQ_GNf6KSwn0TVcrg-HeqrJKUBLehlWFr4EybGDK7tdl_xb4w5zdJuu6l3tXB9lS5a1wyP_DzYaLrEEep86zRElFkosIwSvJFZwTVn8xYSJb3RwAWjSOLFiQRTgUC8inVNVQiymgYf5IMZOi2KXY=&xkcb=SoDo-_M3WvdM0iWnrB0KbzkdCdPP&p=1&fvj=0&vjs=3",
+  "id": "ba58c9fd21122b1b",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:35.153Z",
+  "description": "Equivalent Experience \n \n\n Description:\n  Hiring for general laborers for a commercial construction job site in Irving, TX. Paying $19/hr. with WEEKLY pay. \n Must Haves: \n \n  Ability to learn new skills with attention to detail\n  Lift and/or pull 75lbs., climb ladders, work off ladders, man lifts or other equipment\n  Ability to maintain a standing position for extended periods of time, fully squat, bend or kneel while wearing a tool belt\n  Display basic tools experience and computer skills\n  Capable of working in a variety of weather conditions\n  Support activities at all job-sites as directed\n \n  Experience with carpentry and working in a construction environment a plus. Immediately hiring for this position - can start work THIS week. \n If interested please apply - if you have any questions please call the recruiter, Shakeya Steele at 913-333-5648.\n  \n \n About Aerotek: \n We know that a company's success starts with its employees. We also know that an individual's success starts with the right career opportunity. As a Best of Staffing® Client and Talent leader, Aerotek's people-focused approach yields competitive advantage for our clients and rewarding careers for our contract employees. Since 1983, Aerotek has grown to become a leader in recruiting and staffing services. With more than 250 non-franchised offices, Aerotek's 8,000 internal employees serve more than 300,000 contract employees and 18,000 clients every year. Aerotek is an Allegis Group company, the global leader in talent solutions. \n  The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Laborer/Groundman",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "MasTec Inc",
+  "location": "Mansfield, TX 76063",
+  "rating": 3,
+  "reviewsCount": 57,
+  "url": "https://www.indeed.com/rc/clk?jk=84ab91340d3d3b70&fccid=c23b4c79b853e544&vjs=3",
+  "id": "84ab91340d3d3b70",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:35.250Z",
+  "description": "\n Overview: \n \n   At MasTec Communications Group we build for the future. Yours and ours.\n \n \n \n   As a\n   Laborer/Groundman, you will develop new skills, work in a safety-minded environment, and join us in expanding technology for a better community. Join the MasTec family and help us provide the highest level of quality service to our customers and communities while maintaining our commitment to safety!\n \n \n \n   As a \n  Laborer/Groundman, you are responsible for providing general labor for aerial and underground construction projects. You believe in doing the job right. Being the best. And you’re up for the challenge.\n \n \n \n   Financial Security\n \n \n   401(k) with company match\n   Employee Stock Purchase Plan (ESPP)\n   Life insurance\n   Short-term and Long-term disability\n   Red Wing Boot Voucher\n \n \n   Health and Wellness\n \n \n   Medical, dental and vision insurance\n   HSA flexible spending\n   Dependent care flexible spending\n   Employee Assistance Program (EAP)\n \n \n   Work/Life Balance\n \n \n   Paid time off\n   Paid holidays\n   Family and medical leave\n   Bereavement leave\n \n \n   Employee Referral Program\n \n \n \n   Refer someone who delivers excellence just like you and receive a $1,000 incentive for a referral that becomes a permanent hire!\n \n \n \n   We meet your commitment with competitive pay and benefits. If this sounds like you, let’s talk. \n  Build your career with MasTec!\n \n \n \n   MasTec, Inc. is an equal employment opportunity employer. The Company's policy is not to unlawfully discriminate against any applicant or employee on the basis of race, color, sex, religion, national origin, age, disability, genetic information, military status, or any other consideration made unlawful by applicable federal, state, or local laws. The Company also prohibits harassment of applicants and employees based on any of these protected categories. It is also MasTec's policy to comply with all applicable state, federal and local laws respecting consideration of unemployment status in making hiring decisions.\n  Responsibilities: \n \n   Responsibilities and Duties\n \n \n \n   Conduct general labor on construction sites\n   Conduct placement of conduit as directed by Foreman or Supervisor \n  Be involved in map reading and directions \n  Support with trench digging and closing \n  Support with the movement of materials and vehicles as directed by Foreman or Supervisor \n  Conduct maintenance services as directed by Foreman to include: - Cleanup, Wash Vehicles, Landscaping \n  Perform all duties according to prescribed safety procedures and uses appropriate safety equipment.\n   Be involved with vehicle and equipment operations from trucks to other equipment as directed and certified\n   Tow various trailers with flatbed trucks\n \n \n   Conduct Aerial/Underground work as needed and directed and as trained \n  Troubleshoot RF and Fiber line and or equipment issues \n \n \n  Construct and repair underground RF and Fiber service \n  Learn how to read and construct from a design schematic of map \n  Learn all inventory and equipment required for these projects \n  As applicable, learn and be certified on the use of equipment: \n  \n   Line truck \n   Bucket truck \n   Cable Reel equipment \n   Saws and drills \n  \n  Climb poles with climbing equipment safely \n  Move and relocate RF and Fiber service\n   Be familiar with NESC (National Electrical Safety Commission) safety guidelines\n  Qualifications: \n \n   Qualifications and Requirements:\n \n \n   Safety is a part of your day to day\n   You have a track record of completing work with a high level of quality\n   You have a knack for figuring out hard problems and enjoy a hands-on approach to your work\n   You are looking for long term projects\n   You enjoy getting your hands dirty with your team\n \n \n   You have a valid Driver’s License\n   You have a clean driving record \n  You can lift and carry up to 70 lbs \n  Have the ability to read and understand maps, drawings, and diagrams for the project build process \n  Must pass UI Test (urinalysis) \n  Ability to read and understand design schematics and maps \n  Climbing certification or related experience \n  Practical working experience in overhead construction for both RF and Fiber \n  Knowledge of Overhead Bill of Materials \n  City, County, and State clearance code knowledge and related \n  Extensive knowledge of Network architecture and design for both RF and Fiber networks \n  Flagger Certified for field work as needed \n \n \n  Excellent verbal, written, phone, and interpersonal skills\n   Ability to work in a fast-paced high volume work environment\n \n \n   Hard work pays off. See what you’ll get for your effort:\n \n \n \n   #MasTecCommunicationsGroup #MasTecCommunicationsCareers #ByersEngineeringCompany #DecisiveCommunications #MasTecNetworkSolutions #QuadGen #RhinoCableServices #RJCarrollCompany #SEFNCOCommunications #WycoFieldServices #MasTecFamily\n \n",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=84ab91340d3d3b70&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhMMQffXWSHh98U8jfN9lX9wsdLqiuaGy5Gw05HfKNzLw&vjfrom=serp&astse=39c8aa6a3029c623&assa=5047",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Carpenter (Hourly)",
+  "salary": null,
+  "jobType": null,
+  "company": "Holder Construction",
+  "location": "Red Oak, TX",
+  "rating": 3.9,
+  "reviewsCount": 78,
+  "url": "https://www.indeed.com/rc/clk?jk=ff05ce9f15b0ca29&fccid=7b2a83c23e8b3e15&vjs=3",
+  "id": "ff05ce9f15b0ca29",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:36.279Z",
+  "description": "Job duties/responsibilities include constructing and maintaining safety handrails and hole protection, steps and gang ladders, temporary weather enclosures and protection. Also does sawing, stripping, nailing, burning, measuring, tightening/loosening bolts, drilling & other duties as assigned by supervisor. \n\n Ideal candidates for this position will possess 3 years of construction experience and must be able to read basic drawings and have training on construction safety protocols (i.e. OSHA 10, fall protection, mobile elevated platform (boom and scissor)). This position will provide primary support to our field supervision and must demonstrate ownership of assigned tasks, maintain professionalism, and use critical thinking to solve issues. A high school diploma or GED are a plus as well as strong time management skills. \n\n We are a performance-based company with an excellent career development program which provides our associates a great opportunity to increase role/responsibilities quickly. We offer an excellent compensation and benefits package which includes paid time off, health, life, dental, vision, and a 401(k)-retirement plan. \n\n Please note that Holder Construction Company does not sponsor anyone for immigration benefits or immigration status. \n\n Interested candidates can apply in person between the hours of 7:00 a.m. – 3:00 p.m., Monday through Friday at the following location: \n\n Holder Construction Company \n\n 3441 Railport Parkway \n\n Midlothian, TX 76065 \n\n \nSeth Widner: 678-525-3097 \n\n Holder is committed to the principle of equal opportunity in employment. \n\n Substance Abuse Testing and Background Screening is a condition of employment. \n\n BUILD YOUR CAREER \n\n WHO WE ARE \n\n The best teams trust Holder to deliver their most important work. Our people redefine the construction experience. We lead with integrity. We seek excellence. We care more. \n\n As a strong and stable company since 1960, Holder provides nationwide construction management services on complex projects in the aviation, office, technology, education, hospitality, and interiors markets. Our mission is to provide clients with quality construction services across the country, supported by our offices in Atlanta, Charlotte, Dallas, Denver, Phoenix, San Jose, and Washington DC. At Holder, our most valuable resources are our people, who carry forth our core values, brand, and reputation for performance. \n\n OUR PROMISE TO YOU \n\n We encourage authenticity and encourage support to ensure you can perform at your best \n\n Company culture is based on integrity of leadership, high performance, care and connection, development, and continuous improvement \n\n Organic growth from within the organization \n\n Security and stability of a consistent top 20 ENR contractor \n\n Respectful, trusting, inclusive, and collaborative working environment \n\n We are a performance-based company with an excellent career development program. We offer a top notch compensation and benefits package. More on benefits. \n\n EEO - AAP \n\n Substance abuse testing is a condition of employment.",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=ff05ce9f15b0ca29&from=vj&pos=bottom&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXjv4wBH4kTm0ECf4dJ5ydZKnUUKYs5yKqp3Fg7KgmoxhA&vjfrom=serp&astse=a852cefa143a6d76&assa=6133",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Construction Laborers",
+  "salary": "From $20 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Nettles Construction Solutions, Inc.",
+  "location": "Texas",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0BlK8lqipXaPq5v4BpZwYbpZV8-g9Yevc7gA3zQAq0IV7sE4N_2bfZHi04T5F5XWdTj2ZmYZXuzkl2idNdc98uvRHEw7e2ybHN_36dW5gHKbeM7BsCF1CCJLQq7cxH_2cReHKZ8HyJDMnGg-TRrTW9yHiG5ESGenADlQfrub5UuMZC5O39XQEQ2JTAHiECa9dZ3mM1kYgoRX18bWG02eLF7v8qC4cBL8_k3ypQdhI1MjJ0M4Wb-WeicDUMexx9JdNPhn3qNek1fgN9ptUBJxiKkeyv1BgjGi91_P6WBC2QAjSKErl7vgl2FTdi4igspnTTUCJ-R1psUKhvJwr671Ek39Su98JwhNBcIPjyGjHq9MagVQjTOPKgGfbBgSWgA8ltUoA4pSvuutiGDeVVU6DSiA6wU8b0YhBD2WfZ4u1SEN0OuIZIIvI3un4fVjdeQaJS_T1PAVdFNWVxh_LkyhUnVMV_1oLL13ypPQra8LLm6rA==&xkcb=SoCA-_M3WvdMNRQi6B0JbzkdCdPP&p=13&fvj=1&vjs=3",
+  "id": "2a385a0f2c47dad6",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:37.772Z",
+  "description": "NOW HIRING CONSTRUCTION LABORERS!\n$20.00 PER HOUR STARTING PAY$250.00 SIGNING BONUS (Paid on 2ndPaycheck)$500.00 BONUS AFTER 60 DAYS OF EMPLOYMENT\nWe are a long-standing Commercial Subcontractor that has been in business since 1978 and are looking for dependable, hardworking people to join our crews.\nWe pour Pour Gypcrete Floors, Elevated Concrete and Associated Waterproofing, Lightweight Concrete Roof Systems, Install Roof Panels (Tectum), Install Operable Partitions, and Spray Fireproofing in Commercial Construction. Experience always helps, but we are willing to train the right people. New hires MUST be willing to travel, pass a drug screen, and a physical. In addition to local work, we also work throughout the states of TX, LA, and OK. Commonly out of town up to a week at a time. We are also seeking Class A CDL Drivers to work on our crews.\nAfter 60 days, you will be eligible for a $500.00 bonus, benefits (Paid Holidays, a Week of Paid Vacation, Health, Dental, Vision and Life Insurance). Pay is based on experience, however starting pay is $20.00 per hour with time and a half pay after 40 hrs and a $250.00 signing bonus. We also pay per diem, travel time, and mileage reimbursements.\nIf interested, feel free to apply on this ad or fill out an application on our website at: www.nettlescs.com.\nJob Type: Full-time\nPay: From $20.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Flexible spending account\n Health insurance\n Life insurance\n Paid time off\n Retirement plan\n Vision insurance\n\nSupplemental pay types:\n\n Bonus pay\n Signing bonus\n\nWork Location: On the road",
+  "externalApplyLink": "https://www.indeed.com/applystart?jk=2a385a0f2c47dad6&from=vj&pos=bottom&mvj=0&spon=1&adid=389965733&ad=-6NYlbfkN0BlK8lqipXaPq5v4BpZwYbpZV8-g9Yevc7gA3zQAq0IV7sE4N_2bfZHi04T5F5XWdTj2ZmYZXuzkl2idNdc98uvRHEw7e2ybHN_36dW5gHKbeM7BsCF1CCJnsow2ieQxSA5XHeg2Oe_T4Umtn0KU1aWWDy4mYbgIaw96oBie2RkXleas6KtwpiqCYaQShlZ7OiIcVyzRVMGd0uhCWALP-JwCHwEyEBnNWomAoI2LkcEsBPqfbQ1Tq2dcecxAKiK6XreD3nvOt1HicouJ7NEsHCe8kvtPqww8cYwsJn085oWTKbkicRSaFpfvDvWfO7qIwLOgkdcqC34l0iT0QDPC9rMV4M92o3j8WTj8U3rPkIfm7P6uYsk6g8jZXqz3Fl0yX0%3D&xkcb=SoCA-_M3WvdMNRQi6B0JbzkdCdPP&sjdu=M3iJBxkrBIkHrrLFqh9ifMkQm3gCgV67kMItSAhBKMFnwiCbFO4zTYN8q-B_8NWB&vjfrom=web&astse=5d0498073a0aa056&assa=7425",
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Traveling Concrete Form Carpenter (FT)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Concrete Strategies",
+  "location": "Dallas, TX",
+  "rating": 3.5,
+  "reviewsCount": 19,
+  "url": "https://www.indeed.com/rc/clk?jk=915fd2f663d5c8ca&fccid=9bc57997c9ba9bee&vjs=3",
+  "id": "915fd2f663d5c8ca",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:39.585Z",
+  "description": "\n \n  Concrete Carpenter\n   \n \n \n   General Description:\n   Responsible for performing a variety of carpentry tasks associated with prepping, pouring, placing, and finishing of concrete. Tasks include erecting and setting forms for concrete structures, foundations, buildings, and site work per specifications and drawings. This may include concrete tilt-wall forms, Symon forms, and/or structural forms for columns, decks, elevator cores, parking garages, and other cast-in-place concrete structures.\n   \n \n \n   Responsibilities:\n \n \n   Ability to read and understand drawings and prints.\n   Build and/or assemble wood or metal forms for the construction of concrete floors, slabs, walls, columns, tilt walls, elevated concrete slabs, elevator cores, stairways, etc.\n   Set and place forms to proper elevations and locations and may aid in installing reinforcing steel\n   Set and erect forms using a wide variety of materials and forming systems, primarily symon forms\n   Verify the accuracy of structures using a plumb bob, carpenters level, laser, and/or digital transit.\n   Erect scaffolding and ladders for assembling structures above ground level\n   Communicate with Foreman, Riding Boss, or Project Manager regarding any problems arising, materials required, or any safety hazards identified\n   Ensure equipment is all in safe working condition\n   May help signal concrete deliverer to position truck to facilitate pouring\n   Responsible for observing and complying with all safety policies and guidelines\n   Assist with placement of concrete as needed\n   Perform other duties as assigned\n \n \n \n   Preferred Qualifications:\n \n \n   Experience in the construction or contracting industry\n   Excellent written and verbal communication skills\n   Strong analytical and critical thinking skills\n   Strong attention to detail\n \n  \n  \n About Concrete Strategies:\n  \n  \n Our team of the industry’s most talented and knowledgeable concrete construction professionals is dedicated to putting more into the pour to ensure success in everything that we do. Through successful, full-service concrete construction projects across the United States, we have become the nation’s leading turnkey, design-build concrete contractor because we do more before we ever pour.We have an unparalleled track record in architectural site cast concrete, structural concrete, flatwork, site utilities and all types of self-performing concrete construction for commercial projects.Concrete Strategies employs over 800 office and field personnel and completes over $500 million revenue annually from our headquarters in St. Louis, Missouri, as well as our other national offices. We do more before we ever pour to make sure we do every job on target and on budget. Most importantly, our commitment to safety has earned CSI a reputation as one of the top concrete contractors in the United States.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Journeyman Carpenter",
+  "salary": "$22 - $24 an hour",
+  "jobType": [
+    "Contract"
+  ],
+  "company": "Aerotek",
+  "location": "Coppell, TX 75019",
+  "rating": 3.7,
+  "reviewsCount": 12087,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ChYVx_I3yfZ_JDY3EFoivtqvi_stwnZ_kRt8Dowt_l_d1ydueao4NEjoTwCq0_t1wVmwXHl7a_mG_hd-G08aj2SJGfRt1ZWpcQ40rI2zhirfaRcpoW-RNDR6BoHyb6nvWImiIF5hTKOxuI02xnmAvRO7xnB-jWoLGag5_jsK6n-4sry8d-WaaL9O8ghUyhItz9yTUmETvPqfWRipANyqJR98yS2b0bwmjvtm22WHU0lhFy7ZHvOyLwA61Ni_o4plpKb4Bc5niVn_I18AUmGoxZ_pIF2cHH6wUQMCR0zQ9ajvxwym3FtGiL9CGRLB1E1oNfo06MKMhsrxNeQNWmO-9B4ymrH8VB6ifPw0VgHaz0QYDIo8SRTtkB8IH-j8Nj4Tm4WRaVWQkVi0se0HDPctOJExuPgEZDd8jJySJn3VYzthMrjrRfghj0h8TlX4EXd32rVSDPyrxLGd24UWGt3NiG52dgQYVEAiu_IdnmqV2n_3WuQptVR80e1pRuanzlHJaqK-a1HNKS5MKK0YcQjOv3qcYbv0DYa4pfZZlI7xrpTE-nXY9iFn7lf0JFQq3sU-sTyi-LV3TTn-aVJDI72iUZTqK0l4zxeMZyqaVcxE6wRTLaW7uWnh7xLQx4jgBgSsizbv2zs70h8aQfUU3VnCx4JmJhfVtI_8SP6hp8Vy4dPxe4JSjdS5grm2Pebw0ore_0Uh-GLtVcgywg9hO_Ok66VPju8G1erkOp9bIqxXtS3C7HYexuZk_3IxA8bNLyMGjd3QFf-1BJbZZuL-GIv8l-PzSWn8ik1YWhB2G2rSnsRoYt3caoqy05Af24uaxxbyGVOAaGnmp_HBCGbGFf55gBKUqL5cNARLs0uisFHFKsqHt-qw9m2KH1S2EvvgRojwa5S6gsCpixVFTFDinarUEDAl7oHKBw1c3p1gAYp70bKLTATYembTiBXPIEyc6OxYSpjf15APyNbIMeg49l8CLqkKzvEeZG9hEbwO385hWzox2OokxShETRvZp0RI8mRH6DQLVWyPQsO2JmK82DUKV7P0owvmuvyGE=&xkcb=SoDu-_M3WvdL1dwiCB0JbzkdCdPP&p=2&fvj=0&vjs=3",
+  "id": "0f8e022180c24956",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:40.082Z",
+  "description": "Equivalent Experience \n \n\n Description: \n SKILLS OR EXPERIENCE REQUIREMENTS: • Minimum of 3-5 years of experience as a Foreman Drywall Framer or similar role • Ability to learn new skills with attention to detail • Lift and/or pull 75lbs., climb ladders, work off ladders, man lifts or other equipment • Ability to maintain a standing position for extended periods of time, fully squat, bend or kneel while wearing a tool belt • Display basic computer skills • Capable of working in a variety of weather conditions • Adhere to all OSHA protocols • Support activities at all Swinerton job-sites as directed \n Skills: \n Construction, Carpentry, Framing, Finish carpentry, Drywall, Commercial construction, Rough carpentry, Metal stud, metal framing, drywall finishing, drywall hanging, Hand tool, Power tool \n Top Skills Details: \n Construction,Carpentry,Framing,Finish carpentry,Drywall,Commercial construction,Rough carpentry,Metal stud,metal framing,drywall finishing,drywall hanging \n Additional Skills & Qualifications: \n Hand/Power tools, metal framing, handing drywall \n Experience Level: \n Intermediate Level\n  \n \n About Aerotek: \n We know that a company's success starts with its employees. We also know that an individual's success starts with the right career opportunity. As a Best of Staffing® Client and Talent leader, Aerotek's people-focused approach yields competitive advantage for our clients and rewarding careers for our contract employees. Since 1983, Aerotek has grown to become a leader in recruiting and staffing services. With more than 250 non-franchised offices, Aerotek's 8,000 internal employees serve more than 300,000 contract employees and 18,000 clients every year. Aerotek is an Allegis Group company, the global leader in talent solutions. \n  The company is an equal opportunity employer and will consider all applications without regards to race, sex, age, color, religion, national origin, veteran status, disability, sexual orientation, gender identity, genetic information or any characteristic protected by law.\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Carpenters of all levels (Dallas)",
+  "salary": "Up to $30 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "The Premier Group",
+  "location": "Dallas, TX",
+  "rating": 3.8,
+  "reviewsCount": 61,
+  "url": "https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DYNeAU8APBlwiW7S4FfDbBdJstHoSQUBuBpXiMTqclsolBiIitHoaES1wKaAwKNfWNIMRVw_QhzkgrF3Cok73NWZIcneA7592xfewYbh8bcFev3LvYETza4wED9ux7yWpZhGHUPd783gHAtTQ7yTVpSKtZDH4-Zbbbp_uLHw1iCQu7015O5nJdRJ7R_P4F7DY3vHLRKdu6O8j0KG9A6aG6WSmZd0kTbZ1oBtAzwGFjO8AuFqXYSCK1PrdAOsoGI4_hDAwrEE824QNqBmR7hlKThbLL3qX6r5nk3usqWSkVf3SiYqAhVsSjbJIa9VHtg1DZtlEhGR1gtf7hCxKxiaaWslsOrZBIZu2o2l7cnTYE1dgifZqnSHhKWnHwnZ7r_nfDtlYqt0CZ33F_yCfxjWktF7D1W2pxe5wl6sjwLBt9oVW3x-kvqb2CuOx8VcHpSa4BRkW0oHe-hg4GIAtBkYlb6DvEJIvklxIKkwyuVV7rfGI_6Rlo3o5lj0_xLRcc3NmSXnQqFt4Ye5PA22T8K81MydmaP_lS1fk=&xkcb=SoCx-_M3WvdL9YwSNJ0MbzkdCdPP&p=4&fvj=1&vjs=3",
+  "id": "7b2b01bfe0f9b58f",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:39.973Z",
+  "description": "The Premier Group is currently looking for Carpenters of all levels to join our team to work on various commercial projects located in Dallas, TX, and the surrounding area. 1+ years of experience preferred, but not required. If you are looking for a new opportunity with a great company that values their employees, pays competitively, offers benefits on day one, and paid time off then look no further!\nResponsibilities of the Carpenter: \n\n Constructing, installing, and repairing structures\n Working with blueprints, specifications, and drawings. (Not required)\n Backing & blocking\n Safety Install\n Rough pick-up work\n Framing wood and/or metal\n Inspect work to ensure conformity to specifications and work schedules\n Problem solve construction issues\n Responsible for keeping and maintaining a clean workspace\n Ensure that safety is paramount on all job sites\n\nRequirements of the Carpenter: \n\n Minimum 1+ years of carpentry experience preferred\n Basic trade hand/power tools\n Valid driver's license and reliable transportation\n Dependable and able to work 40 hours a week\n Basic hand tools for apprentices, hand, and power tools for the journeyman level.\n\n\n Reliable transportation\n\nThe perks of joining our team: \n\n Up to $30.00/hour depending on experience\n Benefits package: health, dental, vision, short term disability and life insurance\n PTO\n 401k Retirement Savings\n Weekly pay\n Growth opportunities\n PPE provided (Hard Hats, Vests, Gloves, and Safety Glasses)\n Employee referral program\n\nFor immediate consideration, call our office today: (214) 214-9675\nDAL1\nJob Type: Full-time\nPay: Up to $30.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Health insurance\n Paid time off\n Referral program\n Vision insurance\n\nSchedule:\n\n Day shift\n Monday to Friday\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Home Remodeling Scheduling & Installation Coordinator (FT)",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Luxe Design Center",
+  "location": "Plano, TX",
+  "rating": null,
+  "reviewsCount": null,
+  "url": "https://www.indeed.com/rc/clk?jk=d4cf345e866fd3e1&fccid=dd616958bd9ddc12&vjs=3",
+  "id": "d4cf345e866fd3e1",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:41.187Z",
+  "description": "\n \n  PURPOSE OF THE POSITION:\n \n \n   The Home Remodeling Scheduling & Installation Coordinator is responsible for scheduling installations and the installation crews to assure the workflow runs smoothly for each home remodeling project.\n \n \n \n   RESPONSIBILITIES:\n \n \n   Completes installation & operational requirements by scheduling and assigning installation crews; following up on work results daily.\n   Maintains the installation schedule which includes all phases of installation and construction for each project.\n   Identifies current and future customer requirements by establishing rapport with potential and actual customers, clients, and other persons in a position to understand service requirements.\n   Calls customers and clients daily to inform them of the scheduling for the next day.\n   Ensures availability of merchandise and services by communicating with vendors, suppliers and purchasing agents.\n   Places and purchases orders for materials and supplies.\n   Keeps Sales Representatives and Operations Manager informed of installation activity.\n   Assists the Operations Manager in organizing work for assigned projects.\n   Identifies and implements process performance improvements and standardization pertaining to department procedures and workflow.\n   Provides all paperwork for jobs and assures files are ready to be shared with installers before installations begin.\n   Initiates solutions when problems arise and takes action to handle difficult situations in a timely and professional manner.\n   Manages files.\n   Skilled in using Google Drive.\n   Contributes to team effort by accomplishing related results as needed.\n   Must have strong analytical and data management skills.\n   Able to prioritize tasks independently and accurately complete work.\n   Provides timely and accurate responses to data requests.\n   Effectively uses strong oral and written communication, and time and project management skills.\n   Must have knowledge of the home remodeling process and materials used.\n   Must be fluent in English.\n   Fluent in Spanish is a plus.\n \n  \n  \n About Luxe Design Center:\n  \n  \n \"THROUGH THE CREATIVE VISUALIZATION OF OUR ARCHITECTS, DESIGNERS, BUILDERS AND OWNERS, WE COMBINE AN ARRAY OF ELEMENTS IN FLOORING, KITCHEN, BATH, AND TILE DESIGN TO BRING YOU BEAUTY, SUSTAINABILITY AND QUALITY DESIGN SOLUTIONS THAT WILL STAND THE TEST OF TIME FOR YEARS TO COME.\"\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "General Laborer (Irving, TX) - Austin Commercial",
+  "salary": "From $15 an hour",
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Austin Commercial LP",
+  "location": "2320 E Union Bower Rd, Irving, TX",
+  "rating": 4,
+  "reviewsCount": 9,
+  "url": "https://www.indeed.com/company/Austin-Commercial-LP/jobs/General-Laborer-1fcf13afaf0c7ace?fccid=316257953acede5c&vjs=3",
+  "id": "1fcf13afaf0c7ace",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:41.322Z",
+  "description": "Austin Commercial is currently seeking a general laborer for our Irving, Texas equipment yard. They are responsible for general support at our yard with items such as cleaning, loading and unloading materials, and moving equipment as needed.\nGeneral work schedule: Monday through Friday; 8 hour shift plus overtime as needed.\nWork environment: Indoor and outdoor.\nResponsibilities\n\n Assist with washing various construction equipment\n Perform general cleanup of shop and yard, such as sweeping and removing trash\n Performs general maintenance duties to ensure a clean and safe environment\n Follows all company safety policies and procedures\n Load or unload materials as needed\n Travel to various job sites as needed with company vehicle to pick up/drop off equipment\n Additional duties as assigned\n\nRequirements: \n\n High school diploma or general education degree (GED)\n Valid driver's license with a clean driving record\n Trainable and willing to perform multiple tasks as needed\n Work in different weather environments\n Basic computer skills\n For safety reasons, it is imperative that the employee be able to read and speak fluent English.\n\nWe offer excellent benefits including medical, dental, life and disability insurance, and a matching 401K plan. We are proud to be a 100% Employee Owned Company (ESOP)! To learn more about Austin, please go to https://www.austin-ind.com/our-company/who-we-are.\nAn Equal Employment Opportunity Employer\nAustin (\"The Company\") is an equal employment opportunity employer. The Company's policy prohibits discrimination against any applicant or employee based on race, color, sex, religion, national origin, age (40 and over), disability, military status, genetic information or any other basis protected by applicable federal, state, or local laws. The Company also prohibits harassment of applicants or employees based on any of these protected categories. It is also the Company's policy to comply with all federal, state and local laws respecting consideration of unemployment status in making hiring decisions.\nNo Agency Inquiries Please\nAustin Industries and all operating divisions (Austin Bridge & Road, Austin Commercial, and Austin Industrial) do not accept unsolicited resumes, candidates’ names or summaries from staffing agencies, search firms, or third-party recruiters. Any unsolicited resumes submitted to Austin Industries, or any of its employee-owners, becomes the property of Austin Industries and Austin Industries will not pay a placement fee.\nAbout Austin Commercial\nBecome an owner of one of North America's most respected and fastest growing commercial construction firms! Austin Commercial’s employee-owners put our expertise to work in regional and national operations, building iconic projects that set the bar in our industry. Whether world-class airports and aviation facilities, technologically advanced healthcare facilities, cutting-edge educational and research facilities, professional sports stadiums, high-rises, hospitality, and other leading commercial markets, Austin’s industry expertise and ingenuity are second to none. Become an employee-owner today, grow your career, and put your skills to work at Austin Commercial. We Own It!\nJob Type: Full-time\nPay: From $15.00 per hour\nBenefits:\n\n 401(k)\n 401(k) matching\n Dental insurance\n Employee discount\n Health insurance\n Life insurance\n Referral program\n Vision insurance\n\nSchedule:\n\n Monday to Friday\n Overtime\n\nLicense/Certification:\n\n driver's license (Required)\n\nWork Location: One location",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Landscape Laborer",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "Complete Landsculpture",
+  "location": "Dallas, TX 75220",
+  "rating": 3.4,
+  "reviewsCount": 5,
+  "url": "https://www.indeed.com/rc/clk?jk=0808205248e349f5&fccid=707b9dd1c09cb036&vjs=3",
+  "id": "0808205248e349f5",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:41.464Z",
+  "description": "\n Job Summary: \n  The Landscape Laborer is responsible for working as a team member under the direct supervision of the Landscape Foreman. The Laborer is responsible for executing construction landscape installation jobs in an efficient manner, promote job worksite safety, provide excellent customer service, and exhibit pride and quality workmanship. \n  Essential Job Functions: \n  1. Ability to lift, push, pull, carry 50 pounds of material or equipment. \n  2. Ability to stand, kneel and/or bend for a long period of time. \n  3. Ability to withstand exposure to outside weather conditions: humidity, rain, hot and cold temperatures. \n  4. Ability to see with or without corrective aids. \n  Job Requirements:\n  \n  \n  1. Must be able to work a 5-day schedule, may include weekends and holidays. \n 2. Must be able to show proof of legal authorization to work in the United States. \n  3. Highly motivated, self-driven, and detailed oriented. \n  4. Must be professional in appearance and actions. \n  5. Maintain good attendance record as well as good punctuality. \n  6. Understands and adheres to company and safety policies, proper lifting techniques, and heat stress. \n  7. Must be able to properly, efficiently, and safely work with landscaping hand tools and gas powered equipment. \n  8. If driving for the company, must have and maintain a valid state issued driver’s license as well as clear driving record and must pass a criminal background check. \n  Duties and Responsibilities: \n  1. Hand rake, hand grade and till soil with tillers and cultivators. \n  2. Install or remove sod. \n 3. Spread mulch, fertilizers and soil amendments. \n 4. Install edging material: steel, stone or composite. \n 5. Plant flowers, shrubs, trees, and ground covers. \n  6. Properly hand water sod, shrubs, trees, and ground covers. \n 7. Trim plant material and trees. \n 8. Perform construction activities such as: laying pavers, stone, brick, or cinder blocks. \n  9. Attend training and safety meetings and apply the subject matter to day to day task. \n 10. Follow all direct orders given to you by your Foreman or Manager. \n  1 11. Work as part of a team. \n 12. Always represent the company’s best interest, maintain the highest level of integrity and professionalism. \n 13. Perform inspection and preventative maintenance on gas powered equipment. \n 1 14. Perform other duties as assigned.\n\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+},
+{
+  "positionName": "Entry Door Technicians/Installers",
+  "salary": null,
+  "jobType": [
+    "Full-time"
+  ],
+  "company": "D.H. Pace Company, Inc.",
+  "location": "Coppell, TX 75019",
+  "rating": 3.1,
+  "reviewsCount": 177,
+  "url": "https://www.indeed.com/rc/clk?jk=6d3114f92599c221&fccid=04c44fa3cc072278&vjs=3",
+  "id": "6d3114f92599c221",
+  "postedAt": "",
+  "scrapedAt": "2022-12-04T19:41:41.497Z",
+  "description": "\n\n DH Pace Company, Inc., is seeking experienced Entry Door Technicians and Installers in Dallas and the surrounding areas. We aspire to hire an individual to install and/or service doors, frames, and hardware. Some of the doors that will be installed are hollow metal, fire rated, custom wood, aluminum, and glass doors. \n  Job Responsibilities: \n  \n  Install and/or repair a wide range of entry doors and door hardware \n  Identify opportunities to provide customers with products and services \n  Track and maintain job related paperwork and submitting in a timely manner \n  Operate in safety conscious manner at all times while performing job duties \n  Other duties as assigned \n  \n Job Qualifications: \n  \n  High School Diploma/GED (Preferred) \n  Prior experience in a similar role or one that required a mechanical aptitude preferred \n  Ability to safely lift up to 75 pounds \n  Ability to work at heights and use a ladder \n  Must possess valid driver’s license and good driving record \n  \n Why DH Pace? \n DH Pace Company is a distribution, construction and service organization offering a complete range of door and door related products and commercial security products. The company is privately owned and has been in operation over 95 years! We have 50 US offices in 24 states with company-wide sales in 2021 of $740M. \n  Our benefit offerings include: \n  \n  Competitive compensation \n  Tool allowance \n  Medical, dental, and vision options \n  401k retirement plan + match \n  Company paid life insurance \n  Paid time off plan \n  and more! \n  \n Successful completion of references, employment verifications, background check, and drug screen required in advance of hire.\n  \n  \n  Building Safer Communities-DH Pace Company \n  My DH Pace Story\n  \n  \n  DH Pace Company, Inc.\n \n  Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities\n  The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)\n",
+  "externalApplyLink": null,
+  "title": "Construction Worker-Dallas, Texas12-04-2022 14_41"
+}]
