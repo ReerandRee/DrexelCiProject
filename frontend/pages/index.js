@@ -95,7 +95,7 @@ const Home = () => {
     labels,
     datasets: [
       {
-        label: 'Job Categories',
+        label: 'Jobs',
         data: counts,
         borderWidth: 1,
         backgroundColor: colorArray
@@ -115,7 +115,7 @@ const Home = () => {
     labels: cityLabels,
     datasets: [
       {
-        label: 'Cities',
+        label: 'Jobs',
         data: cityCounts,
         borderWidth: 1,
         backgroundColor: colorArray
