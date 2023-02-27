@@ -127,8 +127,13 @@ const Home = () => {
     <>
       <div>Homepage</div>
 
-      <Bar options={categoryOptions} data={categoryChartData} />
-      <Bar options={cityOptions} data={cityChartData} />
+      <div style={{ width: '75%', height: '50%', margin: 'auto' }}>
+        <Bar options={categoryOptions} data={categoryChartData} />
+      </div>
+
+      <div style={{ width: '75%', height: '50%', margin: 'auto' }}>
+        <Bar options={cityOptions} data={cityChartData} />
+      </div>
     </>
   )
 }
