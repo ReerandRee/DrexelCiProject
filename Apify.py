@@ -39,7 +39,7 @@ def apify_call(csvFile, citynumber = -1):
     cities = list(jobDF['Cities'])
 
     #MANUAL OVERRIDE
-    jobs = ["Computer Science", "Data Science","Cyber Security","Software Engineering", "Web Developer"]
+    # jobs = ["Computer Science", "Data Science","Cyber Security","Software Engineering", "Web Developer"]
 
     for job in jobs:
         print(job, cities[citynumber])
