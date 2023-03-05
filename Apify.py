@@ -2,7 +2,7 @@ import schedule
 import time
 import timeit
 from apify_client import ApifyClient
-from datetime import datetime
+from datetime import datetime, timedelta
 import pandas as pd
 import json
 import psycopg2 
@@ -35,10 +35,11 @@ def apify_call(csvFile, citynumber = -1):
     jobDF.dropna(inplace=True)
 
     jobs = list(jobDF['General Fields'])
+
     cities = list(jobDF['Cities'])
 
     #MANUAL OVERRIDE
-    # jobs = jobs[23:]
+    jobs = ["Computer Science", "Data Science","Cyber Security","Software Engineering", "Web Developer"]
 
     for job in jobs:
         print(job, cities[citynumber])
@@ -75,6 +76,7 @@ def apify_call(csvFile, citynumber = -1):
         for i in jsonOutput:
             # cursor.execute("INSERT INTO demo_jobs (id, company, position, location) VALUES (%s, %s, %s, %s)", (i['id'], i['company'], i['positionName'], i['location']))
             try:
+                postedat = parse_posted_at(i['postedAt'])
                 cursor.execute('''INSERT INTO jobs (vendorID, 
                                                     positionName, 
                                                     company, 
@@ -88,7 +90,7 @@ def apify_call(csvFile, citynumber = -1):
                                                     requirements, 
                                                     description,
                                                     indeedLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
-                                (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], None, i['salary'], None, None, i['description'], i['url']))
+                                (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], postedat, i['salary'], None, None, i['description'], i['url']))
             except:
                 print("Error inserting job id: " + i['id'])
             conn.commit()
@@ -102,6 +104,18 @@ def apify_call(csvFile, citynumber = -1):
     # f.write(outputbytes)
     # f.close()
 
+def parse_posted_at(inputString):
+    if inputString == "Just Posted":
+        return datetime.today()
+    if inputString == "Today":
+        return datetime.today()
+    daysBack = ''.join(filter(str.isdigit, inputString))
+    if daysBack != "":
+        try:
+            return (datetime.today() - timedelta(days=int(daysBack)))
+        except:
+            return None
+    return None; 
 
 if __name__ == "__main__":
 
