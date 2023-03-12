@@ -9,11 +9,31 @@ export default async function handler(req, res) {
     })
 
 
-    // Find jobs where the count of the searchterm is descending and the searcharea is the same as the query string
-
     if (query.city && query.position) {
         res.status(400).json({ error: 'Search either by city or postion' })
     }
+
+    if (query.searcharea === "all") {
+        return res.status(200).json(await prisma.jobs.findMany({
+            select: {
+                searcharea: true,
+            },
+            distinct: ['searcharea'],
+        }))
+    }
+
+    if (query.positionname === "all") {
+        return res.status(200).json(await prisma.jobs.findMany({
+            select: {
+                positionname: true,
+            },
+            distinct: ['positionname'],
+        }))
+    }
+
+
+
+
 
     const jobs = query.city ? await prisma.jobs.groupBy({
         by: ['searchterm'],
@@ -55,10 +75,11 @@ export default async function handler(req, res) {
 
 
 
+
     // query strings:
     // city
     // count
     // title
 
-    res.status(200).json(jobs);
+    return res.status(200).json(jobs);
 }
