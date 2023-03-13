@@ -16,7 +16,59 @@ db = os.getenv("DB_NAME")
 user = os.getenv("DB_USER")
 password = os.getenv("DB_PASSWORD")
 port = os.getenv("DB_PORT")
+def isNaN(num):
+    return num != num
+def processData(listOfMoney):
+    #We are averaging the salary
+    if len(listOfMoney) == 1:
+        return listOfMoney[0]
+    else:
+        sumVal = float(listOfMoney[0]) + float(listOfMoney[1])
+        theMoney = sumVal/2
+        return theMoney
+    
 
+
+def getHrPay(listOfPreviousSalaryInfo):
+    theNewList = []
+    for val in listOfPreviousSalaryInfo:
+        if(isNaN(val)): 
+            theNewList.append("")
+            continue
+        else:
+            monthMatch = re.search(r'\bmonth\b', val)
+            yearMatch = re.search(r'\byear\b', val)
+            hourMatch = re.search(r'\bhour\b', val)
+            weekMatch = re.search(r'\bweek\b', val)
+            dollarmatches = re.findall(r'\$[\d,]+(?:-\$[\d,]+)?', val)
+            
+            realDollar = [dollar.replace('$', '') for dollar in dollarmatches]
+            realDollar = [dollar.replace(',','') for dollar in realDollar]
+            if monthMatch:
+                theList = []
+                for ele in realDollar:
+                    theList.append(float(float(ele) * 12))
+                theNewList.append(processData(theList))
+            elif yearMatch:
+                theList = []
+                for ele in realDollar:
+                    theList.append(float(ele))
+                theNewList.append(processData(theList))
+            elif weekMatch:
+                theList = []
+                for ele in realDollar:
+                    theList.append(float(float(ele)*52))
+                theNewList.append(processData(theList))
+            else:
+                theList = []
+		
+                for ele in realDollar:
+                    theList.append(float(float(ele)*40*52))
+                theString = processData(theList)
+                theNewList.append(theString)
+
+     return theNewList
+            
 try: 
     conn = psycopg2.connect(dbname=db, user=user, password=password, host=host, port=port)
     cursor = conn.cursor() 
