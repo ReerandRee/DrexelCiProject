@@ -5,7 +5,7 @@ from apify_client import ApifyClient
 from datetime import datetime
 import pandas as pd
 import json
-import psycopg2 
+import psycopg2
 import os
 from dotenv import load_dotenv
 import re
@@ -18,33 +18,40 @@ db = os.getenv("DB_NAME")
 user = os.getenv("DB_USER")
 password = os.getenv("DB_PASSWORD")
 port = os.getenv("DB_PORT")
+
+
 def isNaN(num):
     return num != num
+
+
 def processData(listOfMoney):
-    #We are averaging the salary
+    # We are averaging the salary
     if len(listOfMoney) == 1:
         return listOfMoney[0]
     else:
         sumVal = float(listOfMoney[0]) + float(listOfMoney[1])
         theMoney = sumVal/2
         return theMoney
-    
+
+
 '''
     getHrPayFromString(string)
     input: the string of the cell value
     output: the average salary per year
 '''
+
+
 def getHrPayFromString(string):
-    if(isNaN(string)): 
+    if (isNaN(string)):
         print("It is not a valid value")
-        return ""
+        return None
     else:
         monthMatch = re.search(r'\bmonth\b', string)
         yearMatch = re.search(r'\byear\b', string)
         weekMatch = re.search(r'\bweek\b', string)
         dollarmatches = re.findall(r'\$[\d,]+(?:-\$[\d,]+)?', string)
         realDollar = [dollar.replace('$', '') for dollar in dollarmatches]
-        realDollar = [dollar.replace(',','') for dollar in realDollar]
+        realDollar = [dollar.replace(',', '') for dollar in realDollar]
         theList = []
         if monthMatch:
             for ele in realDollar:
@@ -60,10 +67,11 @@ def getHrPayFromString(string):
                 theList.append(float(float(ele)*40*52))
         return processData(theList)
 
+
 def getHrPay(listOfPreviousSalaryInfo):
     theNewList = []
     for string in listOfPreviousSalaryInfo:
-        if(isNaN(val)): 
+        if (isNaN(val)):
             theNewList.append("")
             continue
         else:
@@ -72,9 +80,9 @@ def getHrPay(listOfPreviousSalaryInfo):
             hourMatch = re.search(r'\bhour\b', val)
             weekMatch = re.search(r'\bweek\b', val)
             dollarmatches = re.findall(r'\$[\d,]+(?:-\$[\d,]+)?', val)
-            
+
             realDollar = [dollar.replace('$', '') for dollar in dollarmatches]
-            realDollar = [dollar.replace(',','') for dollar in realDollar]
+            realDollar = [dollar.replace(',', '') for dollar in realDollar]
             if monthMatch:
                 theList = []
                 for ele in realDollar:
@@ -92,13 +100,13 @@ def getHrPay(listOfPreviousSalaryInfo):
                 theNewList.append(processData(theList))
             else:
                 theList = []
-		
+
                 for ele in realDollar:
                     theList.append(float(float(ele)*40*52))
                 theString = processData(theList)
                 theNewList.append(theString)
-
-     return theNewList
+                
+    return theNewList
             
 try: 
     conn = psycopg2.connect(dbname=db, user=user, password=password, host=host, port=port)
@@ -170,8 +178,9 @@ def apify_call(csvFile, citynumber = -1):
                                                     benefits, 
                                                     requirements, 
                                                     description,
-                                                    indeedLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
-                                (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], None, i['salary'], None, None, i['description'], i['url']))
+                                                    indeedLink, 
+                                                    parsed_salary) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
+                                (i['id'],  i['positionName'], i['company'], i['location'], job, cities[citynumber], i['scrapedAt'], None, i['salary'], None, None, i['description'], i['url'], getHrPayFromString(i['salary'])))
             except:
                 print("Error inserting job id: " + i['id'])
             conn.commit()
