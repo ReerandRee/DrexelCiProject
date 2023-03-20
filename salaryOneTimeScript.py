@@ -16,6 +16,7 @@ password = os.getenv("DB_PASSWORD")
 port = os.getenv("DB_PORT")
 
 rowValues=  {}
+records = []
 
 def initializeRowValues ():
     values = ["id", "vendorid", "positionname", "company", "location", "searchterm", "searcharea", "scrapedat", "createdat", "postedat", "salary", "benefits", "requirements", "description", "indeedlink", "keywords", "parsed_salary"]
@@ -67,26 +68,29 @@ except:
     print("Failed to connect to database. Please try again.")
 
 try:
-    cursor.execute("SELECT * from jobs where parsed_salary is NULL and salary is NOT NULL limit 5000")
+    cursor.execute("SELECT * from jobs where parsed_salary is NULL and salary is NOT NULL")
     records = cursor.fetchall()
 except:
     print("Failed to retrieve record from database. Please try again.")
 
-for row in records:
-    salary = row[rowValues["salary"]]
-    id = row[rowValues["id"]]
-    parsed_salary = getHrPayFromString(salary)
+if len(records) == 0:
+    print("No records to update!")
+else:
+    for row in records:
+        salary = row[rowValues["salary"]]
+        id = row[rowValues["id"]]
+        parsed_salary = getHrPayFromString(salary)
 
-    try:
-        cursor.execute('''
-            UPDATE jobs 
-            SET parsed_salary = %s
-            WHERE id = %s''', (parsed_salary, id)
-        )
-        print('''UPDATED id = %s, salary = %s with parsed_salary = %d''', (salary, id, parsed_salary))
-        conn.commit()
-    except:
-        print("Failed to update record from database. Please try again. ID: %s, Salary: %s", (row[rowValues["id"]], row[rowValues["salary"]]))
+        try:
+            cursor.execute('''
+                UPDATE jobs 
+                SET parsed_salary = %s
+                WHERE id = %s''', (parsed_salary, id)
+            )
+            print('''UPDATED id = %s, salary = %s with parsed_salary = %d''', (salary, id, parsed_salary))
+            conn.commit()
+        except:
+            print("Failed to update record from database. Please try again. ID: %s, Salary: %s", (row[rowValues["id"]], row[rowValues["salary"]]))
 
 cursor.close()
 conn.close()
