@@ -32,10 +32,18 @@ export default async function handler(req, res) {
     //     },
     // });
 
-    const entryJobs = await prisma.positions.groupBy({
+    const entryJobs = await prisma.jobs.groupBy({
         by: ['searchterm'],
-        where: { positionname: { contains: 'entry' } },
-        _count: { positionname: true }
+        where: {
+            OR: [
+                { positionname: { contains: 'entry' } },
+                { description: { contains: 'entry' } },
+            ]
+        },
+        _count: { positionname: true },
+        orderBy: {
+            searchterm: 'asc',
+        }
     })
 
     res.status(200).json(entryJobs);
