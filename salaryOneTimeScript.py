@@ -67,7 +67,7 @@ except:
     print("Failed to connect to database. Please try again.")
 
 try:
-    cursor.execute("SELECT * from jobs where parsed_salary is NULL and salary is NOT NULL limit 1000")
+    cursor.execute("SELECT * from jobs where parsed_salary is NULL and salary is NOT NULL limit 5000")
     records = cursor.fetchall()
 except:
     print("Failed to retrieve record from database. Please try again.")
