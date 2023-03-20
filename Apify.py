@@ -8,6 +8,8 @@ import json
 import psycopg2 
 import os
 from dotenv import load_dotenv
+import re
+import math
 
 load_dotenv()
 
@@ -27,11 +29,40 @@ def processData(listOfMoney):
         theMoney = sumVal/2
         return theMoney
     
-
+'''
+    getHrPayFromString(string)
+    input: the string of the cell value
+    output: the average salary per year
+'''
+def getHrPayFromString(string):
+    if(isNaN(string)): 
+        print("It is not a valid value")
+        return ""
+    else:
+        monthMatch = re.search(r'\bmonth\b', string)
+        yearMatch = re.search(r'\byear\b', string)
+        weekMatch = re.search(r'\bweek\b', string)
+        dollarmatches = re.findall(r'\$[\d,]+(?:-\$[\d,]+)?', string)
+        realDollar = [dollar.replace('$', '') for dollar in dollarmatches]
+        realDollar = [dollar.replace(',','') for dollar in realDollar]
+        theList = []
+        if monthMatch:
+            for ele in realDollar:
+                theList.append(float(float(ele) * 12))
+        elif yearMatch:
+            for ele in realDollar:
+                theList.append(float(ele))
+        elif weekMatch:
+            for ele in realDollar:
+                theList.append(float(float(ele)*52))
+        else:
+            for ele in realDollar:
+                theList.append(float(float(ele)*40*52))
+        return processData(theList)
 
 def getHrPay(listOfPreviousSalaryInfo):
     theNewList = []
-    for val in listOfPreviousSalaryInfo:
+    for string in listOfPreviousSalaryInfo:
         if(isNaN(val)): 
             theNewList.append("")
             continue
