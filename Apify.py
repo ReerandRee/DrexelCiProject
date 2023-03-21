@@ -5,9 +5,11 @@ from apify_client import ApifyClient
 from datetime import datetime, timedelta
 import pandas as pd
 import json
-import psycopg2 
+import psycopg2
 import os
 from dotenv import load_dotenv
+import re
+import math
 
 load_dotenv()
 
@@ -17,6 +19,95 @@ user = os.getenv("DB_USER")
 password = os.getenv("DB_PASSWORD")
 port = os.getenv("DB_PORT")
 
+
+def isNaN(num):
+    return num != num
+
+
+def processData(listOfMoney):
+    # We are averaging the salary
+    if len(listOfMoney) == 1:
+        return listOfMoney[0]
+    else:
+        sumVal = float(listOfMoney[0]) + float(listOfMoney[1])
+        theMoney = sumVal/2
+        return theMoney
+
+
+'''
+    getHrPayFromString(string)
+    input: the string of the cell value
+    output: the average salary per year
+'''
+
+
+def getHrPayFromString(string):
+    if (isNaN(string)):
+        print("It is not a valid value")
+        return None
+    else:
+        monthMatch = re.search(r'\bmonth\b', string)
+        yearMatch = re.search(r'\byear\b', string)
+        weekMatch = re.search(r'\bweek\b', string)
+        dollarmatches = re.findall(r'\$[\d,]+(?:-\$[\d,]+)?', string)
+        realDollar = [dollar.replace('$', '') for dollar in dollarmatches]
+        realDollar = [dollar.replace(',', '') for dollar in realDollar]
+        theList = []
+        if monthMatch:
+            for ele in realDollar:
+                theList.append(float(float(ele) * 12))
+        elif yearMatch:
+            for ele in realDollar:
+                theList.append(float(ele))
+        elif weekMatch:
+            for ele in realDollar:
+                theList.append(float(float(ele)*52))
+        else:
+            for ele in realDollar:
+                theList.append(float(float(ele)*40*52))
+        return processData(theList)
+
+# Doesnt compile, commenting out (unused code)
+
+# def getHrPay(listOfPreviousSalaryInfo):
+#     theNewList = []
+#     for string in listOfPreviousSalaryInfo:
+#         if (isNaN(val)):
+#             theNewList.append("")
+#             continue
+#         else:
+#             monthMatch = re.search(r'\bmonth\b', val)
+#             yearMatch = re.search(r'\byear\b', val)
+#             hourMatch = re.search(r'\bhour\b', val)
+#             weekMatch = re.search(r'\bweek\b', val)
+#             dollarmatches = re.findall(r'\$[\d,]+(?:-\$[\d,]+)?', val)
+
+#             realDollar = [dollar.replace('$', '') for dollar in dollarmatches]
+#             realDollar = [dollar.replace(',', '') for dollar in realDollar]
+#             if monthMatch:
+#                 theList = []
+#                 for ele in realDollar:
+#                     theList.append(float(float(ele) * 12))
+#                 theNewList.append(processData(theList))
+#             elif yearMatch:
+#                 theList = []
+#                 for ele in realDollar:
+#                     theList.append(float(ele))
+#                 theNewList.append(processData(theList))
+#             elif weekMatch:
+#                 theList = []
+#                 for ele in realDollar:
+#                     theList.append(float(float(ele)*52))
+#                 theNewList.append(processData(theList))
+#             else:
+#                 theList = []
+
+#                 for ele in realDollar:
+#                     theList.append(float(float(ele)*40*52))
+#                 theString = processData(theList)
+#                 theNewList.append(theString)
+#     return theNewList
+            
 try: 
     conn = psycopg2.connect(dbname=db, user=user, password=password, host=host, port=port)
     cursor = conn.cursor() 
@@ -117,8 +208,9 @@ def apify_call(titlescsv, locationscsv, maxReads):
                                                     benefits, 
                                                     requirements, 
                                                     description,
-                                                    indeedLink) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
-                                (i['id'],  i['positionName'], i['company'], i['location'], job, city, i['scrapedAt'], postedat, i['salary'], None, None, i['description'], i['url']))
+                                                    indeedLink, 
+                                                    parsed_salary) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
+                                (i['id'],  i['positionName'], i['company'], i['location'], job, city, i['scrapedAt'], postedat, i['salary'], None, None, i['description'], i['url'], getHrPayFromString(i['salary'])))
             except:
                 print("Error inserting job id: " + i['id'])
             conn.commit()

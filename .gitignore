@@ -1,3 +1,5 @@
 env.json
 .env
 test.py
+/frontend/node_modules
+/frontend/.next
