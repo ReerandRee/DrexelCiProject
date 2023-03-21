@@ -51,6 +51,8 @@ model initialjobs {
   requirements      String?
   description       String?
   externalapplylink String?
+  keyword           String?
+  parsed_salary     Float?
 }
 
 model cities {
