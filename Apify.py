@@ -118,7 +118,7 @@ def apify_call(titlescsv, locationscsv, maxReads):
     
     # Original Code for scheduling tasks
 
-    client = ApifyClient(os.getenv("API_KEY_PROD"))
+    client = ApifyClient(os.getenv("API_KEY_DEV"))
 
     #Get CSV data
     titlesDF = pd.read_csv(titlescsv)
@@ -194,8 +194,17 @@ def apify_call(titlescsv, locationscsv, maxReads):
 
         for i in jsonOutput:
             # cursor.execute("INSERT INTO demo_jobs (id, company, position, location) VALUES (%s, %s, %s, %s)", (i['id'], i['company'], i['positionName'], i['location']))
+            postedat = parse_posted_at(i['postedAt'])
             try:
-                postedat = parse_posted_at(i['postedAt'])
+                parsedSalary = getHrPayFromString(i['salary'])
+            except Exception as e:
+                if (i['salary'] == None):
+                    print("Error Parsing pay from job id: " + i['id'])
+                else:
+                    print("Error Parsing pay from job id: " + i['id'] + ", Pay String is: " + i['salary'])
+                print(e)
+                parsedSalary = None
+            try:
                 cursor.execute('''INSERT INTO jobs (vendorID, 
                                                     positionName, 
                                                     company, 
@@ -209,10 +218,12 @@ def apify_call(titlescsv, locationscsv, maxReads):
                                                     requirements, 
                                                     description,
                                                     indeedLink, 
-                                                    parsed_salary) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
-                                (i['id'],  i['positionName'], i['company'], i['location'], job, city, i['scrapedAt'], postedat, i['salary'], None, None, i['description'], i['url'], getHrPayFromString(i['salary'])))
-            except:
+                                                    keywords,
+                                                    parsed_salary) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', 
+                                (i['id'],  i['positionName'], i['company'], i['location'], job, city, i['scrapedAt'], postedat, i['salary'], None, None, i['description'], i['url'], None, parsedSalary))
+            except Exception as e:
                 print("Error inserting job id: " + i['id'])
+                print(e)
             conn.commit()
 
 
