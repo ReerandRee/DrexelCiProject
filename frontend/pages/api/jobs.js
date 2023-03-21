@@ -94,7 +94,21 @@ export default async function handler(req, res) {
                 },
             },
             take: 10
-        }) :
+        }) : query.salary ? await prisma.jobs.findMany({
+            select: {
+                parsed_salary: true,
+                searchterm: true,
+            },
+            where: {
+                searchterm: {
+                    contains: query.salary,
+                },
+                parsed_salary: {
+                    not: null
+                },
+            }
+        })
+            :
             {}
 
 
