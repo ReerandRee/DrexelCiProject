@@ -24,6 +24,8 @@ model jobs {
   requirements String?
   description  String?
   indeedlink   String?
+  keyword           String?
+  parsed_salary     Float?
 }
 
 model demo_jobs {
@@ -49,4 +51,6 @@ model initialjobs {
   requirements      String?
   description       String?
   externalapplylink String?
+  keyword           String?
+  parsed_salary     Float?
 }
