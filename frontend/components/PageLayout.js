@@ -29,6 +29,16 @@ const PageLayout = ({ children, key }) => {
 						<Menu.Item key="3" icon={<SearchOutlined />}>
 							<Link href='/api/jobCount' replace><a>Job Count by Category Endpoint</a></Link>
 						</Menu.Item>
+						<Menu.Item key="4" icon={<SearchOutlined />}>
+							<Link href='/topjobs' replace><a>Top Jobs by City</a></Link>
+						</Menu.Item>
+						<Menu.Item key="5" icon={<SearchOutlined />}>
+							<Link href='/topcities' replace><a>Top Cities By Job</a></Link>
+						</Menu.Item>
+						<Menu.Item key="6" icon={<SearchOutlined />}>
+							<Link href='/salaries' replace><a>Salary Box-Plot</a></Link>
+						</Menu.Item>
+
 					</Menu>
 
 				</Sider>

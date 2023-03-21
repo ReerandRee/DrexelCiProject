@@ -9,21 +9,23 @@ datasource db {
 
 /// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
 model jobs {
-  id           Int       @id(map: "jobs_pkey1") @default(autoincrement())
-  vendorid     String
-  positionname String
-  company      String
-  location     String
-  searchterm   String
-  searcharea   String
-  scrapedat    DateTime  @db.Timestamp(6)
-  createdat    DateTime  @default(now()) @db.Timestamp(6)
-  postedat     DateTime? @db.Timestamp(6)
-  salary       String?
-  benefits     String?
-  requirements String?
-  description  String?
-  indeedlink   String?
+  id            Int       @id(map: "jobs_pkey1") @default(autoincrement())
+  vendorid      String
+  positionname  String
+  company       String
+  location      String
+  searchterm    String
+  searcharea    String
+  scrapedat     DateTime  @db.Timestamp(6)
+  createdat     DateTime  @default(now()) @db.Timestamp(6)
+  postedat      DateTime? @db.Timestamp(6)
+  salary        String?
+  benefits      String?
+  requirements  String?
+  description   String?
+  indeedlink    String?
+  keywords      String?
+  parsed_salary Float?
 }
 
 model demo_jobs {
@@ -49,4 +51,13 @@ model initialjobs {
   requirements      String?
   description       String?
   externalapplylink String?
+}
+
+model cities {
+  id         Int    @id @default(autoincrement())
+  cityname   String
+  statename  String
+  lat        Float
+  lng        Float
+  population Int?
 }
