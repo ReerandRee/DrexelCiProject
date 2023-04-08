@@ -33,12 +33,12 @@ const Navbar = (props: NavbarProps) => {
     return (
         <nav className="text-center md:text-left mx-16 py-8 flex flex-col gap-4 ">
             <p className={`${lato.className} text-3xl pl-2`}>Indeed Data Analyzer</p>
-            <div className='flex gap-16 justify-center md:justify-normal py-6'>
+            <div className='flex gap-16 justify-center md:justify-normal py-6 pb-2'>
                 <Link href={Paths.HOME} className={`${selected == Paths.HOME ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100 `}>Job Counts</Link>
                 <Link href={Paths.TOP_JOBS} className={`${selected == Paths.TOP_JOBS ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Top 10 Jobs by City</Link>
                 <Link href={Paths.TOP_CITIES} className={`${selected == Paths.TOP_CITIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Top 10 Cities by Job</Link>
             </div>
-            <div className='bg-slate-600 w-full h-full'>
+            <div className=' w-full h-full'>
                 {props.children}
             </div>
         </nav>
