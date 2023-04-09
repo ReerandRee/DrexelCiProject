@@ -26,6 +26,13 @@ export default async function handler(
       take: query.count ? parseInt(query.count as string) : 10,
     });
 
-    res.status(200).json(jobs);
+    const jobCount = jobs.map((job) => {
+      return {
+        position: job.searchterm,
+        count: job._count.searchterm,
+      };
+    });
+
+    res.status(200).json(jobCount);
   }
 }
