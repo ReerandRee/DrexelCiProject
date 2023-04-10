@@ -11,7 +11,8 @@ const lato = Lato({
 enum Paths {
     HOME = '/',
     TOP_JOBS = '/topjobs',
-    TOP_CITIES = '/topcities'
+    TOP_CITIES = '/topcities',
+    SALARIES = '/salaries'
 }
 
 interface NavbarProps {
@@ -37,6 +38,7 @@ const Navbar = (props: NavbarProps) => {
                 <Link href={Paths.HOME} className={`${selected == Paths.HOME ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100 `}>Job Counts</Link>
                 <Link href={Paths.TOP_JOBS} className={`${selected == Paths.TOP_JOBS ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Top 10 Jobs by City</Link>
                 <Link href={Paths.TOP_CITIES} className={`${selected == Paths.TOP_CITIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Top 10 Cities by Job</Link>
+                <Link href={Paths.SALARIES} className={`${selected == Paths.SALARIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Salaries</Link>
             </div>
             <div className=' w-full h-full'>
                 {props.children}
