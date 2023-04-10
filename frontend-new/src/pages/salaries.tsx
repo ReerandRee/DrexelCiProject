@@ -26,9 +26,10 @@ const Salaries = () => {
     }, []);
 
     useEffect(() => {
+
         if (selectedPositions) {
-            setPlotData([]);
             selectedPositions.forEach((position: string) => {
+
                 axios.get(`/api/salaries?position=${position}`)
                     .then((res) => {
                         let data = {
@@ -37,14 +38,16 @@ const Salaries = () => {
                             name: position,
                         };
                         console.log(data);
-                        setPlotData([...plotData, data]);
-                        console.log(res.data);
+                        setPlotData((plotData) => [...plotData, data]);
                     })
                     .catch((err) => {
                         console.log(err);
                     });
             });
         }
+        setPlotData([]);
+
+        console.log(plotData);
     }, [selectedPositions])
 
     const layout = {
