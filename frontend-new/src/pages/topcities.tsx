@@ -28,7 +28,7 @@ const TopCities = () => {
     const [isLoading, setIsLoading] = useState(true)
     const [value, setValue] = useState('')
     const [chartData, setChartData] = useState([])
-    const [timeframe, setDateRange] = useState('')
+    const [timeframe, setTimeframe] = useState('')
 
     useEffect(() => {
         axios.get('api/positionjobcount')
@@ -60,7 +60,7 @@ const TopCities = () => {
     }
 
     const onDateRangeChange = (e: RadioChangeEvent) => {
-        setDateRange(e.target.value)
+        setTimeframe(e.target.value)
         console.log(e.target.value)
     }
 
