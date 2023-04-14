@@ -90,12 +90,15 @@ const TopJobs = () => {
         <>
             {isLoading ? <p>Loading...</p> :
                 <>
-                    <AutoComplete options={options}
-                        className="w-[400px]"
-                        allowClear={true}
-                        onSelect={onSelect}
-                        filterOption={(inputValue, option: any) => option!.value?.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1}
-                    />
+                    <div>
+                        <AutoComplete options={options}
+                            className="w-[400px]"
+                            allowClear={true}
+                            onSelect={onSelect}
+                            filterOption={(inputValue, option: any) => option!.value?.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1}
+                            placeholder="Select City"
+                        />
+                    </div>
 
                     <Bar
                         data={{
