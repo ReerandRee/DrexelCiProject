@@ -1,0 +1,30 @@
+{
+  "name": "drexel-ci-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.11.0",
+    "antd": "^4.23.6",
+    "axios": "^1.3.4",
+    "chart.js": "^4.0.1",
+    "next": "12.3.1",
+    "plotly.js": "^2.20.0",
+    "plotly.js-dist": "^2.20.0",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "18.2.0",
+    "react-plotly.js": "^2.6.0",
+    "swr": "^1.3.0"
+  },
+  "devDependencies": {
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "prisma": "^4.11.0"
+  }
+}
