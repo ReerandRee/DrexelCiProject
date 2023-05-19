@@ -1,17 +1,23 @@
 # Senior Project: Data Visualization
 
 ## Front End
-The front end of our project is hosted locally on port 3000 [http://localhost:3000](http://localhost:3000) using the React framework. This code is stored on the `rl-frontend` branch.
+
+The front end of our project is hosted locally on port 3000 [http://localhost:3000](http://localhost:3000) using the React framework. The newest code is stored on the `frontend-rework` branch.
 
 
 To run the development server:
 
 ```
-cd ./frontend/drexel-ci-project
+cd ./frontend-new
 npm install
+prisma generate
 npm run dev
 
 ```
+
+Additionally, in the frontend-new folder, add an `.env` file that contains the environment variables. Please contact for this information.  
+  
+The website is hosted here: https://main.d36ehc232kefwn.amplifyapp.com/
 
 ## Manual Webscraping
 The manual webscraper is currently run on a juypter notebook. The program selects the ability to sort the job posting by data, making it simpler for sorting and gathering new data. The webscraping is using a webdriver from the selenium library to nagivate through various Indeed website page to attain job postings. The various job postings can be scraped for their Indeed vendorid that allows us to nagivate to the job posting's individual page and attain more data. 
