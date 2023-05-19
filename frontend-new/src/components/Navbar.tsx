@@ -42,7 +42,7 @@ const Navbar = (props: NavbarProps) => {
                 <Link href={Paths.SALARIES} className={`${selected == Paths.SALARIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Salaries</Link>
                 <Link href={Paths.RADARTEST} className={`${selected == Paths.RADARTEST ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Radar</Link>
             </div>
-            <div className=' w-full h-full'>
+            <div className=' w-full h-full max-h-screen'>
                 {props.children}
             </div>
         </nav>

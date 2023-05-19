@@ -89,7 +89,7 @@ const JobDistributionByCities = () => {
 				datasets: [],
 			}
 
-			let color:number = 0;
+			let color: number = 0;
 			//Initialize each position as its own dictionary
 			for (const position of selectedPositions) {
 				let dataset = {
@@ -100,9 +100,9 @@ const JobDistributionByCities = () => {
 					}),
 					fill: true,
 					borderColor: colorArray[color],
-					backgroundColor: colorArray[color]+ "33", //opacity of 20%
+					backgroundColor: colorArray[color] + "33", //opacity of 20%
 					pointBorderColor: '#fff',
-    				pointHoverBackgroundColor: '#fff',
+					pointHoverBackgroundColor: '#fff',
 					pointHoverBorderColor: colorArray[color],
 				};
 				newChartData.datasets.push(dataset);
@@ -156,27 +156,30 @@ const JobDistributionByCities = () => {
 	};
 
 	return (
-		<div>
+		<div className="flex flex-col">
 			<h1>Job Distribution by Cities Radar Chart</h1>
 
 			{positionData ? <>
-				<Select options={options} mode='multiple'
-					style={{ maxWidth: "700px", minWidth: "500px" }}
-					placeholder="Select Positions"
-					onChange={(value) => {
-						setSelectedPositions(value);
-					}}
-				/>
-				<Select options={cityOptions} mode='multiple'
-					style={{ maxWidth: "700px", minWidth: "500px" }}
-					placeholder="Select Cities"
-					onChange={(value) => {
-						setSelectedCities(value);
-					}}
-				/>
-				{isLoading ? <div>loading...</div> : <div style={{ width: '90%' }}>
-					<Radar data={plotData} options={chartOptions} />
+				<div className="flex flex-wrap">
+					<Select options={options} mode='multiple'
+						style={{ maxWidth: "700px", minWidth: "500px" }}
+						placeholder="Select Positions"
+						onChange={(value) => {
+							setSelectedPositions(value);
+						}}
+					/>
+					<Select options={cityOptions} mode='multiple'
+						style={{ maxWidth: "700px", minWidth: "500px" }}
+						placeholder="Select Cities"
+						onChange={(value) => {
+							setSelectedCities(value);
+						}}
+					/>
 				</div>
+				{isLoading ? <div>loading...</div> :
+					<div className="w-full max-h-[470px] flex justify-center items-center">
+						<Radar data={plotData} options={chartOptions} />
+					</div>
 				}
 			</> : <></>}
 		</div>
