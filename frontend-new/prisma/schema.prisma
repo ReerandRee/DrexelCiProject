@@ -21,6 +21,7 @@ model demo_jobs {
   company  String?
   position String?
   location String?
+  keywords String?
 }
 
 model initialjobs {
@@ -59,4 +60,11 @@ model jobs {
   indeedlink    String?
   keywords      String?
   parsed_salary Float?
+}
+
+model jobcounts {
+  searchterm String
+  searcharea String
+  count      Int?
+  id         Int    @id(map: "id") @default(autoincrement())
 }
