@@ -37,6 +37,9 @@ const PageLayout = ({ children, key }) => {
 						</Menu.Item>
 						<Menu.Item key="6" icon={<SearchOutlined />}>
 							<Link href='/salaries' replace><a>Salary Box-Plot</a></Link>
+						<Menu.Item key="7" icon={<SearchOutlined />}>
+						</Menu.Item>
+							<Link href='/radartest' replace><a>Radar Test</a></Link>
 						</Menu.Item>
 
 					</Menu>

@@ -2,7 +2,10 @@ import { PrismaClient } from '@prisma/client'
 
 export default async function handler(req, res) {
 
+
     const query = req.query
+
+    console.log(query);
 
     const prisma = new PrismaClient({
         log: ['query'],
@@ -10,7 +13,20 @@ export default async function handler(req, res) {
 
 
     if (query.city && query.position) {
-        res.status(400).json({ error: 'Search either by city or postion' })
+        //res.status(400).json({ error: 'Search either by city or postion' })
+        return res.status(200).json(await prisma.jobs.groupBy({
+            by: ['searchterm', 'searcharea'],
+            _count: {
+              searchterm: true,
+            },
+            where: {
+                AND: [
+                    {searcharea:  query.city},
+                    {searchterm: query.position},
+                ]
+              
+            },
+          }))
     }
 
     if (query.searcharea === "all") {
