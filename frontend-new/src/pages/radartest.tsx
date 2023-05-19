@@ -124,7 +124,7 @@ const JobDistributionByCities = () => {
 							let data = {
 								cityName: city as string,
 								jobName: position as string,
-								jobCount: res.data[0]["_count"]["searchterm"] as number,
+								jobCount: res.data[0] == null ? 0 : res.data[0]["_count"]["searchterm"] as number,
 							};
 							setTheArrayOfJob((theArrayOfJob) => [...theArrayOfJob, data]);
 						}
