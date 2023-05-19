@@ -2,7 +2,7 @@
 
 ## Front End
 
-The front end of our project is hosted locally on port 3000 [http://localhost:3000](http://localhost:3000) using the React framework. The newest code is stored on the `frontend-rework` branch.
+The front end of our project is hosted locally on port 3000 [http://localhost:3000](http://localhost:3000) using Next.js, a React metaframework. The newest code is stored on the `frontend-rework` branch. The styling is done with TailwindCSS and Prisma the the Object Relational Mapper (ORM) for our database. 
 
 
 To run the development server:
@@ -10,12 +10,12 @@ To run the development server:
 ```
 cd ./frontend-new
 npm install
-prisma generate
+npx prisma generate
 npm run dev
 
 ```
 
-Additionally, in the frontend-new folder, add an `.env` file that contains the environment variables. Please contact for this information.  
+Additionally, in the frontend-new folder, add an `.env` file that contains the environment variables. Follow the `.env.sample` file for an example. Please contact for this information.  
   
 The website is hosted here: https://main.d36ehc232kefwn.amplifyapp.com/
 
