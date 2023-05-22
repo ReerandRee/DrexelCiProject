@@ -25,6 +25,7 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "18.2.0",
     "react-plotly.js": "^2.6.0",
+    "react-wordcloud": "^1.2.7",
     "typescript": "5.0.3"
   },
   "devDependencies": {
