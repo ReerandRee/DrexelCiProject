@@ -26,14 +26,12 @@ export default async function handler(
         },
         take: query.count ? parseInt(query.count as string) : 10,
       });
-
       const jobCount = jobs.map((job) => {
         return {
           position: job.searchterm,
           count: job._count.searchterm,
         };
       });
-
       return res.status(200).json(jobCount);
     } else {
       const jobs = await prisma.jobs.groupBy({
@@ -58,14 +56,12 @@ export default async function handler(
         },
         take: query.count ? parseInt(query.count as string) : 10,
       });
-
       const jobCount = jobs.map((job) => {
         return {
           position: job.searchterm,
           count: job._count.searchterm,
         };
       });
-
       return res.status(200).json(jobCount);
     }
   }
