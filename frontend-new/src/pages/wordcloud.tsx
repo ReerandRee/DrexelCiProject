@@ -1,28 +1,13 @@
 import { useEffect, useState } from 'react';
-import ReactWordCloud from 'react-wordcloud';
+import ReactWordCloud, { Word } from 'react-wordcloud';
 import axios from 'axios';
 import { AutoComplete } from 'antd';
 
 const WordCloud = () => {
 
-    const words = [
-        {
-            text: 'told',
-            value: 64,
-        },
-        {
-            text: 'mistake',
-            value: 11,
-        },
-        {
-            text: 'thought',
-            value: 16,
-        }
-    ];
-
     const [options, setOptions] = useState([])
     const [isLoading, setIsLoading] = useState(false)
-    const [wordcloudData, setWordcloudData] = useState([])
+    const [wordcloudData, setWordcloudData] = useState<Word[]>([]);
 
     useEffect(() => {
         axios.get('api/positionjobcount')
@@ -62,16 +47,16 @@ const WordCloud = () => {
                     }
                 }
 
-                let wordArray: any = [];
+                let wordArray: Word[] = [];
 
                 for (let word in wordCount) {
                     wordArray.push({
-                        text: word,
-                        value: wordCount[word]
+                        text: word as string,
+                        value: wordCount[word] as number
                     })
                 }
 
-                // console.log(wordArray);
+                console.log(wordArray);
                 setWordcloudData(wordArray);
                 setIsLoading(false);
 

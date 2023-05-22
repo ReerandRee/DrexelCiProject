@@ -14,7 +14,8 @@ enum Paths {
     TOP_CITIES = '/topcities',
     SALARIES = '/salaries',
     RADAR = "/radar",
-    WORD_CLOUD = "/wordcloud"
+    WORD_CLOUD = "/wordcloud",
+    MAP = "/geo"
 }
 
 interface NavbarProps {
@@ -42,11 +43,12 @@ const Navbar = (props: NavbarProps) => {
                 <Link href={Paths.SALARIES} className={`${selected == Paths.SALARIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Salaries</Link>
                 <Link href={Paths.RADAR} className={`${selected == Paths.RADAR ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Radar</Link>
                 <Link href={Paths.WORD_CLOUD} className={`${selected == Paths.WORD_CLOUD ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Word Cloud</Link>
-            </div>
+                <Link href={Paths.MAP} className={`${selected == Paths.MAP ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Map</Link>
+            </div >
             <div className=' w-full h-full max-h-screen'>
                 {props.children}
             </div>
-        </nav>
+        </nav >
     )
 }
 
