@@ -42,7 +42,7 @@ const Navbar = (props: NavbarProps) => {
                 <Link href={Paths.TOP_CITIES} className={`${selected == Paths.TOP_CITIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Top 10 Cities by Job</Link>
                 <Link href={Paths.SALARIES} className={`${selected == Paths.SALARIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Salaries</Link>
                 <Link href={Paths.RADAR} className={`${selected == Paths.RADAR ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Radar</Link>
-                <Link href={Paths.MAP} className={`${selected == Paths.MAP ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Radar</Link>
+                <Link href={Paths.MAP} className={`${selected == Paths.MAP ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Map</Link>
             </div>
             <div className=' w-full h-full max-h-screen'>
                 {props.children}
