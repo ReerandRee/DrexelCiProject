@@ -1,19 +1,11 @@
-// import { SelectedPage } from "@/shared/types";
-// import HomePageGraphic from "@/assets/HomePageGraphic.png";
-
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 type Props = {
     setSelectedPage: (value: any) => void;
 };
 
 const LandingHero = ({ setSelectedPage }: Props) => {
-
-    //   const goToPage = () => {
-
-    //     // This will navigate to second component
-    //     navigate('/page'); 
-    //   };
 
     return (
         <section id="home" className="gap-16 bg-green-20 py-10 md:h-screen md:pb-0">
@@ -59,13 +51,14 @@ const LandingHero = ({ setSelectedPage }: Props) => {
                             visible: { opacity: 1, x: 0 },
                         }}
                     >
-                        <button
-                            // onClick={goToPage} 
-                            className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white"
-                        >
-                            Get Started
-                        </button>
-
+                        {/* TODO: Add proper redirect */}
+                        <Link href="/">
+                            <button
+                                className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white"
+                            >
+                                Get Started
+                            </button>
+                        </Link>
                     </motion.div>
                 </div>
 
