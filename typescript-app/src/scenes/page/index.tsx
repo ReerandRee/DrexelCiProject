@@ -1,9 +1,9 @@
-import Navbar from "@/scenes/navbar";
+//import Navbar from "@/scenes/navbar";
 import { Component, useEffect, useState } from "react";
 import { SelectedPage } from "@/shared/types";
 import Home from "../../pages";
-import NavbarChart from '@/components/Navbar'
-
+import Navbar from '@/components/Navbar'
+import type { AppProps } from 'next/app'
 
 function Page() {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(
@@ -25,13 +25,10 @@ function Page() {
 
   return (
     <div className="app bg-gray-20">
-      <Navbar
-        isTopOfPage={isTopOfPage}
-        selectedPage={selectedPage}
-        setSelectedPage={setSelectedPage}
-        
-      />
-      <Home></Home>
+      
+      
+        <Home {...Home} />
+      
       
     </div>
   );

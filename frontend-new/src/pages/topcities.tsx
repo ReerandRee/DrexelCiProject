@@ -12,6 +12,7 @@ import {
 } from 'chart.js';
 import { Bar } from 'react-chartjs-2';
 import { colorArray } from "@/constants";
+import Navbar from "@/components/Navbar";
 
 ChartJS.register(
     CategoryScale,
@@ -78,6 +79,8 @@ const TopCities = () => {
     };
 
     return (
+        <>
+        <Navbar></Navbar>
         <div>
             {isLoading ? <p>Loading...</p> :
                 <>
@@ -119,6 +122,7 @@ const TopCities = () => {
                 </>
             }
         </div>
+        </>
     )
 }
 

@@ -2,6 +2,7 @@ import React, { useState, useEffect, use } from "react";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { scaleQuantize } from "d3-scale";
 import axios from "axios"
+import Navbar from "@/components/Navbar";
 
 //const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json";
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
@@ -93,6 +94,8 @@ const MapChart = () => {
 
 
   return (
+    <>
+    <Navbar></Navbar>
     <div className="flex flex-col">
       <ComposableMap projection="geoAlbersUsa">
         <Geographies geography={geoUrl}>
@@ -120,6 +123,7 @@ const MapChart = () => {
         </Geographies>
       </ComposableMap>
       </div>
+      </>
   );
 };
 

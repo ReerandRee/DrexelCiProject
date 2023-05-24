@@ -2,6 +2,7 @@ import { Lato } from 'next/font/google'
 import Link from "next/link";
 import { useRouter } from "next/router";
 import { useEffect, useState } from 'react';
+import Home from "../pages";
 
 const lato = Lato({
     weight: '400',
@@ -19,7 +20,7 @@ interface NavbarProps {
     children: React.ReactNode
 }
 
-const Navbar = (props: NavbarProps) => {
+const Navbar = () => {
 
     const router = useRouter();
     let path = router.pathname;
@@ -41,7 +42,8 @@ const Navbar = (props: NavbarProps) => {
                 <Link href={Paths.SALARIES} className={`${selected == Paths.SALARIES ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Salaries</Link>
             </div>
             <div className=' w-full h-full'>
-                {props.children}
+                {/*props.children*/}
+                <Home></Home>
             </div>
         </nav>
     )

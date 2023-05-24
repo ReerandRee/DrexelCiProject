@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import dynamic from 'next/dynamic'
 import { Select } from "antd";
 import axios from "axios";
+import Navbar from "@/components/Navbar";
 
 const Plot = dynamic(() => import('react-plotly.js'), { ssr: false, loading: () => <p>Loading...</p> });
 
@@ -59,6 +60,8 @@ const Salaries = () => {
 
 
     return (
+        <>
+        <Navbar/>
         <div className='flex flex-col justify-center items-center'>
             <h1 className='text-3xl'>Salaries</h1>
             <Select options={options} mode='multiple'
@@ -71,6 +74,7 @@ const Salaries = () => {
             />
             <Plot layout={layout} data={plotData} />
         </div>
+        </>
     )
 }
 

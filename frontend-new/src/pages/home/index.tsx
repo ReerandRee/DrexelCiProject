@@ -1,7 +1,6 @@
-import useMediaQuery from "@/hooks/useMediaQuery";
-import { SelectedPage } from "@/shared/types";
-import ActionButton from "@/shared/ActionButton";
-import HomePageGraphic from "@/assets/HomePageGraphic.png";
+import useMediaQuery from "../hooks/useMediaQuery";
+import { SelectedPage } from "../shared/types";
+import ActionButton from "../shared/ActionButton";
 
 import { motion } from "framer-motion";
 import { useNavigate } from 'react-router-dom';
@@ -12,13 +11,8 @@ type Props = {
 
 const Home = ({ setSelectedPage }: Props) => {
   const isAboveMediumScreens = useMediaQuery("(min-width:1060px)");
-  const navigate = useNavigate();
   
-  const goToPage = () => {
-  
-    // This will navigate to second component
-    navigate('/pages'); 
-  };
+
 
   return (
     <section id="home" className="gap-16 bg-gray-20 py-10 md:h-full md:pb-0">
@@ -64,9 +58,9 @@ const Home = ({ setSelectedPage }: Props) => {
               visible: { opacity: 1, x: 0 },
             }}
           >
-            <button onClick={goToPage} className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
+            <a href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
               Get Started
-            </button>
+            </a>
             
           </motion.div>
         </div>
@@ -77,7 +71,7 @@ const Home = ({ setSelectedPage }: Props) => {
           className="flex basis-3/5 justify-center md:z-10
               md:ml-40 mt-16 md:justify-items-end"
         >
-          <img alt="home-pageGraphic" src={HomePageGraphic} />
+          <img alt="home-pageGraphic" src="/assets/HomePageGraphic.png"/>
         </div>
       </motion.div>
 
