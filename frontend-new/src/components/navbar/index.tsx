@@ -3,7 +3,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import { SelectedPage } from "../shared/types";
 import useMediaQuery from "../../../public/hooks/useMediaQuery";
 
-import Link from "./links";
+import LandingNavbarLink from "./links";
 
 interface NavbarProps {
   children: React.ReactNode
@@ -38,18 +38,18 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage, children }: Props)
               <div className={`${flexBetween} gap-8 text-sm font-bold`}>
 
 
-                <Link
+                <LandingNavbarLink
                   page="Home"
                   selectedPage={selectedPage}
                   setSelectedPage={setSelectedPage}
 
                 />
-                <Link
+                <LandingNavbarLink
                   page="About Us"
                   selectedPage={selectedPage}
                   setSelectedPage={setSelectedPage}
                 />
-                <Link
+                <LandingNavbarLink
                   page="Help"
                   selectedPage={selectedPage}
                   setSelectedPage={setSelectedPage}
@@ -80,17 +80,17 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage, children }: Props)
 
           {/* MENU ITEMS */}
           <div className="ml-[33%] flex flex-col gap-10 text-xl ">
-            <Link
+            <LandingNavbarLink
               page="Home"
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}
             />
-            <Link
+            <LandingNavbarLink
               page="About Us"
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}
             />
-            <Link
+            <LandingNavbarLink
               page="Help"
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}

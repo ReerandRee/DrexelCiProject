@@ -1,6 +1,7 @@
 import { SelectedPage } from "../shared/types";
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { useNavigate } from "react-router-dom";
+import Link from "next/link";
 
 
 type Props = {
@@ -9,11 +10,11 @@ type Props = {
   setSelectedPage: (value: SelectedPage) => void;
 };
 
-const Link = ({ page, selectedPage, setSelectedPage }: Props) => {
+const LandingNavbarLink = ({ page, selectedPage, setSelectedPage }: Props) => {
   const lowerCasePage = page.toLowerCase().replace(/ /g, "") as SelectedPage;
 
   return (
-    <a
+    <Link
       className={`${selectedPage === lowerCasePage ? "text-primary-500" : ""}
         transition duration-500 hover:text-primary-300
       `}
@@ -21,8 +22,8 @@ const Link = ({ page, selectedPage, setSelectedPage }: Props) => {
       onClick={() => setSelectedPage(lowerCasePage)}
     >
       {page}
-    </a>
+    </Link>
   );
 };
 
-export default Link;
+export default LandingNavbarLink;
