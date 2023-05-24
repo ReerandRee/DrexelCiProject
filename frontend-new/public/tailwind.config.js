@@ -12,21 +12,14 @@ module.exports = {
     extend: {
       colors: {
         "green-20": "#e0eedb",
-        "primary-100": "#20B2AA",
-        "primary-300": "#008B8B",
-        "primary-500": "#008080",
-        "secondary-400": "#808000",
         "secondary-500": "#556B2F",
       },
       content: {
-        homebackground: "url('/homebackground.png')",
-        abstractwaves: "url('/AbstractWaves.png')",
-        sparkles: "url('/Sparkles.png')",
-        circles: "url('/Circles.png')",
+        homebackground: "url('./homebackground.png')",
+        abstractwaves: "url('./AbstractWaves.png')",
+        sparkles: "url('./Sparkles.png')",
+        circles: "url('./Circles.png')",
       },
-      screens: {
-        md: "1060px",
-      }
 
     },
   },

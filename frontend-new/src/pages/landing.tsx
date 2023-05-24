@@ -1,3 +1,5 @@
+import LandingAbout from "@/components/LandingAbout";
+import LandingHero from "@/components/LandingHero";
 import LandingNavbar from "@/components/LandingNavbar";
 import { useEffect, useState } from "react";
 
@@ -21,15 +23,14 @@ export default function Main() {
     }, []);
 
     return (
-        <div className="app bg-gray-200">
+        <div className="app">
             <LandingNavbar
                 isTopOfPage={isTopOfPage}
                 selectedPage={selectedPage}
                 setSelectedPage={setSelectedPage}
-
             />
-            {/* <Home setSelectedPage={setSelectedPage} />
-            <About setSelectedPage={setSelectedPage} /> */}
+            <LandingHero setSelectedPage={setSelectedPage} />
+            <LandingAbout setSelectedPage={setSelectedPage} />
         </div>
     );
 }
