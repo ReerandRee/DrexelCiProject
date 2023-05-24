@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import { SelectedPage } from "../shared/types";
-import useMediaQuery from "../hooks/useMediaQuery";
+import useMediaQuery from "../../../public/hooks/useMediaQuery";
 
 import Link from "./links";
 
@@ -17,7 +17,7 @@ type Props = {
 
 
 
-const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage,children}: Props) => {
+const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage, children }: Props) => {
   const flexBetween = "flex items-center justify-between";
   const [isMenuToggled, setIsMenuToggled] = useState<boolean>(false);
   const isAboveMediumScreens = useMediaQuery("(min-width: 1060px)");
@@ -36,25 +36,25 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage,children}: Props) =
             {/* RIGHT SIDE */}
             {isAboveMediumScreens ? (
               <div className={`${flexBetween} gap-8 text-sm font-bold`}>
-                
-                    
-                  <Link
-                    page="Home"
-                    selectedPage={selectedPage}
-                    setSelectedPage={setSelectedPage}
-                    
-                  />
-                  <Link
-                    page="About Us"
-                    selectedPage={selectedPage}
-                    setSelectedPage={setSelectedPage}
-                  />
-                  <Link
-                    page="Help"
-                    selectedPage={selectedPage}
-                    setSelectedPage={setSelectedPage}
-                  />
- 
+
+
+                <Link
+                  page="Home"
+                  selectedPage={selectedPage}
+                  setSelectedPage={setSelectedPage}
+
+                />
+                <Link
+                  page="About Us"
+                  selectedPage={selectedPage}
+                  setSelectedPage={setSelectedPage}
+                />
+                <Link
+                  page="Help"
+                  selectedPage={selectedPage}
+                  setSelectedPage={setSelectedPage}
+                />
+
               </div>
             ) : (
               <button
@@ -95,16 +95,16 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage,children}: Props) =
               selectedPage={selectedPage}
               setSelectedPage={setSelectedPage}
             />
-            
+
           </div>
         </div>
       )}
-    <div>
-                {children}
-    </div>
+      <div>
+        {children}
+      </div>
     </nav>
   );
-  
+
 };
 
 export default Navbar;

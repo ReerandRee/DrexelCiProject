@@ -21,7 +21,7 @@ interface NavbarProps {
     children: React.ReactNode
 }
 
-const Navbar = () => {
+const Navbar = (props: NavbarProps) => {
 
     const router = useRouter();
     let path = router.pathname;
@@ -44,7 +44,10 @@ const Navbar = () => {
                 <Link href={Paths.RADAR} className={`${selected == Paths.RADAR ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Radar</Link>
                 <Link href={Paths.MAP} className={`${selected == Paths.MAP ? 'bg-cyan-200 rounded-full' : ''} p-1 px-2 transition-all duration-300 scale-100`}>Map</Link>
             </div>
-            
+            <div className=' w-full h-full max-h-screen'>
+                {props.children}
+            </div>
+
         </nav>
     )
 }

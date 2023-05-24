@@ -158,34 +158,36 @@ const JobDistributionByCities = () => {
 
 	return (
 		<>
-		<Navbar/>
-		<div className="flex flex-col">
-			<h1>Job Distribution by Cities Radar Chart</h1>
+			<Navbar>
+				<div className="flex flex-col">
+					<h1>Job Distribution by Cities Radar Chart</h1>
 
-			{positionData ? <>
-				<div className="flex flex-wrap">
-					<Select options={options} mode='multiple'
-						style={{ maxWidth: "700px", minWidth: "500px" }}
-						placeholder="Select Positions"
-						onChange={(value) => {
-							setSelectedPositions(value);
-						}}
-					/>
-					<Select options={cityOptions} mode='multiple'
-						style={{ maxWidth: "700px", minWidth: "500px" }}
-						placeholder="Select Cities"
-						onChange={(value) => {
-							setSelectedCities(value);
-						}}
-					/>
+					{positionData ? <>
+						<div className="flex flex-wrap">
+							<Select options={options} mode='multiple'
+								style={{ maxWidth: "700px", minWidth: "500px" }}
+								placeholder="Select Positions"
+								onChange={(value) => {
+									setSelectedPositions(value);
+								}}
+							/>
+							<Select options={cityOptions} mode='multiple'
+								style={{ maxWidth: "700px", minWidth: "500px" }}
+								placeholder="Select Cities"
+								onChange={(value) => {
+									setSelectedCities(value);
+								}}
+							/>
+						</div>
+						{isLoading ? <div>loading...</div> :
+							<div className="w-full max-h-[470px] flex justify-center items-center">
+								<Radar data={plotData} options={chartOptions} />
+							</div>
+						}
+					</> : <></>}
 				</div>
-				{isLoading ? <div>loading...</div> :
-					<div className="w-full max-h-[470px] flex justify-center items-center">
-						<Radar data={plotData} options={chartOptions} />
-					</div>
-				}
-			</> : <></>}
-		</div>
+			</Navbar>
+
 		</>
 	);
 };

@@ -138,7 +138,8 @@ export default function Home() {
   };
 
   return (
-    <>  <Navbar/>
+    <>
+      <Navbar>
         {isLoading && cityData.length === 0 && categoryData.length === 0 ? <div>Loading...</div> :
           <>
             <Radio.Group optionType="button" options={chartOptions} onChange={onChange} value={chartType} />
@@ -156,7 +157,8 @@ export default function Home() {
             </div>
           </>
         }
-      
+      </Navbar>
+
     </>
   )
 }

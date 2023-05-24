@@ -2,9 +2,9 @@ import Head from 'next/head'
 
 import { useEffect, useState } from 'react';
 
-import { SelectedPage } from './shared/types';
-import Home from './home';
-import About from './about';
+import { SelectedPage } from '../components/shared/types';
+import Home from '../components/home';
+import About from '../components/about';
 
 
 
@@ -27,9 +27,9 @@ export default function Landing() {
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
-  
 
-  
+
+
 
   return (
     <>
@@ -39,10 +39,8 @@ export default function Landing() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <main>
-
-
-      <Home setSelectedPage={setSelectedPage} />
-      <About setSelectedPage={setSelectedPage} />
+        <Home setSelectedPage={setSelectedPage} />
+        <About setSelectedPage={setSelectedPage} />
       </main >
     </>
   )

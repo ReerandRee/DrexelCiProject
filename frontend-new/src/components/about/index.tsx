@@ -48,7 +48,7 @@ const About = ({ setSelectedPage }: Props) => {
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.AboutUs)}
       >
-        
+
         {/* HEADER */}
         <motion.div
           className="md:my-5 md:w-3/5"
@@ -62,7 +62,7 @@ const About = ({ setSelectedPage }: Props) => {
           }}
         >
           <HText>About this Project</HText>
-          
+
         </motion.div>
 
         {/* Abouts */}
@@ -128,18 +128,18 @@ const About = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-              Our project provides access to data analysis of job related data and the
-              ability to compare a variety of job data between the largest U.S. cities. 
-              By analyzing job postings and industry trends, one can identify in-demand skills and technologies. 
-              Users can gain insights into the skills that are sought after in the job market, enabling them to focus on 
-              developing relevant competencies and staying competitive.
+                Our project provides access to data analysis of job related data and the
+                ability to compare a variety of job data between the largest U.S. cities.
+                By analyzing job postings and industry trends, one can identify in-demand skills and technologies.
+                Users can gain insights into the skills that are sought after in the job market, enabling them to focus on
+                developing relevant competencies and staying competitive.
               </p>
               <p className="mb-5">
-              The website can provide users with valuable insights into the job market, including trends,
-              demand, and growth in different industries and regions. Users can access data on popular job
-               titles, salary ranges, required skills, and employment prospects, helping them make informed 
-               decisions about their careers. By presenting data analysis and visualizations, the website 
-               encourages users to make data-driven decisions regarding their careers.
+                The website can provide users with valuable insights into the job market, including trends,
+                demand, and growth in different industries and regions. Users can access data on popular job
+                titles, salary ranges, required skills, and employment prospects, helping them make informed
+                decisions about their careers. By presenting data analysis and visualizations, the website
+                encourages users to make data-driven decisions regarding their careers.
               </p>
             </motion.div>
 

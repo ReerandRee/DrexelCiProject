@@ -95,47 +95,48 @@ const TopJobs = () => {
 
     return (
         <>
-        <Navbar></Navbar>
-            {isLoading ? <p>Loading...</p> :
-                <>
-                    <div>
-                        <AutoComplete options={options}
-                            className="w-[400px]"
-                            allowClear={true}
-                            onSelect={onSelect}
-                            filterOption={(inputValue, option: any) => option!.value?.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1}
-                            placeholder="Select City"
-                        />
+            <Navbar>
+                {isLoading ? <p>Loading...</p> :
+                    <>
                         <div>
-                            <label htmlFor="date" className="pr-4">Date Range:</label>
-                            <Radio.Group name="date" optionType="default" defaultValue={"0"} onChange={onDateRangeChange}>
-                                <Radio.Button value="0">All time</Radio.Button>
-                                <Radio.Button value="90">Last 3 Months</Radio.Button>
-                                <Radio.Button value="180">Last 6 Months</Radio.Button>
-                                <Radio.Button value="365">Last year</Radio.Button>
-                            </Radio.Group>
+                            <AutoComplete options={options}
+                                className="w-[400px]"
+                                allowClear={true}
+                                onSelect={onSelect}
+                                filterOption={(inputValue, option: any) => option!.value?.toUpperCase().indexOf(inputValue.toUpperCase()) !== -1}
+                                placeholder="Select City"
+                            />
+                            <div>
+                                <label htmlFor="date" className="pr-4">Date Range:</label>
+                                <Radio.Group name="date" optionType="default" defaultValue={"0"} onChange={onDateRangeChange}>
+                                    <Radio.Button value="0">All time</Radio.Button>
+                                    <Radio.Button value="90">Last 3 Months</Radio.Button>
+                                    <Radio.Button value="180">Last 6 Months</Radio.Button>
+                                    <Radio.Button value="365">Last year</Radio.Button>
+                                </Radio.Group>
+                            </div>
                         </div>
-                    </div>
 
-                    <Bar
-                        data={{
-                            labels: chartData.map((data: any) => data.position),
-                            datasets: [
-                                {
-                                    label: 'Count',
-                                    data: chartData.map((data: any) => data.count),
-                                    backgroundColor: colorArray,
-                                    borderWidth: 1,
-                                },
-                            ],
-                        }}
-                        options={chartOptions}
-                    />
+                        <Bar
+                            data={{
+                                labels: chartData.map((data: any) => data.position),
+                                datasets: [
+                                    {
+                                        label: 'Count',
+                                        data: chartData.map((data: any) => data.count),
+                                        backgroundColor: colorArray,
+                                        borderWidth: 1,
+                                    },
+                                ],
+                            }}
+                            options={chartOptions}
+                        />
 
-                </>
+                    </>
 
 
-            }
+                }
+            </Navbar>
         </>
     )
 }

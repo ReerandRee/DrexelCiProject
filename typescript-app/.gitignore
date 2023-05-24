@@ -28,3 +28,4 @@ env.json
 test.py
 /typescript-app/node_modules
 /typescript-app/.next
+/.vite

@@ -1,13 +1,9 @@
 
 import '@/styles/globals.css'
 import type { AppProps } from 'next/app'
-import Navbar from './navbar'
+import Navbar from '../components/navbar/index'
 import { useState, useEffect } from 'react';
-import { SelectedPage } from './shared/types';
-import { Props } from 'next/script';
-
-
-
+import { SelectedPage } from '../components/shared/types';
 
 export default function App({ Component, pageProps }: AppProps) {
   const [selectedPage, setSelectedPage] = useState<SelectedPage>(
@@ -28,11 +24,11 @@ export default function App({ Component, pageProps }: AppProps) {
   }, []);
   return (
     <>
-      
+
       <Navbar isTopOfPage={isTopOfPage} selectedPage={selectedPage} setSelectedPage={setSelectedPage}>
         <Component {...pageProps} />
       </Navbar>
-        
+
     </>
   )
 }

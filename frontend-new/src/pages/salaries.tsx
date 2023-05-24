@@ -61,19 +61,20 @@ const Salaries = () => {
 
     return (
         <>
-        <Navbar/>
-        <div className='flex flex-col justify-center items-center'>
-            <h1 className='text-3xl'>Salaries</h1>
-            <Select options={options} mode='multiple'
-                style={{ maxWidth: "700px", minWidth: "500px" }}
-                placeholder="Select Positions"
-                onChange={(value) => {
-                    console.log(value);
-                    setSelectedPositions(value);
-                }}
-            />
-            <Plot layout={layout} data={plotData} />
-        </div>
+            <Navbar>
+                <div className='flex flex-col justify-center items-center'>
+                    <h1 className='text-3xl'>Salaries</h1>
+                    <Select options={options} mode='multiple'
+                        style={{ maxWidth: "700px", minWidth: "500px" }}
+                        placeholder="Select Positions"
+                        onChange={(value) => {
+                            console.log(value);
+                            setSelectedPositions(value);
+                        }}
+                    />
+                    <Plot layout={layout} data={plotData} />
+                </div>
+            </Navbar>
         </>
     )
 }
