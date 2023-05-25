@@ -4,8 +4,14 @@ import dynamic from 'next/dynamic'
 import { Select } from "antd";
 import axios from "axios";
 import Navbar from "@/components/Navbar";
+import Chart2 from '@/components/chart';
 
-const Plot = dynamic(() => import('react-plotly.js'), { ssr: false, loading: () => <p>Loading...</p> });
+const Plot = dynamic(() => import('react-plotly.js'), { ssr: false, loading: () => <div
+    className="flex basis-3/5 justify-center md:z-10
+        md:ml-40 mt-16 md:justify-items-end"
+  >
+    <img alt="Loading.." src="/assets/loading.gif" />
+  </div> });
 
 const Salaries = () => {
 
@@ -62,17 +68,21 @@ const Salaries = () => {
     return (
         <>
             <Navbar>
-                <div className='flex flex-col justify-center items-center'>
-                    <h1 className='text-3xl'>Salaries</h1>
-                    <Select options={options} mode='multiple'
-                        style={{ maxWidth: "700px", minWidth: "500px" }}
-                        placeholder="Select Positions"
-                        onChange={(value) => {
-                            console.log(value);
-                            setSelectedPositions(value);
-                        }}
-                    />
-                    <Plot layout={layout} data={plotData} />
+                
+                <div style={{ width: '100%', height: '100%' }}>
+                  <Chart2 name={'Salaries'} 
+                  description={'The graph represents the salary ranges for multiple jobs. The horizontal axis of the graph represents the job titles or job categories, while the vertical axis represents the salary ranges. This visual representation allows for a quick comparison of the salary ranges across multiple jobs. It helps to identify which jobs have higher or lower salary ranges and provides a visual overview of the salary distribution for different professions.'} 
+                  customizer={<Select options={options} mode='multiple'
+                  style={{ maxWidth: "700px", minWidth: "500px" }}
+                  placeholder="Select Positions"
+                  onChange={(value) => {
+                      console.log(value);
+                      setSelectedPositions(value);
+                  }}
+              />}
+                  chart={<div style={{ width: '100%', height: '100%' }}>
+                  <Plot layout={layout} data={plotData} />                  
+                  </div>}/>
                 </div>
             </Navbar>
         </>

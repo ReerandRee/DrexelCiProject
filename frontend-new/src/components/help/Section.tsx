@@ -6,7 +6,7 @@ type Props = {
 
 const Section = ({ name, description, image }: Props) => {
   const overlayStyles = `p-5 absolute z-30 flex
-  h-[380px] w-[450px] flex-col items-center justify-center
+  h-[300px] w-[450px] flex-col items-center justify-center
   whitespace-normal bg-gray-800 text-center text-white
   opacity-90 transition duration-500 hover:opacity-0`;
 
@@ -16,7 +16,7 @@ const Section = ({ name, description, image }: Props) => {
         <p className="text-2xl">{name}</p>
         <p className="mt-5">{description}</p>
       </div>
-      <img alt={`${image}`} src={image} height={"100%"} />
+      <img alt={`${image}`} src={image} height={"10px"} />
     </li>
   );
 };

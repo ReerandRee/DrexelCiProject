@@ -13,6 +13,7 @@ import {
 	ChartData
 } from "chart.js";
 import { Radar } from "react-chartjs-2";
+import Chart2 from '@/components/chart';
 
 ChartJS.register(
 	RadialLinearScale,
@@ -159,32 +160,36 @@ const JobDistributionByCities = () => {
 	return (
 		<>
 			<Navbar>
+				<div>
+                    {isLoading ? <div
+          className="flex basis-3/5 justify-center md:z-10
+              md:ml-40 mt-16 md:justify-items-end"
+        >
+          <img alt="Loading.." src="/assets/loading.gif" />
+        </div> :
 				<div className="flex flex-col">
-					<h1>Job Distribution by Cities Radar Chart</h1>
-
-					{positionData ? <>
-						<div className="flex flex-wrap">
-							<Select options={options} mode='multiple'
-								style={{ maxWidth: "700px", minWidth: "500px" }}
-								placeholder="Select Positions"
-								onChange={(value) => {
-									setSelectedPositions(value);
-								}}
-							/>
-							<Select options={cityOptions} mode='multiple'
-								style={{ maxWidth: "700px", minWidth: "500px" }}
-								placeholder="Select Cities"
-								onChange={(value) => {
-									setSelectedCities(value);
-								}}
-							/>
-						</div>
-						{isLoading ? <div>loading...</div> :
-							<div className="w-full max-h-[470px] flex justify-center items-center">
-								<Radar data={plotData} options={chartOptions} />
-							</div>
-						}
-					</> : <></>}
+                  <Chart2 name={'Job Distribution by Cities Radar Chart'} 
+                  description={'The radar chart represents the distribution of jobs across different cities. The chart consists of a circular grid with multiple axes radiating from the center, each representing a specific city. The number of axes corresponds to the number of cities included in the analysis.This visual representation allows for a quick comparison of job distributions across different cities. It helps identify which cities have a higher concentration of jobs and provides an overview of the job distribution pattern across the analyzed cities.'} 
+                  customizer={<div className="flex flex-wrap">
+				  <Select options={options} mode='multiple'
+					  style={{ maxWidth: "700px", minWidth: "500px" }}
+					  placeholder="Select Positions"
+					  onChange={(value) => {
+						  setSelectedPositions(value);
+					  }}
+				  />
+				  <Select options={cityOptions} mode='multiple'
+					  style={{ maxWidth: "700px", minWidth: "500px" }}
+					  placeholder="Select Cities"
+					  onChange={(value) => {
+						  setSelectedCities(value);
+					  }}
+				  />
+			  </div>}
+                  chart={<div className="w-full max-h-[470px] flex justify-center items-center">
+                  <Radar data={plotData} options={chartOptions} />                  
+                  </div>}/>
+                </div>}
 				</div>
 			</Navbar>
 

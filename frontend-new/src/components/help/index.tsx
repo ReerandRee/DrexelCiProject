@@ -33,13 +33,13 @@ const sections: Array<SectionType> = [
     name: "Get the Job Distribution",
     description:
       "Radar Charts by the city provide a sophisticated view of the job distribution",
-    image: "/assets/Salaries.gif",
+    image: "/assets/radar.gif",
   },
   {
     name: "View the Job Map",
     description:
-      "This map provides the view (needs to be updated)",
-    image: "/assets/Salaries.gifr",
+      "TBD",
+    image: "/assets/map.gif",
   },
 ];
 
@@ -49,7 +49,7 @@ type Props = {
 
 const Help = ({ setSelectedPage }: Props) => {
   return (
-    <section id="help" className="gap-16 bg-gray-20 py-10 md:h-screen md:pb-0">
+    <section id="help" className="gap-16 bg-gray-20 py-10 px-10">
       <motion.div
         onViewportEnter={() => setSelectedPage(SelectedPage.Help)}
       >
@@ -68,8 +68,8 @@ const Help = ({ setSelectedPage }: Props) => {
             <HText>How to get the best out of our website?</HText>
           </div>
         </motion.div>
-        <div className="mt-10 h-[353px] w-full overflow-x-auto overflow-y-hidden">
-          <ul className="w-[2800px] whitespace-nowrap">
+        <div className="mt-10 h-[300px] w-full overflow-x-auto overflow-y-hidden">
+          <ul className="w-[1000px] whitespace-nowrap">
             {sections.map((item: SectionType, index) => (
               <Section
                 key={`${item.name}-${index}`}
@@ -79,6 +79,9 @@ const Help = ({ setSelectedPage }: Props) => {
               />
             ))}
           </ul>
+          
+        
+    
         </div>
       </motion.div>
     </section>
