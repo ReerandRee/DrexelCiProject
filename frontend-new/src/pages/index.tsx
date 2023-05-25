@@ -2,9 +2,13 @@ import Head from 'next/head'
 
 import { useEffect, useState } from 'react';
 
-import { SelectedPage } from '../components/shared/types';
-import Home from '../components/home';
-import About from '../components/about';
+import { SelectedPage } from '@/components/shared/types';
+import Home from '@/components/home';
+import About from '@/components/about';
+
+import Footer from '@/components/footer';
+import Help from '@/components/help';
+
 
 
 
@@ -41,6 +45,9 @@ export default function Landing() {
       <main>
         <Home setSelectedPage={setSelectedPage} />
         <About setSelectedPage={setSelectedPage} />
+        <Help setSelectedPage={setSelectedPage} />
+        <Footer/>
+        
       </main >
     </>
   )

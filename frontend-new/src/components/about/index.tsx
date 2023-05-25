@@ -146,9 +146,10 @@ const About = ({ setSelectedPage }: Props) => {
             {/* BUTTON */}
             <div className="relative mt-16">
               <div className="before:absolute before:-bottom-20 before:right-40 before:z-[-1] before:content-sparkles">
-                <ActionButton setSelectedPage={setSelectedPage}>
+                
+                <a href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
                   Get Started
-                </ActionButton>
+                </a>
               </div>
             </div>
           </div>

@@ -3,7 +3,7 @@ export enum SelectedPage {
   AboutUs = "aboutus",
   Help = "help",
   pages = "pages",
-  analysis = "./analysis/index"
+  jobcounts = "/jobcounts"
 }
 
 export interface AboutType {
@@ -12,7 +12,7 @@ export interface AboutType {
   description: string;
 }
 
-export interface ClassType {
+export interface SectionType {
   name: string;
   description?: string;
   image: string;
