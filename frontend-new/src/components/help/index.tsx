@@ -24,7 +24,7 @@ const sections: Array<SectionType> = [
     image: "/assets/TopCities.gif",
   },
   {
-    name: "Find out the Salaray Ranges",
+    name: "Find out the Salary Ranges",
     description:
       "Want to know which Jobs pay the most? We have got you covered!",
     image: "/assets/Salaries.gif",
@@ -79,9 +79,9 @@ const Help = ({ setSelectedPage }: Props) => {
               />
             ))}
           </ul>
-          
-        
-    
+
+
+
         </div>
       </motion.div>
     </section>

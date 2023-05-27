@@ -21,13 +21,13 @@ const aboutType: Array<AboutType> = [
     icon: <ChartBarIcon className="h-6 w-6 fill-white" />,
     title: "How we do it?",
     description:
-      "We have used a variety of easy to understand visualizations involving charts, data analysis and statistics",
+      "We have used a variety of easy to understand visualizations involving charts, data analysis, and statistics",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6 fill-white" />,
     title: "Who does it?",
     description:
-      "This project is being developed and mainted by Drexel University Students with help of Drexel's faculty members",
+      "This project is being developed and maintained by Drexel University Students with help of Drexel's faculty members",
   },
 ];
 
@@ -109,8 +109,7 @@ const About = ({ setSelectedPage }: Props) => {
                   }}
                 >
                   <HText>
-                    Benefits OF OUR {" "}
-                    <span className="text-primary-500">PROJECT</span>
+                    Benefits of our project
                   </HText>
                 </motion.div>
               </div>
@@ -146,7 +145,7 @@ const About = ({ setSelectedPage }: Props) => {
             {/* BUTTON */}
             <div className="relative mt-16">
               <div className="before:absolute before:-bottom-20 before:right-40 before:z-[-1] before:content-sparkles">
-                
+
                 <a href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
                   Get Started
                 </a>

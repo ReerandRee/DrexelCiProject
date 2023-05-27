@@ -42,7 +42,7 @@ const Home = ({ setSelectedPage }: Props) => {
             </div>
 
             <p className="mt-8 text-lg text-secondary-500">
-              We provide the anaylsis of job opportunites all over the United States. To learn more about it, please click below
+              We provide the analysis of job opportunities all over the United States. To learn more about it, please click below
             </p>
           </motion.div>
 
