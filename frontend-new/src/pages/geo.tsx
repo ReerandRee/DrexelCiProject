@@ -2,6 +2,7 @@ import React, { useState, useEffect, use } from "react";
 import { ComposableMap, Geographies, Geography } from "react-simple-maps";
 import { scaleQuantize } from "d3-scale";
 import axios from "axios"
+import Navbar from "@/components/Navbar";
 
 //const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json";
 const geoUrl = "https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json";
@@ -23,7 +24,7 @@ const colorScale = scaleQuantize<string>()
   ]);
 
 interface cityData {
-  city:string,
+  city: string,
   count: number;
 }
 
@@ -51,7 +52,7 @@ const MapChart = () => {
       axios.get('api/cityjobcount')
         .then((res) => {
           setData(res.data);
-          
+
         });
 
       setIsLoading(false);
@@ -60,66 +61,70 @@ const MapChart = () => {
     fetchData();
   }, []);
 
-  useEffect( () => {
-    const stateToCount: { [key:string]: number} ={};
-    var totalJobs : number = 0;
-    for (const theCity of data){
-      const {city, count} = theCity;
+  useEffect(() => {
+    const stateToCount: { [key: string]: number } = {};
+    var totalJobs: number = 0;
+    for (const theCity of data) {
+      const { city, count } = theCity;
 
       totalJobs += count;
     }
-    for (const theCity of data){
-      const {city, count} = theCity;
+    for (const theCity of data) {
+      const { city, count } = theCity;
 
       const state = getWordAfterComma(city) as string;
 
-      if (stateToCount.hasOwnProperty(state)){
-        stateToCount[state] += count/totalJobs;
+      if (stateToCount.hasOwnProperty(state)) {
+        stateToCount[state] += count / totalJobs;
       }
       else {
-        stateToCount[state] = count/totalJobs;
+        stateToCount[state] = count / totalJobs;
       }
-      
+
     }
     //setJobCount(totalJobs);
     setStateData2(stateToCount);
-   
-  },[data]);
 
-  useEffect( () => {
+  }, [data]);
+
+  useEffect(() => {
     console.log(stateData2);
-   
-  },[stateData2]);
+
+  }, [stateData2]);
 
 
   return (
-    <div className="flex flex-col">
-      <ComposableMap projection="geoAlbersUsa">
-        <Geographies geography={geoUrl}>
-          {({geographies}) =>
-            geographies.map((geo:any) => {
-              var jobCount = 0;
-              //const cur = data.find((s) => s.id === geo.id);
-              if (stateData2.hasOwnProperty(geo.properties.name)){
-                jobCount = stateData2[geo.properties.name];
-              } else {
-                jobCount = 0;
-              }
-              console.log(colorScale(jobCount));
+    <>
+      <Navbar>
+        <div className="flex flex-col">
+          <ComposableMap projection="geoAlbersUsa">
+            <Geographies geography={geoUrl}>
+              {({ geographies }) =>
+                geographies.map((geo: any) => {
+                  var jobCount = 0;
+                  //const cur = data.find((s) => s.id === geo.id);
+                  if (stateData2.hasOwnProperty(geo.properties.name)) {
+                    jobCount = stateData2[geo.properties.name];
+                  } else {
+                    jobCount = 0;
+                  }
+                  console.log(colorScale(jobCount));
 
-              return (
-                <Geography
-                  key={geo.rsmKey}
-                  geography={geo}
-                  //fill={cur ? colorScale(cur.unemployment_rate) : "#EEE"}
-                  fill={colorScale(jobCount)}
-                />
-              );
-            })
-          }
-        </Geographies>
-      </ComposableMap>
-      </div>
+                  return (
+                    <Geography
+                      key={geo.rsmKey}
+                      geography={geo}
+                      //fill={cur ? colorScale(cur.unemployment_rate) : "#EEE"}
+                      fill={colorScale(jobCount)}
+                    />
+                  );
+                })
+              }
+            </Geographies>
+          </ComposableMap>
+        </div>
+      </Navbar>
+    </>
   );
 };
 
