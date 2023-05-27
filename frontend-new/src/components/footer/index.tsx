@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Footer = () => {
   return (
     <footer className="bg-gray-800 py-16 ">
@@ -5,9 +7,9 @@ const Footer = () => {
         <div className="mt-16 basis-1/2 md:mt-0">
           <img alt="logo" src="/assets/Logo.png" />
           <ul className="list-unstyled my-5">
-            <li><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#help">Help</a></li>
+            <li><Link href="#">Home</Link></li>
+            <li><Link href="#about">About</Link></li>
+            <li><Link href="#help">Help</Link></li>
           </ul>
           <p>© All Rights Reserved.</p>
         </div>

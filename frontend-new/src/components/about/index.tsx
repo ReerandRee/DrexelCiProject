@@ -1,4 +1,3 @@
-import ActionButton from "../shared/ActionButton";
 import HText from "../shared/HText";
 import { AboutType, SelectedPage } from "../shared/types";
 import {
@@ -7,6 +6,7 @@ import {
   AcademicCapIcon,
 } from "@heroicons/react/24/solid";
 import { motion } from "framer-motion";
+import Link from "next/link";
 
 import AboutTemplate from "./about";
 
@@ -146,9 +146,9 @@ const About = ({ setSelectedPage }: Props) => {
             <div className="relative mt-16">
               <div className="before:absolute before:-bottom-20 before:right-40 before:z-[-1] before:content-sparkles">
 
-                <a href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
+                <Link href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
                   Get Started
-                </a>
+                </Link>
               </div>
             </div>
           </div>

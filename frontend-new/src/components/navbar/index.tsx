@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 import { SelectedPage } from "../shared/types";
 import useMediaQuery from "../../../public/hooks/useMediaQuery";
+import Link from "next/link";
 
 import LandingNavbarLink from "./links";
 
@@ -31,7 +32,7 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage, children }: Props)
         <div className={`${flexBetween} mx-auto w-5/6`}>
           <div className={`${flexBetween} w-full gap-16`}>
             {/* LEFT SIDE */}
-            <a href="/"><img alt="logo" src="/assets/Logo.png" /></a>
+            <Link href="/"><img alt="logo" src="/assets/Logo.png" /></Link>
 
             {/* RIGHT SIDE */}
             {isAboveMediumScreens ? (

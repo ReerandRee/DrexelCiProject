@@ -1,9 +1,9 @@
 import useMediaQuery from "../../../public/hooks/useMediaQuery";
 import { SelectedPage } from "../shared/types";
-import ActionButton from "../shared/ActionButton";
 
 import { motion } from "framer-motion";
 import { useNavigate } from 'react-router-dom';
+import Link from "next/link";
 
 type Props = {
   setSelectedPage: (value: SelectedPage) => void;
@@ -58,9 +58,9 @@ const Home = ({ setSelectedPage }: Props) => {
               visible: { opacity: 1, x: 0 },
             }}
           >
-            <a href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
+            <Link href="/jobcounts" className="rounded-md bg-primary-500 px-10 py-2 text-white hover:bg-primary-100 hover:text-white">
               Get Started
-            </a>
+            </Link>
 
           </motion.div>
         </div>
