@@ -14,6 +14,7 @@ enum Paths {
     TOP_CITIES = '/topcities',
     SALARIES = '/salaries',
     RADAR = "/radar",
+    WORD_CLOUD = "/wordcloud",
     MAP = "/geo"
 }
 
@@ -30,10 +31,9 @@ const Navbar = (props: NavbarProps) => {
 
     useEffect(() => {
         setSelected(path);
-        console.log(path);
     }, [path])
 
-    const navbarStyle =' p-1 px-2 transition-all duration-300 scale-100 pr-5 pl-5 drop-shadow border';
+    const navbarStyle = ' p-1 px-2 transition-all duration-300 scale-100 pr-5 pl-5 drop-shadow border';
     const selectedBackground = 'bg-primary-500';
     const unselectedBackground = 'bg-gray-700 hover:bg-gray-500';
     return (
